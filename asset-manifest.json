@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.928d8e40.css",
-    "main.js": "/static/js/main.c2a41f59.js",
-    "static/js/206.589e53a2.chunk.js": "/static/js/206.589e53a2.chunk.js",
+    "main.css": "/static/css/main.151b38ac.css",
+    "main.js": "/static/js/main.b3412c9d.js",
+    "static/js/453.45751fec.chunk.js": "/static/js/453.45751fec.chunk.js",
     "static/media/NotoSansKR-Medium.ttf": "/static/media/NotoSansKR-Medium.b9d6e1b3e7a3d63546cc.ttf",
     "static/media/NotoSansKR-ExtraBold.ttf": "/static/media/NotoSansKR-ExtraBold.a30f1f0b3b461fff07a7.ttf",
     "static/media/logo.gif": "/static/media/logo.30b53a2eb0d3c25bd679.gif",
@@ -26,10 +26,13 @@
     "static/media/NaverIcon.svg": "/static/media/NaverIcon.ab46ab1d954f71c7cf78f396a02c89fd.svg",
     "static/media/SoopIcon.svg": "/static/media/SoopIcon.fd10c1d8c8562d563404c719e0814ed2.svg",
     "index.html": "/index.html",
-    "static/media/YouTubeIcon.svg": "/static/media/YouTubeIcon.d952d46815b175089d7fd8836c7e2cb4.svg"
+    "static/media/YouTubeIcon.svg": "/static/media/YouTubeIcon.d952d46815b175089d7fd8836c7e2cb4.svg",
+    "main.151b38ac.css.map": "/static/css/main.151b38ac.css.map",
+    "main.b3412c9d.js.map": "/static/js/main.b3412c9d.js.map",
+    "453.45751fec.chunk.js.map": "/static/js/453.45751fec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.928d8e40.css",
-    "static/js/main.c2a41f59.js"
+    "static/css/main.151b38ac.css",
+    "static/js/main.b3412c9d.js"
   ]
 }
