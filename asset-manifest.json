@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfbe9a26.css",
-    "main.js": "/static/js/main.6b9869be.js",
-    "static/js/453.45751fec.chunk.js": "/static/js/453.45751fec.chunk.js",
+    "main.css": "/static/css/main.410523ac.css",
+    "main.js": "/static/js/main.a8e08c01.js",
+    "static/js/206.589e53a2.chunk.js": "/static/js/206.589e53a2.chunk.js",
     "static/media/NotoSansKR-Medium.ttf": "/static/media/NotoSansKR-Medium.b9d6e1b3e7a3d63546cc.ttf",
     "static/media/NotoSansKR-ExtraBold.ttf": "/static/media/NotoSansKR-ExtraBold.a30f1f0b3b461fff07a7.ttf",
-    "static/media/logo.gif": "/static/media/logo.30b53a2eb0d3c25bd679.gif",
-    "static/media/2023_NS.jpeg": "/static/media/2023_NS.80b887d23c9a6761d2fd.jpeg",
     "static/media/brand-icons.svg": "/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/outline-icons.svg": "/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
@@ -23,16 +21,10 @@
     "static/media/flags.png": "/static/media/flags.99f63ae7a743f21ab308.png",
     "static/media/outline-icons.woff": "/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
-    "static/media/NaverIcon.svg": "/static/media/NaverIcon.ab46ab1d954f71c7cf78f396a02c89fd.svg",
-    "static/media/SoopIcon.svg": "/static/media/SoopIcon.fd10c1d8c8562d563404c719e0814ed2.svg",
-    "index.html": "/index.html",
-    "static/media/YouTubeIcon.svg": "/static/media/YouTubeIcon.d952d46815b175089d7fd8836c7e2cb4.svg",
-    "main.cfbe9a26.css.map": "/static/css/main.cfbe9a26.css.map",
-    "main.6b9869be.js.map": "/static/js/main.6b9869be.js.map",
-    "453.45751fec.chunk.js.map": "/static/js/453.45751fec.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.cfbe9a26.css",
-    "static/js/main.6b9869be.js"
+    "static/css/main.410523ac.css",
+    "static/js/main.a8e08c01.js"
   ]
 }
