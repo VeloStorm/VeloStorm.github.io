@@ -1,1 +1,55 @@
-{"sooniConDate":"2023-09-03","sooniConMission":"Perfect Singer","teamDatas":[{"rank":1,"company":"엔터","teamName":"엔소울","ballon":1124241},{"rank":2,"company":"뮤직","teamName":"수니힐","ballon":975593},{"rank":3,"company":"엔터","teamName":"블랙","ballon":921727},{"rank":4,"company":"뮤직","teamName":"화이트","ballon":386643},{"rank":5,"company":"기획","teamName":"감찰","ballon":324855}],"scaffold":{"soopId":"2boo2boo","sooniName":"뚜부","voteAll":"3090","voteYes":"1602","voteNo":"1488"}}
+{
+ "sooniConDate": "2023-09-03",
+ "sooniConMission": "Perfect Singer",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "엔터",
+   "ballon": 2097037
+  },
+  {
+   "rank": 2,
+   "company": "뮤직",
+   "ballon": 1400915
+  }
+ ],
+ "teamDatas": [
+  {
+   "rank": 1,
+   "company": "엔터",
+   "teamName": "엔소울",
+   "ballon": 1124241
+  },
+  {
+   "rank": 2,
+   "company": "뮤직",
+   "teamName": "수니힐",
+   "ballon": 975593
+  },
+  {
+   "rank": 3,
+   "company": "엔터",
+   "teamName": "블랙",
+   "ballon": 921727
+  },
+  {
+   "rank": 4,
+   "company": "뮤직",
+   "teamName": "화이트",
+   "ballon": 386643
+  },
+  {
+   "rank": 5,
+   "company": "",
+   "teamName": "감찰",
+   "ballon": 324855
+  }
+ ],
+ "scaffold": {
+  "soopId": "2boo2boo",
+  "sooniName": "뚜부",
+  "voteAll": "3090",
+  "voteYes": "1602",
+  "voteNo": "1488"
+ }
+}

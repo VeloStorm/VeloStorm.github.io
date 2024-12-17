@@ -1,1 +1,252 @@
-[{"isUse":"Y","stageNo":1,"teamName":"감찰","SongName":"의무방어전","SingerName":"-","Members":["류하","오연하","소소","최깨비","양유정"],"youtube":"https://youtu.be/lsqwPtgKZGQ?si=4lzh-7g8U-oNySDW"},{"isUse":"Y","stageNo":2,"teamName":"수니힐","SongName":"Music is My life","SingerName":"임정희","Members":["진솔","다니","미캣","스리룽"],"youtube":"https://youtu.be/PCTlPP9dSfM?si=RwWoUxRdnU0q4sDy"},{"isUse":"Y","stageNo":3,"teamName":"화이트","SongName":"10점 만점에 10점","SingerName":"2PM","Members":["강민아","깅예솔","아띠","겸둥이"],"Guests":"강덕구","youtube":"https://youtu.be/5yvNTPA0nOs?si=zAco73lR1B2seEBR"},{"isUse":"Y","stageNo":4,"teamName":"엔소울","SongName":"UR","SingerName":"태연","Members":["안예슬","배그나","빡다혜","져리"],"Guests":"라미","youtube":"https://youtu.be/GXD-xHHx1Hc?si=nf_vsUlffK_tXuD3"},{"isUse":"Y","stageNo":5,"teamName":"블랙","SongName":"New Face","SingerName":"싸이","Members":["퀸다미","오쭈","추랑이","설하"],"Guests":"눈또","youtube":"https://youtu.be/Yu1XMfJt55M?si=2jra1szh51JEZ3e6"},{"isUse":"Y","stageNo":6,"teamName":"감찰","SongName":"사기꾼 1","SingerName":"-","Members":["류하","소소","오연하","최깨비","양유정"],"youtube":"https://youtu.be/BEzKna0d5HU?si=N12Ex6KByFfm-Ic3"},{"isUse":"Y","stageNo":7,"teamName":"수니힐","SongName":"엣사랑(1991)","SingerName":"이문세","Members":["진솔","다니","미캣","스리룽"],"Guests":"밍송라","youtube":"https://youtu.be/KFZU7nBqCk8?si=lR3-zq_PDSJqczTi"},{"isUse":"Y","stageNo":8,"teamName":"화이트","SongName":"Good-Bye Baby","SingerName":"미스에이","Members":["겸둥이","강민아","추단비","아띠"],"Guests":"하랑e","youtube":"https://youtu.be/xVidZS2nhAM?si=Rh0vmQjyHjvWCdzI"},{"isUse":"Y","stageNo":9,"teamName":"엔소울","SongName":"미친거니(2010)","SingerName":"바이브","Members":["안예슬","배그나","빡다혜","져리"],"Guests":"하진","youtube":"https://youtu.be/aUNbQ3UTz1Y?si=V8XRdDz94CFqJVI2"},{"isUse":"Y","stageNo":10,"teamName":"블랙","SongName":"My Bag","SingerName":"(여자)아이들","Members":["퀸다미","추랑이","오쭈","설하","뚜부"],"youtube":"https://youtu.be/VKSf92Z93ZQ?si=rgnKwAs2GWruH_Oi"},{"isUse":"Y","stageNo":11,"teamName":"감찰","SongName":"사기꾼 2","SingerName":"-","Members":["류하","오연하","소소","최깨비","양유정"],"youtube":"https://youtu.be/BEzKna0d5HU?si=nFvIjkAluCGFghjp&t=282"},{"isUse":"Y","stageNo":12,"teamName":"수니힐","SongName":"미친것처럼","SingerName":"V.O.S","Members":["진솔","미캣","다니"],"Guests":"남덕선","youtube":"https://youtu.be/-sJ9c3L9Hw8?si=VXaHx7uoFTYiUcB1"},{"isUse":"Y","stageNo":13,"teamName":"화이트","SongName":"치티치티뱅뱅(2010)","SingerName":"이효리","Members":["강민아","깅예솔","아띠","겸둥이","추단비"],"Guests":"","youtube":"https://youtu.be/FGyjB5WCUQ8?si=bHvsYzUvxeJIy0af"},{"isUse":"Y","stageNo":14,"teamName":"엔소울","SongName":"Break Away","SingerName":"빅마마","Members":["안예슬","배그나","빡다혜","져리"],"youtube":"https://youtu.be/KqCPhY1ZTZ4?si=y3JZnBSQNCZiiiks"},{"isUse":"Y","stageNo":15,"teamName":"블랙","SongName":"BANG!","SingerName":"애프터스쿨","Members":["오쭈","추랑이","퀸다미","설하","뚜부"],"youtube":"https://youtu.be/vb0GSsuFuWA?si=s-QC99eJaqfufAAR"}]
+[
+ {
+  "isUse": "Y",
+  "stageNo": 1,
+  "teamName": "감찰",
+  "SongName": "의무방어전",
+  "SingerName": "-",
+  "Members": [
+   "류하",
+   "오연하",
+   "소소",
+   "최깨비",
+   "양유정"
+  ],
+  "youtube": "https://youtu.be/lsqwPtgKZGQ?si=4lzh-7g8U-oNySDW",
+  "stageKind": "연기"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 2,
+  "teamName": "수니힐",
+  "SongName": "Music is My life",
+  "SingerName": "임정희",
+  "Members": [
+   "진솔",
+   "다니",
+   "미캣",
+   "스리룽"
+  ],
+  "youtube": "https://youtu.be/PCTlPP9dSfM?si=RwWoUxRdnU0q4sDy",
+  "stageKind": "노래",
+  "company": "뮤직"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 3,
+  "teamName": "화이트",
+  "SongName": "10점 만점에 10점",
+  "SingerName": "2PM",
+  "Members": [
+   "강민아",
+   "깅예솔",
+   "아띠",
+   "겸둥이"
+  ],
+  "Guests": "강덕구",
+  "youtube": "https://youtu.be/5yvNTPA0nOs?si=zAco73lR1B2seEBR",
+  "stageKind": "댄스",
+  "company": "뮤직"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 4,
+  "teamName": "엔소울",
+  "SongName": "UR",
+  "SingerName": "태연",
+  "Members": [
+   "안예슬",
+   "배그나",
+   "빡다혜",
+   "져리"
+  ],
+  "Guests": "라미",
+  "youtube": "https://youtu.be/GXD-xHHx1Hc?si=nf_vsUlffK_tXuD3",
+  "stageKind": "노래",
+  "company": "엔터"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 5,
+  "teamName": "블랙",
+  "SongName": "New Face",
+  "SingerName": "싸이",
+  "Members": [
+   "퀸다미",
+   "오쭈",
+   "추랑이",
+   "설하"
+  ],
+  "Guests": "눈또",
+  "youtube": "https://youtu.be/Yu1XMfJt55M?si=2jra1szh51JEZ3e6",
+  "stageKind": "댄스",
+  "company": "엔터"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 6,
+  "teamName": "감찰",
+  "SongName": "사기꾼 1",
+  "SingerName": "-",
+  "Members": [
+   "류하",
+   "소소",
+   "오연하",
+   "최깨비",
+   "양유정"
+  ],
+  "youtube": "https://youtu.be/BEzKna0d5HU?si=N12Ex6KByFfm-Ic3",
+  "stageKind": "연기"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 7,
+  "teamName": "수니힐",
+  "SongName": "엣사랑(1991)",
+  "SingerName": "이문세",
+  "Members": [
+   "진솔",
+   "다니",
+   "미캣",
+   "스리룽"
+  ],
+  "Guests": "밍송라",
+  "youtube": "https://youtu.be/KFZU7nBqCk8?si=lR3-zq_PDSJqczTi",
+  "stageKind": "노래",
+  "company": "뮤직"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 8,
+  "teamName": "화이트",
+  "SongName": "Good-Bye Baby",
+  "SingerName": "미스에이",
+  "Members": [
+   "겸둥이",
+   "강민아",
+   "추단비",
+   "아띠"
+  ],
+  "Guests": "하랑e",
+  "youtube": "https://youtu.be/xVidZS2nhAM?si=Rh0vmQjyHjvWCdzI",
+  "stageKind": "댄스",
+  "company": "뮤직"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 9,
+  "teamName": "엔소울",
+  "SongName": "미친거니(2010)",
+  "SingerName": "바이브",
+  "Members": [
+   "안예슬",
+   "배그나",
+   "빡다혜",
+   "져리"
+  ],
+  "Guests": "하진",
+  "youtube": "https://youtu.be/aUNbQ3UTz1Y?si=V8XRdDz94CFqJVI2",
+  "stageKind": "노래",
+  "company": "엔터"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 10,
+  "teamName": "블랙",
+  "SongName": "My Bag",
+  "SingerName": "(여자)아이들",
+  "Members": [
+   "퀸다미",
+   "추랑이",
+   "오쭈",
+   "설하",
+   "뚜부"
+  ],
+  "youtube": "https://youtu.be/VKSf92Z93ZQ?si=rgnKwAs2GWruH_Oi",
+  "stageKind": "댄스",
+  "company": "엔터"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 11,
+  "teamName": "감찰",
+  "SongName": "사기꾼 2",
+  "SingerName": "-",
+  "Members": [
+   "류하",
+   "오연하",
+   "소소",
+   "최깨비",
+   "양유정"
+  ],
+  "youtube": "https://youtu.be/BEzKna0d5HU?si=nFvIjkAluCGFghjp&t=282",
+  "stageKind": "연기"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 12,
+  "teamName": "수니힐",
+  "SongName": "미친것처럼",
+  "SingerName": "V.O.S",
+  "Members": [
+   "진솔",
+   "미캣",
+   "다니"
+  ],
+  "Guests": "남덕선",
+  "youtube": "https://youtu.be/-sJ9c3L9Hw8?si=VXaHx7uoFTYiUcB1",
+  "stageKind": "노래",
+  "company": "뮤직"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 13,
+  "teamName": "화이트",
+  "SongName": "치티치티뱅뱅(2010)",
+  "SingerName": "이효리",
+  "Members": [
+   "강민아",
+   "깅예솔",
+   "아띠",
+   "겸둥이",
+   "추단비"
+  ],
+  "Guests": "",
+  "youtube": "https://youtu.be/FGyjB5WCUQ8?si=bHvsYzUvxeJIy0af",
+  "stageKind": "댄스",
+  "company": "뮤직"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 14,
+  "teamName": "엔소울",
+  "SongName": "Break Away",
+  "SingerName": "빅마마",
+  "Members": [
+   "안예슬",
+   "배그나",
+   "빡다혜",
+   "져리"
+  ],
+  "youtube": "https://youtu.be/KqCPhY1ZTZ4?si=y3JZnBSQNCZiiiks",
+  "stageKind": "노래",
+  "company": "엔터"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 15,
+  "teamName": "블랙",
+  "SongName": "BANG!",
+  "SingerName": "애프터스쿨",
+  "Members": [
+   "오쭈",
+   "추랑이",
+   "퀸다미",
+   "설하",
+   "뚜부"
+  ],
+  "youtube": "https://youtu.be/vb0GSsuFuWA?si=s-QC99eJaqfufAAR",
+  "stageKind": "댄스",
+  "company": "엔터"
+ }
+]

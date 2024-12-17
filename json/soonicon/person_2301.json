@@ -1,1 +1,179 @@
-[{"rank":1,"company":"엔터","teamName":"블랙","soopId":"rrrr4719","sooniName":"류하","ballon":"78610"},{"rank":2,"company":"뮤직","teamName":"수니힐","soopId":"goodb99","sooniName":"배그나","ballon":"77624"},{"rank":3,"company":"엔터","teamName":"블랙","soopId":"b24ip7","sooniName":"민서율","ballon":"48880"},{"rank":4,"company":"뮤직","teamName":"화이트","soopId":"yunhee1222","sooniName":"깅예솔","ballon":"45767"},{"rank":5,"company":"뮤직","teamName":"수니힐","soopId":"indy1028","sooniName":"안예슬","ballon":"41549"},{"rank":6,"company":"뮤직","teamName":"화이트","soopId":"duswn8243","sooniName":"쭈디","ballon":"33284"},{"rank":7,"company":"","teamName":"연기팀","sooniName":"하두링","ballon":"29862","soopId":"busky3"},{"rank":8,"company":"뮤직","teamName":"수니힐","soopId":"eunsssu","sooniName":"뼝아리","ballon":"29345"},{"rank":9,"company":"뮤직","teamName":"수니힐","soopId":"thwl9386","sooniName":"소희","ballon":"26136"},{"rank":10,"company":"뮤직","teamName":"화이트","soopId":"damikim","sooniName":"퀸다미","ballon":"25424"},{"rank":11,"company":"뮤직","teamName":"화이트","soopId":"jyurim99","sooniName":"겸둥이","ballon":"21692"},{"rank":12,"company":"엔터","teamName":"블랙","soopId":"dbdms139","sooniName":"유은","ballon":"19306"},{"rank":13,"company":"엔터","teamName":"블랙","sooniName":"핀아","ballon":"18346","soopId":"qls930205"},{"rank":14,"company":"뮤직","teamName":"수니힐","soopId":"tlswlgus95","sooniName":"져리","ballon":"15417"},{"rank":15,"soopId":"vlfvlf789","sooniName":"빵훈","ballon":"7932"},{"rank":16,"company":"","teamName":"연기팀","soopId":"inhye0416","sooniName":"겜순이녜","ballon":"7125"},{"rank":17,"company":"","teamName":"연기팀","soopId":"iyo1130","sooniName":"이요","ballon":"6125"},{"rank":18,"company":"","teamName":"연기팀","soopId":"heeddo0910","sooniName":"강희또","ballon":"5900"},{"rank":19,"company":"","sooniName":"민찬기","ballon":"4000","soopId":"ckmin706"},{"rank":20,"company":"뮤직","teamName":"수니힐","sooniName":"추르미","ballon":"2952","soopId":"dksldi1010"},{"rank":21,"company":"","teamName":"연기팀","sooniName":"이루리","ballon":"2924","soopId":"judy0848"},{"rank":22,"sooniName":"김학수","ballon":"1432","soopId":"skygkrtn"}]
+[
+ {
+  "rank": 1,
+  "company": "",
+  "teamName": "블랙",
+  "soopId": "rrrr4719",
+  "sooniName": "류하",
+  "ballon": "78610"
+ },
+ {
+  "rank": 2,
+  "company": "",
+  "teamName": "수니힐",
+  "soopId": "goodb99",
+  "sooniName": "배그나",
+  "ballon": "77624",
+  "position": "팀장"
+ },
+ {
+  "rank": 3,
+  "company": "",
+  "teamName": "블랙",
+  "soopId": "b24ip7",
+  "sooniName": "민서율",
+  "ballon": "48880"
+ },
+ {
+  "rank": 4,
+  "company": "",
+  "teamName": "화이트",
+  "soopId": "yunhee1222",
+  "sooniName": "깅예솔",
+  "ballon": "45767"
+ },
+ {
+  "rank": 5,
+  "company": "",
+  "teamName": "수니힐",
+  "soopId": "indy1028",
+  "sooniName": "안예슬",
+  "ballon": "41549"
+ },
+ {
+  "rank": 6,
+  "company": "",
+  "teamName": "화이트",
+  "soopId": "duswn8243",
+  "sooniName": "쭈디",
+  "ballon": "33284"
+ },
+ {
+  "rank": 7,
+  "company": "",
+  "teamName": "연기팀",
+  "sooniName": "하두링",
+  "ballon": "29862",
+  "soopId": "busky3"
+ },
+ {
+  "rank": 8,
+  "company": "",
+  "teamName": "수니힐",
+  "soopId": "eunsssu",
+  "sooniName": "뼝아리",
+  "ballon": "29345"
+ },
+ {
+  "rank": 9,
+  "company": "",
+  "teamName": "수니힐",
+  "soopId": "thwl9386",
+  "sooniName": "소희",
+  "ballon": "26136"
+ },
+ {
+  "rank": 10,
+  "company": "",
+  "teamName": "화이트",
+  "soopId": "damikim",
+  "sooniName": "퀸다미",
+  "ballon": "25424",
+  "position": "팀장"
+ },
+ {
+  "rank": 11,
+  "company": "",
+  "teamName": "화이트",
+  "soopId": "jyurim99",
+  "sooniName": "겸둥이",
+  "ballon": "21692"
+ },
+ {
+  "rank": 12,
+  "company": "",
+  "teamName": "블랙",
+  "soopId": "dbdms139",
+  "sooniName": "유은",
+  "ballon": "19306"
+ },
+ {
+  "rank": 13,
+  "company": "",
+  "teamName": "블랙",
+  "sooniName": "핀아",
+  "ballon": "18346",
+  "soopId": "qls930205",
+  "position": "팀장"
+ },
+ {
+  "rank": 14,
+  "company": "",
+  "teamName": "수니힐",
+  "soopId": "tlswlgus95",
+  "sooniName": "져리",
+  "ballon": "15417"
+ },
+ {
+  "rank": 15,
+  "soopId": "vlfvlf789",
+  "sooniName": "빵훈",
+  "ballon": "7932",
+  "position": "사장"
+ },
+ {
+  "rank": 16,
+  "company": "",
+  "teamName": "연기팀",
+  "soopId": "inhye0416",
+  "sooniName": "겜순이녜",
+  "ballon": "7125"
+ },
+ {
+  "rank": 17,
+  "company": "",
+  "teamName": "연기팀",
+  "soopId": "iyo1130",
+  "sooniName": "이요",
+  "ballon": "6125"
+ },
+ {
+  "rank": 18,
+  "company": "",
+  "teamName": "연기팀",
+  "soopId": "heeddo0910",
+  "sooniName": "강희또",
+  "ballon": "5900"
+ },
+ {
+  "rank": 19,
+  "company": "",
+  "sooniName": "민찬기",
+  "ballon": "4000",
+  "soopId": "ckmin706",
+  "position": "전무"
+ },
+ {
+  "rank": 20,
+  "company": "",
+  "teamName": "수니힐",
+  "sooniName": "추르미",
+  "ballon": "2952",
+  "soopId": "dksldi1010"
+ },
+ {
+  "rank": 21,
+  "company": "",
+  "teamName": "연기팀",
+  "sooniName": "이루리",
+  "ballon": "2924",
+  "soopId": "judy0848"
+ },
+ {
+  "rank": 22,
+  "sooniName": "김학수",
+  "ballon": "1432",
+  "soopId": "skygkrtn",
+  "position": "부사장"
+ }
+]

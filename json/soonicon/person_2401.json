@@ -1,1 +1,259 @@
-[{"rank":1,"company":"엔터","position":"팀장","teamName":"블랙","soopId":"yunhee1222","sooniName":"깅예솔","ballon":"1441751"},{"rank":2,"company":"기획","teamName":"감찰","soopId":"vlfvlf789","sooniName":"빵훈","ballon":"691603"},{"rank":3,"company":"뮤직","teamName":"화이트","soopId":"cndmsqls0901","sooniName":"추랑이","ballon":"505732"},{"rank":4,"company":"기획","teamName":"감찰","soopId":"ooo9330","sooniName":"진솔","ballon":"314959"},{"rank":5,"company":"뮤직","teamName":"수니힐","soopId":"goodb99","sooniName":"배그나","ballon":"186762"},{"rank":6,"company":"뮤직","teamName":"수니힐","soopId":"rrrr4719","sooniName":"류하","ballon":"152788"},{"rank":7,"company":"엔터","teamName":"엔소울","soopId":"dkjfke","sooniName":"빡다혜","ballon":"129400"},{"rank":8,"company":"엔터","teamName":"블랙","soopId":"churros05","sooniName":"쮸러스","ballon":"126255"},{"rank":9,"company":"엔터","teamName":"엔소울","soopId":"tlswlgus95","sooniName":"져리","ballon":"123302"},{"rank":10,"company":"기획","teamName":"감찰","soopId":"suezzang25","sooniName":"오연하","ballon":"119090"},{"rank":11,"company":"뮤직","teamName":"화이트","soopId":"damikim","sooniName":"퀸다미","ballon":"116141"},{"rank":12,"company":"엔터","teamName":"블랙","soopId":"jyurim99","sooniName":"겸둥이","ballon":"115179"},{"rank":13,"company":"엔터","position":"사장","soopId":"indy1028","sooniName":"안예슬","ballon":"105336"},{"rank":14,"company":"뮤직","teamName":"화이트","soopId":"wendysul","sooniName":"설하","ballon":"88971"},{"rank":15,"company":"뮤직","teamName":"수니힐","soopId":"dani67","sooniName":"다니","ballon":"84433"},{"rank":16,"company":"뮤직","teamName":"화이트","soopId":"alwe1112","sooniName":"오쭈","ballon":"84117"},{"rank":17,"company":"엔터","teamName":"엔소울","soopId":"charming54","sooniName":"꿀챠밍","ballon":"80624"},{"rank":18,"company":"뮤직","teamName":"수니힐","soopId":"gpdnjs2","sooniName":"온","ballon":"79529"},{"rank":19,"company":"엔터","teamName":"엔소울","soopId":"jieujieun11","sooniName":"미캣","ballon":"76333"},{"rank":20,"company":"엔터","teamName":"블랙","soopId":"jha0331","sooniName":"아띠","ballon":"67004"},{"rank":21,"company":"엔터","teamName":"엔소울","soopId":"thwl9386","sooniName":"소희","ballon":"66342","scaffold":"1"},{"rank":22,"company":"뮤직","teamName":"화이트","soopId":"kdbsdydth","sooniName":"윤영서","ballon":"65746"},{"rank":23,"company":"엔터","teamName":"블랙","soopId":"1000song2","sooniName":"강민아","ballon":"40043"},{"rank":24,"company":"뮤직","position":"사장","soopId":"skygkrtn","sooniName":"김학수","ballon":"39997"},{"rank":25,"company":"엔터","teamName":"블랙","soopId":"hj020823","sooniName":"츄연","ballon":"32326"},{"rank":26,"company":"기획","teamName":"감찰","soopId":"p0r0r0","sooniName":"날박","ballon":"32004"},{"rank":27,"company":"뮤직","teamName":"화이트","soopId":"2boo2boo","sooniName":"뚜부","ballon":"26794","scaffold":"4"},{"rank":28,"company":"기획","teamName":"감찰","soopId":"sunwo254","sooniName":"최깨비","ballon":"25865"},{"rank":29,"company":"뮤직","teamName":"수니힐","soopId":"tpqhrdl","sooniName":"권도연","ballon":"24542","scaffold":"3"},{"rank":30,"company":"기획","teamName":"감찰","soopId":"witboy","sooniName":"슝슝이","ballon":"23628"},{"rank":31,"company":"기획","teamName":"감찰","soopId":"dockyong","sooniName":"덕이형","ballon":"22658","scaffold":"2"}]
+[
+ {
+  "rank": 1,
+  "company": "엔터",
+  "position": "팀장",
+  "teamName": "블랙",
+  "soopId": "yunhee1222",
+  "sooniName": "깅예솔",
+  "ballon": "1441751"
+ },
+ {
+  "rank": 2,
+  "company": "",
+  "teamName": "감찰",
+  "soopId": "vlfvlf789",
+  "sooniName": "빵훈",
+  "ballon": "691603"
+ },
+ {
+  "rank": 3,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "cndmsqls0901",
+  "sooniName": "추랑이",
+  "ballon": "505732"
+ },
+ {
+  "rank": 4,
+  "company": "",
+  "teamName": "감찰",
+  "soopId": "ooo9330",
+  "sooniName": "진솔",
+  "ballon": "314959"
+ },
+ {
+  "rank": 5,
+  "company": "뮤직",
+  "teamName": "수니힐",
+  "soopId": "goodb99",
+  "sooniName": "배그나",
+  "ballon": "186762"
+ },
+ {
+  "rank": 6,
+  "company": "뮤직",
+  "teamName": "수니힐",
+  "soopId": "rrrr4719",
+  "sooniName": "류하",
+  "ballon": "152788",
+  "position": "팀장"
+ },
+ {
+  "rank": 7,
+  "company": "엔터",
+  "teamName": "엔소울",
+  "soopId": "dkjfke",
+  "sooniName": "빡다혜",
+  "ballon": "129400"
+ },
+ {
+  "rank": 8,
+  "company": "엔터",
+  "teamName": "블랙",
+  "soopId": "churros05",
+  "sooniName": "쮸러스",
+  "ballon": "126255"
+ },
+ {
+  "rank": 9,
+  "company": "엔터",
+  "teamName": "엔소울",
+  "soopId": "tlswlgus95",
+  "sooniName": "져리",
+  "ballon": "123302"
+ },
+ {
+  "rank": 10,
+  "company": "",
+  "teamName": "감찰",
+  "soopId": "suezzang25",
+  "sooniName": "오연하",
+  "ballon": "119090"
+ },
+ {
+  "rank": 11,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "damikim",
+  "sooniName": "퀸다미",
+  "ballon": "116141",
+  "position": "팀장"
+ },
+ {
+  "rank": 12,
+  "company": "엔터",
+  "teamName": "블랙",
+  "soopId": "jyurim99",
+  "sooniName": "겸둥이",
+  "ballon": "115179"
+ },
+ {
+  "rank": 13,
+  "company": "엔터",
+  "position": "사장",
+  "soopId": "indy1028",
+  "sooniName": "안예슬",
+  "ballon": "105336"
+ },
+ {
+  "rank": 14,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "wendysul",
+  "sooniName": "설하",
+  "ballon": "88971"
+ },
+ {
+  "rank": 15,
+  "company": "뮤직",
+  "teamName": "수니힐",
+  "soopId": "dani67",
+  "sooniName": "다니",
+  "ballon": "84433"
+ },
+ {
+  "rank": 16,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "alwe1112",
+  "sooniName": "오쭈",
+  "ballon": "84117"
+ },
+ {
+  "rank": 17,
+  "company": "엔터",
+  "teamName": "엔소울",
+  "soopId": "charming54",
+  "sooniName": "꿀챠밍",
+  "ballon": "80624"
+ },
+ {
+  "rank": 18,
+  "company": "뮤직",
+  "teamName": "수니힐",
+  "soopId": "gpdnjs2",
+  "sooniName": "온",
+  "ballon": "79529"
+ },
+ {
+  "rank": 19,
+  "company": "엔터",
+  "teamName": "엔소울",
+  "soopId": "jieujieun11",
+  "sooniName": "미캣",
+  "ballon": "76333",
+  "position": "팀장"
+ },
+ {
+  "rank": 20,
+  "company": "엔터",
+  "teamName": "블랙",
+  "soopId": "jha0331",
+  "sooniName": "아띠",
+  "ballon": "67004"
+ },
+ {
+  "rank": 21,
+  "company": "엔터",
+  "teamName": "엔소울",
+  "soopId": "thwl9386",
+  "sooniName": "소희",
+  "ballon": "66342",
+  "scaffold": "1"
+ },
+ {
+  "rank": 22,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "kdbsdydth",
+  "sooniName": "윤영서",
+  "ballon": "65746"
+ },
+ {
+  "rank": 23,
+  "company": "엔터",
+  "teamName": "블랙",
+  "soopId": "1000song2",
+  "sooniName": "강민아",
+  "ballon": "40043"
+ },
+ {
+  "rank": 24,
+  "company": "뮤직",
+  "position": "사장",
+  "soopId": "skygkrtn",
+  "sooniName": "김학수",
+  "ballon": "39997"
+ },
+ {
+  "rank": 25,
+  "company": "엔터",
+  "teamName": "블랙",
+  "soopId": "hj020823",
+  "sooniName": "츄연",
+  "ballon": "32326"
+ },
+ {
+  "rank": 26,
+  "company": "",
+  "teamName": "감찰",
+  "soopId": "p0r0r0",
+  "sooniName": "날박",
+  "ballon": "32004",
+  "position": "팀장"
+ },
+ {
+  "rank": 27,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "2boo2boo",
+  "sooniName": "뚜부",
+  "ballon": "26794",
+  "scaffold": "4"
+ },
+ {
+  "rank": 28,
+  "company": "",
+  "teamName": "감찰",
+  "soopId": "sunwo254",
+  "sooniName": "최깨비",
+  "ballon": "25865"
+ },
+ {
+  "rank": 29,
+  "company": "뮤직",
+  "teamName": "수니힐",
+  "soopId": "tpqhrdl",
+  "sooniName": "권도연",
+  "ballon": "24542",
+  "scaffold": "3"
+ },
+ {
+  "rank": 30,
+  "company": "",
+  "teamName": "감찰",
+  "soopId": "witboy",
+  "sooniName": "슝슝이",
+  "ballon": "23628"
+ },
+ {
+  "rank": 31,
+  "company": "",
+  "teamName": "감찰",
+  "soopId": "dockyong",
+  "sooniName": "덕이형",
+  "ballon": "22658",
+  "scaffold": "2"
+ }
+]
