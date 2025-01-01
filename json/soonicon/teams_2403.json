@@ -1,1 +1,29 @@
-{"sooniConDate":"2024-02-24","sooniConMission":"All or Nothing","teamDatas":[{"rank":1,"company":"엔터","ballon":1474515,"ballon3":3076919},{"rank":2,"company":"뮤직","ballon":825671,"ballon3":3132840},{"rank":3,"company":"기획","ballon":743076,"ballon3":3043262}],"scaffold":{"soopId":"kunbams","sooniName":"비타","voteAll":"3897","voteYes":"2265","voteNo":"1632"}}
+{
+ "sooniConDate": "2024-02-24",
+ "sooniConMission": "All or Nothing",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "엔터",
+   "ballon": 1474515
+  },
+  {
+   "rank": 2,
+   "company": "뮤직",
+   "ballon": 825671
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "ballon": 743076
+  }
+ ],
+ "teamDatas": [],
+ "scaffold": {
+  "soopId": "kunbams",
+  "sooniName": "비타",
+  "voteAll": "3897",
+  "voteYes": "2265",
+  "voteNo": "1632"
+ }
+}

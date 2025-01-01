@@ -1,1 +1,60 @@
-{"sooniConDate":"2024-07-20","sooniConMission":"ON AND OFF","teamDatas":[],"scaffold":{"soopId":"","sooniName":"","voteAll":"","voteYes":"","voteNo":""}}
+{
+ "sooniConDate": "2024-07-20",
+ "sooniConMission": "ON AND OFF",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "ballon": 1334278
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "ballon": 1311259
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "ballon": 402136
+  }
+ ],
+ "teamDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "teamName": "화이트",
+   "ballon": 1055129
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "teamName": "블랙",
+   "ballon": 908935
+  },
+  {
+   "rank": 3,
+   "company": "엔터",
+   "teamName": "엔소울",
+   "ballon": 402324
+  },
+  {
+   "rank": 4,
+   "company": "기획",
+   "teamName": "기획",
+   "ballon": 395826
+  },
+  {
+   "rank": 5,
+   "company": "뮤직",
+   "teamName": "수니힐",
+   "ballon": 279150
+  }
+ ],
+ "scaffold": {
+  "soopId": "hhy2124",
+  "sooniName": "쪼앙",
+  "voteAll": "2660",
+  "voteYes": "1487",
+  "voteNo": "1173"
+ }
+}

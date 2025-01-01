@@ -1,1 +1,60 @@
-{"sooniConDate":"2024-06-08","sooniConMission":"그 해 여름","teamDatas":[],"scaffold":{"soopId":"","sooniName":"","voteAll":"","voteYes":"","voteNo":""}}
+{
+ "sooniConDate": "2024-06-08",
+ "sooniConMission": "그 해 여름",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "엔터",
+   "ballon": 1454919
+  },
+  {
+   "rank": 2,
+   "company": "뮤직",
+   "ballon": 1022792
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "ballon": 800267
+  }
+ ],
+ "teamDatas": [
+  {
+   "rank": 1,
+   "company": "엔터",
+   "teamName": "화이트",
+   "ballon": 875027
+  },
+  {
+   "rank": 2,
+   "company": "기획",
+   "teamName": "기획",
+   "ballon": 800267
+  },
+  {
+   "rank": 3,
+   "company": "엔터",
+   "teamName": "블랙",
+   "ballon": 589892
+  },
+  {
+   "rank": 4,
+   "company": "뮤직",
+   "teamName": "수니힐",
+   "ballon": 525314
+  },
+  {
+   "rank": 5,
+   "company": "뮤직",
+   "teamName": "엔소울",
+   "ballon": 497478
+  }
+ ],
+ "scaffold": {
+  "soopId": "danstar11",
+  "sooniName": "단별짱",
+  "voteAll": "",
+  "voteYes": "",
+  "voteNo": ""
+ }
+}

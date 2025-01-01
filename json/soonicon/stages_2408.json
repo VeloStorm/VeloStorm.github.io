@@ -1,1 +1,135 @@
-[{"isUse":"Y","stageNo":1,"company":"기획","SongName":"스토커 EP.1","SingerName":"-","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=15870"},{"isUse":"Y","stageNo":2,"company":"뮤직","SongName":"넌 is 뭔들","SingerName":"마마무","Members":"백다연,배그나,안예슬,권도연,퀸다미","youtube":"https://youtu.be/0yl_T3tJQts?si=JlRWsb-f5vqIEa8j"},{"isUse":"Y","stageNo":3,"company":"엔터","SongName":"I Swear","SingerName":"씨스타","Members":"태리츄,박아진,설하","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=19117"},{"isUse":"Y","stageNo":4,"company":"뮤직","SongName":"밝게 빛나는 별이 되어 비춰줄게","SingerName":"송이한","Members":"안예슬,쪼앙,소희,미캣,져리","youtube":"","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=20123"},{"isUse":"Y","stageNo":5,"company":"엔터","SongName":"빨간맛","SingerName":"레드벨벳","Members":"깅예솔,아띠,겸둥이,강민아","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=21924"},{"isUse":"Y","stageNo":6,"company":"뮤직","SongName":"하늘에서 남자들이 비처럼 내려와","SingerName":"버블 시스터즈","Members":"백다연,배그나,권도연,안예슬","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=23540"},{"isUse":"Y","stageNo":7,"company":"엔터","SongName":"슈퍼노바","SingerName":"에스파","Members":"유복실,태리츄,설하,민서율","youtube":"https://youtu.be/zKfvbKr_cRY?si=7HkrzkZNYM6M0mO9"},{"isUse":"Y","stageNo":8,"company":"기획","SongName":"스토커 EP.2","SingerName":"-","youtube":"","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=26474"},{"isUse":"Y","stageNo":9,"company":"뮤직","SongName":"바람의 노래","SingerName":"소향","Members":"안예슬,진솔,미캣,져리","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=28913"},{"isUse":"Y","stageNo":10,"company":"엔터","SongName":"Dance the Night Away","SingerName":"트와이스","Members":"오쭈,아띠,깅예솔,겸둥이,강민아","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=30913"},{"isUse":"Y","stageNo":11,"company":"뮤직","SongName":"Sea of Love","SingerName":"플라이 투 더 스카이","Members":"안예슬,배그나,이디유,권도연","youtube":"","soopVod":"https://vod.sooplive.co.kr/player/127090451?change_second=32858"},{"isUse":"Y","stageNo":12,"company":"엔터","SongName":"바다보러갈래","SingerName":"효린","Members":"설하,민서율,태리츄","youtube":"https://youtu.be/V9SPXortTQk?si=pXafMAtZboVf9kO4"}]
+[
+ {
+  "isUse": "Y",
+  "stageNo": 1,
+  "company": "기획",
+  "SongName": "스토커 EP.1",
+  "SingerName": "-",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=15870",
+  "teamName": "기획",
+  "stageKind": "연기"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 2,
+  "company": "뮤직",
+  "SongName": "넌 is 뭔들",
+  "SingerName": "마마무",
+  "Members": "백다연,배그나,안예슬,권도연,퀸다미",
+  "youtube": "https://youtu.be/0yl_T3tJQts?si=JlRWsb-f5vqIEa8j",
+  "teamName": "엔소울",
+  "stageKind": "노래"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 3,
+  "company": "엔터",
+  "SongName": "I Swear",
+  "SingerName": "씨스타",
+  "Members": "태리츄,박아진,설하",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=19117",
+  "teamName": "블랙",
+  "stageKind": "댄스"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 4,
+  "company": "뮤직",
+  "SongName": "밝게 빛나는 별이 되어 비춰줄게",
+  "SingerName": "송이한",
+  "Members": "안예슬,쪼앙,소희,미캣,져리",
+  "youtube": "",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=20123",
+  "teamName": "수니힐",
+  "stageKind": "노래"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 5,
+  "company": "엔터",
+  "SongName": "빨간맛",
+  "SingerName": "레드벨벳",
+  "Members": "깅예솔,아띠,겸둥이,강민아",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=21924",
+  "teamName": "화이트",
+  "stageKind": "댄스"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 6,
+  "company": "뮤직",
+  "SongName": "하늘에서 남자들이 비처럼 내려와",
+  "SingerName": "버블 시스터즈",
+  "Members": "백다연,배그나,권도연,안예슬",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=23540",
+  "teamName": "엔소울",
+  "stageKind": "노래"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 7,
+  "company": "엔터",
+  "SongName": "슈퍼노바",
+  "SingerName": "에스파",
+  "Members": "유복실,태리츄,설하,민서율",
+  "youtube": "https://youtu.be/zKfvbKr_cRY?si=7HkrzkZNYM6M0mO9",
+  "teamName": "블랙",
+  "stageKind": "댄스"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 8,
+  "company": "기획",
+  "SongName": "스토커 EP.2",
+  "SingerName": "-",
+  "youtube": "",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=26474",
+  "teamName": "기획",
+  "stageKind": "연기"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 9,
+  "company": "뮤직",
+  "SongName": "바람의 노래",
+  "SingerName": "소향",
+  "Members": "안예슬,진솔,미캣,져리",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=28913",
+  "teamName": "수니힐",
+  "stageKind": "노래"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 10,
+  "company": "엔터",
+  "SongName": "Dance the Night Away",
+  "SingerName": "트와이스",
+  "Members": "오쭈,아띠,깅예솔,겸둥이,강민아",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=30913",
+  "teamName": "화이트",
+  "stageKind": "댄스"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 11,
+  "company": "뮤직",
+  "SongName": "Sea of Love",
+  "SingerName": "플라이 투 더 스카이",
+  "Members": "안예슬,배그나,이디유,권도연",
+  "youtube": "",
+  "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=32858",
+  "teamName": "엔소울",
+  "stageKind": "노래"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 12,
+  "company": "엔터",
+  "SongName": "바다보러갈래",
+  "SingerName": "효린",
+  "Members": "설하,민서율,태리츄",
+  "youtube": "https://youtu.be/V9SPXortTQk?si=pXafMAtZboVf9kO4",
+  "teamName": "블랙",
+  "stageKind": "댄스"
+ }
+]

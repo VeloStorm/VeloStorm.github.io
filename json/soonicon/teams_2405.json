@@ -1,1 +1,29 @@
-{"sooniConDate":"2024-04-06","sooniConMission":"Mind Control","teamDatas":[{"rank":1,"company":"엔터","ballon":1360191,"ballon3":0},{"rank":2,"company":"뮤직","ballon":1057862,"ballon3":0},{"rank":3,"company":"기획","ballon":447117,"ballon3":0}],"scaffold":{"soopId":"taeri0806","sooniName":"태리츄","voteAll":"2687","voteYes":"1949","voteNo":"738"}}
+{
+ "sooniConDate": "2024-04-06",
+ "sooniConMission": "Mind Control",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "엔터",
+   "ballon": 1360191
+  },
+  {
+   "rank": 2,
+   "company": "뮤직",
+   "ballon": 1057862
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "ballon": 447117
+  }
+ ],
+ "teamDatas": [],
+ "scaffold": {
+  "soopId": "taeri0806",
+  "sooniName": "태리츄",
+  "voteAll": "2687",
+  "voteYes": "1949",
+  "voteNo": "738"
+ }
+}

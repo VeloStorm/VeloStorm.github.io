@@ -1,1 +1,60 @@
-{"sooniConDate":"2024-08-10","sooniConMission":"Mix Double","teamDatas":[],"scaffold":{"soopId":"","sooniName":"","voteAll":"","voteYes":"","voteNo":""}}
+{
+ "sooniConDate": "2024-08-10",
+ "sooniConMission": "Mix Double",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "ballon": 1617787
+  },
+  {
+   "rank": 2,
+   "company": "기획",
+   "ballon": 1562410
+  },
+  {
+   "rank": 3,
+   "company": "엔터",
+   "ballon": 1089780
+  }
+ ],
+ "teamDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "teamName": "화이트",
+   "ballon": 1171908
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "teamName": "엔소울",
+   "ballon": 952353
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "teamName": "기획",
+   "ballon": 933967
+  },
+  {
+   "rank": 4,
+   "company": "엔터",
+   "teamName": "블랙",
+   "ballon": 610058
+  },
+  {
+   "rank": 5,
+   "company": "뮤직",
+   "teamName": "수니힐",
+   "ballon": 445879
+  }
+ ],
+ "scaffold": {
+  "soopId": "",
+  "sooniName": "",
+  "voteAll": "",
+  "voteYes": "",
+  "voteNo": ""
+ }
+}

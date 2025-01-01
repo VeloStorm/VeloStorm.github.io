@@ -1,1 +1,29 @@
-{"sooniConDate":"2024-03-16","sooniConMission":"Egg Roulette (쿼터파이널 I)","teamDatas":[{"rank":1,"company":"뮤직","ballon":1771066,"ballon3":3807346},{"rank":2,"company":"엔터","ballon":1509945,"ballon3":3817498},{"rank":3,"company":"기획","ballon":391979,"ballon3":3671528}],"scaffold":{"soopId":"dockyong","sooniName":"덕이형","voteAll":"3184","voteYes":"1633","voteNo":"1551"}}
+{
+ "sooniConDate": "2024-03-16",
+ "sooniConMission": "Egg Roulette (쿼터파이널 I)",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "ballon": 1771066
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "ballon": 1509945
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "ballon": 391979
+  }
+ ],
+ "teamDatas": [],
+ "scaffold": {
+  "soopId": "dockyong",
+  "sooniName": "덕이형",
+  "voteAll": "3184",
+  "voteYes": "1633",
+  "voteNo": "1551"
+ }
+}
