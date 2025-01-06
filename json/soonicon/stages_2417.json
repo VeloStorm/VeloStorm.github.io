@@ -15,10 +15,11 @@
   "stageNo": 2,
   "company": "뮤직",
   "teamName": "수니힐",
-  "SongName": "똑같다면",
+  "SongName": "똑같다면 (2010)",
   "SingerName": "브라운 아이드 소울",
   "Members": "빡다혜,소희,백다연",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=22930"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=22930",
+  "youtube": "https://youtu.be/vaUCnebwtnA?si=nBtdHxK8PIovK3Dx"
  },
  {
   "isUse": "Y",
@@ -39,7 +40,8 @@
   "SongName": "빌려줄게",
   "SingerName": "신용재",
   "Members": "미캣,안예슬,황크,김미타",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=24670"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=24670",
+  "youtube": "https://youtu.be/y2rSREqw9DE?si=fkC9RnTj6zAXfooc"
  },
  {
   "isUse": "Y",
@@ -49,7 +51,8 @@
   "SongName": "MEOW",
   "SingerName": "MEOVV",
   "Members": "아띠,겸둥이,도원,설하",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=25611"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=25611",
+  "youtube": "https://youtu.be/Q2oAgvpABjs?si=1xXC8tm1Y5Vglozh"
  },
  {
   "isUse": "Y",
@@ -59,7 +62,8 @@
   "SongName": "다시 와주라",
   "SingerName": "바이브",
   "Members": "배그나,디어리,권도연",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=26413"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=26413",
+  "youtube": "https://youtu.be/GnQe3vExkWw?si=aAitQnTaFF7nHkEW"
  },
  {
   "isUse": "Y",
@@ -69,17 +73,19 @@
   "SongName": "아센디오",
   "SingerName": "아이브",
   "Members": "강민아,펭채은",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=28721"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=28721",
+  "youtube": "https://youtu.be/fXKi8odKXFg?si=CPJdC3XDCraE8o91"
  },
  {
   "isUse": "Y",
   "stageNo": 8,
   "company": "뮤직",
   "teamName": "수니힐",
-  "SongName": "Listen",
+  "SongName": "Listen (2007)",
   "SingerName": "비욘세",
   "Members": "빡다혜,백다연",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=29421"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=29421",
+  "youtube": "https://youtu.be/dmwFDfal5c8?si=5LL3ap1Y4YqE4Qrt"
  },
  {
   "isUse": "Y",
@@ -97,10 +103,11 @@
   "stageNo": 10,
   "company": "엔터",
   "teamName": "엔소울",
-  "SongName": "내가 많이 사랑해요",
+  "SongName": "내가 많이 사랑해요 (2020)",
   "SingerName": "이승철",
   "Members": "미캣,안예슬",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=31375"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=31375",
+  "youtube": "https://youtu.be/Ds1r8iFhtww?si=3bg-gdY-xsdvPedK"
  },
  {
   "isUse": "Y",
@@ -110,16 +117,18 @@
   "SongName": "XXL",
   "SingerName": "영파씨",
   "Members": "도원,겸둥이,설하,아띠,뚜부",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=32111"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=32111",
+  "youtube": "https://youtu.be/r7NFhJNNbHg?si=xDORxv9i2Lbp8CQt"
  },
  {
   "isUse": "Y",
   "stageNo": 12,
   "company": "아트",
   "teamName": "엔뮤즈",
-  "SongName": "살기 위해서",
+  "SongName": "살기 위해서 (2022)",
   "SingerName": "순순희",
   "Members": "배그나,디어리,권도연",
-  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=32999"
+  "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=32999",
+  "youtube": "https://youtu.be/kKC2IkNogWg?si=IC0RjmnXumje2ePZ"
  }
 ]

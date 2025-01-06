@@ -1,0 +1,70 @@
+{
+ "sooniConDate": "2025-01-05",
+ "sooniConMission": "오징어",
+ "companyDatas": [],
+ "teamDatas": [
+  {
+   "rank": 1,
+   "company": "",
+   "teamName": "오키덕희",
+   "ballon": 573441
+  },
+  {
+   "rank": 2,
+   "teamName": "겸띠",
+   "ballon": 446598
+  },
+  {
+   "rank": 3,
+   "teamName": "길구짧구",
+   "ballon": 436666
+  },
+  {
+   "rank": 4,
+   "teamName": "민민",
+   "ballon": 415162
+  },
+  {
+   "rank": 5,
+   "teamName": "기린표_곰보시멘트",
+   "ballon": 382782
+  },
+  {
+   "rank": 6,
+   "teamName": "빡친피즈",
+   "ballon": 319805
+  },
+  {
+   "rank": 7,
+   "teamName": "메기밥",
+   "ballon": 309515
+  },
+  {
+   "rank": 8,
+   "teamName": "미뎌리",
+   "ballon": 191024
+  },
+  {
+   "rank": 9,
+   "teamName": "펭승치",
+   "ballon": 147083
+  },
+  {
+   "rank": 10,
+   "teamName": "가오와곤조",
+   "ballon": 130541
+  },
+  {
+   "rank": 11,
+   "teamName": "댕냥꿍",
+   "ballon": 106196
+  }
+ ],
+ "scaffold": {
+  "soopId": "",
+  "sooniName": "",
+  "voteAll": "",
+  "voteYes": "",
+  "voteNo": ""
+ }
+}
