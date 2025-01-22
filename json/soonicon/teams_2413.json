@@ -1,1 +1,29 @@
-{"sooniConDate":"2024-09-21","sooniConMission":"Hero (쿼터파이널 III)","teamDatas":[],"scaffold":{"soopId":"","sooniName":"","voteAll":"","voteYes":"","voteNo":""}}
+{
+ "sooniConDate": "2024-09-21",
+ "sooniConMission": "Hero (쿼터파이널 III)",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "ballon": 1513294
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "ballon": 903865
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "ballon": 647242
+  }
+ ],
+ "teamDatas": [],
+ "scaffold": {
+  "soopId": "p0r0r0",
+  "sooniName": "날박",
+  "voteAll": "3075",
+  "voteYes": "1991",
+  "voteNo": "1084"
+ }
+}

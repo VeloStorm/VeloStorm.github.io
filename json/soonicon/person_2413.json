@@ -1,0 +1,215 @@
+[
+ {
+  "rank": 1,
+  "company": "뮤직",
+  "soopId": "jyurim99",
+  "sooniName": "겸둥이",
+  "ballon": "299726",
+  "grade": "골드"
+ },
+ {
+  "rank": 2,
+  "company": "뮤직",
+  "soopId": "rrrr4719",
+  "sooniName": "류하",
+  "ballon": "293914",
+  "grade": "골드"
+ },
+ {
+  "rank": 3,
+  "company": "뮤직",
+  "soopId": "taezzang9",
+  "sooniName": "태은짱",
+  "ballon": "286716",
+  "grade": "골드",
+  "position": "사장"
+ },
+ {
+  "rank": 4,
+  "company": "뮤직",
+  "soopId": "domangcha13",
+  "sooniName": "도원",
+  "ballon": "248848",
+  "grade": "골드"
+ },
+ {
+  "rank": 5,
+  "company": "뮤직",
+  "soopId": "indy1028",
+  "sooniName": "안예슬",
+  "ballon": "247180",
+  "grade": "골드"
+ },
+ {
+  "rank": 6,
+  "company": "엔터",
+  "soopId": "b24ip7",
+  "sooniName": "민서율",
+  "ballon": "217610",
+  "grade": "골드"
+ },
+ {
+  "rank": 7,
+  "company": "기획",
+  "soopId": "damikim",
+  "sooniName": "퀸다미",
+  "ballon": "198370",
+  "grade": "실버",
+  "position": "사장"
+ },
+ {
+  "rank": 8,
+  "company": "엔터",
+  "soopId": "wendysul",
+  "sooniName": "설하",
+  "ballon": "139090",
+  "grade": "실버"
+ },
+ {
+  "rank": 9,
+  "company": "엔터",
+  "soopId": "vlfvlf789",
+  "sooniName": "빵훈",
+  "ballon": "135194",
+  "grade": "실버"
+ },
+ {
+  "rank": 10,
+  "company": "엔터",
+  "soopId": "alwe1112",
+  "sooniName": "오쭈",
+  "ballon": "123285",
+  "grade": "실버",
+  "position": "사장"
+ },
+ {
+  "rank": 11,
+  "company": "기획",
+  "soopId": "thwl9386",
+  "sooniName": "소희",
+  "ballon": "121000",
+  "grade": "실버"
+ },
+ {
+  "rank": 12,
+  "company": "엔터",
+  "soopId": "kimzero",
+  "sooniName": "김제로",
+  "ballon": "100620",
+  "grade": "실버"
+ },
+ {
+  "rank": 13,
+  "company": "엔터",
+  "soopId": "taeri0806",
+  "sooniName": "태리츄",
+  "ballon": "79774",
+  "grade": "실버"
+ },
+ {
+  "rank": 14,
+  "company": "기획",
+  "soopId": "tpqhrdl",
+  "sooniName": "권도연",
+  "ballon": "76730",
+  "grade": "실버"
+ },
+ {
+  "rank": 15,
+  "company": "기획",
+  "soopId": "jieujieun11",
+  "sooniName": "미캣",
+  "ballon": "74568",
+  "grade": "실버"
+ },
+ {
+  "rank": 16,
+  "company": "기획",
+  "soopId": "1000sagy",
+  "sooniName": "선예",
+  "ballon": "73680",
+  "grade": "실버"
+ },
+ {
+  "rank": 17,
+  "company": "기획",
+  "soopId": "qorhvk1365",
+  "sooniName": "펭채은",
+  "ballon": "58030",
+  "grade": "브론즈"
+ },
+ {
+  "rank": 18,
+  "company": "뮤직",
+  "soopId": "ekdus0830",
+  "sooniName": "백다연",
+  "ballon": "51570",
+  "grade": "브론즈"
+ },
+ {
+  "rank": 19,
+  "company": "엔터",
+  "soopId": "asda9789",
+  "sooniName": "황크",
+  "ballon": "48672",
+  "grade": "브론즈"
+ },
+ {
+  "rank": 20,
+  "company": "엔터",
+  "soopId": "2boo2boo",
+  "sooniName": "뚜부",
+  "ballon": "48120",
+  "grade": "브론즈"
+ },
+ {
+  "rank": 21,
+  "company": "기획",
+  "soopId": "jha0331",
+  "sooniName": "아띠",
+  "ballon": "39864",
+  "grade": "브론즈",
+  "scaffold": "1"
+ },
+ {
+  "rank": 22,
+  "company": "뮤직",
+  "soopId": "hjchu5871",
+  "sooniName": "박아진",
+  "ballon": "37610",
+  "grade": "브론즈"
+ },
+ {
+  "rank": 23,
+  "company": "뮤직",
+  "soopId": "hyebin7258",
+  "sooniName": "디어리",
+  "ballon": "36930",
+  "grade": "브론즈"
+ },
+ {
+  "rank": 24,
+  "company": "엔터",
+  "soopId": "p0r0r0",
+  "sooniName": "날박",
+  "ballon": "11500",
+  "grade": "브론즈",
+  "scaffold": "2"
+ },
+ {
+  "rank": 25,
+  "company": "뮤직",
+  "soopId": "yoomingseo",
+  "sooniName": "유복실",
+  "ballon": "10800",
+  "grade": "브론즈"
+ },
+ {
+  "rank": 26,
+  "company": "",
+  "soopId": "ddzz77ad",
+  "sooniName": "경하",
+  "ballon": "7164",
+  "grade": "브론즈"
+ }
+]

@@ -5,7 +5,8 @@
   "soopId": "domangcha13",
   "sooniName": "도원",
   "ballon": "463529",
-  "grade": "골드"
+  "grade": "골드",
+  "position": "사장"
  },
  {
   "rank": 2,
@@ -13,7 +14,8 @@
   "soopId": "rrrr4719",
   "sooniName": "류하",
   "ballon": "311626",
-  "grade": "골드"
+  "grade": "골드",
+  "position": "사장"
  },
  {
   "rank": 3,
@@ -21,7 +23,9 @@
   "soopId": "jyurim99",
   "sooniName": "겸둥이",
   "ballon": "300000",
-  "grade": "골드"
+  "grade": "골드",
+  "position": "팀장",
+  "teamName": "화이트"
  },
  {
   "rank": 4,
@@ -29,7 +33,8 @@
   "soopId": "wendysul",
   "sooniName": "설하",
   "ballon": "290400",
-  "grade": "골드"
+  "grade": "골드",
+  "teamName": "기획"
  },
  {
   "rank": 5,
@@ -37,7 +42,8 @@
   "soopId": "b24ip7",
   "sooniName": "민서율",
   "ballon": "289463",
-  "grade": "골드"
+  "grade": "골드",
+  "teamName": "화이트"
  },
  {
   "rank": 6,
@@ -45,7 +51,8 @@
   "soopId": "thwl9386",
   "sooniName": "소희",
   "ballon": "284040",
-  "grade": "골드"
+  "grade": "골드",
+  "teamName": "엔소울"
  },
  {
   "rank": 7,
@@ -53,7 +60,8 @@
   "soopId": "alwe1112",
   "sooniName": "오쭈",
   "ballon": "278503",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "화이트"
  },
  {
   "rank": 8,
@@ -61,7 +69,8 @@
   "soopId": "ooo9330",
   "sooniName": "진솔",
   "ballon": "179870",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "수니힐"
  },
  {
   "rank": 9,
@@ -69,7 +78,8 @@
   "soopId": "tpqhrdl",
   "sooniName": "권도연",
   "ballon": "166286",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "엔소울"
  },
  {
   "rank": 10,
@@ -77,7 +87,9 @@
   "soopId": "taeri0806",
   "sooniName": "태리츄",
   "ballon": "161104",
-  "grade": "실버"
+  "grade": "실버",
+  "position": "팀장",
+  "teamName": "블랙"
  },
  {
   "rank": 11,
@@ -85,7 +97,9 @@
   "soopId": "taezzang9",
   "sooniName": "태은짱",
   "ballon": "157142",
-  "grade": "실버"
+  "grade": "실버",
+  "position": "팀장",
+  "teamName": "기획"
  },
  {
   "rank": 12,
@@ -93,7 +107,8 @@
   "soopId": "tlswlgus95",
   "sooniName": "져리",
   "ballon": "147106",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "엔소울"
  },
  {
   "rank": 13,
@@ -101,7 +116,8 @@
   "soopId": "jha0331",
   "sooniName": "아띠",
   "ballon": "123780",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "블랙"
  },
  {
   "rank": 14,
@@ -109,7 +125,9 @@
   "soopId": "jieujieun11",
   "sooniName": "미캣",
   "ballon": "123156",
-  "grade": "실버"
+  "grade": "실버",
+  "position": "팀장",
+  "teamName": "엔소울"
  },
  {
   "rank": 15,
@@ -117,7 +135,8 @@
   "soopId": "churros05",
   "sooniName": "쮸러스",
   "ballon": "122071",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "화이트"
  },
  {
   "rank": 16,
@@ -125,7 +144,8 @@
   "soopId": "damikim",
   "sooniName": "퀸다미",
   "ballon": "121440",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "화이트"
  },
  {
   "rank": 17,
@@ -133,7 +153,8 @@
   "soopId": "vlfvlf789",
   "sooniName": "빵훈",
   "ballon": "120862",
-  "grade": "실버"
+  "grade": "실버",
+  "position": "사장"
  },
  {
   "rank": 18,
@@ -141,7 +162,9 @@
   "soopId": "skygkrtn",
   "sooniName": "김학수",
   "ballon": "120101",
-  "grade": "실버"
+  "grade": "실버",
+  "position": "팀장",
+  "teamName": "전략"
  },
  {
   "rank": 19,
@@ -149,7 +172,9 @@
   "soopId": "indy1028",
   "sooniName": "안예슬",
   "ballon": "113938",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "position": "팀장",
+  "teamName": "수니힐"
  },
  {
   "rank": 20,
@@ -157,7 +182,9 @@
   "soopId": "ekdus0830",
   "sooniName": "백다연",
   "ballon": "71280",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "수니힐",
+  "scaffold": "1"
  },
  {
   "rank": 21,
@@ -165,7 +192,8 @@
   "soopId": "1000song2",
   "sooniName": "강민아",
   "ballon": "68480",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "전략"
  },
  {
   "rank": 22,
@@ -173,7 +201,8 @@
   "soopId": "2boo2boo",
   "sooniName": "뚜부",
   "ballon": "67520",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "전략"
  },
  {
   "rank": 23,
@@ -181,7 +210,9 @@
   "soopId": "yoomingseo",
   "sooniName": "유복실",
   "ballon": "57679",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "블랙",
+  "scaffold": "3"
  },
  {
   "rank": 24,
@@ -189,7 +220,8 @@
   "soopId": "hjchu5871",
   "sooniName": "박아진",
   "ballon": "41020",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "전략"
  },
  {
   "rank": 25,
@@ -197,7 +229,8 @@
   "soopId": "qorhvk1365",
   "sooniName": "펭채은",
   "ballon": "35730",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "블랙"
  },
  {
   "rank": 26,
@@ -205,7 +238,9 @@
   "soopId": "sunwo254",
   "sooniName": "최깨비",
   "ballon": "33491",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "기획",
+  "scaffold": "2"
  },
  {
   "rank": 27,
@@ -213,7 +248,8 @@
   "soopId": "1000sagy",
   "sooniName": "선예",
   "ballon": "15160",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "수니힐"
  },
  {
   "rank": 28,
@@ -221,6 +257,7 @@
   "soopId": "asda9789",
   "sooniName": "황크",
   "ballon": "5200",
-  "grade": "브론즈"
+  "grade": "브론즈",
+  "teamName": "수니힐"
  }
 ]

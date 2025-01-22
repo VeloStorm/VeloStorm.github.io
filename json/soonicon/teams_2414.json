@@ -1,1 +1,66 @@
-{"sooniConDate":"2024-10-12","sooniConMission":"BEGIN AGAIN","teamDatas":[],"scaffold":{"soopId":"","sooniName":"","voteAll":"","voteYes":"","voteNo":""}}
+{
+ "sooniConDate": "2024-10-12",
+ "sooniConMission": "BEGIN AGAIN",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "ballon": 1475310
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "ballon": 1463335
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "ballon": 1162687
+  }
+ ],
+ "teamDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "teamName": "화이트",
+   "ballon": 1166485
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "teamName": "블랙",
+   "ballon": 873257
+  },
+  {
+   "rank": 3,
+   "company": "기획",
+   "teamName": "기획",
+   "ballon": 695173
+  },
+  {
+   "rank": 4,
+   "company": "엔터",
+   "teamName": "엔소울",
+   "ballon": 590078
+  },
+  {
+   "rank": 5,
+   "company": "기획",
+   "teamName": "전략",
+   "ballon": 467514
+  },
+  {
+   "rank": 6,
+   "company": "뮤직",
+   "teamName": "수니힐",
+   "ballon": 308825
+  }
+ ],
+ "scaffold": {
+  "soopId": "",
+  "sooniName": "",
+  "voteAll": "",
+  "voteYes": "",
+  "voteNo": ""
+ }
+}
