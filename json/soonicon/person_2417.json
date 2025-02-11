@@ -1,20 +1,20 @@
 [
  {
   "rank": 1,
-  "company": "뮤직",
-  "teamName": "화이트",
-  "soopId": "jyurim99",
-  "sooniName": "겸둥이",
-  "ballon": "594007"
- },
- {
-  "rank": 2,
   "company": "엔터",
   "position": "팀장",
   "teamName": "블랙",
   "soopId": "vlfvlf789",
   "sooniName": "빵훈",
-  "ballon": "515456"
+  "ballon": "773184"
+ },
+ {
+  "rank": 2,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "jyurim99",
+  "sooniName": "겸둥이",
+  "ballon": "594007"
  },
  {
   "rank": 3,
@@ -136,6 +136,14 @@
  },
  {
   "rank": 17,
+  "company": "뮤직",
+  "teamName": "수니힐",
+  "soopId": "witboy",
+  "sooniName": "슝슝이",
+  "ballon": "62214"
+ },
+ {
+  "rank": 18,
   "company": "엔터",
   "position": "사장",
   "teamName": "",
@@ -144,7 +152,7 @@
   "ballon": "59318"
  },
  {
-  "rank": 18,
+  "rank": 19,
   "company": "아트",
   "position": "사장",
   "soopId": "alwe1112",
@@ -152,7 +160,7 @@
   "ballon": "57080"
  },
  {
-  "rank": 19,
+  "rank": 20,
   "company": "아트",
   "teamName": "엔뮤즈",
   "soopId": "tpqhrdl",
@@ -160,7 +168,7 @@
   "ballon": "55700"
  },
  {
-  "rank": 20,
+  "rank": 21,
   "company": "뮤직",
   "teamName": "화이트",
   "soopId": "jha0331",
@@ -168,7 +176,7 @@
   "ballon": "54775"
  },
  {
-  "rank": 21,
+  "rank": 22,
   "company": "뮤직",
   "position": "팀장",
   "teamName": "수니힐",
@@ -177,7 +185,15 @@
   "ballon": "52889"
  },
  {
-  "rank": 22,
+  "rank": 23,
+  "company": "아트",
+  "teamName": "엔뮤즈",
+  "soopId": "rhwk518",
+  "sooniName": "혁찌니",
+  "ballon": "47776"
+ },
+ {
+  "rank": 24,
   "company": "엔터",
   "teamName": "엔소울",
   "soopId": "duaduddo",
@@ -185,15 +201,7 @@
   "ballon": "39430"
  },
  {
-  "rank": 23,
-  "company": "뮤직",
-  "teamName": "수니힐",
-  "soopId": "witboy",
-  "sooniName": "슝슝이",
-  "ballon": "31107"
- },
- {
-  "rank": 24,
+  "rank": 25,
   "company": "뮤직",
   "teamName": "수니힐",
   "soopId": "ekdus0830",
@@ -201,19 +209,12 @@
   "ballon": "29304"
  },
  {
-  "rank": 25,
-  "company": "아트",
-  "teamName": "엔뮤즈",
-  "soopId": "rhwk518",
-  "sooniName": "혁찌니",
-  "ballon": "23888"
- },
- {
   "rank": 26,
   "company": "엔터",
   "teamName": "엔소울",
   "soopId": "dockyong",
   "sooniName": "덕이형",
-  "ballon": "10091"
+  "ballon": "20182",
+  "grade": ""
  }
 ]

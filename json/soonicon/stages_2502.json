@@ -1,0 +1,124 @@
+[
+ {
+  "isUse": "Y",
+  "stageNo": 1,
+  "company": "",
+  "teamName": "",
+  "SongName": "트로트",
+  "SingerName": "에픽하이",
+  "stageKind": "노래",
+  "Members": "혁찌니,덕이형,슝슝이,이승빈",
+  "youtube": "https://youtu.be/Z4qvUzPGz4Y?feature=shared"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 2,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "SongName": "DRIP",
+  "SingerName": "BabyMonster",
+  "stageKind": "댄스",
+  "Members": "류하,강민아,겸둥이",
+  "youtube": "https://youtu.be/NcX259NCfHY?feature=shared"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 3,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "SongName": "Toxic Till the End",
+  "SingerName": "로제",
+  "stageKind": "노래",
+  "Members": "백다연,김미타",
+  "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=24709"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 4,
+  "company": "뮤직",
+  "teamName": "엔소울",
+  "SongName": "천상연",
+  "SingerName": "이창섭",
+  "stageKind": "노래",
+  "Members": "배그나,권도연",
+  "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=25512"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 5,
+  "company": "엔터",
+  "teamName": "블랙",
+  "SongName": "청바지",
+  "SingerName": "부석순",
+  "stageKind": "댄스",
+  "Members": "아띠,민서율,펭채은,홍쥬,뮤링",
+  "youtube": "https://youtu.be/Q1T3tC0chNs?feature=shared"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 6,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "SongName": "SPOT",
+  "SingerName": "지코",
+  "stageKind": "노래",
+  "Members": "슝슝이,백다연",
+  "Guests": "콧시",
+  "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=27088"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 7,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "SongName": "Rebel Heart",
+  "SingerName": "아이브",
+  "stageKind": "댄스",
+  "Members": "겸둥이,강민아,류하,서아,조이온",
+  "youtube": "https://youtu.be/m_8WfvDmrPo?feature=shared"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 8,
+  "company": "뮤직",
+  "teamName": "엔소울",
+  "SongName": "눈사람",
+  "SingerName": "정승환",
+  "stageKind": "노래",
+  "Members": "빡다혜,미캣,권도연",
+  "youtube": "https://youtu.be/f7kvrymZCoI?feature=shared"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 9,
+  "company": "엔터",
+  "teamName": "블랙",
+  "SongName": "Home Sweet Home",
+  "SingerName": "지드래곤",
+  "stageKind": "댄스",
+  "Members": "펭채은,민서율,아띠",
+  "youtube": "https://youtu.be/XjO5VMD0LkU?feature=shared"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 10,
+  "company": "뮤직",
+  "teamName": "엔소울",
+  "SongName": "여전히 아름다운지",
+  "SingerName": "김연우",
+  "stageKind": "노래",
+  "Members": "빡다혜,미캣,배그나,권도연",
+  "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=30435"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 11,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "SongName": "헤어지자 말해요",
+  "SingerName": "박재정",
+  "stageKind": "노래",
+  "Members": "디어리,소희,황크",
+  "youtube": "https://youtu.be/LkbxRH-iusk?feature=shared"
+ }
+]

@@ -2,6 +2,7 @@
   {
     "id":"SG_OPTION",
     "value": [
+      { "key":"K202417", "year":"2024", "round": "17" },
       { "key":"K202501", "year":"2025", "round": "01" },
       { "key":"K202502", "year":"2025", "round": "02" }
     ]

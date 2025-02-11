@@ -1,0 +1,70 @@
+{
+"SigList": [
+     {"sigValue":1000, "sigName":"UP (오프닝)", "imgId":2502001, "sigCount":202, "id":[{ "name":"아띠", "id":"150565437"}], "isNew":true }
+    ,{"sigValue":1000, "sigName":"HANDS UP (피버)", "imgId":2502002, "sigCount":137, "id":[{ "name":"펭채은", "id":"150565437"}], "isNew":true }
+    ,{"sigValue":1100, "sigName":"HOLD UP", "imgId":2502003, "sigCount":29, "id":[{ "name":"조이온", "id":"150558609"}], "isNew":false }
+    ,{"sigValue":1111, "sigName":"Emergency", "imgId":2502004, "sigCount":24, "id":[{ "name":"겸둥이", "id":"150572313"}], "isNew":false }
+    ,{"sigValue":1200, "sigName":"옴브리뉴", "imgId":2502005, "sigCount":9, "id":[{ "name":"아띠", "id":"150553867"}], "isNew":false }
+    ,{"sigValue":1220, "sigName":"마그네틱", "imgId":2502006, "sigCount":9, "id":[{ "name":"겸둥이", "id":"150568237"}], "isNew":false }
+    ,{"sigValue":1234, "sigName":"괜찮아 딩딩딩", "imgId":2502007, "sigCount":35, "id":[{ "name":"김미타", "id":"150562653"}], "isNew":false }
+    ,{"sigValue":1250, "sigName":"Gun Check", "imgId":2502008, "sigCount":2, "id":[{ "name":"지붕위소희", "id":"150568523"}], "isNew":false }
+    ,{"sigValue":1300, "sigName":"Pose", "imgId":2502009, "sigCount":17, "id":[{ "name":"빡다혜", "id":"150568523"}], "isNew":false }
+    ,{"sigValue":1330, "sigName":"NS Way", "imgId":2502010, "sigCount":1, "id":[{ "name":"겸둥이", "id":"150584477"}], "isNew":false }
+    ,{"sigValue":1350, "sigName":"킥드럼베이스", "imgId":2502011, "sigCount":3, "id":[{ "name":"아띠", "id":"150578131"}], "isNew":false }
+    ,{"sigValue":1400, "sigName":"구미베어", "imgId":2502012, "sigCount":4, "id":[{ "name":"권도연", "id":"150560141"}], "isNew":false }
+    ,{"sigValue":1430, "sigName":"교통정리", "imgId":2502013, "sigCount":2, "id":[{ "name":"배그나", "id":"150581793"}], "isNew":false }
+    ,{"sigValue":1444, "sigName":"빵빵챌린지", "imgId":2502014, "sigCount":4, "id":[{ "name":"강민아", "id":"150581637"}], "isNew":false }
+    ,{"sigValue":1450, "sigName":"오늘만 알라뷰", "imgId":2502015, "sigCount":14, "id":[{ "name":"겸둥이", "id":"150581137"}], "isNew":false }
+    ,{"sigValue":1470, "sigName":"자중해", "imgId":2502016, "sigCount":-1, "id":"X", "isNew":false }
+    ,{"sigValue":1500, "sigName":"공주들은 원래 그래", "imgId":2502017, "sigCount":37, "id":[{ "name":"홍쥬", "id":"150557403"}], "isNew":false }
+    ,{"sigValue":1530, "sigName":"디지는거야", "imgId":2502018, "sigCount":13, "id":[{ "name":"지붕위소희", "id":"150633011"}], "isNew":false }
+    ,{"sigValue":1555, "sigName":"T.K.T", "imgId":2502019, "sigCount":-1, "id":"X", "isNew":false }
+    ,{"sigValue":1570, "sigName":"키티켓", "imgId":2502020, "sigCount":4, "id":[{ "name":"지붕위소희", "id":"150633029"}], "isNew":false }
+    ,{"sigValue":1580, "sigName":"룩앳미", "imgId":2502021, "sigCount":1, "id":[{ "name":"겸둥이", "id":"150582401"}], "isNew":false }
+    ,{"sigValue":1600, "sigName":"왜요왜요", "imgId":2502022, "sigCount":4, "id":[{ "name":"강민아", "id":"150575013"}], "isNew":false }
+    ,{"sigValue":1650, "sigName":"슈퍼내추럴", "imgId":2502023, "sigCount":12, "id":[{ "name":"배그나", "id":"150576809"}], "isNew":false }
+    ,{"sigValue":1660, "sigName":"청바지", "imgId":2502024, "sigCount":7, "id":[{ "name":"민서율", "id":"150632665"}], "isNew":false }
+    ,{"sigValue":1680, "sigName":"역도", "imgId":2502025, "sigCount":6, "id":[{ "name":"빡다혜", "id":"150584179"}], "isNew":false }
+    ,{"sigValue":1700, "sigName":"Pedro", "imgId":2502026, "sigCount":3, "id":[{ "name":"류하", "id":"150632789"}], "isNew":false }
+    ,{"sigValue":1750, "sigName":"너와의 모든 지금", "imgId":2502027, "sigCount":15, "id":[{ "name":"겸둥이", "id":"150554553"}], "isNew":false }
+    ,{"sigValue":1777, "sigName":"나루토", "imgId":2502028, "sigCount":-1, "id":"X", "isNew":false }
+    ,{"sigValue":1800, "sigName":"푱푱", "imgId":2502029, "sigCount":4, "id":[{ "name":"겸둥이", "id":"150568329"}], "isNew":false }
+    ,{"sigValue":1818, "sigName":"WE'RE BACK", "imgId":2502030, "sigCount":3, "id":[{ "name":"펭채은", "id":"150577065"}], "isNew":false }
+    ,{"sigValue":1850, "sigName":"폼폼푸린", "imgId":2502031, "sigCount":3, "id":[{ "name":"펭채은", "id":"150632965"}], "isNew":false }
+    ,{"sigValue":1888, "sigName":"앙카", "imgId":2502032, "sigCount":-1, "id":"X", "isNew":false }
+    ,{"sigValue":1900, "sigName":"네모네모", "imgId":2502033, "sigCount":4, "id":[{ "name":"홍쥬", "id":"150561965"}], "isNew":false }
+    ,{"sigValue":1950, "sigName":"새끈빠끈", "imgId":2502034, "sigCount":1, "id":[{ "name":"남순", "id":"150583961"}], "isNew":false }
+    ,{"sigValue":1980, "sigName":"헨타이", "imgId":2502035, "sigCount":5, "id":[{ "name":"권도연", "id":"150565909"}], "isNew":false }
+    ,{"sigValue":2000, "sigName":"지그재그", "imgId":2502036, "sigCount":40, "id":[{ "name":"아띠", "id":"150563407"}], "isNew":false }
+    ,{"sigValue":2050, "sigName":"핑크레이디", "imgId":2502037, "sigCount":5, "id":[{ "name":"류하", "id":"150564931"}], "isNew":false }
+    ,{"sigValue":2100, "sigName":"Sexy Bomb", "imgId":2502038, "sigCount":2, "id":[{ "name":"강민아", "id":"150633077"}], "isNew":false }
+    ,{"sigValue":2121, "sigName":"레디올낫", "imgId":2502039, "sigCount":1, "id":[{ "name":"류하", "id":"150562371"}], "isNew":false }
+    ,{"sigValue":2200, "sigName":"Attack Gun", "imgId":2502040, "sigCount":8, "id":[{ "name":"아띠", "id":"150556825"}], "isNew":false }
+    ,{"sigValue":2222, "sigName":"홈스윗홈", "imgId":2502041, "sigCount":28, "id":[{ "name":"지붕위소희", "id":"150632847"}], "isNew":false }
+    ,{"sigValue":2345, "sigName":"XXX", "imgId":2502042, "sigCount":1, "id":[{ "name":"강민아", "id":"150633125"}], "isNew":false }
+    ,{"sigValue":2400, "sigName":"위플래쉬", "imgId":2502043, "sigCount":11, "id":[{ "name":"민서율", "id":"150571829"}], "isNew":false }
+    ,{"sigValue":2500, "sigName":"W.T.F", "imgId":2502044, "sigCount":7, "id":[{ "name":"민서율", "id":"150572073"}], "isNew":false }
+    ,{"sigValue":2555, "sigName":"코카인", "imgId":2502045, "sigCount":1, "id":[{ "name":"민서율", "id":"150571955"}], "isNew":false }
+    ,{"sigValue":2590, "sigName":"L.S.D", "imgId":2502046, "sigCount":2, "id":[{ "name":"조이온", "id":"150633591"}], "isNew":false }
+    ,{"sigValue":2600, "sigName":"터미널", "imgId":2502047, "sigCount":12, "id":[{ "name":"권도연", "id":"150559649"}], "isNew":false }
+    ,{"sigValue":2700, "sigName":"오렌지디스코", "imgId":2502048, "sigCount":2, "id":[{ "name":"배그나", "id":"150572617"}], "isNew":false }
+    ,{"sigValue":2750, "sigName":"우치다", "imgId":2502049, "sigCount":-1, "id":"X", "isNew":false }
+    ,{"sigValue":3000, "sigName":"판타스틱 베이비", "imgId":2502050, "sigCount":74, "id":[{ "name":"배그나", "id":"150560325"}], "isNew":false }
+    ,{"sigValue":3050, "sigName":"Say Yes", "imgId":2502051, "sigCount":-1, "id":"X", "isNew":false }
+    ,{"sigValue":3333, "sigName":"간바레 쎈빠이", "imgId":2502052, "sigCount":6, "id":[{ "name":"지붕위소희", "id":"150575343"}], "isNew":false }
+    ,{"sigValue":3500, "sigName":"Rich", "imgId":2502053, "sigCount":2, "id":[{ "name":"아띠", "id":"150568159"}], "isNew":false }
+    ,{"sigValue":4000, "sigName":"파티락킹", "imgId":2502054, "sigCount":8, "id":[{ "name":"아띠", "id":"150555285"}], "isNew":false }
+    ,{"sigValue":4444, "sigName":"아헤가오", "imgId":2502055, "sigCount":-1, "id":"X", "isNew":false }
+    ,{"sigValue":5000, "sigName":"나르코", "imgId":2502056, "sigCount":88, "id":[{ "name":"류하", "id":"150561227"}], "isNew":false }
+    ,{"sigValue":6000, "sigName":"코코로", "imgId":2502057, "sigCount":9, "id":[{ "name":"류하", "id":"150565137"}], "isNew":false }
+    ,{"sigValue":7000, "sigName":"샤카붐", "imgId":2502058, "sigCount":3, "id":[{ "name":"황크리스탈", "id":"150575167"}], "isNew":false }
+    ,{"sigValue":8000, "sigName":"DERP", "imgId":2502059, "sigCount":2, "id":[{ "name":"디어리", "id":"150559181"}], "isNew":false }
+    ,{"sigValue":8888, "sigName":"SPECTER", "imgId":2502060, "sigCount":2, "id":[{ "name":"펭채은", "id":"150577219"}], "isNew":false }
+    ,{"sigValue":9000, "sigName":"보라빛밤", "imgId":2502061, "sigCount":17, "id":[{ "name":"겸둥이", "id":"150568427"}], "isNew":false }
+    ,{"sigValue":10000, "sigName":"Atmosphere", "imgId":2502062, "sigCount":84, "id":[{ "name":"겸둥이", "id":"150557691"}], "isNew":false }
+    ,{"sigValue":10001, "sigName":"VIP", "imgId":2502066, "sigCount":-1, "id":[{ "name":"펭채은", "id":"150795405"}], "isNew":false }    
+    ,{"sigValue":12486, "sigName":"남순로겐", "imgId":2502063, "sigCount":12, "id":[{ "name":"황크리스탈", "id":"150564579"}], "isNew":false }
+    ,{"sigValue":20000, "sigName":"GET IT", "imgId":2502064, "sigCount":14, "id":[{ "name":"강민아", "id":"150561045"}], "isNew":false }
+    ,{"sigValue":30000, "sigName":"런투더스카이", "imgId":2502065, "sigCount":36, "id":[{ "name":"배그나", "id":"150557593"}], "isNew":false }
+]
+}
