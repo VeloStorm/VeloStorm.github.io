@@ -1,7 +1,7 @@
 {
 "SigList": [
      {"sigValue":1000, "sigName":"UP (오프닝)", "imgId":2502001, "sigCount":202, "id":[{ "name":"아띠", "id":"150565437"}], "isNew":true }
-    ,{"sigValue":1000, "sigName":"HANDS UP (피버)", "imgId":2502002, "sigCount":137, "id":[{ "name":"펭채은", "id":"150565437"}], "isNew":true }
+    ,{"sigValue":1000, "sigName":"HANDS UP (피버)", "imgId":2502002, "sigCount":137, "id":[{ "name":"아띠", "id":"150565437"}], "isNew":true }
     ,{"sigValue":1100, "sigName":"HOLD UP", "imgId":2502003, "sigCount":29, "id":[{ "name":"조이온", "id":"150558609"}], "isNew":false }
     ,{"sigValue":1111, "sigName":"Emergency", "imgId":2502004, "sigCount":24, "id":[{ "name":"겸둥이", "id":"150572313"}], "isNew":false }
     ,{"sigValue":1200, "sigName":"옴브리뉴", "imgId":2502005, "sigCount":9, "id":[{ "name":"아띠", "id":"150553867"}], "isNew":false }
