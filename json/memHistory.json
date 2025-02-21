@@ -7,7 +7,8 @@
   "enterDate": "2024-08-01",
   "kind": "수니그룹",
   "id": 1,
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "remark": "",
@@ -17,7 +18,8 @@
   "outDate": "2024-07-01",
   "kind": "수니그룹",
   "id": 2,
-  "outKind": "정직원실패"
+  "outKind": "정직원실패",
+  "status": "N"
  },
  {
   "remark": null,
@@ -26,16 +28,18 @@
   "outDate": null,
   "soopId": "1000song2",
   "kind": "수니그룹",
-  "id": 3
+  "id": 3,
+  "status": "Y"
  },
  {
   "remark": "",
   "sooniName": "황크",
   "soopId": "asda9789",
   "enterDate": "2024-07-31",
-  "outDate": "2024-12-03",
+  "outDate": "",
   "kind": "수니그룹",
-  "id": 4
+  "id": 4,
+  "status": "Y"
  },
  {
   "sooniName": "오쭈",
@@ -84,7 +88,8 @@
   "remark": null,
   "outDate": null,
   "kind": "수니그룹",
-  "id": 9
+  "id": 9,
+  "status": "Y"
  },
  {
   "sooniName": "쮸러스",
@@ -153,7 +158,8 @@
   "remark": null,
   "soopId": "dkjfke",
   "kind": "수니그룹",
-  "id": 16
+  "id": 16,
+  "status": "Y"
  },
  {
   "outDate": null,
@@ -162,7 +168,8 @@
   "soopId": "dmswjd326",
   "enterDate": "2025-01-21",
   "kind": "수니그룹",
-  "id": 17
+  "id": 17,
+  "status": "Y"
  },
  {
   "soopId": "dockyong",
@@ -181,7 +188,8 @@
   "enterDate": "2024-11-21",
   "outDate": null,
   "kind": "수니그룹",
-  "id": 19
+  "id": 19,
+  "status": "Y"
  },
  {
   "soopId": "domangcha13",
@@ -197,10 +205,11 @@
   "enterDate": "2024-11-05",
   "remark": "",
   "soopId": "duaduddo",
-  "outDate": "2024-12-04",
+  "outDate": "",
   "sooniName": "김미타",
   "kind": "수니그룹",
-  "id": 21
+  "id": 21,
+  "status": "Y"
  },
  {
   "remark": null,
@@ -209,7 +218,8 @@
   "soopId": "ekdus0830",
   "enterDate": "2024-02-17",
   "kind": "수니그룹",
-  "id": 22
+  "id": 22,
+  "status": "Y"
  },
  {
   "enterDate": "2025-01-21",
@@ -238,7 +248,8 @@
   "sooniName": "배그나",
   "outDate": null,
   "kind": "수니그룹",
-  "id": 25
+  "id": 25,
+  "status": "Y"
  },
  {
   "remark": "단두대 퇴출",
@@ -267,7 +278,8 @@
   "soopId": "hyebin7258",
   "sooniName": "디어리",
   "kind": "수니그룹",
-  "id": 28
+  "id": 28,
+  "status": "Y"
  },
  {
   "soopId": "hyn8210",
@@ -276,7 +288,8 @@
   "outDate": null,
   "remark": "영입",
   "kind": "수니게임즈",
-  "id": 29
+  "id": 29,
+  "status": "Y"
  },
  {
   "sooniName": "안예슬띠",
@@ -285,7 +298,8 @@
   "soopId": "indy1028",
   "remark": null,
   "kind": "수니그룹",
-  "id": 30
+  "id": 30,
+  "status": "Y"
  },
  {
   "enterDate": "2024-08-22",
@@ -304,7 +318,8 @@
   "sooniName": "아띠",
   "outDate": null,
   "kind": "수니그룹",
-  "id": 32
+  "id": 32,
+  "status": "Y"
  },
  {
   "enterDate": "2024-10-29",
@@ -313,7 +328,8 @@
   "sooniName": "헤니",
   "outDate": null,
   "kind": "수니게임즈",
-  "id": 33
+  "id": 33,
+  "status": "Y"
  },
  {
   "sooniName": "미캣",
@@ -322,7 +338,8 @@
   "outDate": null,
   "enterDate": "2023-03-02",
   "kind": "수니그룹",
-  "id": 34
+  "id": 34,
+  "status": "Y"
  },
  {
   "sooniName": "겸둥이",
@@ -331,7 +348,8 @@
   "remark": null,
   "outDate": null,
   "kind": "수니그룹",
-  "id": 35
+  "id": 35,
+  "status": "Y"
  },
  {
   "outDate": null,
@@ -340,7 +358,8 @@
   "sooniName": "조이온",
   "enterDate": "2025-01-21",
   "kind": "수니그룹",
-  "id": 36
+  "id": 36,
+  "status": "Y"
  },
  {
   "soopId": "kchoij",
@@ -389,7 +408,8 @@
   "sooniName": "이승빈",
   "outDate": null,
   "kind": "수니그룹",
-  "id": 41
+  "id": 41,
+  "status": "Y"
  },
  {
   "soopId": "naian0109",
@@ -398,7 +418,8 @@
   "enterDate": "2025-01-21",
   "sooniName": "치비",
   "kind": "수니그룹",
-  "id": 42
+  "id": 42,
+  "status": "Y"
  },
  {
   "outDate": "2024-05-21",
@@ -467,7 +488,8 @@
   "soopId": "qorhvk1365",
   "remark": null,
   "kind": "수니그룹",
-  "id": 49
+  "id": 49,
+  "status": "Y"
  },
  {
   "sooniName": "혁찌니",
@@ -476,7 +498,8 @@
   "soopId": "rhwk518",
   "remark": null,
   "kind": "수니그룹",
-  "id": 50
+  "id": 50,
+  "status": "Y"
  },
  {
   "soopId": "rkdtnwls0718",
@@ -495,7 +518,8 @@
   "enterDate": "2022-12-04",
   "outDate": null,
   "kind": "수니그룹",
-  "id": 52
+  "id": 52,
+  "status": "Y"
  },
  {
   "soopId": "sky2713",
@@ -504,7 +528,8 @@
   "remark": null,
   "sooniName": "나는상윤",
   "kind": "수니게임즈",
-  "id": 53
+  "id": 53,
+  "status": "Y"
  },
  {
   "soopId": "skygkrtn",
@@ -543,7 +568,8 @@
   "outDate": null,
   "sooniName": "태은짱",
   "kind": "수니그룹",
-  "id": 57
+  "id": 57,
+  "status": "Y"
  },
  {
   "remark": "개인사유",
@@ -562,7 +588,8 @@
   "enterDate": "2023-11-08",
   "outDate": null,
   "kind": "수니그룹",
-  "id": 59
+  "id": 59,
+  "status": "Y"
  },
  {
   "sooniName": "져리",
@@ -591,7 +618,8 @@
   "enterDate": "2023-12-08",
   "remark": null,
   "kind": "수니그룹",
-  "id": 62
+  "id": 62,
+  "status": "Y"
  },
  {
   "enterDate": "2024-08-22",
@@ -640,7 +668,8 @@
   "enterDate": "2024-11-21",
   "soopId": "witboy",
   "kind": "수니그룹",
-  "id": 67
+  "id": 67,
+  "status": "Y"
  },
  {
   "sooniName": "남순",
@@ -649,7 +678,8 @@
   "enterDate": "2022-11-30",
   "remark": null,
   "kind": "수니그룹",
-  "id": 68
+  "id": 68,
+  "status": "Y"
  },
  {
   "enterDate": "2024-10-29",
@@ -658,7 +688,8 @@
   "remark": null,
   "sooniName": "냥슬",
   "kind": "수니게임즈",
-  "id": 69
+  "id": 69,
+  "status": "Y"
  },
  {
   "sooniName": "별비",
@@ -667,7 +698,8 @@
   "outDate": null,
   "enterDate": "2025-01-28",
   "kind": "수니게임즈",
-  "id": 70
+  "id": 70,
+  "status": "Y"
  },
  {
   "outDate": "2024-12-17",
@@ -690,13 +722,14 @@
   "outKind": "자진퇴사"
  },
  {
-  "outDate": null,
-  "remark": "",
+  "outDate": "2025-02-20",
+  "remark": "게임즈 > 댄스팀 전향",
   "sooniName": "깅예솔",
   "enterDate": "2024-11-08",
   "soopId": "yunhee1222",
   "kind": "수니게임즈",
-  "id": 73
+  "id": 73,
+  "outKind": "조직변경"
  },
  {
   "enterDate": "2025-01-21",
@@ -705,6 +738,44 @@
   "sooniName": "유즈",
   "remark": "25.01.22 통합오디션",
   "kind": "수니그룹",
-  "id": 74
+  "id": 74,
+  "status": "Y"
+ },
+ {
+  "soopId": "byunseo456",
+  "sooniName": "설유은",
+  "kind": "수니그룹",
+  "enterDate": "2025-02-14",
+  "remark": "25.02.14 개별면접",
+  "id": 78,
+  "status": "Y"
+ },
+ {
+  "soopId": "shtndk5",
+  "sooniName": "노두식",
+  "kind": "수니그룹",
+  "enterDate": "2025-02-14",
+  "remark": "25.02.14 개별면접",
+  "id": 79,
+  "status": "Y"
+ },
+ {
+  "soopId": "nhxoxo17",
+  "sooniName": "이나현",
+  "kind": "수니그룹",
+  "enterDate": "2025-02-14",
+  "remark": "25.02.14 개별면접",
+  "id": 81,
+  "outDate": "2025-02-20",
+  "outKind": "자진퇴사"
+ },
+ {
+  "soopId": "yunhee1222",
+  "sooniName": "깅예솔",
+  "id": 82,
+  "kind": "수니그룹",
+  "enterDate": "2025-02-20",
+  "remark": "게임즈 > 댄스팀 전향",
+  "status": "Y"
  }
 ]

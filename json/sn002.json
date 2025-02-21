@@ -575,13 +575,14 @@
   "activeFlag": "Y",
   "createDate": "2025-02-15 08:50:29",
   "enterDate": "2025-02-14",
+  "outDate": "2025-02-20",
   "no": 1,
   "outDate": null,
   "remark": null,
   "sooniCompany": "수니그룹",
   "sooniName": "이나현",
   "soopId": "nhxoxo17",
-  "status": "Y",
+  "status": "N",
   "updateDate": "2025-02-15 08:50:29"
  },
  {
@@ -975,17 +976,30 @@
   "createDate": "2024-10-31 15:12:38"
  },
  {
-  "outDate": null,
+  "outDate": "2025-02-20",
   "activeFlag": "Y",
   "sooniCompany": "수니게임즈",
   "updateDate": "2024-12-02 21:37:29",
   "sooniName": "깅예솔",
-  "remark": "",
-  "status": "Y",
+  "remark": "게임즈 > 댄스팀 전향",
+  "status": "N",
   "soopId": "yunhee1222",
   "createDate": "2024-11-08 09:10:40",
   "enterDate": "2024-11-08",
   "no": 2
+ },
+ {
+  "outDate": null,
+  "activeFlag": "Y",
+  "sooniCompany": "수니그룹",
+  "updateDate": "2024-12-02 21:37:29",
+  "sooniName": "깅예솔",
+  "remark": "게임즈 > 댄스팀 전향",
+  "status": "Y",
+  "soopId": "yunhee1222",
+  "createDate": "2024-11-08 09:10:40",
+  "enterDate": "2025-02-20",
+  "no": 3
  },
  {
   "sooniName": "유즈",
