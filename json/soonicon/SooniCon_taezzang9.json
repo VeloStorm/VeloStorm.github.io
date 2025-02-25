@@ -1,0 +1,285 @@
+{
+ "sooniName": "태은짱",
+ "namu": "태은",
+ "remark": "라니아",
+ "team": null,
+ "company": null,
+ "updateDate": "2025-02-14 10:50:04",
+ "sex": "W",
+ "instargram": "bellbaebae",
+ "medal": "best",
+ "grade": "실버",
+ "personName": "이태은",
+ "birthday": "1993-09-24",
+ "soopId": "taezzang9",
+ "manager": "",
+ "mbti": "INFJ",
+ "status": "Y",
+ "blood": "A",
+ "position": "휴직",
+ "youtube": "@TAETUBE",
+ "soopName": "태은짱",
+ "broadCast": "2023-09-11",
+ "tall": "171",
+ "activeFlag": "Y",
+ "weight": "51",
+ "sooniEngName": "TaeEun",
+ "sooniCompany": "수니그룹",
+ "createDate": "2024-10-31 12:26:26",
+ "stages": [
+  {
+   "date": "2024년 03월 16일",
+   "date2": "2024-03-16",
+   "nYear": "2024",
+   "nRound": "04",
+   "round": "24년 4회",
+   "mission": "Egg Roulette (쿼터파이널 I)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "엔터",
+     "SongName": "BOP BOP!",
+     "SingerName": "비비지",
+     "Members": "눈또,퀸다미",
+     "Guests": "태은짱",
+     "youtube": "https://youtu.be/uShPO7xkYVw?si=XyBK43GkqX7Vwsj6&t=241",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 05월 18일",
+   "date2": "2024-05-18",
+   "nYear": "2024",
+   "nRound": "07",
+   "round": "24년 7회",
+   "mission": "싸이월드",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "엔터",
+     "SongName": "SIGN",
+     "SingerName": "브라운 아이드 걸스",
+     "Members": "태은짱,태리츄,민서율,설하,강민아",
+     "youtube": "https://youtu.be/yc32zDIEIEA?si=c53yTZCH7lHQb0Ce&t=129",
+     "teamName": "블랙",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 12,
+     "company": "엔터",
+     "SongName": "DIVA",
+     "SingerName": "애프터스쿨",
+     "Members": "설하,강민아,태은짱,민서율,태리츄",
+     "youtube": "https://youtu.be/yc32zDIEIEA?si=ko51mJW1GhWnBQH5&t=535",
+     "teamName": "블랙",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 06월 29일",
+   "date2": "2024-06-29",
+   "nYear": "2024",
+   "nRound": "09",
+   "round": "24년 9회",
+   "mission": "유닛대전 (쿼터파이널 II)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 12,
+     "company": "뮤직",
+     "SongName": "River",
+     "SingerName": "Bishop Briggs",
+     "Members": "민서율,태은짱",
+     "soopVod": "https://vod.sooplive.co.kr/player/129008899?change_second=45098",
+     "teamName": "법뀨",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 07월 20일",
+   "date2": "2024-07-20",
+   "nYear": "2024",
+   "nRound": "10",
+   "round": "24년 10회",
+   "mission": "ON AND OFF",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "닥터필굿",
+     "SingerName": "라니아",
+     "Members": "태은짱,강민아,도원,태리츄",
+     "youtube": "https://youtu.be/2xWQWvyvP50?si=7110AQ-wC65RWqw5",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "WET & WILD (MV)",
+     "SingerName": "백호",
+     "Members": "아띠,강민아,태은짱",
+     "Guests": "남순,김학수,박아진,댄서 임나은",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/130980355?change_second=32531",
+     "stageKind": "연기"
+    }
+   ]
+  },
+  {
+   "date": "2024년 08월 31일",
+   "date2": "2024-08-31",
+   "nYear": "2024",
+   "nRound": "12",
+   "round": "24년 12회",
+   "mission": "First Love",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "성인식",
+     "SingerName": "박지윤",
+     "Members": "태은짱,강민아,도원,설하",
+     "Guests": "",
+     "youtube": "https://youtu.be/6nQNqAswCDM?si=hApVwlDJ4AyjJx4E",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "Destiny (퀀덤버전)",
+     "SingerName": "오마이걸",
+     "Members": "태은짱,설하,도원,강민아",
+     "youtube": "https://youtu.be/nAKWFQn-9II?si=Lgk0zBXsYPBqk6iZ",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 09월 21일",
+   "date2": "2024-09-21",
+   "nYear": "2024",
+   "nRound": "13",
+   "round": "24년 13회",
+   "mission": "Hero (쿼터파이널 III)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "뮤직",
+     "SongName": "Money",
+     "SingerName": "리사",
+     "Members": "도원,태은짱,백다연,유복실,박아진,겸둥이",
+     "soopVod": "https://vod.sooplive.co.kr/player/136993359",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 10월 12일",
+   "date2": "2024-10-12",
+   "nYear": "2024",
+   "nRound": "14",
+   "round": "24년 14회",
+   "mission": "BEGIN AGAIN",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "Helicopter",
+     "SingerName": "CLC",
+     "Members": "도원,아띠,오쭈,태은짱,박아진",
+     "soopVod": "https://vod.sooplive.co.kr/player/139075077?change_second=20815",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "으르렁",
+     "SingerName": "엑소",
+     "Members": "도원,아띠,태은짱,오쭈,뚜부",
+     "soopVod": "https://vod.sooplive.co.kr/player/139075077?change_second=26669",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 11월 02일",
+   "date2": "2024-11-02",
+   "nYear": "2024",
+   "nRound": "15",
+   "round": "24년 15회",
+   "mission": "Zero-Sum Game",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "아트",
+     "teamName": "그레이",
+     "SongName": "Fire",
+     "SingerName": "투애니원",
+     "Members": "태은짱,태리츄,겸둥이,강민아",
+     "youtube": "https://youtu.be/r5or6ydwXgQ?si=jA-yNACGkc1krgv8",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 12월 13일",
+   "date2": "2024-12-13",
+   "nYear": "2024",
+   "nRound": "16",
+   "round": "24년 16회",
+   "mission": "Dispatch",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "teamName": "블랙",
+     "SongName": "Now",
+     "SingerName": "핑클",
+     "Members": "강민아,선예,펭채은,도원,태은짱",
+     "soopVod": "https://vod.sooplive.co.kr/player/143156821?change_second=27495",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2025년 01월 05일",
+   "date2": "2025-01-05",
+   "nYear": "2025",
+   "nRound": "01",
+   "round": "25년 1회",
+   "mission": "오징어",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 10,
+     "teamName": "길구짧구",
+     "SongName": "상사화",
+     "SingerName": "안예은",
+     "stageKind": "노래",
+     "Members": "태은짱,황크",
+     "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=28185"
+    }
+   ]
+  }
+ ]
+}

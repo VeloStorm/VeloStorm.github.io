@@ -1,1 +1,120 @@
-[{"isUse":"Y","stageNo":1,"company":"기획","SongName":"DANCE IS MY LIFE EP.1","SingerName":"-","Members":"","soopVod":"https://vod.sooplive.co.kr/player/132941271?change_second=12711"},{"isUse":"Y","stageNo":2,"company":"엔터","teamName":"엔소울","SongName":"UGLY + GO AWAY","SingerName":"투애니원","Members":"미캣,져리,권도연,소희","youtube":"https://youtu.be/Rms6sh04uNY?si=HQ6NHLXh4oXGWjX5"},{"isUse":"Y","stageNo":3,"company":"뮤직","teamName":"화이트","SongName":"소리꾼 + 해야","SingerName":"스트레이키즈,아이브","Members":"겸둥이,퀸다미,민서율,오쭈,쮸러스","youtube":"https://youtu.be/RTFwelh89vU?si=GcdCHZXwOvnQjYzG"},{"isUse":"Y","stageNo":4,"company":"기획","SongName":"DANCE IS MY LIFE EP.2","SingerName":"-","youtube":"","soopVod":"https://vod.sooplive.co.kr/player/132941271?change_second=20979"},{"isUse":"Y","stageNo":5,"company":"엔터","teamName":"블랙","SongName":"POP/STARS + PARANOIA","SingerName":"K/DA+HEARTSTEEL","Members":"태리츄,아띠,유복실,도원","soopVod":"https://vod.sooplive.co.kr/player/132941271?change_second=23613"},{"isUse":"Y","stageNo":6,"company":"뮤직","teamName":"수니힐","SongName":"THIS IS ME + KUNG FU FIGHTING","SingerName":"위대한 쇼맨 OST + 쿵푸팬더 OST","Members":"안예슬,진솔,백다연,선예,황크","Guests":"림크스,덕이형","youtube":"https://youtu.be/EZ5XWzIQE_A?si=-VncSICuFhtjO8EC"},{"isUse":"Y","stageNo":7,"company":"엔터","teamName":"엔소울","SongName":"Y + 사계","SingerName":"프리스타일+태연","Members":"엔소울 미캣,져리,권도연","youtube":"https://youtu.be/tk5WuiPphak?si=qtzF7IiKG7b9CfBK"},{"isUse":"Y","stageNo":8,"company":"뮤직","teamName":"화이트","SongName":"너 그리고 나 + 시간을 달려서","SingerName":"여자친구","Members":"겸둥이,퀸다미,민서율,오쭈,쮸러스","youtube":"https://youtu.be/s-98xLeTyoE?si=-pBmRbMX2z1gYGCj"},{"isUse":"Y","stageNo":9,"company":"기획","SongName":"DANCE IS MY LIFE EP.3","SingerName":"-","soopVod":"https://vod.sooplive.co.kr/player/132941271?change_second=33140"},{"isUse":"Y","stageNo":10,"company":"엔터","teamName":"블랙","SongName":"MANIAC + 특","SingerName":"스트레이키즈","Members":"태리츄,아띠,펭채은,유복실,도원","youtube":"https://youtu.be/iMyQKdl_nJk?si=JngANun53ETwBRLF"},{"isUse":"Y","stageNo":11,"company":"뮤직","teamName":"수니힐","SongName":"BELIEVER + ENEMY","SingerName":"이매진 드래곤스","Members":"안예슬,백다연","youtube":"https://youtu.be/F-uFoA1zB8c?si=cQDUNcOqeMzmdJUp"}]
+[
+ {
+  "isUse": "Y",
+  "stageNo": 1,
+  "company": "기획",
+  "SongName": "DANCE IS MY LIFE EP.1",
+  "SingerName": "영상",
+  "Members": "",
+  "soopVod": "https://vod.sooplive.co.kr/player/132941271?change_second=12711",
+  "stageKind": "연기"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 2,
+  "company": "엔터",
+  "teamName": "엔소울",
+  "SongName": "UGLY + GO AWAY",
+  "SingerName": "투애니원",
+  "Members": "미캣,져리,권도연,소희",
+  "youtube": "https://youtu.be/Rms6sh04uNY?si=HQ6NHLXh4oXGWjX5",
+  "stageKind": "노래"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 3,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "SongName": "소리꾼 + 해야",
+  "SingerName": "스트레이키즈,아이브",
+  "Members": "겸둥이,퀸다미,민서율,오쭈,쮸러스",
+  "youtube": "https://youtu.be/RTFwelh89vU?si=GcdCHZXwOvnQjYzG",
+  "stageKind": "댄스"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 4,
+  "company": "기획",
+  "SongName": "DANCE IS MY LIFE EP.2",
+  "SingerName": "영상",
+  "youtube": "",
+  "soopVod": "https://vod.sooplive.co.kr/player/132941271?change_second=20979",
+  "stageKind": "연기"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 5,
+  "company": "엔터",
+  "teamName": "블랙",
+  "SongName": "POP/STARS + PARANOIA",
+  "SingerName": "K/DA+HEARTSTEEL",
+  "Members": "태리츄,아띠,유복실,도원",
+  "soopVod": "https://vod.sooplive.co.kr/player/132941271?change_second=23613",
+  "stageKind": "댄스"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 6,
+  "company": "뮤직",
+  "teamName": "수니힐",
+  "SongName": "THIS IS ME + KUNG FU FIGHTING",
+  "SingerName": "위대한 쇼맨 OST + 쿵푸팬더 OST",
+  "Members": "안예슬,진솔,백다연,선예,황크",
+  "Guests": "림크스,덕이형",
+  "youtube": "https://youtu.be/EZ5XWzIQE_A?si=-VncSICuFhtjO8EC",
+  "stageKind": "노래"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 7,
+  "company": "엔터",
+  "teamName": "엔소울",
+  "SongName": "Y + 사계",
+  "SingerName": "프리스타일+태연",
+  "Members": "엔소울 미캣,져리,권도연",
+  "youtube": "https://youtu.be/tk5WuiPphak?si=qtzF7IiKG7b9CfBK",
+  "stageKind": "노래"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 8,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "SongName": "너 그리고 나 + 시간을 달려서",
+  "SingerName": "여자친구",
+  "Members": "겸둥이,퀸다미,민서율,오쭈,쮸러스",
+  "youtube": "https://youtu.be/s-98xLeTyoE?si=-pBmRbMX2z1gYGCj",
+  "stageKind": "댄스"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 9,
+  "company": "기획",
+  "SongName": "DANCE IS MY LIFE EP.3",
+  "SingerName": "영상",
+  "soopVod": "https://vod.sooplive.co.kr/player/132941271?change_second=33140",
+  "stageKind": "연기"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 10,
+  "company": "엔터",
+  "teamName": "블랙",
+  "SongName": "MANIAC + 특",
+  "SingerName": "스트레이키즈",
+  "Members": "태리츄,아띠,펭채은,유복실,도원",
+  "youtube": "https://youtu.be/iMyQKdl_nJk?si=JngANun53ETwBRLF",
+  "stageKind": "댄스"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 11,
+  "company": "뮤직",
+  "teamName": "수니힐",
+  "SongName": "BELIEVER + ENEMY",
+  "SingerName": "이매진 드래곤스",
+  "Members": "안예슬,백다연",
+  "youtube": "https://youtu.be/F-uFoA1zB8c?si=cQDUNcOqeMzmdJUp",
+  "stageKind": "노래"
+ }
+]

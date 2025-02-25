@@ -1,0 +1,74 @@
+{
+ "remark": null,
+ "soopName": "혁찌니",
+ "mbti": null,
+ "birthday": "1993-05-18",
+ "blood": "B",
+ "company": "수니뮤직",
+ "manager": null,
+ "broadCast": null,
+ "position": "",
+ "sooniCompany": "수니그룹",
+ "youtube": "@phj6174",
+ "updateDate": "2025-02-14 10:44:59",
+ "status": "Y",
+ "namu": "혁찌니",
+ "sooniEngName": "",
+ "sex": "M",
+ "team": "엔소울",
+ "soopId": "rhwk518",
+ "instargram": "phj_band",
+ "personName": "박혁진",
+ "activeFlag": "Y",
+ "weight": null,
+ "createDate": "2024-11-22 16:02:43",
+ "grade": "실버",
+ "tall": "174",
+ "sooniName": "혁찌니",
+ "medal": "best",
+ "stages": [
+  {
+   "date": "2025년 01월 05일",
+   "date2": "2025-01-05",
+   "nYear": "2025",
+   "nRound": "01",
+   "round": "25년 1회",
+   "mission": "오징어",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "teamName": "기린표_곰보시멘트",
+     "SongName": "봉숙이",
+     "SingerName": "장미여관",
+     "stageKind": "노래",
+     "Members": "미캣,혁찌니",
+     "Guests": "혁찌니밴드,소유랑",
+     "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=20538",
+     "youtube": "https://youtu.be/T0dBBG-kc4s?si=9Ghx5up9y4uqegm3"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "",
+     "teamName": "",
+     "SongName": "트로트",
+     "SingerName": "에픽하이",
+     "stageKind": "노래",
+     "Members": "혁찌니,덕이형,슝슝이,이승빈",
+     "youtube": "https://youtu.be/Z4qvUzPGz4Y?feature=shared"
+    }
+   ]
+  }
+ ]
+}

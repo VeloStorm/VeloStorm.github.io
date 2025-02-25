@@ -1,0 +1,54 @@
+{
+ "updateDate": "2025-02-22 21:49:08",
+ "tall": "161",
+ "birthday": "2000-11-13",
+ "personName": "",
+ "soopName": "뮤링",
+ "company": "수니뮤직",
+ "soopId": "dmswjd326",
+ "createDate": "2025-01-22 10:48:24",
+ "activeFlag": "Y",
+ "mbti": [
+  "ENTJ"
+ ],
+ "position": "",
+ "status": "Y",
+ "sex": "W",
+ "grade": "실버",
+ "weight": "46",
+ "medal": "basic",
+ "blood": "AB",
+ "sooniCompany": "수니그룹",
+ "youtube": null,
+ "remark": null,
+ "sooniEngName": null,
+ "instargram": null,
+ "team": "화이트",
+ "broadCast": "2024-11-19",
+ "sooniName": "뮤링",
+ "namu": null,
+ "manager": null,
+ "stages": [
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "청바지",
+     "SingerName": "부석순",
+     "stageKind": "댄스",
+     "Members": "아띠,민서율,펭채은,홍쥬,뮤링",
+     "youtube": "https://youtu.be/Q1T3tC0chNs?feature=shared"
+    }
+   ]
+  }
+ ]
+}

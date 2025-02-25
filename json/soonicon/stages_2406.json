@@ -15,7 +15,7 @@
   "stageNo": 2,
   "company": "기획",
   "SongName": "싸이코 EP.3",
-  "SingerName": "-",
+  "SingerName": "영상",
   "soopVod": "https://vod.sooplive.co.kr/player/123161403?change_second=14044",
   "stageKind": "연기"
  },
@@ -26,7 +26,7 @@
   "SongName": "Leave the Door Open",
   "SingerName": "Bruno Mars",
   "Members": "백다연,권도연,안녕하소",
-  "Guests": "피아노: 김용, 기타: 전정원, 베이스: 김이지",
+  "Guests": "",
   "youtube": "https://youtu.be/eVc9M9UUXGI?si=NEd_mcN9w_2lX0m_&t=275",
   "stageKind": "노래"
  },
@@ -65,7 +65,7 @@
   "stageNo": 7,
   "company": "기획",
   "SongName": "싸이코 EP.4",
-  "SingerName": "-",
+  "SingerName": "영상",
   "soopVod": "https://vod.sooplive.co.kr/player/123161403?change_second=22134",
   "stageKind": "연기"
  },
@@ -114,7 +114,7 @@
   "stageNo": 12,
   "company": "기획",
   "SongName": "싸이코 EP.5",
-  "SingerName": "-",
+  "SingerName": "영상",
   "youtube": "",
   "soopVod": "https://vod.sooplive.co.kr/player/123161403?change_second=28976",
   "stageKind": "연기"

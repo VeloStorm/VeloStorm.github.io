@@ -1,0 +1,213 @@
+{
+ "mbti": [
+  "INTP"
+ ],
+ "weight": "50",
+ "personName": "황수정",
+ "status": "Y",
+ "grade": "실버",
+ "namu": null,
+ "sooniEngName": null,
+ "activeFlag": "Y",
+ "blood": "B",
+ "instargram": "ssssu528_ylt",
+ "birthday": "2001-05-28",
+ "position": "",
+ "sex": "W",
+ "company": "수니엔터",
+ "createDate": "2024-10-31 12:26:26",
+ "sooniName": "황크",
+ "tall": "153",
+ "soopName": "황크리스탈",
+ "updateDate": "2025-02-14 11:00:48",
+ "sooniCompany": "수니그룹",
+ "broadCast": "2023-12-15",
+ "youtube": null,
+ "remark": "",
+ "medal": "best",
+ "team": "수니힐",
+ "manager": null,
+ "soopId": "asda9789",
+ "stages": [
+  {
+   "date": "2024년 08월 10일",
+   "date2": "2024-08-10",
+   "nYear": "2024",
+   "nRound": "11",
+   "round": "24년 11회",
+   "mission": "Mix Double",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "뮤직",
+     "teamName": "수니힐",
+     "SongName": "THIS IS ME + KUNG FU FIGHTING",
+     "SingerName": "위대한 쇼맨 OST + 쿵푸팬더 OST",
+     "Members": "안예슬,진솔,백다연,선예,황크",
+     "Guests": "림크스,덕이형",
+     "youtube": "https://youtu.be/EZ5XWzIQE_A?si=-VncSICuFhtjO8EC",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 08월 31일",
+   "date2": "2024-08-31",
+   "nYear": "2024",
+   "nRound": "12",
+   "round": "24년 12회",
+   "mission": "First Love",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "뮤직",
+     "teamName": "수니힐",
+     "SongName": "서툰 이별을 하려해",
+     "SingerName": "윤토벤",
+     "Members": "황크,소희,권도연,져리",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/134952725?change_second=28276",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 10월 12일",
+   "date2": "2024-10-12",
+   "nYear": "2024",
+   "nRound": "14",
+   "round": "24년 14회",
+   "mission": "BEGIN AGAIN",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "company": "기획",
+     "SongName": "I was a Car",
+     "SingerName": "송지연",
+     "Members": "백다연,황크",
+     "youtube": "https://youtu.be/kfzuMVIe1vM?si=KZI2MJnk2X7R1ddS",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 11월 02일",
+   "date2": "2024-11-02",
+   "nYear": "2024",
+   "nRound": "15",
+   "round": "24년 15회",
+   "mission": "Zero-Sum Game",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "아트",
+     "teamName": "엔뮤즈",
+     "SongName": "사계",
+     "SingerName": "M.C the MAX",
+     "Members": "디어리,소희,황크",
+     "youtube": "https://youtu.be/x8tnpsvoBOE?si=3Koi7kZHfPTli0Ix",
+     "stageKind": "노래"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 12,
+     "company": "아트",
+     "teamName": "엔뮤즈",
+     "SongName": "사랑이란 멜로는 없어",
+     "SingerName": "전상근",
+     "Members": "디어리,소희,황크",
+     "soopVod": "https://vod.sooplive.co.kr/player/141125795?change_second=32840",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 12월 13일",
+   "date2": "2024-12-13",
+   "nYear": "2024",
+   "nRound": "16",
+   "round": "24년 16회",
+   "mission": "Dispatch",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "teamName": "엔뮤즈",
+     "SongName": "비켜줄게",
+     "SingerName": "브라운 아이드 소울",
+     "Members": "안예슬,디어리,황크,경하",
+     "soopVod": "https://vod.sooplive.co.kr/player/143156821?change_second=28588",
+     "youtube": "https://youtu.be/f8iAcPDHV3U?si=Vh3jHGwvg_j8iUSZ",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 12월 14일",
+   "date2": "2024-12-14",
+   "nYear": "2024",
+   "nRound": "17",
+   "round": "24년 17회",
+   "mission": "Fan Service (쿼터파이널 IV)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "엔터",
+     "teamName": "엔소울",
+     "SongName": "빌려줄게",
+     "SingerName": "신용재",
+     "Members": "미캣,안예슬,황크,김미타",
+     "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=24670",
+     "youtube": "https://youtu.be/y2rSREqw9DE?si=fkC9RnTj6zAXfooc",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2025년 01월 05일",
+   "date2": "2025-01-05",
+   "nYear": "2025",
+   "nRound": "01",
+   "round": "25년 1회",
+   "mission": "오징어",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 10,
+     "teamName": "길구짧구",
+     "SongName": "상사화",
+     "SingerName": "안예은",
+     "stageKind": "노래",
+     "Members": "태은짱,황크",
+     "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=28185"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 11,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "헤어지자 말해요",
+     "SingerName": "박재정",
+     "stageKind": "노래",
+     "Members": "디어리,소희,황크",
+     "youtube": "https://youtu.be/LkbxRH-iusk?feature=shared"
+    }
+   ]
+  }
+ ]
+}

@@ -5,7 +5,8 @@
   "SongName": "꿈에서 온 그대 EP.1",
   "youtube": "https://youtu.be/DsgdiTc-2qM?si=RpVuIO-qBPMqwOng&t=245",
   "company": "기획",
-  "stageKind": "연기"
+  "stageKind": "연기",
+  "SingerName": "영상"
  },
  {
   "isUse": "Y",
@@ -104,7 +105,8 @@
   "SongName": "꿈에서 온 그대 EP.2",
   "youtube": "https://youtu.be/tzMA2PfpwUs?si=vVmZNmMkKvApNJXp&t=48",
   "company": "기획",
-  "stageKind": "연기"
+  "stageKind": "연기",
+  "SingerName": "영상"
  },
  {
   "isUse": "Y",

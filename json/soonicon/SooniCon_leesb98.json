@@ -1,0 +1,135 @@
+{
+ "namu": "이승빈",
+ "soopId": "leesb98",
+ "tall": "",
+ "updateDate": "2025-02-14 11:00:48",
+ "medal": "best",
+ "youtube": "LSB_leeseungbin",
+ "manager": "PD",
+ "grade": null,
+ "birthday": "2001-09-08",
+ "company": null,
+ "soopName": "이승빈",
+ "position": null,
+ "sooniCompany": "수니그룹",
+ "sooniEngName": "LeeSeungBin",
+ "instargram": "lsb_seungbinlee",
+ "team": null,
+ "createDate": "2024-10-31 12:26:26",
+ "status": "Y",
+ "broadCast": "2022-12-08",
+ "weight": null,
+ "remark": null,
+ "mbti": "ENFJ",
+ "activeFlag": "Y",
+ "sex": "M",
+ "sooniName": "이승빈",
+ "personName": "이승빈",
+ "blood": "A",
+ "stages": [
+  {
+   "date": "2024년 06월 29일",
+   "date2": "2024-06-29",
+   "nYear": "2024",
+   "nRound": "09",
+   "round": "24년 9회",
+   "mission": "유닛대전 (쿼터파이널 II)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "뮤직",
+     "SongName": "말할 수 없는 비밀",
+     "SingerName": "OST",
+     "Members": "쮸러스,이승빈",
+     "soopVod": "https://vod.sooplive.co.kr/player/129008899?change_second=39842",
+     "teamName": "피안노안즈",
+     "stageKind": "연주"
+    }
+   ]
+  },
+  {
+   "date": "2024년 08월 31일",
+   "date2": "2024-08-31",
+   "nYear": "2024",
+   "nRound": "12",
+   "round": "24년 12회",
+   "mission": "First Love",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "기획",
+     "SongName": "내 여자라니까 (MV)",
+     "SingerName": "이승기",
+     "Members": "민서율,뚜부,김학수",
+     "Guests": "남순,유소나,이승빈",
+     "soopVod": "https://vod.sooplive.co.kr/player/134952725?change_second=11350",
+     "stageKind": "연기"
+    }
+   ]
+  },
+  {
+   "date": "2024년 09월 21일",
+   "date2": "2024-09-21",
+   "nYear": "2024",
+   "nRound": "13",
+   "round": "24년 13회",
+   "mission": "Hero (쿼터파이널 III)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "엔터",
+     "SongName": "착한 거짓말",
+     "SingerName": "이승기",
+     "Members": "빵훈",
+     "Guests": "이승빈",
+     "youtube": "https://youtu.be/696YtzUsvLk?si=xoHGll_mZRt6qm7u",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2025년 01월 05일",
+   "date2": "2025-01-05",
+   "nYear": "2025",
+   "nRound": "01",
+   "round": "25년 1회",
+   "mission": "오징어",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "teamName": "펭승치",
+     "SongName": "궁중악사",
+     "SingerName": "황진이 & 전우치OST",
+     "stageKind": "댄스",
+     "Members": "펭채은,이승빈",
+     "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=25716"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "",
+     "teamName": "",
+     "SongName": "트로트",
+     "SingerName": "에픽하이",
+     "stageKind": "노래",
+     "Members": "혁찌니,덕이형,슝슝이,이승빈",
+     "youtube": "https://youtu.be/Z4qvUzPGz4Y?feature=shared"
+    }
+   ]
+  }
+ ]
+}

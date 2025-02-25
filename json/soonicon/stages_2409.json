@@ -18,7 +18,7 @@
   "SongName": "나가거든",
   "SingerName": "조수미",
   "Members": "류하,배그나",
-  "Guests": "대금: 갓대금, 피아노: 하진",
+  "Guests": "갓대금,하진",
   "soopVod": "https://vod.sooplive.co.kr/player/129008899?change_second=18904",
   "teamName": "메연",
   "stageKind": "노래"
@@ -41,7 +41,7 @@
   "SongName": "인형",
   "SingerName": "이지훈,신혜성",
   "Members": "소희,져리",
-  "Guests": "바이올린: 주희유",
+  "Guests": "주희유",
   "soopVod": "https://vod.sooplive.co.kr/player/129008899?change_second=24825",
   "teamName": "져곡즈",
   "stageKind": "노래"
@@ -85,7 +85,7 @@
   "stageNo": 7,
   "company": "기획",
   "SongName": "수니게임 EP.1",
-  "SingerName": "-",
+  "SingerName": "영상",
   "youtube": "",
   "soopVod": "https://vod.sooplive.co.kr/player/129008899?change_second=34837",
   "teamName": "기획",
@@ -118,7 +118,7 @@
   "stageNo": 10,
   "company": "기획",
   "SongName": "수니게임 EP.2",
-  "SingerName": "-",
+  "SingerName": "영상",
   "soopVod": "https://vod.sooplive.co.kr/player/129008899?change_second=41682",
   "teamName": "기획",
   "stageKind": "연기"

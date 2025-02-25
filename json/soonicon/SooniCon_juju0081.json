@@ -1,0 +1,54 @@
+{
+ "createDate": "2025-01-22 10:48:24",
+ "sooniCompany": "수니그룹",
+ "instargram": "joy_.on",
+ "team": "화이트",
+ "company": "수니뮤직",
+ "updateDate": "2025-02-14 10:59:56",
+ "broadCast": null,
+ "sooniName": "조이온",
+ "soopId": "juju0081",
+ "namu": "조이온",
+ "weight": "48",
+ "blood": null,
+ "remark": null,
+ "soopName": "조이온",
+ "youtube": "@Joy_on",
+ "manager": null,
+ "position": "",
+ "activeFlag": "Y",
+ "sex": "W",
+ "mbti": [
+  "ENTP"
+ ],
+ "personName": "조유주",
+ "tall": "158",
+ "sooniEngName": "Joy_.on",
+ "grade": "실버",
+ "status": "Y",
+ "medal": "basic",
+ "birthday": "2000-08-01",
+ "stages": [
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "Rebel Heart",
+     "SingerName": "아이브",
+     "stageKind": "댄스",
+     "Members": "겸둥이,강민아,류하,서아,조이온",
+     "youtube": "https://youtu.be/m_8WfvDmrPo?feature=shared"
+    }
+   ]
+  }
+ ]
+}

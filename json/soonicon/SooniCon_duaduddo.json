@@ -1,0 +1,118 @@
+{
+ "mbti": [
+  "ENFJ"
+ ],
+ "soopName": "김미타",
+ "manager": null,
+ "company": "수니엔터",
+ "status": "Y",
+ "youtube": "@sosoMIITA",
+ "createDate": "2024-11-05 22:21:35",
+ "sex": "W",
+ "namu": null,
+ "sooniName": "김미타",
+ "tall": "160",
+ "team": "수니힐",
+ "weight": "48",
+ "updateDate": "2025-02-14 10:54:50",
+ "instargram": null,
+ "sooniCompany": "수니그룹",
+ "blood": "A",
+ "activeFlag": "Y",
+ "remark": null,
+ "medal": "basic",
+ "grade": "브론즈",
+ "soopId": "duaduddo",
+ "position": "",
+ "personName": null,
+ "broadCast": "2024-05-20",
+ "birthday": "1997-01-01",
+ "sooniEngName": null,
+ "stages": [
+  {
+   "date": "2024년 12월 13일",
+   "date2": "2024-12-13",
+   "nYear": "2024",
+   "nRound": "16",
+   "round": "24년 16회",
+   "mission": "Dispatch",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "teamName": "엔소울",
+     "SongName": "I Don't Care",
+     "SingerName": "투애니원",
+     "Members": "김미타,민서율,김제로,권도연",
+     "Guests": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/143156821?change_second=24200",
+     "youtube": "https://youtu.be/EkgIVNfx5_Q?si=XzW5BE7TeeV4ecDC",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 12월 14일",
+   "date2": "2024-12-14",
+   "nYear": "2024",
+   "nRound": "17",
+   "round": "24년 17회",
+   "mission": "Fan Service (쿼터파이널 IV)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "엔터",
+     "teamName": "엔소울",
+     "SongName": "빌려줄게",
+     "SingerName": "신용재",
+     "Members": "미캣,안예슬,황크,김미타",
+     "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=24670",
+     "youtube": "https://youtu.be/y2rSREqw9DE?si=fkC9RnTj6zAXfooc",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2025년 01월 05일",
+   "date2": "2025-01-05",
+   "nYear": "2025",
+   "nRound": "01",
+   "round": "25년 1회",
+   "mission": "오징어",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "teamName": "미뎌리",
+     "SongName": "Promise U (씨야Ver)",
+     "SingerName": "바이브",
+     "stageKind": "노래",
+     "Members": "디어리,김미타",
+     "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=26538"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "Toxic Till the End",
+     "SingerName": "로제",
+     "stageKind": "노래",
+     "Members": "백다연,김미타",
+     "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=24709"
+    }
+   ]
+  }
+ ]
+}

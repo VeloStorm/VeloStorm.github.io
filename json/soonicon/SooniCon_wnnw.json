@@ -1,0 +1,88 @@
+{
+ "personName": "박현우",
+ "updateDate": "2025-02-14 10:36:35",
+ "tall": "175",
+ "instargram": "wnnw2",
+ "youtube": "@Namsoon",
+ "team": null,
+ "sooniEngName": "NamSoon",
+ "activaFlag": null,
+ "sooniCompany": "수니그룹",
+ "status": "Y",
+ "weight": "68",
+ "sex": "M",
+ "activeFlag": "Y",
+ "medal": "partner",
+ "remark": null,
+ "grade": null,
+ "sooniName": "남순",
+ "mbti": [
+  "INTP"
+ ],
+ "birthday": "1989-04-20",
+ "blood": "B",
+ "createDate": "2024-10-31 12:26:26",
+ "broadCast": "2012-01-10",
+ "manager": "회장",
+ "namu": "남순",
+ "soopName": "남순",
+ "soopId": "wnnw",
+ "company": "",
+ "stages": [
+  {
+   "date": "2024년 07월 20일",
+   "date2": "2024-07-20",
+   "nYear": "2024",
+   "nRound": "10",
+   "round": "24년 10회",
+   "mission": "ON AND OFF",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "WET & WILD (MV)",
+     "SingerName": "백호",
+     "Members": "아띠,강민아,태은짱",
+     "Guests": "남순,김학수,박아진,댄서 임나은",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/130980355?change_second=32531",
+     "stageKind": "연기"
+    }
+   ]
+  },
+  {
+   "date": "2024년 08월 31일",
+   "date2": "2024-08-31",
+   "nYear": "2024",
+   "nRound": "12",
+   "round": "24년 12회",
+   "mission": "First Love",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "기획",
+     "SongName": "내 여자라니까 (MV)",
+     "SingerName": "이승기",
+     "Members": "민서율,뚜부,김학수",
+     "Guests": "남순,유소나,이승빈",
+     "soopVod": "https://vod.sooplive.co.kr/player/134952725?change_second=11350",
+     "stageKind": "연기"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "기획",
+     "SongName": "그랬나봐 (MV)",
+     "SingerName": "김형중",
+     "Members": "민서율,박아진,로링,미캣",
+     "Guests": "남순,유소나",
+     "soopVod": "https://vod.sooplive.co.kr/player/134952725?change_second=21244",
+     "stageKind": "연기"
+    }
+   ]
+  }
+ ]
+}

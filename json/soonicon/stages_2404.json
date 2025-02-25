@@ -6,7 +6,8 @@
   "SongName": "수니컴퍼니 EP.1",
   "Members": "",
   "soopVod": "https://vod.sooplive.co.kr/player/119267501?change_second=14807",
-  "stageKind": "연기"
+  "stageKind": "연기",
+  "SingerName": "영상"
  },
  {
   "isUse": "Y",
@@ -106,7 +107,7 @@
   "stageNo": 11,
   "company": "기획",
   "SongName": "수니컴퍼니 EP.2",
-  "SingerName": "-",
+  "SingerName": "영상",
   "soopVod": "https://vod.sooplive.co.kr/player/119267501?change_second=31402",
   "stageKind": "연기"
  },

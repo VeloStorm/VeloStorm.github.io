@@ -1,0 +1,293 @@
+{
+ "medal": "best",
+ "sooniCompany": "수니그룹",
+ "sooniEngName": null,
+ "blood": null,
+ "remark": null,
+ "mbti": null,
+ "status": "Y",
+ "activeFlag": "Y",
+ "position": "",
+ "personName": null,
+ "tall": "160",
+ "youtube": null,
+ "sex": "W",
+ "birthday": "1999-09-29",
+ "team": "블랙",
+ "soopId": "qorhvk1365",
+ "grade": "골드",
+ "createDate": "2024-10-31 12:26:26",
+ "manager": "사장",
+ "updateDate": "2025-02-14 10:58:53",
+ "instargram": null,
+ "broadCast": null,
+ "soopName": "펭채은",
+ "weight": "53",
+ "sooniName": "펭채은",
+ "company": "수니엔터",
+ "namu": null,
+ "stages": [
+  {
+   "date": "2024년 08월 10일",
+   "date2": "2024-08-10",
+   "nYear": "2024",
+   "nRound": "11",
+   "round": "24년 11회",
+   "mission": "Mix Double",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 10,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "MANIAC + 특",
+     "SingerName": "스트레이키즈",
+     "Members": "태리츄,아띠,펭채은,유복실,도원",
+     "youtube": "https://youtu.be/iMyQKdl_nJk?si=JngANun53ETwBRLF",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 08월 31일",
+   "date2": "2024-08-31",
+   "nYear": "2024",
+   "nRound": "12",
+   "round": "24년 12회",
+   "mission": "First Love",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "Feel Special",
+     "SingerName": "트와이스",
+     "Members": "오쭈,태리츄,아띠,쮸러스,펭채은",
+     "youtube": "https://youtu.be/f57dj8Q-Xug?si=yJI4HkElIvTEtYw0",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 10,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "Fake Love",
+     "SingerName": "방탄소년단",
+     "Members": "태리츄,아띠,오쭈,펭채은,쮸러스",
+     "soopVod": "https://vod.sooplive.co.kr/player/134952725?change_second=30385",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 09월 21일",
+   "date2": "2024-09-21",
+   "nYear": "2024",
+   "nRound": "13",
+   "round": "24년 13회",
+   "mission": "Hero (쿼터파이널 III)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "기획",
+     "SongName": "TOMBOY (Elec ver)",
+     "SingerName": "(여자)아이들",
+     "Members": "퀸다미,소희,아띠,권도연,펭채은,선예",
+     "youtube": "https://youtu.be/ggexrSXs5BM?si=t5vXf6Hwk3RLbEKy",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "기획",
+     "SongName": "ABCD",
+     "SingerName": "나연",
+     "Members": "아띠,퀸다미,펭채은",
+     "soopVod": "https://vod.sooplive.co.kr/player/136993359?change_second=29122",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 10월 12일",
+   "date2": "2024-10-12",
+   "nYear": "2024",
+   "nRound": "14",
+   "round": "24년 14회",
+   "mission": "BEGIN AGAIN",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "기획",
+     "SongName": "Irony",
+     "SingerName": "원더걸스",
+     "Members": "펭채은,강민아,안예슬,겸둥이",
+     "soopVod": "https://vod.sooplive.co.kr/player/139075077?change_second=24447",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 11,
+     "company": "기획",
+     "SongName": "왠지",
+     "SingerName": "DIA",
+     "Members": "유복실,강민아,펭채은,겸둥이,안예슬",
+     "soopVod": "https://vod.sooplive.co.kr/player/139075077?change_second=30659",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 11월 02일",
+   "date2": "2024-11-02",
+   "nYear": "2024",
+   "nRound": "15",
+   "round": "24년 15회",
+   "mission": "Zero-Sum Game",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "I Can't Stop Me",
+     "SingerName": "트와이스",
+     "Members": "도원,선예,펭채은,설하,오쭈",
+     "youtube": "https://youtu.be/UeM9q-vPlDc?si=nNV_EacsfE3jWQNG",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 11,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "Perfect Man",
+     "SingerName": "신화",
+     "Members": "도원,오쭈,펭채은,설하",
+     "youtube": "https://youtu.be/4TB9DiRu9iw?si=MvCZL-7QANILvMF_",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 12월 13일",
+   "date2": "2024-12-13",
+   "nYear": "2024",
+   "nRound": "16",
+   "round": "24년 16회",
+   "mission": "Dispatch",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "teamName": "블랙",
+     "SongName": "나 어릴적 꿈",
+     "SingerName": "터보",
+     "Members": "펭채은,도원",
+     "soopVod": "https://vod.sooplive.co.kr/player/143156821?change_second=20802",
+     "youtube": "https://youtu.be/ylhTLoFasXc?si=YwUXzoeaNl930fD_",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "teamName": "블랙",
+     "SongName": "Now",
+     "SingerName": "핑클",
+     "Members": "강민아,선예,펭채은,도원,태은짱",
+     "soopVod": "https://vod.sooplive.co.kr/player/143156821?change_second=27495",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 12월 14일",
+   "date2": "2024-12-14",
+   "nYear": "2024",
+   "nRound": "17",
+   "round": "24년 17회",
+   "mission": "Fan Service (쿼터파이널 IV)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "이글루 (Igloo)",
+     "SingerName": "키스 오브 라이프",
+     "Members": "강민아,펭채은",
+     "youtube": "https://youtu.be/GnQe3vExkWw?si=AfXmKJonx8u55deM",
+     "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=22275",
+     "stageKind": "댄스"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "아센디오",
+     "SingerName": "아이브",
+     "Members": "강민아,펭채은",
+     "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=28721",
+     "youtube": "https://youtu.be/fXKi8odKXFg?si=CPJdC3XDCraE8o91",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2025년 01월 05일",
+   "date2": "2025-01-05",
+   "nYear": "2025",
+   "nRound": "01",
+   "round": "25년 1회",
+   "mission": "오징어",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "teamName": "펭승치",
+     "SongName": "궁중악사",
+     "SingerName": "황진이 & 전우치OST",
+     "stageKind": "댄스",
+     "Members": "펭채은,이승빈",
+     "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=25716"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "청바지",
+     "SingerName": "부석순",
+     "stageKind": "댄스",
+     "Members": "아띠,민서율,펭채은,홍쥬,뮤링",
+     "youtube": "https://youtu.be/Q1T3tC0chNs?feature=shared"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "Home Sweet Home",
+     "SingerName": "지드래곤",
+     "stageKind": "댄스",
+     "Members": "펭채은,민서율,아띠",
+     "youtube": "https://youtu.be/XjO5VMD0LkU?feature=shared"
+    }
+   ]
+  }
+ ]
+}

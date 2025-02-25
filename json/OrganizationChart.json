@@ -1,5 +1,5 @@
 {
- "time": "2025-02-14 15:38:23",
+ "time": "2025-02-25 20:20:01",
  "manager": [
   {
    "position": "회장",
@@ -63,11 +63,49 @@
        "company": "수니뮤직"
       },
       {
+       "soopId": "dmswjd326",
+       "sooniName": "뮤링",
+       "sex": "W",
+       "grade": "실버",
+       "medal": "basic",
+       "team": "화이트",
+       "company": "수니뮤직"
+      },
+      {
        "soopId": "juju0081",
        "sooniName": "조이온",
        "sex": "W",
        "grade": "실버",
        "medal": "basic",
+       "team": "화이트",
+       "company": "수니뮤직"
+      },
+      {
+       "soopId": "yuzzzz",
+       "sooniName": "유즈",
+       "sex": "W",
+       "grade": "브론즈",
+       "medal": "basic",
+       "team": "화이트",
+       "company": "수니뮤직"
+      },
+      {
+       "position": "인턴",
+       "soopId": "byunseo456",
+       "sooniName": "설유은",
+       "sex": null,
+       "grade": "언랭",
+       "medal": "basic",
+       "team": "화이트",
+       "company": "수니뮤직"
+      },
+      {
+       "position": "인턴",
+       "soopId": "yunhee1222",
+       "sooniName": "깅예솔",
+       "sex": "W",
+       "grade": "언랭",
+       "medal": "best",
        "team": "화이트",
        "company": "수니뮤직"
       }
@@ -114,24 +152,6 @@
        "company": "수니뮤직"
       },
       {
-       "soopId": "naian0109",
-       "sooniName": "치비",
-       "sex": "W",
-       "grade": "브론즈",
-       "medal": "basic",
-       "team": "엔소울",
-       "company": "수니뮤직"
-      },
-      {
-       "soopId": "tpqhrdl",
-       "sooniName": "권도연",
-       "sex": "W",
-       "grade": "브론즈",
-       "medal": "best",
-       "team": "엔소울",
-       "company": "수니뮤직"
-      },
-      {
        "soopId": "indy1028",
        "sooniName": "안예슬",
        "sex": "W",
@@ -161,6 +181,16 @@
      "name": "블랙",
      "persons": [
       {
+       "position": "팀장",
+       "soopId": "b24ip7",
+       "sooniName": "민서율",
+       "sex": "W",
+       "grade": "플래티엄",
+       "medal": "best",
+       "team": "블랙",
+       "company": "수니엔터"
+      },
+      {
        "soopId": "qorhvk1365",
        "sooniName": "펭채은",
        "sex": "W",
@@ -170,20 +200,21 @@
        "company": "수니엔터"
       },
       {
-       "soopId": "dmswjd326",
-       "sooniName": "뮤링",
-       "sex": "W",
-       "grade": "실버",
-       "medal": "basic",
-       "team": "블랙",
-       "company": "수니엔터"
-      },
-      {
        "soopId": "jha0331",
        "sooniName": "아띠",
        "sex": "W",
        "grade": "실버",
        "medal": "best",
+       "team": "블랙",
+       "company": "수니엔터"
+      },
+      {
+       "position": "인턴",
+       "soopId": "shtndk5",
+       "sooniName": "노두식",
+       "sex": null,
+       "grade": "언랭",
+       "medal": "basic",
        "team": "블랙",
        "company": "수니엔터"
       }
@@ -248,8 +279,8 @@
        "company": "수니엔터"
       },
       {
-       "soopId": "yuzzzz",
-       "sooniName": "유즈",
+       "soopId": "naian0109",
+       "sooniName": "치비",
        "sex": "W",
        "grade": "브론즈",
        "medal": "basic",
@@ -272,12 +303,6 @@
    "company": null
   },
   "persons": [
-   {
-    "soopId": "yunhee1222",
-    "sooniName": "깅예솔",
-    "sex": "W",
-    "medal": "best"
-   },
    {
     "soopId": "yeseul1120",
     "sooniName": "냥슬",
@@ -325,6 +350,13 @@
    "position": "휴직",
    "soopId": "thwl9386",
    "sooniName": "소희",
+   "sex": "W",
+   "medal": "best"
+  },
+  {
+   "position": "휴직",
+   "soopId": "tpqhrdl",
+   "sooniName": "권도연",
    "sex": "W",
    "medal": "best"
   }

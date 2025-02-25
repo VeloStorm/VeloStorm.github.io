@@ -1,0 +1,415 @@
+{
+ "namu": "백다연",
+ "weight": "58",
+ "createDate": "2024-10-31 12:26:26",
+ "soopName": "백다연",
+ "remark": null,
+ "manager": null,
+ "sooniName": "백다연",
+ "position": "",
+ "sooniEngName": "BaekDayeon",
+ "updateDate": "2025-02-14 10:59:56",
+ "grade": "브론즈",
+ "medal": "best",
+ "tall": "158",
+ "blood": "AB",
+ "status": "Y",
+ "sooniCompany": "수니그룹",
+ "activaFlag": null,
+ "personName": "백다연",
+ "instargram": "0_zo.p",
+ "activeFlag": "Y",
+ "youtube": "@dayeon0830",
+ "soopId": "ekdus0830",
+ "sex": "W",
+ "company": "수니엔터",
+ "team": "수니힐",
+ "broadCast": "2018-02-06",
+ "birthday": "2000-08-30",
+ "mbti": [
+  "ISTP"
+ ],
+ "stages": [
+  {
+   "date": "2024년 02월 24일",
+   "date2": "2024-02-24",
+   "nYear": "2024",
+   "nRound": "03",
+   "round": "24년 3회",
+   "mission": "All or Nothing",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "SongName": "너나 해",
+     "SingerName": "마마무",
+     "Members": "빡다혜,다니,미캣,백다연",
+     "youtube": "https://youtu.be/yEJ1asusAVY?si=t6HeZaFC4LwykSTP&t=458",
+     "company": "뮤직",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 03월 16일",
+   "date2": "2024-03-16",
+   "nYear": "2024",
+   "nRound": "04",
+   "round": "24년 4회",
+   "mission": "Egg Roulette (쿼터파이널 I)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 13,
+     "company": "뮤직",
+     "SongName": "RIVER",
+     "SingerName": "BISHOP BRIGGS",
+     "Members": "백다연,권도연,빡다혜",
+     "youtube": "https://youtu.be/l_1AUPssMwQ?si=li18z0_TxgtcCXZw&t=1075",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 04월 06일",
+   "date2": "2024-04-06",
+   "nYear": "2024",
+   "nRound": "05",
+   "round": "24년 5회",
+   "mission": "Mind Control",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "뮤직",
+     "SongName": "YOU DON'T LOVE ME",
+     "SingerName": "스피카",
+     "Members": "빡다혜,백다연,미캣,류하,안녕하소",
+     "youtube": "https://youtu.be/d6b84XnDAfw?si=s3oDfVZRR-rW2tcU&t=500",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 04월 27일",
+   "date2": "2024-04-27",
+   "nYear": "2024",
+   "nRound": "06",
+   "round": "24년 6회",
+   "mission": "축가",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "company": "뮤직",
+     "SongName": "Leave the Door Open",
+     "SingerName": "Bruno Mars",
+     "Members": "백다연,권도연,안녕하소",
+     "Guests": "",
+     "youtube": "https://youtu.be/eVc9M9UUXGI?si=NEd_mcN9w_2lX0m_&t=275",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 05월 18일",
+   "date2": "2024-05-18",
+   "nYear": "2024",
+   "nRound": "07",
+   "round": "24년 7회",
+   "mission": "싸이월드",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "뮤직",
+     "SongName": "BECAUSE OF YOU",
+     "SingerName": "KELLY CLARKSON",
+     "Members": "백다연,류하,안녕하소",
+     "youtube": "https://youtu.be/7q77PTW1Uso?si=1d701k-Qbv8PVxsa&t=230",
+     "teamName": "수니힐",
+     "stageKind": "노래"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 11,
+     "company": "뮤직",
+     "SongName": "인생은 즐거워",
+     "SingerName": "제시파,H.O",
+     "Members": "백다연,미캣,류하,안녕하소",
+     "youtube": "https://youtu.be/7q77PTW1Uso?si=tcqq5dG93JYzU6x1&t=676",
+     "teamName": "수니힐",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 06월 08일",
+   "date2": "2024-06-08",
+   "nYear": "2024",
+   "nRound": "08",
+   "round": "24년 8회",
+   "mission": "그 해 여름",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "company": "뮤직",
+     "SongName": "넌 is 뭔들",
+     "SingerName": "마마무",
+     "Members": "백다연,배그나,안예슬,권도연,퀸다미",
+     "youtube": "https://youtu.be/0yl_T3tJQts?si=JlRWsb-f5vqIEa8j",
+     "teamName": "엔소울",
+     "stageKind": "노래"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "뮤직",
+     "SongName": "하늘에서 남자들이 비처럼 내려와",
+     "SingerName": "버블 시스터즈",
+     "Members": "백다연,배그나,권도연,안예슬",
+     "soopVod": "https://vod.sooplive.co.kr/player/127090451?change_second=23540",
+     "teamName": "엔소울",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 06월 29일",
+   "date2": "2024-06-29",
+   "nYear": "2024",
+   "nRound": "09",
+   "round": "24년 9회",
+   "mission": "유닛대전 (쿼터파이널 II)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "뮤직",
+     "SongName": "달빛에 그려지는",
+     "SingerName": "미연",
+     "Members": "백다연,오쭈,안예슬",
+     "youtube": "https://youtu.be/kWZGdh4IEMg?si=GwESxi7s7oa4H0-q",
+     "teamName": "밥쭈세요",
+     "stageKind": "노래"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "뮤직",
+     "SongName": "창귀",
+     "SingerName": "안예은",
+     "Members": "백다연,오쭈,안예슬",
+     "youtube": "https://youtu.be/7Ef54x8Qo3w?si=YrFhAaiNno9wqIOd",
+     "teamName": "밥쭈세요",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 08월 10일",
+   "date2": "2024-08-10",
+   "nYear": "2024",
+   "nRound": "11",
+   "round": "24년 11회",
+   "mission": "Mix Double",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "뮤직",
+     "teamName": "수니힐",
+     "SongName": "THIS IS ME + KUNG FU FIGHTING",
+     "SingerName": "위대한 쇼맨 OST + 쿵푸팬더 OST",
+     "Members": "안예슬,진솔,백다연,선예,황크",
+     "Guests": "림크스,덕이형",
+     "youtube": "https://youtu.be/EZ5XWzIQE_A?si=-VncSICuFhtjO8EC",
+     "stageKind": "노래"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 11,
+     "company": "뮤직",
+     "teamName": "수니힐",
+     "SongName": "BELIEVER + ENEMY",
+     "SingerName": "이매진 드래곤스",
+     "Members": "안예슬,백다연",
+     "youtube": "https://youtu.be/F-uFoA1zB8c?si=cQDUNcOqeMzmdJUp",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 08월 31일",
+   "date2": "2024-08-31",
+   "nYear": "2024",
+   "nRound": "12",
+   "round": "24년 12회",
+   "mission": "First Love",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "엔터",
+     "teamName": "엔소울",
+     "SongName": "All of My Life",
+     "SingerName": "박원",
+     "Members": "백다연,류하,안예슬",
+     "youtube": "https://youtu.be/SRsIm9yQ1gw?si=Faja9FmIymJK1b8K",
+     "stageKind": "노래"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 13,
+     "company": "엔터",
+     "teamName": "엔소울",
+     "SongName": "사랑에 빠지고 싶다",
+     "SingerName": "김조한",
+     "Members": "백다연,류하,안예슬",
+     "soopVod": "https://vod.sooplive.co.kr/player/134952725?change_second=35880",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 09월 21일",
+   "date2": "2024-09-21",
+   "nYear": "2024",
+   "nRound": "13",
+   "round": "24년 13회",
+   "mission": "Hero (쿼터파이널 III)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "SongName": "Legends Never Die",
+     "SingerName": "Against the Current",
+     "Members": "류하,백다연,디어리",
+     "Guests": "",
+     "youtube": "https://youtu.be/0s5z5O7fvdA?si=w4oMi2aD6MuUM8JW",
+     "stageKind": "노래"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "뮤직",
+     "SongName": "Money",
+     "SingerName": "리사",
+     "Members": "도원,태은짱,백다연,유복실,박아진,겸둥이",
+     "soopVod": "https://vod.sooplive.co.kr/player/136993359",
+     "stageKind": "댄스"
+    }
+   ]
+  },
+  {
+   "date": "2024년 10월 12일",
+   "date2": "2024-10-12",
+   "nYear": "2024",
+   "nRound": "14",
+   "round": "24년 14회",
+   "mission": "BEGIN AGAIN",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "company": "기획",
+     "SongName": "I was a Car",
+     "SingerName": "송지연",
+     "Members": "백다연,황크",
+     "youtube": "https://youtu.be/kfzuMVIe1vM?si=KZI2MJnk2X7R1ddS",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2024년 12월 14일",
+   "date2": "2024-12-14",
+   "nYear": "2024",
+   "nRound": "17",
+   "round": "24년 17회",
+   "mission": "Fan Service (쿼터파이널 IV)",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "company": "뮤직",
+     "teamName": "수니힐",
+     "SongName": "똑같다면 (2010)",
+     "SingerName": "브라운 아이드 소울",
+     "Members": "빡다혜,소희,백다연",
+     "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=22930",
+     "youtube": "https://youtu.be/vaUCnebwtnA?si=nBtdHxK8PIovK3Dx",
+     "stageKind": "노래"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "뮤직",
+     "teamName": "수니힐",
+     "SongName": "Listen (2007)",
+     "SingerName": "비욘세",
+     "Members": "빡다혜,백다연",
+     "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=29421",
+     "youtube": "https://youtu.be/dmwFDfal5c8?si=5LL3ap1Y4YqE4Qrt",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2025년 01월 05일",
+   "date2": "2025-01-05",
+   "nYear": "2025",
+   "nRound": "01",
+   "round": "25년 1회",
+   "mission": "오징어",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "teamName": "메기밥",
+     "SongName": "가시연꽃 (정년이OST)",
+     "SingerName": "알리",
+     "stageKind": "노래",
+     "Members": "배그나,백다연",
+     "Guests": "김윤경(가야금)",
+     "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=21604"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "Toxic Till the End",
+     "SingerName": "로제",
+     "stageKind": "노래",
+     "Members": "백다연,김미타",
+     "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=24709"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "SPOT",
+     "SingerName": "지코",
+     "stageKind": "노래",
+     "Members": "슝슝이,백다연",
+     "Guests": "콧시",
+     "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=27088"
+    }
+   ]
+  }
+ ]
+}
