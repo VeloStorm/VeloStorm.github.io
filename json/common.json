@@ -5,6 +5,66 @@
       { "key":"K202417", "year":"2024", "round": "17" },
       { "key":"K202501", "year":"2025", "round": "01" },
       { "key":"K202502", "year":"2025", "round": "02" }
+    ],
+    "manager": [
+      {
+        "key":"Y2022", "year":"2022", "value":2022, "text": "2022년",
+        "round": [
+          { "key": "R01", "round":"01", "value":1, "text": "창단식" }
+        ]
+      },
+      {
+        "key":"Y2023", "year":"2023", "value":2023, "text": "2023년",
+        "round": [
+          { "key": "R01", "round":"01", "value":1, "text": "01회" },
+          { "key": "R02", "round":"02", "value":2, "text": "02회" },
+          { "key": "R03", "round":"03", "value":3, "text": "03회" },
+          { "key": "R04", "round":"04", "value":4, "text": "04회" },
+          { "key": "R05", "round":"05", "value":5, "text": "05회" },
+          { "key": "R06", "round":"06", "value":6, "text": "06회" },
+          { "key": "R07", "round":"07", "value":7, "text": "07회" },
+          { "key": "R08", "round":"08", "value":8, "text": "08회" },
+          { "key": "R09", "round":"09", "value":9, "text": "09회" },
+          { "key": "R10", "round":"10", "value":10, "text": "10회" },
+          { "key": "R11", "round":"11", "value":11, "text": "11회" },
+          { "key": "R12", "round":"12", "value":12, "text": "12회" },
+          { "key": "R13", "round":"13", "value":13, "text": "13회" },
+          { "key": "R14", "round":"14", "value":14, "text": "14회" },
+          { "key": "R15", "round":"15", "value":15, "text": "15회" },
+          { "key": "R16", "round":"16", "value":16, "text": "16회" },
+          { "key": "R17", "round":"17", "value":17, "text": "17회" }
+        ]
+      },
+      {
+        "key":"Y2024", "year":"2024", "value":2024, "text": "2024년",
+        "round": [
+          { "key": "R01", "round":"01", "value":1, "text": "01회" },
+          { "key": "R02", "round":"02", "value":2, "text": "02회" },
+          { "key": "R03", "round":"03", "value":3, "text": "03회" },
+          { "key": "R04", "round":"04", "value":4, "text": "04회" },
+          { "key": "R05", "round":"05", "value":5, "text": "05회" },
+          { "key": "R06", "round":"06", "value":6, "text": "06회" },
+          { "key": "R07", "round":"07", "value":7, "text": "07회" },
+          { "key": "R08", "round":"08", "value":8, "text": "08회" },
+          { "key": "R09", "round":"09", "value":9, "text": "09회" },
+          { "key": "R10", "round":"10", "value":10, "text": "10회" },
+          { "key": "R11", "round":"11", "value":11, "text": "11회" },
+          { "key": "R12", "round":"12", "value":12, "text": "12회" },
+          { "key": "R13", "round":"13", "value":13, "text": "13회" },
+          { "key": "R14", "round":"14", "value":14, "text": "14회" },
+          { "key": "R15", "round":"15", "value":15, "text": "15회" },
+          { "key": "R16", "round":"16", "value":16, "text": "16회" },
+          { "key": "R17", "round":"17", "value":17, "text": "17회" }
+        ]
+      },
+      {
+        "key":"Y2025", "year":"2025", "value":2025, "text": "2025년",
+        "round": [
+          { "key": "R01", "round":"01", "value":1, "text": "01회" },
+          { "key": "R02", "round":"02", "value":2, "text": "02회" },
+          { "key": "R03", "round":"03", "value":3, "text": "03회" }
+        ]
+      }
     ]
   },
   {
