@@ -1,33 +1,33 @@
 {
- "medal": "best",
- "sex": "W",
+ "team": "엔소울",
  "sooniEngName": "Baegna",
- "createDate": "2024-10-31 12:26:26",
- "soopId": "goodb99",
- "sooniName": "배그나",
+ "weight": "49",
+ "birthday": "1991-06-01",
+ "instargram": "baegnazz",
+ "position": null,
+ "sooniCompany": "수니그룹",
+ "youtube": "Baegna",
+ "soopName": "배그나",
  "namu": "배그나",
  "manager": "사장",
- "personName": "박은화",
- "tall": "157",
- "remark": null,
- "status": "Y",
- "company": "수니뮤직",
- "youtube": "Baegna",
- "broadCast": "2019-06-19",
- "grade": "골드",
- "sooniCompany": "수니그룹",
- "position": null,
- "birthday": "1991-06-01",
- "soopName": "배그나",
- "activeFlag": "Y",
- "team": "엔소울",
- "weight": "49",
+ "sooniName": "배그나",
+ "createDate": "2024-10-31 12:26:26",
  "blood": "O",
+ "company": "수니뮤직",
+ "medal": "best",
+ "personName": "박은화",
+ "activeFlag": "Y",
  "mbti": [
   "ISFP"
  ],
- "instargram": "baegnazz",
+ "status": "Y",
+ "grade": "골드",
+ "soopId": "goodb99",
+ "broadCast": "2019-06-19",
+ "remark": null,
  "updateDate": "2025-02-14 10:44:59",
+ "sex": "W",
+ "tall": "157",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -999,7 +999,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -1054,6 +1054,41 @@
      "stageKind": "노래",
      "Members": "빡다혜,미캣,배그나,권도연",
      "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=30435"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "귀로",
+     "SingerName": "나얼",
+     "stageKind": "노래",
+     "Members": "배그나,안예슬,미캣,빡다혜",
+     "Guests": "",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=15062"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 10,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "나를 사랑했던 사람아",
+     "SingerName": "허각",
+     "stageKind": "노래",
+     "Members": "배그나,안예슬,빡다혜",
+     "Guests": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761"
     }
    ]
   }

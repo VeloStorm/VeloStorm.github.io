@@ -1,35 +1,35 @@
 {
- "soopName": "안예슬띠",
- "blood": "O",
- "tall": "161",
- "updateDate": "2025-02-14 10:50:04",
- "activeFlag": "Y",
- "position": "",
- "sooniName": "안예슬",
- "grade": "아이언",
- "status": "Y",
- "soopId": "indy1028",
  "youtube": "@An_Yeseul_Ddi",
  "team": "엔소울",
- "createDate": "2024-10-31 12:26:26",
- "company": "수니뮤직",
  "medal": "partner",
- "personName": "안예슬",
- "birthday": "1995-10-28",
- "manager": "",
- "weight": "47",
+ "soopName": "안예슬띠",
+ "blood": "O",
+ "company": "수니뮤직",
  "sex": "W",
+ "status": "Y",
+ "manager": "",
+ "grade": "실버",
  "remark": "슈퍼스타K4, 프로듀스 101",
- "instargram": "indy1028",
+ "createDate": "2024-10-31 12:26:26",
+ "personName": "안예슬",
  "activaFlag": null,
- "sooniCompany": "수니그룹",
+ "weight": "47",
  "mbti": [
   "INTJ",
   "ISTJ"
  ],
+ "activeFlag": "Y",
  "sooniEngName": "AnYeSeul",
- "namu": "안예슬",
+ "sooniName": "안예슬",
+ "position": "팀장",
  "broadCast": "2021-03-07",
+ "instargram": "indy1028",
+ "soopId": "indy1028",
+ "updateDate": "2025-03-01 16:56:00",
+ "tall": "161",
+ "namu": "안예슬",
+ "birthday": "1995-10-28",
+ "sooniCompany": "수니그룹",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -1342,7 +1342,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -1364,6 +1364,53 @@
      "Members": "안예슬,배그나,빡다혜,권도연",
      "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=30022",
      "youtube": "https://youtu.be/b9a-6UP-okQ?si=Gk2AHzhClbgShumq"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "귀로",
+     "SingerName": "나얼",
+     "stageKind": "노래",
+     "Members": "배그나,안예슬,미캣,빡다혜",
+     "Guests": "",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=15062"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "Baby Baby",
+     "SingerName": "포맨",
+     "stageKind": "노래",
+     "Members": "안예슬,빡다혜",
+     "Guests": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=18511"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 10,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "나를 사랑했던 사람아",
+     "SingerName": "허각",
+     "stageKind": "노래",
+     "Members": "배그나,안예슬,빡다혜",
+     "Guests": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761"
     }
    ]
   }

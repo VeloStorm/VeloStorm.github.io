@@ -1,32 +1,54 @@
 {
- "status": "Y",
- "birthday": "2002-01-01",
+ "namu": null,
+ "grade": "브론즈",
  "instargram": null,
+ "status": "Y",
+ "createDate": "2025-01-22 10:48:24",
+ "manager": null,
+ "company": "수니뮤직",
+ "sex": "W",
+ "blood": "A",
+ "tall": "168",
  "sooniEngName": null,
+ "remark": null,
+ "soopName": "유즈",
+ "position": "",
+ "updateDate": "2025-03-01 16:57:12",
+ "youtube": null,
+ "activeFlag": "Y",
+ "soopId": "yuzzzz",
+ "personName": "정유진",
+ "weight": "50",
+ "sooniName": "유즈",
+ "broadCast": "2025-01-22",
+ "team": "화이트",
  "mbti": [
   "ENTJ"
  ],
- "soopId": "yuzzzz",
- "soopName": "유즈",
- "sex": "W",
- "remark": null,
- "company": "수니뮤직",
- "updateDate": "2025-02-22 21:49:08",
- "createDate": "2025-01-22 10:48:24",
- "position": "",
- "namu": null,
- "blood": "A",
- "activeFlag": "Y",
+ "birthday": "2002-01-01",
  "medal": "basic",
- "manager": null,
- "personName": null,
  "sooniCompany": "수니그룹",
- "tall": "168",
- "team": "화이트",
- "grade": "브론즈",
- "youtube": null,
- "sooniName": "유즈",
- "weight": "50",
- "broadCast": "2025-01-22",
- "stages": []
+ "stages": [
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "WA DA DA",
+     "SingerName": "케플러",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+    }
+   ]
+  }
+ ]
 }

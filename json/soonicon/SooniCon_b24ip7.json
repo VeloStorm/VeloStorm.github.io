@@ -1,31 +1,31 @@
 {
- "sooniEngName": "MinSeoYul",
- "team": "블랙",
- "manager": "부회장",
- "createDate": "2024-10-31 12:26:26",
- "medal": "best",
- "mbti": "ENTP",
- "blood": "A",
- "namu": "민서율",
- "instargram": "minseoyool",
- "tall": "162",
- "youtube": "@minseoyool",
- "company": "수니엔터",
- "sex": "W",
- "updateDate": "2025-02-22 21:49:08",
- "birthday": "1996-06-04",
- "status": "Y",
- "weight": "48",
- "activeFlag": "Y",
- "position": "팀장",
- "sooniCompany": "수니그룹",
- "soopId": "b24ip7",
  "soopName": "민서율",
- "grade": "플래티엄",
+ "youtube": "@minseoyool",
+ "tall": "162",
  "broadCast": "2021-01-13",
- "personName": "김예지",
- "sooniName": "민서율",
  "remark": null,
+ "grade": "골드",
+ "personName": "김예지",
+ "updateDate": "2025-03-01 16:42:36",
+ "birthday": "1996-06-04",
+ "team": "블랙",
+ "medal": "best",
+ "instargram": "minseoyool",
+ "sooniCompany": "수니그룹",
+ "company": "수니엔터",
+ "blood": "A",
+ "sex": "W",
+ "status": "Y",
+ "position": "",
+ "manager": "사장",
+ "sooniName": "민서율",
+ "sooniEngName": "MinSeoYul",
+ "weight": "48",
+ "createDate": "2024-10-31 12:26:26",
+ "namu": "민서율",
+ "soopId": "b24ip7",
+ "activeFlag": "Y",
+ "mbti": "ENTP",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -701,7 +701,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -744,6 +744,38 @@
      "stageKind": "댄스",
      "Members": "펭채은,민서율,아띠",
      "youtube": "https://youtu.be/XjO5VMD0LkU?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "WE GO",
+     "SingerName": "프로미스나인",
+     "stageKind": "댄스",
+     "Members": "민서율,펭채은,아띠,노두식",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "HIT",
+     "SingerName": "세븐틴",
+     "stageKind": "댄스",
+     "Members": "민서율,펭채은,아띠",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }

@@ -1,31 +1,31 @@
 {
- "team": "화이트",
- "youtube": "@RYUHAZZANG",
- "sex": "W",
- "createDate": "2024-10-31 12:26:26",
- "manager": "",
- "soopName": "류하",
- "instargram": "ryuha_zzang",
- "grade": "골드",
- "weight": "51",
- "sooniCompany": "수니그룹",
- "status": "Y",
- "activeFlag": "Y",
- "remark": null,
- "sooniEngName": "RyuHa",
- "soopId": "rrrr4719",
- "position": "팀장",
- "company": "수니뮤직",
- "tall": "166",
- "medal": "best",
- "birthday": "1997-07-25",
  "blood": "A",
- "updateDate": "2025-02-14 10:55:50",
+ "instargram": "ryuha_zzang",
+ "activeFlag": "Y",
+ "weight": "51",
+ "manager": "부회장",
+ "soopName": "류하",
+ "sex": "W",
  "personName": "유인선",
- "namu": "류하",
+ "sooniEngName": "RyuHa",
  "sooniName": "류하",
+ "team": "화이트",
+ "createDate": "2024-10-31 12:26:26",
+ "namu": "류하",
+ "position": "팀장",
+ "updateDate": "2025-03-01 16:41:23",
+ "company": "수니뮤직",
+ "birthday": "1997-07-25",
+ "status": "Y",
+ "medal": "best",
+ "tall": "166",
+ "soopId": "rrrr4719",
+ "remark": null,
+ "grade": "플래티엄",
  "broadCast": "2021-01-07",
  "mbti": "INFJ",
+ "sooniCompany": "수니그룹",
+ "youtube": "@RYUHAZZANG",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -1142,7 +1142,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -1186,6 +1186,38 @@
      "stageKind": "댄스",
      "Members": "겸둥이,강민아,류하,서아,조이온",
      "youtube": "https://youtu.be/m_8WfvDmrPo?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "WA DA DA",
+     "SingerName": "케플러",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "DICE",
+     "SingerName": "엔믹스",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,깅예솔",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }

@@ -1,31 +1,31 @@
 {
- "medal": "best",
- "sooniCompany": "수니그룹",
- "sooniEngName": null,
- "blood": null,
- "remark": null,
- "mbti": null,
- "status": "Y",
  "activeFlag": "Y",
- "position": "",
- "personName": null,
- "tall": "160",
- "youtube": null,
- "sex": "W",
- "birthday": "1999-09-29",
- "team": "블랙",
- "soopId": "qorhvk1365",
- "grade": "골드",
- "createDate": "2024-10-31 12:26:26",
- "manager": "사장",
- "updateDate": "2025-02-14 10:58:53",
- "instargram": null,
- "broadCast": null,
  "soopName": "펭채은",
- "weight": "53",
- "sooniName": "펭채은",
- "company": "수니엔터",
+ "createDate": "2024-10-31 12:26:26",
+ "blood": null,
+ "soopId": "qorhvk1365",
  "namu": null,
+ "youtube": null,
+ "company": "수니엔터",
+ "position": "",
+ "sooniName": "펭채은",
+ "birthday": "1999-09-29",
+ "status": "Y",
+ "mbti": null,
+ "manager": "",
+ "weight": "53",
+ "personName": null,
+ "team": "블랙",
+ "tall": "160",
+ "updateDate": "2025-03-01 16:42:47",
+ "sex": "W",
+ "sooniCompany": "수니그룹",
+ "grade": "실버",
+ "instargram": null,
+ "medal": "best",
+ "sooniEngName": null,
+ "broadCast": null,
+ "remark": null,
  "stages": [
   {
    "date": "2024년 08월 10일",
@@ -243,7 +243,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -286,6 +286,38 @@
      "stageKind": "댄스",
      "Members": "펭채은,민서율,아띠",
      "youtube": "https://youtu.be/XjO5VMD0LkU?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "WE GO",
+     "SingerName": "프로미스나인",
+     "stageKind": "댄스",
+     "Members": "민서율,펭채은,아띠,노두식",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "HIT",
+     "SingerName": "세븐틴",
+     "stageKind": "댄스",
+     "Members": "민서율,펭채은,아띠",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }

@@ -1,34 +1,34 @@
 {
- "namu": "백다연",
- "weight": "58",
- "createDate": "2024-10-31 12:26:26",
- "soopName": "백다연",
- "remark": null,
- "manager": null,
- "sooniName": "백다연",
- "position": "",
+ "team": "수니힐",
  "sooniEngName": "BaekDayeon",
  "updateDate": "2025-02-14 10:59:56",
- "grade": "브론즈",
- "medal": "best",
- "tall": "158",
- "blood": "AB",
- "status": "Y",
- "sooniCompany": "수니그룹",
- "activaFlag": null,
- "personName": "백다연",
- "instargram": "0_zo.p",
- "activeFlag": "Y",
- "youtube": "@dayeon0830",
- "soopId": "ekdus0830",
  "sex": "W",
- "company": "수니엔터",
- "team": "수니힐",
- "broadCast": "2018-02-06",
- "birthday": "2000-08-30",
  "mbti": [
   "ISTP"
  ],
+ "blood": "AB",
+ "birthday": "2000-08-30",
+ "company": "수니엔터",
+ "weight": "58",
+ "broadCast": "2018-02-06",
+ "personName": "백다연",
+ "namu": "백다연",
+ "soopName": "백다연",
+ "manager": null,
+ "sooniName": "백다연",
+ "activeFlag": "Y",
+ "instargram": "0_zo.p",
+ "status": "Y",
+ "soopId": "ekdus0830",
+ "activaFlag": null,
+ "remark": null,
+ "sooniCompany": "수니그룹",
+ "youtube": "@dayeon0830",
+ "tall": "158",
+ "position": "",
+ "createDate": "2024-10-31 12:26:26",
+ "medal": "best",
+ "grade": "브론즈",
  "stages": [
   {
    "date": "2024년 02월 24일",
@@ -363,7 +363,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -408,6 +408,39 @@
      "Members": "슝슝이,백다연",
      "Guests": "콧시",
      "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=27088"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "And july",
+     "SingerName": "헤이즈,딘",
+     "stageKind": "노래",
+     "Members": "백다연,슝슝이,김미타",
+     "Guests": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16772"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "Halo",
+     "SingerName": "비욘세",
+     "stageKind": "노래",
+     "Members": "백다연,치비",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=19446"
     }
    ]
   }

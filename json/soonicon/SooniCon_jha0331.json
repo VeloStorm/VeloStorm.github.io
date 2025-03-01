@@ -1,29 +1,29 @@
 {
- "updateDate": "2025-02-14 10:54:50",
- "sooniEngName": "Atti",
- "birthday": "1997-03-31",
- "status": "Y",
  "createDate": "2024-10-31 12:26:26",
- "soopId": "jha0331",
- "personName": "정현아",
- "youtube": "@_atti.",
- "sooniName": "아띠",
- "instargram": "hyunah_._._",
- "position": "",
- "grade": "실버",
- "sooniCompany": "수니그룹",
- "soopName": "아띠",
  "team": "블랙",
+ "namu": "아띠",
+ "soopName": "아띠",
+ "sooniName": "아띠",
+ "birthday": "1997-03-31",
+ "blood": "O",
+ "manager": null,
+ "activeFlag": "Y",
+ "sooniCompany": "수니그룹",
+ "grade": "골드",
+ "company": "수니엔터",
+ "instargram": "hyunah_._._",
  "broadCast": "2020-07-05",
  "sex": "W",
- "namu": "아띠",
- "company": "수니엔터",
- "manager": null,
- "medal": "best",
- "blood": "O",
- "activeFlag": "Y",
+ "updateDate": "2025-03-01 16:42:47",
+ "position": "팀장",
  "weight": "47",
+ "soopId": "jha0331",
+ "youtube": "@_atti.",
+ "medal": "best",
+ "personName": "정현아",
+ "sooniEngName": "Atti",
  "remark": null,
+ "status": "Y",
  "mbti": [
   "ENFP"
  ],
@@ -1010,7 +1010,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -1054,6 +1054,38 @@
      "stageKind": "댄스",
      "Members": "펭채은,민서율,아띠",
      "youtube": "https://youtu.be/XjO5VMD0LkU?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "WE GO",
+     "SingerName": "프로미스나인",
+     "stageKind": "댄스",
+     "Members": "민서율,펭채은,아띠,노두식",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "HIT",
+     "SingerName": "세븐틴",
+     "stageKind": "댄스",
+     "Members": "민서율,펭채은,아띠",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }

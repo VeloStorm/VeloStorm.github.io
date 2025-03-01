@@ -1,31 +1,31 @@
 {
+ "blood": "B",
+ "youtube": "@phj6174",
+ "company": "수니뮤직",
+ "activeFlag": "Y",
+ "sex": "M",
+ "position": "",
+ "sooniEngName": "",
  "remark": null,
+ "namu": "혁찌니",
+ "status": "Y",
+ "sooniName": "혁찌니",
+ "team": "엔소울",
+ "createDate": "2024-11-22 16:02:43",
+ "soopId": "rhwk518",
+ "grade": "브론즈",
+ "tall": "174",
+ "birthday": "1993-05-18",
+ "broadCast": null,
+ "manager": null,
+ "weight": null,
+ "updateDate": "2025-03-01 16:39:33",
+ "medal": "best",
+ "personName": "박혁진",
+ "sooniCompany": "수니그룹",
  "soopName": "혁찌니",
  "mbti": null,
- "birthday": "1993-05-18",
- "blood": "B",
- "company": "수니뮤직",
- "manager": null,
- "broadCast": null,
- "position": "",
- "sooniCompany": "수니그룹",
- "youtube": "@phj6174",
- "updateDate": "2025-02-14 10:44:59",
- "status": "Y",
- "namu": "혁찌니",
- "sooniEngName": "",
- "sex": "M",
- "team": "엔소울",
- "soopId": "rhwk518",
  "instargram": "phj_band",
- "personName": "박혁진",
- "activeFlag": "Y",
- "weight": null,
- "createDate": "2024-11-22 16:02:43",
- "grade": "실버",
- "tall": "174",
- "sooniName": "혁찌니",
- "medal": "best",
  "stages": [
   {
    "date": "2025년 01월 05일",
@@ -33,7 +33,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -67,6 +67,28 @@
      "stageKind": "노래",
      "Members": "혁찌니,덕이형,슝슝이,이승빈",
      "youtube": "https://youtu.be/Z4qvUzPGz4Y?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": "",
+     "company": "",
+     "teamName": "",
+     "SongName": "Must be the money",
+     "SingerName": "딘딘",
+     "stageKind": "노래",
+     "Members": "덕이형,혁찌니,슝슝이,이승빈",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=14223"
     }
    ]
   }

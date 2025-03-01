@@ -1,32 +1,54 @@
 {
- "soopName": "치비",
+ "manager": null,
  "sooniEngName": "ChiVee",
  "broadCast": null,
- "activeFlag": "Y",
- "position": "",
- "instargram": "chi_vee",
  "team": "수니힐",
- "sex": "W",
- "youtube": "@chivee72",
- "sooniName": "치비",
- "weight": "59",
- "updateDate": "2025-02-22 21:47:20",
- "namu": "치비(인터넷 방송인)",
- "manager": null,
- "soopId": "naian0109",
- "sooniCompany": "수니그룹",
- "createDate": "2025-01-22 10:48:24",
- "status": "Y",
- "medal": "basic",
- "personName": "",
+ "tall": "168",
  "mbti": [
   "ENTP"
  ],
+ "sooniName": "치비",
+ "position": "",
+ "createDate": "2025-01-22 10:48:24",
+ "soopName": "치비",
  "company": "수니엔터",
- "remark": null,
- "tall": "168",
- "birthday": "1996-10-03",
- "grade": "브론즈",
+ "personName": "",
+ "youtube": "@chivee72",
+ "instargram": "chi_vee",
+ "activeFlag": "Y",
  "blood": null,
- "stages": []
+ "birthday": "1996-10-03",
+ "updateDate": "2025-02-26 10:40:04",
+ "grade": "브론즈",
+ "medal": "basic",
+ "weight": "58",
+ "sex": "W",
+ "remark": null,
+ "status": "Y",
+ "soopId": "naian0109",
+ "namu": "치비(인터넷 방송인)",
+ "sooniCompany": "수니그룹",
+ "stages": [
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "Halo",
+     "SingerName": "비욘세",
+     "stageKind": "노래",
+     "Members": "백다연,치비",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=19446"
+    }
+   ]
+  }
+ ]
 }

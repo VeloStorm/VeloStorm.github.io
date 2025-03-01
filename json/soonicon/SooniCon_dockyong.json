@@ -1,31 +1,32 @@
 {
- "grade": "브론즈",
- "activeFlag": "Y",
- "broadCast": null,
- "sex": "M",
- "remark": null,
  "weight": null,
- "status": "Y",
- "blood": "B",
  "mbti": [
   "ISTP"
  ],
- "birthday": "1985-08-02",
- "createDate": "2024-11-22 16:02:43",
- "sooniCompany": "수니그룹",
- "sooniName": "덕이형",
- "updateDate": "2025-02-14 10:36:35",
- "sooniEngName": null,
- "medal": "best",
- "tall": "177",
- "personName": "김용덕",
- "instargram": "ok_deok",
- "company": "수니엔터",
+ "sex": "M",
+ "updateDate": "2025-03-01 16:39:33",
  "manager": null,
  "youtube": "@DEOKTUBE",
+ "soopId": "dockyong",
+ "sooniEngName": null,
+ "activeFlag": "Y",
+ "birthday": "1985-08-02",
+ "instargram": "ok_deok",
  "team": "수니힐",
  "soopName": "덕이형",
- "soopId": "dockyong",
+ "sooniName": "덕이형",
+ "personName": "김용덕",
+ "broadCast": null,
+ "blood": "B",
+ "createDate": "2024-11-22 16:02:43",
+ "sooniCompany": "수니그룹",
+ "status": "Y",
+ "tall": "177",
+ "grade": "브론즈",
+ "position": null,
+ "company": "수니엔터",
+ "remark": null,
+ "medal": "best",
  "namu": "덕이튜브",
  "stages": [
   {
@@ -212,7 +213,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -244,6 +245,39 @@
      "stageKind": "노래",
      "Members": "혁찌니,덕이형,슝슝이,이승빈",
      "youtube": "https://youtu.be/Z4qvUzPGz4Y?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": "",
+     "company": "",
+     "teamName": "",
+     "SongName": "Must be the money",
+     "SingerName": "딘딘",
+     "stageKind": "노래",
+     "Members": "덕이형,혁찌니,슝슝이,이승빈",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=14223"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "미워요",
+     "SingerName": "정인",
+     "stageKind": "노래",
+     "Members": "디어리,덕이형",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }

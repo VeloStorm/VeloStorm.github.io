@@ -1,31 +1,31 @@
 {
- "namu": "이승빈",
- "soopId": "leesb98",
  "tall": "",
- "updateDate": "2025-02-14 11:00:48",
- "medal": "best",
- "youtube": "LSB_leeseungbin",
- "manager": "PD",
- "grade": null,
- "birthday": "2001-09-08",
- "company": null,
- "soopName": "이승빈",
- "position": null,
- "sooniCompany": "수니그룹",
- "sooniEngName": "LeeSeungBin",
+ "status": "Y",
+ "personName": "이승빈",
  "instargram": "lsb_seungbinlee",
  "team": null,
- "createDate": "2024-10-31 12:26:26",
- "status": "Y",
- "broadCast": "2022-12-08",
  "weight": null,
- "remark": null,
- "mbti": "ENFJ",
+ "broadCast": "2022-12-08",
  "activeFlag": "Y",
- "sex": "M",
+ "createDate": "2024-10-31 12:26:26",
  "sooniName": "이승빈",
- "personName": "이승빈",
+ "remark": null,
  "blood": "A",
+ "updateDate": "2025-02-14 11:00:48",
+ "sooniCompany": "수니그룹",
+ "mbti": "ENFJ",
+ "soopId": "leesb98",
+ "grade": null,
+ "position": null,
+ "company": null,
+ "manager": "PD",
+ "soopName": "이승빈",
+ "sooniEngName": "LeeSeungBin",
+ "youtube": "LSB_leeseungbin",
+ "namu": "이승빈",
+ "birthday": "2001-09-08",
+ "medal": "best",
+ "sex": "M",
  "stages": [
   {
    "date": "2024년 06월 29일",
@@ -96,7 +96,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -128,6 +128,28 @@
      "stageKind": "노래",
      "Members": "혁찌니,덕이형,슝슝이,이승빈",
      "youtube": "https://youtu.be/Z4qvUzPGz4Y?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": "",
+     "company": "",
+     "teamName": "",
+     "SongName": "Must be the money",
+     "SingerName": "딘딘",
+     "stageKind": "노래",
+     "Members": "덕이형,혁찌니,슝슝이,이승빈",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=14223"
     }
    ]
   }

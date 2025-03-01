@@ -1,0 +1,49 @@
+{
+ "sooniConDate": "2025-02-28",
+ "sooniConMission": "ChatGPT",
+ "companyDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "ballon": 1741669
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "ballon": 1150164
+  }
+ ],
+ "teamDatas": [
+  {
+   "rank": 1,
+   "company": "뮤직",
+   "teamName": "화이트",
+   "ballon": 1257503
+  },
+  {
+   "rank": 2,
+   "company": "엔터",
+   "teamName": "블랙",
+   "ballon": 653296
+  },
+  {
+   "rank": 3,
+   "company": "엔터",
+   "teamName": "수니힐",
+   "ballon": 496868
+  },
+  {
+   "rank": 4,
+   "company": "뮤직",
+   "teamName": "엔소울",
+   "ballon": 484166
+  }
+ ],
+ "scaffold": {
+  "soopId": "",
+  "sooniName": "",
+  "voteAll": "",
+  "voteYes": "",
+  "voteNo": ""
+ }
+}

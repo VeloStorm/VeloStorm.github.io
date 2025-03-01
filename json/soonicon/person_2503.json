@@ -1,0 +1,212 @@
+[
+ {
+  "rank": 1,
+  "company": "뮤직",
+  "position": "팀장",
+  "teamName": "화이트",
+  "soopId": "rrrr4719",
+  "sooniName": "류하",
+  "ballon": "328314",
+  "grade": "플래티엄",
+  "scaffold": ""
+ },
+ {
+  "rank": 2,
+  "company": "엔터",
+  "position": "팀장",
+  "teamName": "블랙",
+  "soopId": "b24ip7",
+  "sooniName": "민서율",
+  "ballon": "300399",
+  "grade": "골드",
+  "scaffold": ""
+ },
+ {
+  "rank": 3,
+  "company": "뮤직",
+  "position": "사장",
+  "teamName": "",
+  "soopId": "goodb99",
+  "sooniName": "배그나",
+  "ballon": "279754",
+  "grade": "골드",
+  "scaffold": ""
+ },
+ {
+  "rank": 4,
+  "company": "엔터",
+  "position": "",
+  "teamName": "블랙",
+  "soopId": "jha0331",
+  "sooniName": "아띠",
+  "ballon": "268888",
+  "grade": "골드",
+  "scaffold": ""
+ },
+ {
+  "rank": 5,
+  "company": "뮤직",
+  "position": "",
+  "teamName": "화이트",
+  "soopId": "1000song2",
+  "sooniName": "강민아",
+  "ballon": "248307",
+  "grade": "실버"
+ },
+ {
+  "rank": 6,
+  "company": "뮤직",
+  "teamName": "엔소울",
+  "soopId": "indy1028",
+  "sooniName": "안예슬",
+  "ballon": "148062",
+  "grade": "실버"
+ },
+ {
+  "rank": 7,
+  "company": "엔터",
+  "position": "사장",
+  "soopId": "qorhvk1365",
+  "sooniName": "펭채은",
+  "ballon": "117496",
+  "grade": "실버"
+ },
+ {
+  "rank": 8,
+  "company": "뮤직",
+  "position": "팀장",
+  "teamName": "엔소울",
+  "soopId": "dkjfke",
+  "sooniName": "빡다혜",
+  "ballon": "111794",
+  "grade": "실버"
+ },
+ {
+  "rank": 9,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "soopId": "asda9789",
+  "sooniName": "황크",
+  "ballon": "111747",
+  "grade": "실버"
+ },
+ {
+  "rank": 10,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "juju0081",
+  "sooniName": "조이온",
+  "ballon": "110750",
+  "grade": "실버"
+ },
+ {
+  "rank": 11,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "byunseo456",
+  "sooniName": "설유은",
+  "ballon": "110696",
+  "grade": "실버"
+ },
+ {
+  "rank": 12,
+  "company": "엔터",
+  "position": "팀장",
+  "teamName": "수니힐",
+  "soopId": "hyebin7258",
+  "sooniName": "디어리",
+  "ballon": "110049",
+  "grade": "실버"
+ },
+ {
+  "rank": 13,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "soopId": "ekdus0830",
+  "sooniName": "백다연",
+  "ballon": "108011"
+ },
+ {
+  "rank": 14,
+  "company": "뮤직",
+  "teamName": "엔소울",
+  "soopId": "jieujieun11",
+  "sooniName": "미캣",
+  "ballon": "48233"
+ },
+ {
+  "rank": 15,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "soopId": "dockyong",
+  "sooniName": "덕이형",
+  "ballon": "44569"
+ },
+ {
+  "rank": 16,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "yuzzzz",
+  "sooniName": "유즈",
+  "ballon": "41396"
+ },
+ {
+  "rank": 17,
+  "company": "뮤직",
+  "teamName": "엔소울",
+  "soopId": "rhwk518",
+  "sooniName": "혁찌니",
+  "ballon": "36200"
+ },
+ {
+  "rank": 18,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "soopId": "duaduddo",
+  "sooniName": "김미타",
+  "ballon": "29980"
+ },
+ {
+  "rank": 19,
+  "company": "엔터",
+  "teamName": "블랙",
+  "soopId": "shtndk5",
+  "sooniName": "노두식",
+  "ballon": "25261"
+ },
+ {
+  "rank": 20,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "soopId": "witboy",
+  "sooniName": "슝슝이",
+  "ballon": "23486"
+ },
+ {
+  "rank": 21,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "soopId": "dmswjd326",
+  "sooniName": "뮤링",
+  "ballon": "22600"
+ },
+ {
+  "rank": 22,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "soopId": "naian0109",
+  "sooniName": "치비",
+  "ballon": "10278"
+ },
+ {
+  "rank": 23,
+  "company": "뮤직",
+  "position": "",
+  "teamName": "화이트",
+  "soopId": "yunhee1222",
+  "sooniName": "깅예솔",
+  "ballon": "",
+  "grade": "골드",
+  "scaffold": ""
+ }
+]

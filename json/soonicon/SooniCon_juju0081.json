@@ -1,33 +1,33 @@
 {
- "createDate": "2025-01-22 10:48:24",
- "sooniCompany": "수니그룹",
- "instargram": "joy_.on",
- "team": "화이트",
- "company": "수니뮤직",
- "updateDate": "2025-02-14 10:59:56",
- "broadCast": null,
- "sooniName": "조이온",
- "soopId": "juju0081",
- "namu": "조이온",
- "weight": "48",
- "blood": null,
- "remark": null,
- "soopName": "조이온",
- "youtube": "@Joy_on",
- "manager": null,
- "position": "",
- "activeFlag": "Y",
+ "personName": "조유주",
  "sex": "W",
+ "blood": null,
+ "status": "Y",
+ "team": "화이트",
+ "manager": null,
+ "grade": "실버",
+ "activeFlag": "Y",
+ "position": "",
+ "broadCast": null,
+ "sooniEngName": "Joy_.on",
+ "updateDate": "2025-02-14 10:59:56",
+ "namu": "조이온",
+ "soopId": "juju0081",
+ "youtube": "@Joy_on",
+ "tall": "158",
+ "instargram": "joy_.on",
  "mbti": [
   "ENTP"
  ],
- "personName": "조유주",
- "tall": "158",
- "sooniEngName": "Joy_.on",
- "grade": "실버",
- "status": "Y",
- "medal": "basic",
+ "company": "수니뮤직",
+ "soopName": "조이온",
+ "sooniCompany": "수니그룹",
+ "remark": null,
+ "weight": "48",
  "birthday": "2000-08-01",
+ "sooniName": "조이온",
+ "createDate": "2025-01-22 10:48:24",
+ "medal": "basic",
  "stages": [
   {
    "date": "2025년 02월 07일",
@@ -47,6 +47,38 @@
      "stageKind": "댄스",
      "Members": "겸둥이,강민아,류하,서아,조이온",
      "youtube": "https://youtu.be/m_8WfvDmrPo?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "WA DA DA",
+     "SingerName": "케플러",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "DICE",
+     "SingerName": "엔믹스",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,깅예솔",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }

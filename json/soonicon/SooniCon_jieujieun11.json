@@ -1,33 +1,33 @@
 {
- "team": "엔소울",
  "personName": "김지은",
- "createDate": "2024-10-31 12:26:26",
- "company": "수니뮤직",
- "tall": "168",
- "weight": "58",
- "activaFlag": null,
- "youtube": "@user-qg5fp8bo1w",
- "updateDate": "2025-02-14 10:36:35",
- "activeFlag": "Y",
- "remark": null,
- "blood": "O",
- "grade": "골드",
- "soopId": "jieujieun11",
- "sex": "W",
- "sooniCompany": "수니그룹",
  "mbti": [
   "ENFJ"
  ],
- "soopName": "미캣",
- "birthday": "1989-05-10",
- "sooniName": "미캣",
+ "createDate": "2024-10-31 12:26:26",
+ "blood": "O",
+ "weight": "58",
  "manager": "총무",
+ "activaFlag": null,
+ "instargram": "micatxx",
+ "tall": "168",
+ "soopId": "jieujieun11",
+ "birthday": "1989-05-10",
+ "team": "엔소울",
+ "updateDate": "2025-02-14 10:36:35",
+ "sex": "W",
+ "youtube": "@user-qg5fp8bo1w",
  "broadCast": "2017-05-09",
- "sooniEngName": "MiCat",
  "namu": "미캣",
  "status": "Y",
+ "sooniEngName": "MiCat",
  "medal": "best",
- "instargram": "micatxx",
+ "grade": "골드",
+ "company": "수니뮤직",
+ "soopName": "미캣",
+ "remark": null,
+ "sooniName": "미캣",
+ "sooniCompany": "수니그룹",
+ "activeFlag": "Y",
  "stages": [
   {
    "date": "2023년 03월 30일",
@@ -954,7 +954,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -999,6 +999,29 @@
      "stageKind": "노래",
      "Members": "빡다혜,미캣,배그나,권도연",
      "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=30435"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "귀로",
+     "SingerName": "나얼",
+     "stageKind": "노래",
+     "Members": "배그나,안예슬,미캣,빡다혜",
+     "Guests": "",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=15062"
     }
    ]
   }

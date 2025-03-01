@@ -1,33 +1,33 @@
 {
- "manager": null,
- "medal": "best",
- "broadCast": "2024-08-24",
- "sooniName": "디어리",
- "blood": "AB",
- "company": "수니엔터",
- "soopName": "디어리",
- "soopId": "hyebin7258",
- "birthday": "1997-09-19",
- "namu": null,
  "createDate": "2024-10-31 12:26:26",
- "status": "Y",
- "updateDate": "2025-02-14 10:55:50",
- "remark": "유투버",
- "personName": "장혜빈",
- "sooniEngName": "Dearie",
- "team": "수니힐",
- "instargram": "dearie._0",
- "sooniCompany": "수니그룹",
- "tall": "163",
+ "soopName": "디어리",
  "mbti": [
   "ENFJ"
  ],
+ "soopId": "hyebin7258",
+ "sooniCompany": "수니그룹",
+ "birthday": "1997-09-19",
+ "remark": "유투버",
+ "updateDate": "2025-03-01 16:43:09",
  "grade": "실버",
+ "weight": "52",
+ "manager": null,
  "activeFlag": "Y",
- "youtube": "@Dearie._0",
- "weight": "54",
+ "medal": "best",
+ "company": "수니엔터",
+ "blood": "AB",
  "sex": "W",
- "position": "팀장",
+ "status": "Y",
+ "broadCast": "2024-08-24",
+ "personName": "장혜빈",
+ "youtube": "@Dearie._0",
+ "sooniName": "디어리",
+ "team": "수니힐",
+ "namu": null,
+ "instargram": "dearie._0",
+ "tall": "163",
+ "position": "",
+ "sooniEngName": "Dearie",
  "stages": [
   {
    "date": "2024년 08월 31일",
@@ -197,7 +197,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -229,6 +229,27 @@
      "stageKind": "노래",
      "Members": "디어리,소희,황크",
      "youtube": "https://youtu.be/LkbxRH-iusk?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "미워요",
+     "SingerName": "정인",
+     "stageKind": "노래",
+     "Members": "디어리,덕이형",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }

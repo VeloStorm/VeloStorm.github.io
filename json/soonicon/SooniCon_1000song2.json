@@ -1,33 +1,33 @@
 {
- "personName": "",
- "remark": null,
- "instargram": "xxminxx_a",
- "manager": null,
- "company": "수니뮤직",
- "youtube": null,
- "weight": "51",
+ "birthday": "1998-12-16",
+ "blood": "O",
+ "sooniEngName": "KangMinA",
+ "medal": "best",
+ "sooniCompany": "수니그룹",
+ "activeFlag": "Y",
  "mbti": [
   "ENTJ"
  ],
- "team": "화이트",
- "birthday": "1998-12-16",
  "soopName": "강민아",
- "sooniCompany": "수니그룹",
- "blood": "O",
- "tall": "166",
- "sooniName": "강민아",
- "status": "Y",
+ "team": "화이트",
+ "company": "수니뮤직",
+ "position": "",
+ "weight": "51",
  "soopId": "1000song2",
  "broadCast": "2020-07-14",
- "sex": "W",
- "grade": "실버",
- "sooniEngName": "KangMinA",
- "createDate": "2024-10-31 12:26:26",
- "position": "",
- "activeFlag": "Y",
+ "instargram": "xxminxx_a",
+ "status": "Y",
+ "personName": "",
  "namu": "강민아(인터넷 방송인)",
- "medal": "best",
+ "manager": null,
+ "tall": "166",
+ "sex": "W",
  "updateDate": "2025-02-14 10:58:04",
+ "sooniName": "강민아",
+ "youtube": null,
+ "grade": "실버",
+ "createDate": "2024-10-31 12:26:26",
+ "remark": null,
  "stages": [
   {
    "date": "2023년 03월 09일",
@@ -877,7 +877,7 @@
    "nYear": "2025",
    "nRound": "01",
    "round": "25년 1회",
-   "mission": "오징어",
+   "mission": "오징어 게임",
    "stage": [
     {
      "isUse": "Y",
@@ -920,6 +920,38 @@
      "stageKind": "댄스",
      "Members": "겸둥이,강민아,류하,서아,조이온",
      "youtube": "https://youtu.be/m_8WfvDmrPo?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "WA DA DA",
+     "SingerName": "케플러",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "DICE",
+     "SingerName": "엔믹스",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,깅예솔",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }

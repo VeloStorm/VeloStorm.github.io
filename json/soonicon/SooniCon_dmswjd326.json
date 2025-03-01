@@ -1,33 +1,33 @@
 {
- "updateDate": "2025-02-22 21:49:08",
- "tall": "161",
- "birthday": "2000-11-13",
- "personName": "",
- "soopName": "뮤링",
+ "weight": "46",
+ "youtube": null,
  "company": "수니뮤직",
- "soopId": "dmswjd326",
- "createDate": "2025-01-22 10:48:24",
- "activeFlag": "Y",
+ "namu": null,
+ "updateDate": "2025-03-01 16:41:23",
  "mbti": [
   "ENTJ"
  ],
- "position": "",
- "status": "Y",
- "sex": "W",
- "grade": "실버",
- "weight": "46",
- "medal": "basic",
- "blood": "AB",
- "sooniCompany": "수니그룹",
- "youtube": null,
- "remark": null,
- "sooniEngName": null,
- "instargram": null,
  "team": "화이트",
- "broadCast": "2024-11-19",
- "sooniName": "뮤링",
- "namu": null,
+ "position": "",
+ "sooniEngName": null,
+ "activeFlag": "Y",
  "manager": null,
+ "sex": "W",
+ "soopId": "dmswjd326",
+ "sooniCompany": "수니그룹",
+ "medal": "basic",
+ "tall": "161",
+ "soopName": "뮤링",
+ "birthday": "2000-11-13",
+ "blood": "AB",
+ "grade": "브론즈",
+ "personName": "",
+ "broadCast": "2024-11-19",
+ "status": "Y",
+ "remark": null,
+ "sooniName": "뮤링",
+ "instargram": null,
+ "createDate": "2025-01-22 10:48:24",
  "stages": [
   {
    "date": "2025년 02월 07일",
@@ -47,6 +47,38 @@
      "stageKind": "댄스",
      "Members": "아띠,민서율,펭채은,홍쥬,뮤링",
      "youtube": "https://youtu.be/Q1T3tC0chNs?feature=shared"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "WA DA DA",
+     "SingerName": "케플러",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "DICE",
+     "SingerName": "엔믹스",
+     "stageKind": "댄스",
+     "Members": "류하,강민아,뮤링,조이온,깅예솔",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
     }
    ]
   }
