@@ -1,0 +1,1297 @@
+[
+  {
+    "sigName": "Atmosphere",
+    "sigValue": "1850",
+    "imgId": "Atmosphere_1850"
+  },
+  {
+    "sigName": "Atmosphere",
+    "sigValue": "10000",
+    "imgId": "Atmosphere_10000"
+  },
+  {
+    "sigName": "Attack Gun",
+    "sigValue": "2200",
+    "imgId": "AttackGun_2200"
+  },
+  {
+    "sigName": "베이스",
+    "sigValue": "1700",
+    "imgId": "Base_1700"
+  },
+  {
+    "sigName": "Be Alright",
+    "sigValue": "3131",
+    "imgId": "BeAlright_3131"
+  },
+  {
+    "sigName": "Booyt Bounce",
+    "sigValue": "2486",
+    "imgId": "BooytBounce_2486"
+  },
+  {
+    "sigName": "Colors",
+    "sigValue": "12486",
+    "imgId": "Colors_12486"
+  },
+  {
+    "sigName": "Control",
+    "sigValue": "9000",
+    "imgId": "Control_9000"
+  },
+  {
+    "sigName": "Dark Sight",
+    "sigValue": "1444",
+    "imgId": "DarkSight_1444"
+  },
+  {
+    "sigName": "Dark Sight",
+    "sigValue": "1844",
+    "imgId": "DarkSight_1844"
+  },
+  {
+    "sigName": "Dark Sight",
+    "sigValue": "1000",
+    "imgId": "DarkSight_1000"
+  },
+  {
+    "sigName": "DERP",
+    "sigValue": "8000",
+    "imgId": "Derp_8000"
+  },
+  {
+    "sigName": "DICE",
+    "sigValue": "1620",
+    "imgId": "Dice_1620"
+  },
+  {
+    "sigName": "Discopled",
+    "sigValue": "1150",
+    "imgId": "Discopled_1150"
+  },
+  {
+    "sigName": "Do it To it",
+    "sigValue": "1000",
+    "imgId": "DoitToit_1000"
+  },
+  {
+    "sigName": "DOODLE",
+    "sigValue": "1380",
+    "imgId": "Doodle_1380"
+  },
+  {
+    "sigName": "DOODLE",
+    "sigValue": "1950",
+    "imgId": "Doodle_1950"
+  },
+  {
+    "sigName": "DRIP",
+    "sigValue": "1545",
+    "imgId": "Drip_1545"
+  },
+  {
+    "sigName": "DRIP",
+    "sigValue": "1555",
+    "imgId": "Drip_1555"
+  },
+  {
+    "sigName": "DRIP",
+    "sigValue": "1700",
+    "imgId": "Drip_1700"
+  },
+  {
+    "sigName": "Earth Quake",
+    "sigValue": "1480",
+    "imgId": "EarthQuake_1480"
+  },
+  {
+    "sigName": "EDEDM",
+    "sigValue": "1880",
+    "imgId": "Ededm_1880"
+  },
+  {
+    "sigName": "EGR",
+    "sigValue": "1780",
+    "imgId": "EGR_1780"
+  },
+  {
+    "sigName": "EGR",
+    "sigValue": "1616",
+    "imgId": "EGR_1616"
+  },
+  {
+    "sigName": "Emergency",
+    "sigValue": "1111",
+    "imgId": "Emergency_1111"
+  },
+  {
+    "sigName": "Emergency",
+    "sigValue": "1120",
+    "imgId": "Emergency_1120"
+  },
+  {
+    "sigName": "Everytime We Touch",
+    "sigValue": "23456",
+    "imgId": "EverytimeWeTouch_23456"
+  },
+  {
+    "sigName": "FEAT",
+    "sigValue": "1480",
+    "imgId": "FEAT_1480"
+  },
+  {
+    "sigName": "Get it",
+    "sigValue": "20000",
+    "imgId": "Getit2_20000"
+  },
+  {
+    "sigName": "Get it",
+    "sigValue": "20000",
+    "imgId": "Getit_20000"
+  },
+  {
+    "sigName": "GGUM",
+    "sigValue": "1680",
+    "imgId": "GGUM_1680"
+  },
+  {
+    "sigName": "GGUM",
+    "sigValue": "2050",
+    "imgId": "GGUM_2050"
+  },
+  {
+    "sigName": "Gun Check",
+    "sigValue": "1250",
+    "imgId": "GunCheck_1250"
+  },
+  {
+    "sigName": "Hands UP",
+    "sigValue": "1000",
+    "imgId": "HandsUP_1000"
+  },
+  {
+    "sigName": "HIT",
+    "sigValue": "1720",
+    "imgId": "HIT_1720"
+  },
+  {
+    "sigName": "HOLD UP",
+    "sigValue": "1100",
+    "imgId": "HoldUP_1100"
+  },
+  {
+    "sigName": "L.S.D",
+    "sigValue": "1820",
+    "imgId": "LSD_1820"
+  },
+  {
+    "sigName": "L.S.D",
+    "sigValue": "2590",
+    "imgId": "LSD_2590"
+  },
+  {
+    "sigName": "LIKE THAT",
+    "sigValue": "1623",
+    "imgId": "LikeThat_1623"
+  },
+  {
+    "sigName": "Lonisolar",
+    "sigValue": "7777",
+    "imgId": "Lonisolar_7777"
+  },
+  {
+    "sigName": "Martini",
+    "sigValue": "1000",
+    "imgId": "Martini_1000"
+  },
+  {
+    "sigName": "MEOW",
+    "sigValue": "1650",
+    "imgId": "MEOW_1650"
+  },
+  {
+    "sigName": "MEOW",
+    "sigValue": "2060",
+    "imgId": "MEOW_2060"
+  },
+  {
+    "sigName": "NA",
+    "sigValue": "1005",
+    "imgId": "NA_1005"
+  },
+  {
+    "sigName": "NA",
+    "sigValue": "1050",
+    "imgId": "NA_1050"
+  },
+  {
+    "sigName": "NA",
+    "sigValue": "1840",
+    "imgId": "NA_1840"
+  },
+  {
+    "sigName": "NS Way",
+    "sigValue": "1330",
+    "imgId": "NSWay_1330"
+  },
+  {
+    "sigName": "Pedro",
+    "sigValue": "1700",
+    "imgId": "Pedro_1700"
+  },
+  {
+    "sigName": "Pedro",
+    "sigValue": "1000",
+    "imgId": "Pedro_1000"
+  },
+  {
+    "sigName": "PEW",
+    "sigValue": "1001",
+    "imgId": "PEW_1001"
+  },
+  {
+    "sigName": "PIRATE",
+    "sigValue": "20000",
+    "imgId": "Getit_20000"
+  },
+  {
+    "sigName": "Pocket Locket",
+    "sigValue": "2828",
+    "imgId": "PocketLocket_2828"
+  },
+  {
+    "sigName": "POSE",
+    "sigValue": "1160",
+    "imgId": "POSE_1160"
+  },
+  {
+    "sigName": "POSE",
+    "sigValue": "1300",
+    "imgId": "POSE_1300"
+  },
+  {
+    "sigName": "Rich",
+    "sigValue": "1234",
+    "imgId": "Rich_1234"
+  },
+  {
+    "sigName": "Rich",
+    "sigValue": "2727",
+    "imgId": "Rich_2727"
+  },
+  {
+    "sigName": "Rich",
+    "sigValue": "3500",
+    "imgId": "Rich_3500"
+  },
+  {
+    "sigName": "Rise",
+    "sigValue": "30000",
+    "imgId": "Rise_30000"
+  },
+  {
+    "sigName": "Rise",
+    "sigValue": "30001",
+    "imgId": "Rise_30001"
+  },
+  {
+    "sigName": "Say yes",
+    "sigValue": "3050",
+    "imgId": "Sayyes_3050"
+  },
+  {
+    "sigName": "Say yes",
+    "sigValue": "3333",
+    "imgId": "Sayyes_3333"
+  },
+  {
+    "sigName": "SEXY BOMB",
+    "sigValue": "1003",
+    "imgId": "SexyBomb_1003"
+  },
+  {
+    "sigName": "SEXY BOMB",
+    "sigValue": "2100",
+    "imgId": "SexyBomb_2100"
+  },
+  {
+    "sigName": "SPECTER",
+    "sigValue": "8888",
+    "imgId": "Specter_8888"
+  },
+  {
+    "sigName": "SPECTER",
+    "sigValue": "9000",
+    "imgId": "Specter_9000"
+  },
+  {
+    "sigName": "Steps",
+    "sigValue": "23456",
+    "imgId": "Steps_23456"
+  },
+  {
+    "sigName": "T.K.T",
+    "sigValue": "1555",
+    "imgId": "TKT_1555"
+  },
+  {
+    "sigName": "Touch",
+    "sigValue": "2112",
+    "imgId": "Touch_2112"
+  },
+  {
+    "sigName": "Touch",
+    "sigValue": "1460",
+    "imgId": "Touch_1460"
+  },
+  {
+    "sigName": "UP",
+    "sigValue": "1000",
+    "imgId": "UP_1000"
+  },
+  {
+    "sigName": "VIP",
+    "sigValue": "10001",
+    "imgId": "VIP_10001"
+  },
+  {
+    "sigName": "VIP",
+    "sigValue": "100000",
+    "imgId": "VIP_1"
+  },
+  {
+    "sigName": "VIP",
+    "sigValue": "100000",
+    "imgId": "VIP_2"
+  },
+  {
+    "sigName": "W.T.F",
+    "sigValue": "1740",
+    "imgId": "WTF_1740"
+  },
+  {
+    "sigName": "W.T.F",
+    "sigValue": "2500",
+    "imgId": "WTF_2500"
+  },
+  {
+    "sigName": "WA DA DA",
+    "sigValue": "1420",
+    "imgId": "WaDaDa_1420"
+  },
+  {
+    "sigName": "WE GO",
+    "sigValue": "1520",
+    "imgId": "WeGo_1520"
+  },
+  {
+    "sigName": "WE'RE BACK",
+    "sigValue": "1818",
+    "imgId": "WeAreBack_1818"
+  },
+  {
+    "sigName": "Where we are",
+    "sigValue": "1660",
+    "imgId": "WhereWeAre_1660"
+  },
+  {
+    "sigName": "Where we are",
+    "sigValue": "2800",
+    "imgId": "WhereWeAre_2800"
+  },
+  {
+    "sigName": "Whiplash",
+    "sigValue": "2044",
+    "imgId": "Whiplash_2044"
+  },
+  {
+    "sigName": "Whiplash",
+    "sigValue": "2400",
+    "imgId": "Whiplash_2400"
+  },
+  {
+    "sigName": "XXX",
+    "sigValue": "2345",
+    "imgId": "XXX_2345"
+  },
+  {
+    "sigName": "간바레",
+    "sigValue": "2000",
+    "imgId": "GanBaRe_2000"
+  },
+  {
+    "sigName": "간바레",
+    "sigValue": "3333",
+    "imgId": "GanBaRe_3333"
+  },
+  {
+    "sigName": "공주들은 원래 그래",
+    "sigValue": "1500",
+    "imgId": "Princesses_1500"
+  },
+  {
+    "sigName": "괜찮아 딩딩딩",
+    "sigValue": "1234",
+    "imgId": "DingDingDing_1234"
+  },
+  {
+    "sigName": "교통정리",
+    "sigValue": "1430",
+    "imgId": "TrafficControl_1430"
+  },
+  {
+    "sigName": "교통정리",
+    "sigValue": "1432",
+    "imgId": "TrafficControl_1432"
+  },
+  {
+    "sigName": "구미베어",
+    "sigValue": "1000",
+    "imgId": "GummyBear_1000"
+  },
+  {
+    "sigName": "구미베어",
+    "sigValue": "1007",
+    "imgId": "GummyBear_1007"
+  },
+  {
+    "sigName": "구미베어",
+    "sigValue": "1400",
+    "imgId": "GummyBear_1400"
+  },
+  {
+    "sigName": "기리기리",
+    "sigValue": "1330",
+    "imgId": "GiliGili_1330"
+  },
+  {
+    "sigName": "꽃",
+    "sigValue": "1533",
+    "imgId": "Flower_1533"
+  },
+  {
+    "sigName": "나루토",
+    "sigValue": "1320",
+    "imgId": "Naruto_1320"
+  },
+  {
+    "sigName": "나루토",
+    "sigValue": "1777",
+    "imgId": "Naruto_1777"
+  },
+  {
+    "sigName": "나르코",
+    "sigValue": "5000",
+    "imgId": "Narco_5000"
+  },
+  {
+    "sigName": "남순로겐",
+    "sigValue": "12486",
+    "imgId": "NSLogen_12486"
+  },
+  {
+    "sigName": "남순로겐",
+    "sigValue": "12486",
+    "imgId": "NSLogen_12486_2"
+  },
+  {
+    "sigName": "남순로겐",
+    "sigValue": "14320",
+    "imgId": "NSLogen_14320"
+  },
+  {
+    "sigName": "냠냠냠",
+    "sigValue": "1446",
+    "imgId": "Nyam_1446"
+  },
+  {
+    "sigName": "너와의 모든 지금",
+    "sigValue": "1750",
+    "imgId": "AllWithYou_1750"
+  },
+  {
+    "sigName": "너와의 모든 지금",
+    "sigValue": "2929",
+    "imgId": "AllWithYou_2929"
+  },
+  {
+    "sigName": "네모네모",
+    "sigValue": "1420",
+    "imgId": "Nemo_1420"
+  },
+  {
+    "sigName": "네모네모",
+    "sigValue": "1900",
+    "imgId": "Nemo_1900"
+  },
+  {
+    "sigName": "네모네모",
+    "sigValue": "2035",
+    "imgId": "Nemo_2035"
+  },
+  {
+    "sigName": "대환장파티",
+    "sigValue": "1540",
+    "imgId": "DisasterParty_1540"
+  },
+  {
+    "sigName": "대환장파티",
+    "sigValue": "2482",
+    "imgId": "DisasterParty_2482"
+  },
+  {
+    "sigName": "댄스위드미",
+    "sigValue": "1450",
+    "imgId": "DanceWithYou_1450"
+  },
+  {
+    "sigName": "댄스위드미",
+    "sigValue": "1762",
+    "imgId": "DanceWithYou_1762"
+  },
+  {
+    "sigName": "댄스위드미",
+    "sigValue": "1000",
+    "imgId": "DanceWithYou_1000"
+  },
+  {
+    "sigName": "데킬라",
+    "sigValue": "1920",
+    "imgId": "Tequila_1920"
+  },
+  {
+    "sigName": "데킬라",
+    "sigValue": "2150",
+    "imgId": "Tequila_2150"
+  },
+  {
+    "sigName": "디지는거야",
+    "sigValue": "1530",
+    "imgId": "YouDying_1530"
+  },
+  {
+    "sigName": "러브나인",
+    "sigValue": "1909",
+    "imgId": "LoveLine_1909"
+  },
+  {
+    "sigName": "러브럼펌펌",
+    "sigValue": "1280",
+    "imgId": "LoveRumPum_1280"
+  },
+  {
+    "sigName": "러브럼펌펌",
+    "sigValue": "1644",
+    "imgId": "LoveRumPum_1644"
+  },
+  {
+    "sigName": "러브쉐이크",
+    "sigValue": "1350",
+    "imgId": "LoveShake_1350"
+  },
+  {
+    "sigName": "러브쉐이크",
+    "sigValue": "1829",
+    "imgId": "LoveShake_1829"
+  },
+  {
+    "sigName": "러쉬아워",
+    "sigValue": "1220",
+    "imgId": "RushHour_1220"
+  },
+  {
+    "sigName": "러쉬아워",
+    "sigValue": "1452",
+    "imgId": "RushHour_1452"
+  },
+  {
+    "sigName": "런투더스카이",
+    "sigValue": "30000",
+    "imgId": "RunToTheSky_1"
+  },
+  {
+    "sigName": "런투더스카이",
+    "sigValue": "30000",
+    "imgId": "RunToTheSky_2"
+  },
+  {
+    "sigName": "레디올낫",
+    "sigValue": "1440",
+    "imgId": "ReadyOrNot_1440"
+  },
+  {
+    "sigName": "레디올낫",
+    "sigValue": "2121",
+    "imgId": "ReadyOrNot_2121"
+  },
+  {
+    "sigName": "룩앳미",
+    "sigValue": "1250",
+    "imgId": "LookAtMe_1250"
+  },
+  {
+    "sigName": "룩앳미",
+    "sigValue": "1580",
+    "imgId": "LookAtMe_1580"
+  },
+  {
+    "sigName": "룩앳미",
+    "sigValue": "1585",
+    "imgId": "LookAtMe_1585"
+  },
+  {
+    "sigName": "마그네틱",
+    "sigValue": "1220",
+    "imgId": "Magnetic_1220"
+  },
+  {
+    "sigName": "만개화",
+    "sigValue": "8888",
+    "imgId": "PlumBlossom_8888"
+  },
+  {
+    "sigName": "망치들라",
+    "sigValue": "1260",
+    "imgId": "HammerIt_1260"
+  },
+  {
+    "sigName": "망치들라",
+    "sigValue": "1600",
+    "imgId": "HammerIt_1600"
+  },
+  {
+    "sigName": "미스터빈",
+    "sigValue": "1180",
+    "imgId": "MrBean_1180"
+  },
+  {
+    "sigName": "미스터빈",
+    "sigValue": "1313",
+    "imgId": "MrBean_1313"
+  },
+  {
+    "sigName": "바우치",
+    "sigValue": "1940",
+    "imgId": "BowChi_1940"
+  },
+  {
+    "sigName": "바우치",
+    "sigValue": "2900",
+    "imgId": "BowChi_2900"
+  },
+  {
+    "sigName": "밤양갱갱갱",
+    "sigValue": "1234",
+    "imgId": "BamYangGang_1234"
+  },
+  {
+    "sigName": "밤양갱갱갱",
+    "sigValue": "1900",
+    "imgId": "BamYangGang_1900"
+  },
+  {
+    "sigName": "버터플라이",
+    "sigValue": "1760",
+    "imgId": "Butterfly_1760"
+  },
+  {
+    "sigName": "버터플라이",
+    "sigValue": "2855",
+    "imgId": "Butterfly_2855"
+  },
+  {
+    "sigName": "베이프",
+    "sigValue": "1688",
+    "imgId": "Bape_1688"
+  },
+  {
+    "sigName": "보라빛밤",
+    "sigValue": "9000",
+    "imgId": "PurpleNight_1"
+  },
+  {
+    "sigName": "보라빛밤",
+    "sigValue": "9000",
+    "imgId": "PurpleNight_2"
+  },
+  {
+    "sigName": "보라빛밤",
+    "sigValue": "9999",
+    "imgId": "PurpleNight_9999"
+  },
+  {
+    "sigName": "보라빛밤",
+    "sigValue": "10000",
+    "imgId": "PurpleNight_10000"
+  },
+  {
+    "sigName": "붐붐베이스",
+    "sigValue": "1980",
+    "imgId": "BoomBase_1980"
+  },
+  {
+    "sigName": "붐붐베이스 Remix",
+    "sigValue": "1640",
+    "imgId": "BoomBaseRemix_1640"
+  },
+  {
+    "sigName": "블루먼데이",
+    "sigValue": "1200",
+    "imgId": "BlueMonday_1200"
+  },
+  {
+    "sigName": "비키니파티",
+    "sigValue": "2219",
+    "imgId": "BikiniParty_2219"
+  },
+  {
+    "sigName": "빛을따라서",
+    "sigValue": "2020",
+    "imgId": "FollowLight_2020"
+  },
+  {
+    "sigName": "빠라뉴",
+    "sigValue": "1560",
+    "imgId": "Bbaranew_1560"
+  },
+  {
+    "sigName": "빠라뉴",
+    "sigValue": "2558",
+    "imgId": "Bbaranew_2558"
+  },
+  {
+    "sigName": "빵빵챌린지",
+    "sigValue": "1444",
+    "imgId": "BbangBbang_1444"
+  },
+  {
+    "sigName": "삐끼삐끼",
+    "sigValue": "1150",
+    "imgId": "PikkiPikki_1150"
+  },
+  {
+    "sigName": "삐끼삐끼",
+    "sigValue": "1400",
+    "imgId": "PikkiPikki_1400"
+  },
+  {
+    "sigName": "삐삐",
+    "sigValue": "1520",
+    "imgId": "Pippi_1520"
+  },
+  {
+    "sigName": "삐삐",
+    "sigValue": "2377",
+    "imgId": "Pippi_2377"
+  },
+  {
+    "sigName": "새끈빠끈",
+    "sigValue": "1909",
+    "imgId": "HotSpicy_1909"
+  },
+  {
+    "sigName": "새끈빠끈",
+    "sigValue": "1950",
+    "imgId": "HotSpicy_1950"
+  },
+  {
+    "sigName": "색소폰매직",
+    "sigValue": "1930",
+    "imgId": "SaxophoneMagic_1930"
+  },
+  {
+    "sigName": "샤카붐",
+    "sigValue": "7000",
+    "imgId": "ShakaBoom_7000"
+  },
+  {
+    "sigName": "수수께끼다이어리",
+    "sigValue": "1280",
+    "imgId": "SecretDiary_1280"
+  },
+  {
+    "sigName": "슈퍼내추럴",
+    "sigValue": "1650",
+    "imgId": "Supernatural_1650"
+  },
+  {
+    "sigName": "슈퍼소닉",
+    "sigValue": "1150",
+    "imgId": "SuperSonic_1150"
+  },
+  {
+    "sigName": "슈퍼소닉",
+    "sigValue": "1230",
+    "imgId": "SuperSonic_1230"
+  },
+  {
+    "sigName": "슈퍼소닉",
+    "sigValue": "1232",
+    "imgId": "SuperSonic_1232"
+  },
+  {
+    "sigName": "스모크",
+    "sigValue": "1818",
+    "imgId": "Smoke_1818"
+  },
+  {
+    "sigName": "스티키",
+    "sigValue": "1480",
+    "imgId": "Sticky_1480"
+  },
+  {
+    "sigName": "아마겟돈",
+    "sigValue": "1960",
+    "imgId": "Armageddon_1960"
+  },
+  {
+    "sigName": "아무거나잘춰",
+    "sigValue": "1328",
+    "imgId": "AnythingDance_1328"
+  },
+  {
+    "sigName": "아이스크림",
+    "sigValue": "1380",
+    "imgId": "IceCream_1380"
+  },
+  {
+    "sigName": "아파트",
+    "sigValue": "1700",
+    "imgId": "Apt_1700"
+  },
+  {
+    "sigName": "아파트",
+    "sigValue": "2222",
+    "imgId": "Apt_2222"
+  },
+  {
+    "sigName": "아헤가오",
+    "sigValue": "3000",
+    "imgId": "Ahegao_3000"
+  },
+  {
+    "sigName": "아헤가오",
+    "sigValue": "4444",
+    "imgId": "Ahegao_4444"
+  },
+  {
+    "sigName": "앙카",
+    "sigValue": "1340",
+    "imgId": "Anka_1340"
+  },
+  {
+    "sigName": "앙카",
+    "sigValue": "1858",
+    "imgId": "Anka_1858"
+  },
+  {
+    "sigName": "앙카",
+    "sigValue": "1888",
+    "imgId": "Anka_1888"
+  },
+  {
+    "sigName": "야레야레",
+    "sigValue": "1680",
+    "imgId": "Yareyare_1680"
+  },
+  {
+    "sigName": "Attack Gun",
+    "sigValue": "1004",
+    "imgId": "AttackGun_1004"
+  },
+  {
+    "sigName": "역도",
+    "sigValue": "1500",
+    "imgId": "Weightlifting_1500"
+  },
+  {
+    "sigName": "역도",
+    "sigValue": "1680",
+    "imgId": "Weightlifting_1680"
+  },
+  {
+    "sigName": "역도",
+    "sigValue": "1688",
+    "imgId": "Weightlifting_1688"
+  },
+  {
+    "sigName": "영차",
+    "sigValue": "1140",
+    "imgId": "YoungCha_1140"
+  },
+  {
+    "sigName": "영차",
+    "sigValue": "1252",
+    "imgId": "YoungCha_1252"
+  },
+  {
+    "sigName": "오늘만 알러뷰",
+    "sigValue": "1450",
+    "imgId": "Iloveyou_1450"
+  },
+  {
+    "sigName": "오렌지디스코",
+    "sigValue": "1640",
+    "imgId": "OrangeDisco_1640"
+  },
+  {
+    "sigName": "오렌지디스코",
+    "sigValue": "2700",
+    "imgId": "OrangeDisco_2700"
+  },
+  {
+    "sigName": "오빠달려붕붕",
+    "sigValue": "1800",
+    "imgId": "BungBung_1800"
+  },
+  {
+    "sigName": "옴브리뉴",
+    "sigValue": "1000",
+    "imgId": "Ombrinho_1000"
+  },
+  {
+    "sigName": "옴브리뉴",
+    "sigValue": "1080",
+    "imgId": "Ombrinho_1080"
+  },
+  {
+    "sigName": "옴브리뉴",
+    "sigValue": "1200",
+    "imgId": "Ombrinho_1200"
+  },
+  {
+    "sigName": "왜요왜요",
+    "sigValue": "1600",
+    "imgId": "WhyWhy_1600"
+  },
+  {
+    "sigName": "왜요왜요",
+    "sigValue": "1980",
+    "imgId": "WhyWhy_1980"
+  },
+  {
+    "sigName": "왜요왜요",
+    "sigValue": "2626",
+    "imgId": "WhyWhy_2626"
+  },
+  {
+    "sigName": "외모췍",
+    "sigValue": "1700",
+    "imgId": "LooksCheck_1700"
+  },
+  {
+    "sigName": "외모췍",
+    "sigValue": "2979",
+    "imgId": "LooksCheck_2979"
+  },
+  {
+    "sigName": "우유",
+    "sigValue": "1360",
+    "imgId": "Milk_1360"
+  },
+  {
+    "sigName": "우유",
+    "sigValue": "1919",
+    "imgId": "Milk_1919"
+  },
+  {
+    "sigName": "우치다",
+    "sigValue": "1720",
+    "imgId": "Uchida_1720"
+  },
+  {
+    "sigName": "우치다",
+    "sigValue": "2750",
+    "imgId": "Uchida_2750"
+  },
+  {
+    "sigName": "웨이백홈",
+    "sigValue": "10000",
+    "imgId": "WayBackHome_10000"
+  },
+  {
+    "sigName": "이글루",
+    "sigValue": "1599",
+    "imgId": "Igloo_1599"
+  },
+  {
+    "sigName": "이쿠욧",
+    "sigValue": "1900",
+    "imgId": "Eku_1900"
+  },
+  {
+    "sigName": "이쿠욧",
+    "sigValue": "2098",
+    "imgId": "Eku_2098"
+  },
+  {
+    "sigName": "자중해",
+    "sigValue": "1470",
+    "imgId": "BeCautious_1470"
+  },
+  {
+    "sigName": "지그재그",
+    "sigValue": "2000",
+    "imgId": "ZigZag_2000"
+  },
+  {
+    "sigName": "첫.계.않",
+    "sigValue": "1730",
+    "imgId": "FirstStep_1730"
+  },
+  {
+    "sigName": "청바지",
+    "sigValue": "1660",
+    "imgId": "Jeans_1660"
+  },
+  {
+    "sigName": "코카인",
+    "sigValue": "1580",
+    "imgId": "Cocaine_1580"
+  },
+  {
+    "sigName": "코카인",
+    "sigValue": "2519",
+    "imgId": "Cocaine_2519"
+  },
+  {
+    "sigName": "코카인",
+    "sigValue": "2555",
+    "imgId": "Cocaine_2555"
+  },
+  {
+    "sigName": "코코로",
+    "sigValue": "6000",
+    "imgId": "Cocoro_6000"
+  },
+  {
+    "sigName": "큰거온다",
+    "sigValue": "1200",
+    "imgId": "BigCome_1200"
+  },
+  {
+    "sigName": "큰거온다",
+    "sigValue": "1400",
+    "imgId": "BigCome_1400"
+  },
+  {
+    "sigName": "클라쓰",
+    "sigValue": "1500",
+    "imgId": "Class_1500"
+  },
+  {
+    "sigName": "클라쓰",
+    "sigValue": "2332",
+    "imgId": "Class_2332"
+  },
+  {
+    "sigName": "클락션",
+    "sigValue": "1450",
+    "imgId": "Clarksion_1450"
+  },
+  {
+    "sigName": "클락션",
+    "sigValue": "2143",
+    "imgId": "Clarksion_2143"
+  },
+  {
+    "sigName": "클락션",
+    "sigValue": "2222",
+    "imgId": "Clarksion_2222"
+  },
+  {
+    "sigName": "클로즈투유",
+    "sigValue": "1002",
+    "imgId": "CloseToYou_1002"
+  },
+  {
+    "sigName": "키티캣",
+    "sigValue": "1240",
+    "imgId": "KitTicket_1240"
+  },
+  {
+    "sigName": "키티켓",
+    "sigValue": "1570",
+    "imgId": "KitTicket_1570"
+  },
+  {
+    "sigName": "키티켓",
+    "sigValue": "1572",
+    "imgId": "KitTicket_1572"
+  },
+  {
+    "sigName": "킥드럼베이스",
+    "sigValue": "1350",
+    "imgId": "KickDrumBase_1350"
+  },
+  {
+    "sigName": "터미널",
+    "sigValue": "1960",
+    "imgId": "Terminal_1960"
+  },
+  {
+    "sigName": "터미널",
+    "sigValue": "2600",
+    "imgId": "Terminal_2600"
+  },
+  {
+    "sigName": "터미널",
+    "sigValue": "3500",
+    "imgId": "Terminal_3500"
+  },
+  {
+    "sigName": "파이팅해야지",
+    "sigValue": "1660",
+    "imgId": "Fighting_1660"
+  },
+  {
+    "sigName": "파티락킹",
+    "sigValue": "4000",
+    "imgId": "PartyLocking_4000"
+  },
+  {
+    "sigName": "파티트레인",
+    "sigValue": "1950",
+    "imgId": "PartyTrain_1950"
+  },
+  {
+    "sigName": "파티트레인",
+    "sigValue": "2660",
+    "imgId": "PartyTrain_2660"
+  },
+  {
+    "sigName": "판타스틱베이비",
+    "sigValue": "3000",
+    "imgId": "FantasticBaby_3000"
+  },
+  {
+    "sigName": "판타스틱베이비",
+    "sigValue": "2784",
+    "imgId": "FantasticBaby_2784"
+  },
+  {
+    "sigName": "팝핑팝핑",
+    "sigValue": "1620",
+    "imgId": "Popping_1620"
+  },
+  {
+    "sigName": "패스트카",
+    "sigValue": "1122",
+    "imgId": "FastCar_1122"
+  },
+  {
+    "sigName": "패스트카",
+    "sigValue": "1750",
+    "imgId": "FastCar_1750"
+  },
+  {
+    "sigName": "패스트카",
+    "sigValue": "2880",
+    "imgId": "FastCar_2880"
+  },
+  {
+    "sigName": "포케댄스",
+    "sigValue": "1425",
+    "imgId": "Pokemon_1425"
+  },
+  {
+    "sigName": "포케댄스",
+    "sigValue": "1420",
+    "imgId": "Pokemon_1420"
+  },
+  {
+    "sigName": "폼폼푸린",
+    "sigValue": "1005",
+    "imgId": "Purrine_1005"
+  },
+  {
+    "sigName": "폼폼푸린",
+    "sigValue": "1850",
+    "imgId": "Purrine_1850"
+  },
+  {
+    "sigName": "퐁당퐁당",
+    "sigValue": "1550",
+    "imgId": "PongDang_1550"
+  },
+  {
+    "sigName": "푱푱",
+    "sigValue": "1550",
+    "imgId": "ShootingLove_1550"
+  },
+  {
+    "sigName": "푱푱",
+    "sigValue": "1800",
+    "imgId": "ShootingLove_1800"
+  },
+  {
+    "sigName": "푱푱",
+    "sigValue": "2488",
+    "imgId": "ShootingLove_2488"
+  },
+  {
+    "sigName": "필더리듬",
+    "sigValue": "1300",
+    "imgId": "FieldRhythm_1300"
+  },
+  {
+    "sigName": "필더리듬",
+    "sigValue": "1742",
+    "imgId": "FieldRhythm_1742"
+  },
+  {
+    "sigName": "핑크레이디",
+    "sigValue": "1600",
+    "imgId": "PinkLady_1600"
+  },
+  {
+    "sigName": "핑크레이디",
+    "sigValue": "2050",
+    "imgId": "PinkLady_2050"
+  },
+  {
+    "sigName": "핑크레이디",
+    "sigValue": "2600",
+    "imgId": "PinkLady_2600"
+  },
+  {
+    "sigName": "핑퐁",
+    "sigValue": "1780",
+    "imgId": "PingPong_1780"
+  },
+  {
+    "sigName": "핑퐁",
+    "sigValue": "1880",
+    "imgId": "PingPong_1880"
+  },
+  {
+    "sigName": "헨타이",
+    "sigValue": "1860",
+    "imgId": "Hentai_74"
+  },
+  {
+    "sigName": "헨타이",
+    "sigValue": "1980",
+    "imgId": "Hentai_1980"
+  },
+  {
+    "sigName": "헨타이",
+    "sigValue": "1988",
+    "imgId": "Hentai_1988"
+  },
+  {
+    "sigName": "호흡곤란",
+    "sigValue": "1380",
+    "imgId": "ShortBreath_1380"
+  },
+  {
+    "sigName": "홈스윗홈",
+    "sigValue": "2222",
+    "imgId": "HomeSweetHome_2222"
+  },
+  {
+    "sigName": "홈스윗홈",
+    "sigValue": "8888",
+    "imgId": "HomeSweetHome_8888"
+  }
+]

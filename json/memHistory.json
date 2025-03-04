@@ -345,11 +345,12 @@
   "sooniName": "겸둥이",
   "soopId": "jyurim99",
   "enterDate": "2022-12-28",
-  "remark": null,
-  "outDate": null,
+  "remark": "질환 (허리+질환)",
+  "outDate": "2025-03-03",
   "kind": "수니그룹",
   "id": "35",
-  "status": "Y"
+  "status": "N",
+  "outKind": "자진퇴사"
  },
  {
   "outDate": null,
@@ -413,13 +414,14 @@
  },
  {
   "soopId": "naian0109",
-  "outDate": null,
-  "remark": "25.01.22 통합오디션",
+  "outDate": "2025-03-02",
+  "remark": "개인사유 (25.01.22 통합오디션)",
   "enterDate": "2025-01-21",
   "sooniName": "치비",
   "kind": "수니그룹",
   "id": "42",
-  "status": "Y"
+  "status": "N",
+  "outKind": "자진퇴사"
  },
  {
   "outDate": "2024-05-21",
@@ -583,13 +585,14 @@
  },
  {
   "soopId": "thwl9386",
-  "remark": null,
+  "remark": "질환",
   "sooniName": "소희",
   "enterDate": "2023-11-08",
-  "outDate": null,
+  "outDate": "2025-03-03",
   "kind": "수니그룹",
   "id": "59",
-  "status": "Y"
+  "status": "N",
+  "outKind": "자진퇴사"
  },
  {
   "sooniName": "져리",
