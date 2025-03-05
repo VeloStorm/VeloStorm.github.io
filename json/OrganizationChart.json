@@ -1,5 +1,5 @@
 {
- "time": "2025-03-04 19:38:45",
+ "time": "2025-03-05 22:18:16",
  "manager": [
   {
    "position": "회장",
@@ -57,7 +57,7 @@
        "soopId": "1000song2",
        "sooniName": "강민아",
        "sex": "W",
-       "grade": "실버",
+       "grade": "골드",
        "medal": "best",
        "team": "화이트",
        "company": "수니뮤직"
@@ -121,8 +121,8 @@
    "name": "수니엔터",
    "ceo": {
     "position": "사장",
-    "soopId": "b24ip7",
-    "sooniName": "민서율",
+    "soopId": "jha0331",
+    "sooniName": "아띠",
     "sex": "W",
     "grade": "골드",
     "medal": "best",
@@ -135,28 +135,19 @@
      "persons": [
       {
        "position": "팀장",
-       "soopId": "jha0331",
-       "sooniName": "아띠",
-       "sex": "W",
-       "grade": "골드",
-       "medal": "best",
-       "team": "블랙",
-       "company": "수니엔터"
-      },
-      {
-       "soopId": "b24ip7",
-       "sooniName": "민서율",
-       "sex": "W",
-       "grade": "골드",
-       "medal": "best",
-       "team": "블랙",
-       "company": "수니엔터"
-      },
-      {
        "soopId": "qorhvk1365",
        "sooniName": "펭채은",
        "sex": "W",
        "grade": "실버",
+       "medal": "best",
+       "team": "블랙",
+       "company": "수니엔터"
+      },
+      {
+       "soopId": "jha0331",
+       "sooniName": "아띠",
+       "sex": "W",
+       "grade": "골드",
        "medal": "best",
        "team": "블랙",
        "company": "수니엔터"
@@ -186,8 +177,8 @@
        "company": "수니엔터"
       },
       {
-       "soopId": "hyebin7258",
-       "sooniName": "디어리",
+       "soopId": "ekdus0830",
+       "sooniName": "백다연",
        "sex": "W",
        "grade": "실버",
        "medal": "best",
@@ -195,10 +186,10 @@
        "company": "수니엔터"
       },
       {
-       "soopId": "ekdus0830",
-       "sooniName": "백다연",
+       "soopId": "hyebin7258",
+       "sooniName": "디어리",
        "sex": "W",
-       "grade": "브론즈",
+       "grade": "실버",
        "medal": "best",
        "team": "수니힐",
        "company": "수니엔터"
@@ -256,6 +247,13 @@
   ]
  },
  "offers": [
+  {
+   "position": "휴직",
+   "soopId": "b24ip7",
+   "sooniName": "민서율",
+   "sex": "W",
+   "medal": "best"
+  },
   {
    "position": "휴직",
    "soopId": "taezzang9",
