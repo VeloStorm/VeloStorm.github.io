@@ -1,31 +1,31 @@
 {
- "blood": "A",
- "instargram": "ryuha_zzang",
- "activeFlag": "Y",
- "weight": "51",
- "manager": "부회장",
+ "mbti": "INFJ",
+ "createDate": "2024-10-31 12:26:26",
  "soopName": "류하",
+ "status": "Y",
+ "manager": "부회장",
+ "birthday": "1997-07-25",
+ "blood": "A",
  "sex": "W",
- "personName": "유인선",
+ "namu": "류하",
+ "instargram": "ryuha_zzang",
  "sooniEngName": "RyuHa",
+ "youtube": "@RYUHAZZANG",
+ "remark": null,
+ "medal": "best",
+ "activeFlag": "Y",
+ "position": "팀장",
  "sooniName": "류하",
  "team": "화이트",
- "createDate": "2024-10-31 12:26:26",
- "namu": "류하",
- "position": "팀장",
- "updateDate": "2025-03-01 16:41:23",
+ "sooniCompany": "수니그룹",
+ "broadCast": "2021-01-07",
+ "updateDate": "2025-03-03 16:02:37",
  "company": "수니뮤직",
- "birthday": "1997-07-25",
- "status": "Y",
- "medal": "best",
+ "personName": "유인선",
+ "grade": "플래티넘",
  "tall": "166",
  "soopId": "rrrr4719",
- "remark": null,
- "grade": "플래티엄",
- "broadCast": "2021-01-07",
- "mbti": "INFJ",
- "sooniCompany": "수니그룹",
- "youtube": "@RYUHAZZANG",
+ "weight": "51",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -1206,7 +1206,8 @@
      "SingerName": "케플러",
      "stageKind": "댄스",
      "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615",
+     "youtube": "https://youtu.be/Ly-Y0jv0jzo?si=D0WS4XM5Hy1jrm4t"
     },
     {
      "isUse": "Y",
@@ -1217,7 +1218,8 @@
      "SingerName": "엔믹스",
      "stageKind": "댄스",
      "Members": "류하,강민아,뮤링,조이온,깅예솔",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+     "youtube": "https://youtu.be/NmWhtG7SwUg?si=H9xD8hoEakERwayk"
     }
    ]
   }

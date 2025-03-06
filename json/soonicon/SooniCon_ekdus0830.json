@@ -1,34 +1,34 @@
 {
- "team": "수니힐",
- "sooniEngName": "BaekDayeon",
- "updateDate": "2025-02-14 10:59:56",
+ "namu": "백다연",
  "sex": "W",
+ "medal": "best",
+ "updateDate": "2025-03-05 22:14:36",
+ "sooniCompany": "수니그룹",
+ "team": "수니힐",
+ "birthday": "2000-08-30",
+ "activeFlag": "Y",
+ "remark": null,
+ "status": "Y",
+ "broadCast": "2018-02-06",
+ "soopId": "ekdus0830",
+ "manager": null,
+ "company": "수니엔터",
  "mbti": [
   "ISTP"
  ],
- "blood": "AB",
- "birthday": "2000-08-30",
- "company": "수니엔터",
  "weight": "58",
- "broadCast": "2018-02-06",
  "personName": "백다연",
- "namu": "백다연",
- "soopName": "백다연",
- "manager": null,
- "sooniName": "백다연",
- "activeFlag": "Y",
- "instargram": "0_zo.p",
- "status": "Y",
- "soopId": "ekdus0830",
- "activaFlag": null,
- "remark": null,
- "sooniCompany": "수니그룹",
- "youtube": "@dayeon0830",
  "tall": "158",
  "position": "",
+ "youtube": "@dayeon0830",
  "createDate": "2024-10-31 12:26:26",
- "medal": "best",
- "grade": "브론즈",
+ "sooniName": "백다연",
+ "soopName": "백다연",
+ "grade": "실버",
+ "instargram": "0_zo.p",
+ "sooniEngName": "BaekDayeon",
+ "activaFlag": null,
+ "blood": "AB",
  "stages": [
   {
    "date": "2024년 02월 24일",
@@ -424,12 +424,13 @@
      "stageNo": 3,
      "company": "엔터",
      "teamName": "수니힐",
-     "SongName": "And july",
-     "SingerName": "헤이즈,딘",
+     "SongName": "And july (Feat. DEAN)",
+     "SingerName": "헤이즈",
      "stageKind": "노래",
      "Members": "백다연,슝슝이,김미타",
      "Guests": "",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16772"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16772",
+     "youtube": "https://youtu.be/2sm3ogQW7LI?si=6YAYD3VRwSLliQBD"
     },
     {
      "isUse": "Y",
@@ -440,7 +441,8 @@
      "SingerName": "비욘세",
      "stageKind": "노래",
      "Members": "백다연,치비",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=19446"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=19446",
+     "youtube": "https://youtu.be/xtrxHKjnj7k?si=hk8k3O2TUWEWQZQ9"
     }
    ]
   }

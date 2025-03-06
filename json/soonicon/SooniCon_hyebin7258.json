@@ -1,33 +1,33 @@
 {
- "createDate": "2024-10-31 12:26:26",
- "soopName": "디어리",
+ "soopId": "hyebin7258",
+ "sooniCompany": "수니그룹",
+ "position": "",
+ "manager": null,
+ "team": "수니힐",
+ "namu": null,
  "mbti": [
   "ENFJ"
  ],
- "soopId": "hyebin7258",
- "sooniCompany": "수니그룹",
- "birthday": "1997-09-19",
- "remark": "유투버",
  "updateDate": "2025-03-01 16:43:09",
+ "personName": "장혜빈",
  "grade": "실버",
- "weight": "52",
- "manager": null,
- "activeFlag": "Y",
- "medal": "best",
- "company": "수니엔터",
+ "createDate": "2024-10-31 12:26:26",
  "blood": "AB",
  "sex": "W",
- "status": "Y",
- "broadCast": "2024-08-24",
- "personName": "장혜빈",
- "youtube": "@Dearie._0",
+ "soopName": "디어리",
+ "sooniEngName": "Dearie",
  "sooniName": "디어리",
- "team": "수니힐",
- "namu": null,
+ "status": "Y",
  "instargram": "dearie._0",
  "tall": "163",
- "position": "",
- "sooniEngName": "Dearie",
+ "activeFlag": "Y",
+ "weight": "52",
+ "company": "수니엔터",
+ "remark": "유투버",
+ "broadCast": "2024-08-24",
+ "birthday": "1997-09-19",
+ "medal": "best",
+ "youtube": "@Dearie._0",
  "stages": [
   {
    "date": "2024년 08월 31일",
@@ -249,7 +249,8 @@
      "SingerName": "정인",
      "stageKind": "노래",
      "Members": "디어리,덕이형",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+     "youtube": "https://youtu.be/DKfoPH2GPgA?si=OmSIHTiwCvFplG3-"
     }
    ]
   }

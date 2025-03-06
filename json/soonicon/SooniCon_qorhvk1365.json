@@ -1,31 +1,31 @@
 {
- "activeFlag": "Y",
- "soopName": "펭채은",
- "createDate": "2024-10-31 12:26:26",
- "blood": null,
- "soopId": "qorhvk1365",
- "namu": null,
- "youtube": null,
- "company": "수니엔터",
- "position": "",
- "sooniName": "펭채은",
- "birthday": "1999-09-29",
- "status": "Y",
- "mbti": null,
  "manager": "",
- "weight": "53",
- "personName": null,
+ "namu": null,
  "team": "블랙",
  "tall": "160",
- "updateDate": "2025-03-01 16:42:47",
- "sex": "W",
+ "weight": "53",
+ "mbti": null,
+ "medal": "best",
  "sooniCompany": "수니그룹",
  "grade": "실버",
- "instargram": null,
- "medal": "best",
- "sooniEngName": null,
- "broadCast": null,
+ "status": "Y",
+ "birthday": "1999-09-29",
+ "activeFlag": "Y",
+ "updateDate": "2025-03-05 22:15:05",
+ "soopName": "펭채은",
+ "personName": null,
+ "company": "수니엔터",
+ "blood": null,
+ "soopId": "qorhvk1365",
  "remark": null,
+ "sex": "W",
+ "youtube": null,
+ "instargram": null,
+ "createDate": "2024-10-31 12:26:26",
+ "position": "팀장",
+ "sooniName": "펭채은",
+ "broadCast": null,
+ "sooniEngName": null,
  "stages": [
   {
    "date": "2024년 08월 10일",
@@ -306,7 +306,8 @@
      "SingerName": "프로미스나인",
      "stageKind": "댄스",
      "Members": "민서율,펭채은,아띠,노두식",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012",
+     "youtube": "https://youtu.be/UjMHrraT85I?si=URCO8suACaWXxuyg"
     },
     {
      "isUse": "Y",
@@ -317,7 +318,8 @@
      "SingerName": "세븐틴",
      "stageKind": "댄스",
      "Members": "민서율,펭채은,아띠",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+     "youtube": "https://youtu.be/MVP2efvGUzU?si=nmyCiUvDY3OqK9Ds"
     }
    ]
   }

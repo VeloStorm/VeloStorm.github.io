@@ -1,35 +1,35 @@
 {
- "youtube": "@An_Yeseul_Ddi",
- "team": "엔소울",
- "medal": "partner",
- "soopName": "안예슬띠",
- "blood": "O",
- "company": "수니뮤직",
- "sex": "W",
- "status": "Y",
- "manager": "",
- "grade": "실버",
- "remark": "슈퍼스타K4, 프로듀스 101",
- "createDate": "2024-10-31 12:26:26",
- "personName": "안예슬",
- "activaFlag": null,
- "weight": "47",
  "mbti": [
   "INTJ",
   "ISTJ"
  ],
- "activeFlag": "Y",
- "sooniEngName": "AnYeSeul",
- "sooniName": "안예슬",
- "position": "팀장",
- "broadCast": "2021-03-07",
- "instargram": "indy1028",
- "soopId": "indy1028",
- "updateDate": "2025-03-01 16:56:00",
- "tall": "161",
- "namu": "안예슬",
+ "createDate": "2024-10-31 12:26:26",
+ "soopName": "안예슬띠",
+ "manager": "",
+ "status": "Y",
  "birthday": "1995-10-28",
+ "blood": "O",
+ "sex": "W",
+ "instargram": "indy1028",
+ "namu": "안예슬",
+ "sooniEngName": "AnYeSeul",
+ "youtube": "@An_Yeseul_Ddi",
+ "remark": "슈퍼스타K4, 프로듀스 101",
+ "medal": "partner",
+ "activeFlag": "Y",
+ "position": "팀장",
+ "sooniName": "안예슬",
+ "team": "엔소울",
  "sooniCompany": "수니그룹",
+ "broadCast": "2021-03-07",
+ "updateDate": "2025-03-01 16:56:00",
+ "company": "수니뮤직",
+ "personName": "안예슬",
+ "activaFlag": null,
+ "grade": "실버",
+ "tall": "161",
+ "soopId": "indy1028",
+ "weight": "47",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -1398,7 +1398,8 @@
      "stageKind": "노래",
      "Members": "안예슬,빡다혜",
      "Guests": "",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=18511"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=18511",
+     "youtube": "https://youtu.be/kYft-qXXe-8?si=0F0JqLU47SHKWP11"
     },
     {
      "isUse": "Y",
@@ -1410,7 +1411,8 @@
      "stageKind": "노래",
      "Members": "배그나,안예슬,빡다혜",
      "Guests": "",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761",
+     "youtube": "https://youtu.be/EzxtvJ2st0M?si=746rwVERAzJwWjR4"
     }
    ]
   }

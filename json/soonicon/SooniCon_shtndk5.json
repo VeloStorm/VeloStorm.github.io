@@ -1,33 +1,33 @@
 {
  "sooniCompany": "수니그룹",
- "birthday": "2000-01-01",
- "youtube": null,
  "soopId": "shtndk5",
- "position": "인턴",
+ "team": "블랙",
  "medal": "basic",
- "updateDate": "2025-03-01 16:42:36",
- "activeFlag": "Y",
- "company": "수니뮤직",
- "team": "화이트",
- "namu": null,
- "tall": "164",
- "instargram": "no_su_a",
- "sooniEngName": null,
- "manager": null,
- "sex": null,
  "soopName": "노두식",
- "status": "Y",
  "sooniName": "노두식",
- "remark": null,
+ "tall": "164",
+ "birthday": "2000-01-01",
+ "grade": "브론즈",
  "personName": "노수아",
+ "youtube": null,
+ "updateDate": "2025-03-04 19:37:06",
+ "blood": null,
  "mbti": [
   "ESTJ"
  ],
+ "sex": null,
+ "sooniEngName": null,
  "createDate": "2025-02-15 00:28:15",
- "grade": "브론즈",
- "blood": null,
- "broadCast": "2025-02-15",
+ "manager": null,
  "weight": "53",
+ "instargram": "no_su_a",
+ "namu": null,
+ "activeFlag": "Y",
+ "remark": null,
+ "position": "",
+ "status": "Y",
+ "company": "수니엔터",
+ "broadCast": "2025-02-15",
  "stages": [
   {
    "date": "2025년 02월 28일",
@@ -46,7 +46,8 @@
      "SingerName": "프로미스나인",
      "stageKind": "댄스",
      "Members": "민서율,펭채은,아띠,노두식",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012",
+     "youtube": "https://youtu.be/UjMHrraT85I?si=URCO8suACaWXxuyg"
     }
    ]
   }

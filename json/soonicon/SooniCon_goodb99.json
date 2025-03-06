@@ -1,33 +1,33 @@
 {
  "team": "엔소울",
- "sooniEngName": "Baegna",
- "weight": "49",
- "birthday": "1991-06-01",
+ "tall": "157",
+ "updateDate": "2025-03-04 19:38:06",
+ "namu": "배그나",
  "instargram": "baegnazz",
  "position": null,
- "sooniCompany": "수니그룹",
- "youtube": "Baegna",
- "soopName": "배그나",
- "namu": "배그나",
- "manager": "사장",
- "sooniName": "배그나",
- "createDate": "2024-10-31 12:26:26",
- "blood": "O",
  "company": "수니뮤직",
- "medal": "best",
+ "grade": "골드",
  "personName": "박은화",
+ "soopId": "goodb99",
+ "medal": "best",
+ "sooniEngName": "Baegna",
+ "createDate": "2024-10-31 12:26:26",
+ "weight": "49",
+ "sooniName": "배그나",
+ "soopName": "배그나",
+ "status": "Y",
+ "youtube": "Baegna",
+ "sex": "W",
+ "manager": "사장",
  "activeFlag": "Y",
+ "birthday": "1991-06-01",
+ "blood": "O",
+ "broadCast": "2019-06-19",
+ "remark": null,
+ "sooniCompany": "수니그룹",
  "mbti": [
   "ISFP"
  ],
- "status": "Y",
- "grade": "골드",
- "soopId": "goodb99",
- "broadCast": "2019-06-19",
- "remark": null,
- "updateDate": "2025-02-14 10:44:59",
- "sex": "W",
- "tall": "157",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -1088,7 +1088,8 @@
      "stageKind": "노래",
      "Members": "배그나,안예슬,빡다혜",
      "Guests": "",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761",
+     "youtube": "https://youtu.be/EzxtvJ2st0M?si=746rwVERAzJwWjR4"
     }
    ]
   }

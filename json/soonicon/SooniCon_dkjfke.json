@@ -1,34 +1,34 @@
 {
  "personName": "박다혜",
- "activeFlag": "Y",
- "soopName": "빡다혜",
- "sooniName": "빡다혜",
- "position": "",
- "company": "수니뮤직",
- "tall": "157",
- "instargram": "o_dahye_o",
- "youtube": "@o_dahye_o",
- "grade": "실버",
- "createDate": "2024-10-31 12:26:26",
- "birthday": "1997-05-22",
  "sex": "W",
- "sooniCompany": "수니그룹",
+ "namu": "박다혜",
+ "weight": "46",
+ "manager": "",
+ "tall": "157",
+ "broadCast": "2023-01-20",
+ "sooniName": "빡다혜",
+ "updateDate": "2025-03-01 16:56:00",
+ "birthday": "1997-05-22",
+ "company": "수니뮤직",
+ "blood": "O",
+ "position": "",
+ "soopName": "빡다혜",
+ "instargram": "o_dahye_o",
  "mbti": [
   "ENTJ"
  ],
- "manager": "",
- "status": "Y",
- "broadCast": "2023-01-20",
- "namu": "박다혜",
- "medal": "best",
- "team": "엔소울",
- "activaFlag": null,
- "updateDate": "2025-03-01 16:56:00",
- "sooniEngName": "Dahye",
- "soopId": "dkjfke",
  "remark": null,
- "weight": "46",
- "blood": "O",
+ "medal": "best",
+ "createDate": "2024-10-31 12:26:26",
+ "youtube": "@o_dahye_o",
+ "activeFlag": "Y",
+ "sooniCompany": "수니그룹",
+ "soopId": "dkjfke",
+ "grade": "실버",
+ "status": "Y",
+ "team": "엔소울",
+ "sooniEngName": "Dahye",
+ "activaFlag": null,
  "stages": [
   {
    "date": "2023년 01월 25일",
@@ -1142,7 +1142,8 @@
      "stageKind": "노래",
      "Members": "안예슬,빡다혜",
      "Guests": "",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=18511"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=18511",
+     "youtube": "https://youtu.be/kYft-qXXe-8?si=0F0JqLU47SHKWP11"
     },
     {
      "isUse": "Y",
@@ -1154,7 +1155,8 @@
      "stageKind": "노래",
      "Members": "배그나,안예슬,빡다혜",
      "Guests": "",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761",
+     "youtube": "https://youtu.be/EzxtvJ2st0M?si=746rwVERAzJwWjR4"
     }
    ]
   }

@@ -1,33 +1,33 @@
 {
- "personName": "조유주",
- "sex": "W",
  "blood": null,
- "status": "Y",
- "team": "화이트",
- "manager": null,
- "grade": "실버",
- "activeFlag": "Y",
- "position": "",
- "broadCast": null,
- "sooniEngName": "Joy_.on",
- "updateDate": "2025-02-14 10:59:56",
- "namu": "조이온",
- "soopId": "juju0081",
- "youtube": "@Joy_on",
+ "remark": null,
+ "personName": "조유주",
  "tall": "158",
- "instargram": "joy_.on",
+ "company": "수니엔터",
+ "position": "",
+ "soopId": "juju0081",
+ "weight": "48",
  "mbti": [
   "ENTP"
  ],
- "company": "수니뮤직",
+ "activeFlag": "Y",
+ "team": "그레이",
+ "namu": "조이온",
+ "updateDate": "2025-03-04 19:29:38",
  "soopName": "조이온",
- "sooniCompany": "수니그룹",
- "remark": null,
- "weight": "48",
- "birthday": "2000-08-01",
  "sooniName": "조이온",
+ "youtube": "@Joy_on",
+ "manager": null,
  "createDate": "2025-01-22 10:48:24",
+ "sooniCompany": "수니그룹",
+ "sooniEngName": "Joy_.on",
+ "instargram": "joy_.on",
  "medal": "basic",
+ "status": "Y",
+ "birthday": "2000-08-01",
+ "broadCast": null,
+ "sex": "W",
+ "grade": "실버",
  "stages": [
   {
    "date": "2025년 02월 07일",
@@ -67,7 +67,8 @@
      "SingerName": "케플러",
      "stageKind": "댄스",
      "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615",
+     "youtube": "https://youtu.be/Ly-Y0jv0jzo?si=D0WS4XM5Hy1jrm4t"
     },
     {
      "isUse": "Y",
@@ -78,7 +79,8 @@
      "SingerName": "엔믹스",
      "stageKind": "댄스",
      "Members": "류하,강민아,뮤링,조이온,깅예솔",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+     "youtube": "https://youtu.be/NmWhtG7SwUg?si=H9xD8hoEakERwayk"
     }
    ]
   }

@@ -1,33 +1,33 @@
 {
- "birthday": "1998-12-16",
- "blood": "O",
- "sooniEngName": "KangMinA",
- "medal": "best",
- "sooniCompany": "수니그룹",
- "activeFlag": "Y",
+ "broadCast": "2020-07-14",
  "mbti": [
   "ENTJ"
  ],
+ "youtube": null,
+ "manager": null,
+ "grade": "골드",
+ "sooniCompany": "수니그룹",
+ "soopId": "1000song2",
+ "instargram": "xxminxx_a",
+ "medal": "best",
  "soopName": "강민아",
- "team": "화이트",
  "company": "수니뮤직",
  "position": "",
+ "activeFlag": "Y",
+ "blood": "O",
+ "remark": null,
+ "updateDate": "2025-03-05 22:15:55",
+ "namu": "강민아(인터넷 방송인)",
+ "sooniEngName": "KangMinA",
+ "tall": "166",
+ "sooniName": "강민아",
  "weight": "51",
- "soopId": "1000song2",
- "broadCast": "2020-07-14",
- "instargram": "xxminxx_a",
+ "sex": "W",
  "status": "Y",
  "personName": "",
- "namu": "강민아(인터넷 방송인)",
- "manager": null,
- "tall": "166",
- "sex": "W",
- "updateDate": "2025-02-14 10:58:04",
- "sooniName": "강민아",
- "youtube": null,
- "grade": "실버",
+ "team": "화이트",
+ "birthday": "1998-12-16",
  "createDate": "2024-10-31 12:26:26",
- "remark": null,
  "stages": [
   {
    "date": "2023년 03월 09일",
@@ -940,7 +940,8 @@
      "SingerName": "케플러",
      "stageKind": "댄스",
      "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615",
+     "youtube": "https://youtu.be/Ly-Y0jv0jzo?si=D0WS4XM5Hy1jrm4t"
     },
     {
      "isUse": "Y",
@@ -951,7 +952,8 @@
      "SingerName": "엔믹스",
      "stageKind": "댄스",
      "Members": "류하,강민아,뮤링,조이온,깅예솔",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+     "youtube": "https://youtu.be/NmWhtG7SwUg?si=H9xD8hoEakERwayk"
     }
    ]
   }

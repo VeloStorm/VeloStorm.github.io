@@ -1,33 +1,33 @@
 {
- "createDate": "2024-10-31 12:26:26",
- "team": "블랙",
- "namu": "아띠",
- "soopName": "아띠",
- "sooniName": "아띠",
- "birthday": "1997-03-31",
- "blood": "O",
- "manager": null,
- "activeFlag": "Y",
- "sooniCompany": "수니그룹",
+ "tall": "162",
  "grade": "골드",
- "company": "수니엔터",
- "instargram": "hyunah_._._",
- "broadCast": "2020-07-05",
- "sex": "W",
- "updateDate": "2025-03-01 16:42:47",
- "position": "팀장",
- "weight": "47",
- "soopId": "jha0331",
- "youtube": "@_atti.",
- "medal": "best",
  "personName": "정현아",
- "sooniEngName": "Atti",
+ "instargram": "hyunah_._._",
+ "updateDate": "2025-03-05 22:15:05",
  "remark": null,
+ "manager": "사장",
+ "sooniName": "아띠",
  "status": "Y",
+ "createDate": "2024-10-31 12:26:26",
  "mbti": [
   "ENFP"
  ],
- "tall": "162",
+ "soopId": "jha0331",
+ "position": "",
+ "birthday": "1997-03-31",
+ "sooniEngName": "Atti",
+ "company": "수니엔터",
+ "medal": "best",
+ "sooniCompany": "수니그룹",
+ "sex": "W",
+ "team": "블랙",
+ "youtube": "@_atti.",
+ "soopName": "아띠",
+ "blood": "O",
+ "weight": "47",
+ "activeFlag": "Y",
+ "broadCast": "2020-07-05",
+ "namu": "아띠",
  "stages": [
   {
    "date": "2023년 05월 15일",
@@ -1074,7 +1074,8 @@
      "SingerName": "프로미스나인",
      "stageKind": "댄스",
      "Members": "민서율,펭채은,아띠,노두식",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012",
+     "youtube": "https://youtu.be/UjMHrraT85I?si=URCO8suACaWXxuyg"
     },
     {
      "isUse": "Y",
@@ -1085,7 +1086,8 @@
      "SingerName": "세븐틴",
      "stageKind": "댄스",
      "Members": "민서율,펭채은,아띠",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+     "youtube": "https://youtu.be/MVP2efvGUzU?si=nmyCiUvDY3OqK9Ds"
     }
    ]
   }

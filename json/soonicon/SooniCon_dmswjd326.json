@@ -1,33 +1,33 @@
 {
- "weight": "46",
- "youtube": null,
- "company": "수니뮤직",
- "namu": null,
- "updateDate": "2025-03-01 16:41:23",
  "mbti": [
   "ENTJ"
  ],
- "team": "화이트",
- "position": "",
  "sooniEngName": null,
- "activeFlag": "Y",
- "manager": null,
+ "blood": "AB",
+ "team": "그레이",
+ "medal": "basic",
+ "personName": "",
  "sex": "W",
  "soopId": "dmswjd326",
- "sooniCompany": "수니그룹",
- "medal": "basic",
- "tall": "161",
- "soopName": "뮤링",
  "birthday": "2000-11-13",
- "blood": "AB",
- "grade": "브론즈",
- "personName": "",
- "broadCast": "2024-11-19",
+ "weight": "46",
+ "namu": null,
  "status": "Y",
- "remark": null,
- "sooniName": "뮤링",
  "instargram": null,
+ "manager": null,
+ "broadCast": "2024-11-19",
+ "position": "",
+ "company": "수니엔터",
+ "sooniCompany": "수니그룹",
+ "activeFlag": "Y",
+ "soopName": "뮤링",
+ "sooniName": "뮤링",
+ "grade": "브론즈",
+ "updateDate": "2025-03-04 19:29:38",
+ "remark": null,
  "createDate": "2025-01-22 10:48:24",
+ "youtube": null,
+ "tall": "161",
  "stages": [
   {
    "date": "2025년 02월 07일",
@@ -67,7 +67,8 @@
      "SingerName": "케플러",
      "stageKind": "댄스",
      "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615",
+     "youtube": "https://youtu.be/Ly-Y0jv0jzo?si=D0WS4XM5Hy1jrm4t"
     },
     {
      "isUse": "Y",
@@ -78,7 +79,8 @@
      "SingerName": "엔믹스",
      "stageKind": "댄스",
      "Members": "류하,강민아,뮤링,조이온,깅예솔",
-     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+     "youtube": "https://youtu.be/NmWhtG7SwUg?si=H9xD8hoEakERwayk"
     }
    ]
   }
