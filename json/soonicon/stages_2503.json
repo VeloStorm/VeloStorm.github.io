@@ -3,12 +3,12 @@
   "isUse": "Y",
   "stageNo": "",
   "company": "",
-  "teamName": "",
+  "teamName": "특별",
   "SongName": "Must be the money",
   "SingerName": "딘딘",
   "stageKind": "노래",
   "Members": "덕이형,혁찌니,슝슝이,이승빈",
-  "youtube": "",
+  "youtube": "https://youtu.be/HHH-XV5zMb0?si=KPky6KI1W2AK-EeC",
   "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=14223"
  },
  {
@@ -33,19 +33,21 @@
   "SingerName": "프로미스나인",
   "stageKind": "댄스",
   "Members": "민서율,펭채은,아띠,노두식",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012",
+  "youtube": "https://youtu.be/UjMHrraT85I?si=URCO8suACaWXxuyg"
  },
  {
   "isUse": "Y",
   "stageNo": 3,
   "company": "엔터",
   "teamName": "수니힐",
-  "SongName": "And july",
-  "SingerName": "헤이즈,딘",
+  "SongName": "And july (Feat. DEAN)",
+  "SingerName": "헤이즈",
   "stageKind": "노래",
   "Members": "백다연,슝슝이,김미타",
   "Guests": "",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16772"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16772",
+  "youtube": "https://youtu.be/2sm3ogQW7LI?si=6YAYD3VRwSLliQBD"
  },
  {
   "isUse": "Y",
@@ -56,7 +58,8 @@
   "SingerName": "케플러",
   "stageKind": "댄스",
   "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615",
+  "youtube": "https://youtu.be/Ly-Y0jv0jzo?si=D0WS4XM5Hy1jrm4t"
  },
  {
   "isUse": "Y",
@@ -68,7 +71,8 @@
   "stageKind": "노래",
   "Members": "안예슬,빡다혜",
   "Guests": "",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=18511"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=18511",
+  "youtube": "https://youtu.be/kYft-qXXe-8?si=0F0JqLU47SHKWP11"
  },
  {
   "isUse": "Y",
@@ -79,7 +83,8 @@
   "SingerName": "비욘세",
   "stageKind": "노래",
   "Members": "백다연,치비",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=19446"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=19446",
+  "youtube": "https://youtu.be/xtrxHKjnj7k?si=hk8k3O2TUWEWQZQ9"
  },
  {
   "isUse": "Y",
@@ -90,7 +95,8 @@
   "SingerName": "엔믹스",
   "stageKind": "댄스",
   "Members": "류하,강민아,뮤링,조이온,깅예솔",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+  "youtube": "https://youtu.be/NmWhtG7SwUg?si=H9xD8hoEakERwayk"
  },
  {
   "isUse": "Y",
@@ -101,7 +107,8 @@
   "SingerName": "정인",
   "stageKind": "노래",
   "Members": "디어리,덕이형",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+  "youtube": "https://youtu.be/DKfoPH2GPgA?si=OmSIHTiwCvFplG3-"
  },
  {
   "isUse": "Y",
@@ -112,7 +119,8 @@
   "SingerName": "세븐틴",
   "stageKind": "댄스",
   "Members": "민서율,펭채은,아띠",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
+  "youtube": "https://youtu.be/MVP2efvGUzU?si=nmyCiUvDY3OqK9Ds"
  },
  {
   "isUse": "Y",
@@ -124,6 +132,7 @@
   "stageKind": "노래",
   "Members": "배그나,안예슬,빡다혜",
   "Guests": "",
-  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761"
+  "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761",
+  "youtube": "https://youtu.be/EzxtvJ2st0M?si=746rwVERAzJwWjR4"
  }
 ]
