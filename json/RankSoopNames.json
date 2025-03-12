@@ -972,12 +972,6 @@
   "medal": "best"
  },
  {
-  "soopId": "rlagpwns06",
-  "soopName": "짱떡",
-  "sooniName": "짱떡",
-  "medal": "basic"
- },
- {
   "soopId": "pop576",
   "soopName": "김순지",
   "sooniName": "김순지",
@@ -1896,12 +1890,6 @@
   "medal": "best"
  },
  {
-  "soopId": "cho1315",
-  "soopName": "냐미냥",
-  "sooniName": "냐미냥",
-  "medal": "basic"
- },
- {
   "soopId": "toos12",
   "soopName": "방송인차돈",
   "sooniName": "방송인차돈",
@@ -1947,12 +1935,6 @@
   "soopId": "doormomo",
   "soopName": "문모모",
   "sooniName": "문모모",
-  "medal": "best"
- },
- {
-  "soopId": "danbibebe",
-  "soopName": "bj아름이",
-  "sooniName": "bj아름이",
   "medal": "basic"
  },
  {
@@ -2523,7 +2505,7 @@
   "soopId": "loveydabi",
   "soopName": "한설♥",
   "sooniName": "한설♥",
-  "medal": "best"
+  "medal": "basic"
  },
  {
   "soopId": "pofo40",
@@ -4782,12 +4764,6 @@
   "medal": "best"
  },
  {
-  "soopId": "cs0419",
-  "soopName": "메론v",
-  "sooniName": "메론v",
-  "medal": "basic"
- },
- {
   "soopId": "ggangsoony",
   "soopName": "흥구기님",
   "sooniName": "흥구기님",
@@ -4983,7 +4959,7 @@
   "soopId": "peachya",
   "soopName": "모카♥",
   "sooniName": "모카♥",
-  "medal": "basic"
+  "medal": "best"
  },
  {
   "soopId": "doeupzi",
@@ -6777,7 +6753,7 @@
   "soopId": "mj0128",
   "soopName": "백하♥",
   "sooniName": "백하♥",
-  "medal": "best"
+  "medal": "basic"
  },
  {
   "soopId": "sophie0919",
@@ -6933,12 +6909,6 @@
   "soopId": "feviknight",
   "soopName": "feviknight",
   "sooniName": "feviknight",
-  "medal": "basic"
- },
- {
-  "soopId": "orijiho21",
-  "soopName": "오리지호",
-  "sooniName": "오리지호",
   "medal": "basic"
  },
  {
@@ -7534,5 +7504,119 @@
   "soopName": "조신한덕후",
   "sooniName": "조신한덕후",
   "medal": "basic"
+ },
+ {
+  "soopId": "m0m099",
+  "soopName": "과즙세연",
+  "sooniName": "과즙세연",
+  "medal": "partner"
+ },
+ {
+  "soopId": "hinqocorv",
+  "soopName": "힌콕",
+  "sooniName": "힌콕",
+  "medal": "basic"
+ },
+ {
+  "soopId": "ollivia04",
+  "soopName": "웰시고기.",
+  "sooniName": "웰시고기.",
+  "medal": "basic"
+ },
+ {
+  "soopId": "afbasket5",
+  "soopName": "농구중립5",
+  "sooniName": "농구중립5",
+  "medal": "basic"
+ },
+ {
+  "soopId": "jmk5883",
+  "soopName": "[BJ]양유정",
+  "sooniName": "[BJ]양유정",
+  "medal": "best"
+ },
+ {
+  "soopId": "rlawlsthfw",
+  "soopName": "힙비",
+  "sooniName": "힙비",
+  "medal": "best"
+ },
+ {
+  "soopId": "hobal115end",
+  "soopName": "호발☆",
+  "sooniName": "호발☆",
+  "medal": "best"
+ },
+ {
+  "soopId": "cruiser0929",
+  "soopName": "스탠업",
+  "sooniName": "스탠업",
+  "medal": "best"
+ },
+ {
+  "soopId": "ssoi0911",
+  "soopName": "소냥이에요",
+  "sooniName": "소냥이에요",
+  "medal": "best"
+ },
+ {
+  "soopId": "gud0070",
+  "soopName": "낮방스타재하",
+  "sooniName": "낮방스타재하",
+  "medal": "basic"
+ },
+ {
+  "soopId": "zesting",
+  "soopName": "라이언★",
+  "sooniName": "라이언★",
+  "medal": "basic"
+ },
+ {
+  "soopId": "kbbasketball",
+  "soopName": "★KB스타즈★",
+  "sooniName": "★KB스타즈★",
+  "medal": "basic"
+ },
+ {
+  "soopId": "y0unggam",
+  "soopName": "영감__",
+  "sooniName": "영감__",
+  "medal": "best"
+ },
+ {
+  "soopId": "rnfma14",
+  "soopName": "김설♥♥",
+  "sooniName": "김설♥♥",
+  "medal": "best"
+ },
+ {
+  "soopId": "jieun3297",
+  "soopName": "다예♡",
+  "sooniName": "다예♡",
+  "medal": "best"
+ },
+ {
+  "soopId": "understay",
+  "soopName": "HyuN.고석현",
+  "sooniName": "HyuN.고석현",
+  "medal": "best"
+ },
+ {
+  "soopId": "kmo7895",
+  "soopName": "아칸_",
+  "sooniName": "아칸_",
+  "medal": "best"
+ },
+ {
+  "soopId": "agi1e2shine5",
+  "soopName": "iam_에투샤",
+  "sooniName": "iam_에투샤",
+  "medal": "basic"
+ },
+ {
+  "soopId": "hko901",
+  "soopName": "수닝∀",
+  "sooniName": "수닝∀",
+  "medal": "best"
  }
 ]

@@ -1,29 +1,33 @@
 {
- "time": "2025-03-05 22:18:16",
+ "time": "2025-03-12 22:21:14",
  "manager": [
   {
    "position": "회장",
    "soopId": "wnnw",
    "sooniName": "남순",
-   "sex": "M"
+   "sex": "M",
+   "medal": "partner"
   },
   {
    "position": "부회장",
    "soopId": "rrrr4719",
    "sooniName": "류하",
-   "sex": "W"
+   "sex": "W",
+   "medal": "best"
   },
   {
    "position": "총무",
    "soopId": "jieujieun11",
    "sooniName": "미캣",
-   "sex": "W"
+   "sex": "W",
+   "medal": "best"
   },
   {
    "position": "PD",
    "soopId": "leesb98",
    "sooniName": "이승빈",
-   "sex": "M"
+   "sex": "M",
+   "medal": "best"
   }
  ],
  "groups": [

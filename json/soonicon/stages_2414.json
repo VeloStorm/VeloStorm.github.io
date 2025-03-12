@@ -30,7 +30,8 @@
   "SingerName": "송지연",
   "Members": "백다연,황크",
   "youtube": "https://youtu.be/kfzuMVIe1vM?si=KZI2MJnk2X7R1ddS",
-  "stageKind": "노래"
+  "stageKind": "노래",
+  "teamName": "전략팀"
  },
  {
   "isUse": "Y",
@@ -62,7 +63,8 @@
   "SingerName": "원더걸스",
   "Members": "펭채은,강민아,안예슬,겸둥이",
   "soopVod": "https://vod.sooplive.co.kr/player/139075077?change_second=24447",
-  "stageKind": "댄스"
+  "stageKind": "댄스",
+  "teamName": "기획팀"
  },
  {
   "isUse": "Y",
@@ -117,6 +119,7 @@
   "SingerName": "DIA",
   "Members": "유복실,강민아,펭채은,겸둥이,안예슬",
   "soopVod": "https://vod.sooplive.co.kr/player/139075077?change_second=30659",
-  "stageKind": "댄스"
+  "stageKind": "댄스",
+  "teamName": "기획팀"
  }
 ]

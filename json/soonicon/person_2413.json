@@ -13,7 +13,8 @@
   "soopId": "rrrr4719",
   "sooniName": "류하",
   "ballon": "293914",
-  "grade": "골드"
+  "grade": "골드",
+  "teamName": "히어로"
  },
  {
   "rank": 3,
@@ -30,7 +31,8 @@
   "soopId": "domangcha13",
   "sooniName": "도원",
   "ballon": "248848",
-  "grade": "골드"
+  "grade": "골드",
+  "teamName": "히어로"
  },
  {
   "rank": 5,
@@ -38,7 +40,8 @@
   "soopId": "indy1028",
   "sooniName": "안예슬",
   "ballon": "247180",
-  "grade": "골드"
+  "grade": "골드",
+  "teamName": "히어로"
  },
  {
   "rank": 6,
@@ -46,7 +49,8 @@
   "soopId": "b24ip7",
   "sooniName": "민서율",
   "ballon": "217610",
-  "grade": "골드"
+  "grade": "골드",
+  "teamName": "히어로"
  },
  {
   "rank": 7,
@@ -55,7 +59,8 @@
   "sooniName": "퀸다미",
   "ballon": "198370",
   "grade": "실버",
-  "position": "사장"
+  "position": "사장",
+  "teamName": "히어로"
  },
  {
   "rank": 8,
@@ -63,7 +68,8 @@
   "soopId": "wendysul",
   "sooniName": "설하",
   "ballon": "139090",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "히어로"
  },
  {
   "rank": 9,
@@ -71,7 +77,8 @@
   "soopId": "vlfvlf789",
   "sooniName": "빵훈",
   "ballon": "135194",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "히어로"
  },
  {
   "rank": 10,
@@ -112,7 +119,8 @@
   "soopId": "tpqhrdl",
   "sooniName": "권도연",
   "ballon": "76730",
-  "grade": "실버"
+  "grade": "실버",
+  "teamName": "히어로"
  },
  {
   "rank": 15,
@@ -169,7 +177,8 @@
   "sooniName": "아띠",
   "ballon": "39864",
   "grade": "브론즈",
-  "scaffold": "1"
+  "scaffold": "1",
+  "teamName": "히어로"
  },
  {
   "rank": 22,
