@@ -1,5 +1,5 @@
 {
- "time": "2025-03-12 22:21:14",
+ "time": "2025-03-14 15:56:10",
  "manager": [
   {
    "position": "회장",
@@ -58,11 +58,20 @@
        "company": "수니뮤직"
       },
       {
-       "soopId": "1000song2",
-       "sooniName": "강민아",
+       "soopId": "taezzang9",
+       "sooniName": "태은짱",
        "sex": "W",
-       "grade": "골드",
+       "grade": "실버",
        "medal": "best",
+       "team": "화이트",
+       "company": "수니뮤직"
+      },
+      {
+       "soopId": "dmswjd326",
+       "sooniName": "뮤링",
+       "sex": "W",
+       "grade": "브론즈",
+       "medal": "basic",
        "team": "화이트",
        "company": "수니뮤직"
       },
@@ -159,7 +168,7 @@
       {
        "soopId": "shtndk5",
        "sooniName": "노두식",
-       "sex": null,
+       "sex": "W",
        "grade": "브론즈",
        "medal": "basic",
        "team": "블랙",
@@ -181,15 +190,6 @@
        "company": "수니엔터"
       },
       {
-       "soopId": "ekdus0830",
-       "sooniName": "백다연",
-       "sex": "W",
-       "grade": "실버",
-       "medal": "best",
-       "team": "수니힐",
-       "company": "수니엔터"
-      },
-      {
        "soopId": "hyebin7258",
        "sooniName": "디어리",
        "sex": "W",
@@ -199,10 +199,11 @@
        "company": "수니엔터"
       },
       {
-       "soopId": "witboy",
-       "sooniName": "슝슝이",
-       "sex": "M",
-       "grade": "브론즈",
+       "position": "인턴",
+       "soopId": "geeworld333",
+       "sooniName": "웃찌이",
+       "sex": "W",
+       "grade": "언랭",
        "medal": "best",
        "team": "수니힐",
        "company": "수니엔터"
@@ -260,8 +261,8 @@
   },
   {
    "position": "휴직",
-   "soopId": "taezzang9",
-   "sooniName": "태은짱",
+   "soopId": "ekdus0830",
+   "sooniName": "백다연",
    "sex": "W",
    "medal": "best"
   },

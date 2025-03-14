@@ -1,33 +1,33 @@
 {
  "broadCast": "2020-07-14",
+ "sooniCompany": "수니그룹",
+ "blood": "O",
+ "soopId": "1000song2",
+ "company": "수니엔터",
+ "updateDate": "2025-03-14 15:43:15",
+ "personName": "",
+ "namu": "강민아(인터넷 방송인)",
+ "activeFlag": "Y",
+ "sex": "W",
+ "position": "",
+ "tall": "166",
+ "team": "그레이",
+ "instargram": "xxminxx_a",
  "mbti": [
   "ENTJ"
  ],
- "youtube": null,
- "manager": null,
- "grade": "골드",
- "sooniCompany": "수니그룹",
- "soopId": "1000song2",
- "instargram": "xxminxx_a",
- "medal": "best",
  "soopName": "강민아",
- "company": "수니뮤직",
- "position": "",
- "activeFlag": "Y",
- "blood": "O",
+ "grade": "골드",
  "remark": null,
- "updateDate": "2025-03-05 22:15:55",
- "namu": "강민아(인터넷 방송인)",
  "sooniEngName": "KangMinA",
- "tall": "166",
+ "youtube": null,
  "sooniName": "강민아",
- "weight": "51",
- "sex": "W",
- "status": "Y",
- "personName": "",
- "team": "화이트",
  "birthday": "1998-12-16",
+ "medal": "best",
  "createDate": "2024-10-31 12:26:26",
+ "status": "Y",
+ "weight": "51",
+ "manager": null,
  "stages": [
   {
    "date": "2023년 03월 09일",
@@ -770,7 +770,8 @@
      "SingerName": "원더걸스",
      "Members": "펭채은,강민아,안예슬,겸둥이",
      "soopVod": "https://vod.sooplive.co.kr/player/139075077?change_second=24447",
-     "stageKind": "댄스"
+     "stageKind": "댄스",
+     "teamName": "기획팀"
     },
     {
      "isUse": "Y",
@@ -780,7 +781,8 @@
      "SingerName": "DIA",
      "Members": "유복실,강민아,펭채은,겸둥이,안예슬",
      "soopVod": "https://vod.sooplive.co.kr/player/139075077?change_second=30659",
-     "stageKind": "댄스"
+     "stageKind": "댄스",
+     "teamName": "기획팀"
     }
    ]
   },

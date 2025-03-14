@@ -789,5 +789,23 @@
   "enterDate": "2025-02-25",
   "status": "Y",
   "remark": "보라부로 영입"
+ },
+ {
+  "id": "92b6",
+  "soopId": "geeworld333",
+  "sooniName": "웃찌이",
+  "kind": "수니그룹",
+  "enterDate": "2025-03-12",
+  "status": "Y",
+  "remark": "25.03.12 개별면접"
+ },
+ {
+  "id": "b409",
+  "soopId": "chokyunga",
+  "sooniName": "갱지",
+  "kind": "수니그룹",
+  "enterDate": "2025-03-12",
+  "status": "Y",
+  "remark": "25.03.12 개별면접"
  }
 ]
