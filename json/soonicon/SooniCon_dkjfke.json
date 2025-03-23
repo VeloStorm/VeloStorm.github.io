@@ -1,34 +1,34 @@
 {
- "youtube": "@o_dahye_o",
- "remark": null,
+ "broadCast": "2023-01-20",
+ "createDate": "2024-10-31 12:26:26",
+ "sex": "W",
+ "activeFlag": "Y",
+ "sooniCompany": "수니그룹",
+ "activaFlag": null,
+ "company": "수니뮤직",
  "team": "엔소울",
+ "instargram": "o_dahye_o",
+ "tall": "157",
+ "grade": "브론즈",
+ "position": "",
+ "status": "Y",
+ "updateDate": "2025-03-23 13:32:34",
+ "blood": "O",
+ "namu": "박다혜",
+ "personName": "박다혜",
+ "birthday": "1997-05-22",
+ "manager": "",
+ "weight": "46",
+ "sooniName": "빡다혜",
+ "soopId": "dkjfke",
  "mbti": [
   "ENTJ"
  ],
- "activeFlag": "Y",
- "updateDate": "2025-03-01 16:56:00",
- "activaFlag": null,
- "grade": "실버",
- "birthday": "1997-05-22",
- "status": "Y",
- "instargram": "o_dahye_o",
- "sooniCompany": "수니그룹",
- "blood": "O",
- "manager": "",
- "sex": "W",
  "sooniEngName": "Dahye",
- "broadCast": "2023-01-20",
- "soopName": "빡다혜",
- "namu": "박다혜",
  "medal": "best",
- "position": "",
- "sooniName": "빡다혜",
- "personName": "박다혜",
- "tall": "157",
- "createDate": "2024-10-31 12:26:26",
- "soopId": "dkjfke",
- "company": "수니뮤직",
- "weight": "46",
+ "remark": null,
+ "youtube": "@o_dahye_o",
+ "soopName": "빡다혜",
  "stages": [
   {
    "date": "2023년 01월 25일",
@@ -1157,6 +1157,38 @@
      "Guests": "",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761",
      "youtube": "https://youtu.be/EzxtvJ2st0M?si=746rwVERAzJwWjR4"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "이유",
+     "SingerName": "신용재",
+     "stageKind": "노래",
+     "Members": "안예슬,빡다혜,배그나",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=16690"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "그대가 분다",
+     "SingerName": "M.C the Max",
+     "stageKind": "노래",
+     "Members": "안예슬,배그나,빡다혜",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=19838"
     }
    ]
   }

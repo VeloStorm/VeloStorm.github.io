@@ -2,33 +2,33 @@
  "instargram": "yes_topia",
  "sooniEngName": null,
  "sooniCompany": "수니그룹",
- "manager": "",
- "company": "수니엔터",
  "team": "그레이",
- "createDate": "2024-11-08 09:09:01",
- "activeFlag": "Y",
- "youtube": "@yesall12",
- "weight": "44",
- "sooniName": "깅예솔",
- "soopName": "깅예솔",
- "position": "팀장",
- "personName": "김윤희",
- "remark": "수니게임즈 멤버",
- "grade": "골드",
- "updateDate": "2025-03-04 19:29:38",
+ "grade": "실버",
+ "position": "",
+ "tall": "161",
+ "updateDate": "2025-03-23 13:35:40",
  "mbti": [
   "INFP",
   "ISFP"
  ],
- "namu": "깅예솔",
- "medal": "best",
- "tall": "161",
- "soopId": "yunhee1222",
- "blood": "A",
  "sex": "W",
+ "namu": "깅예솔",
+ "personName": "김윤희",
+ "manager": "",
+ "youtube": "@yesall12",
+ "soopName": "깅예솔",
+ "company": "수니엔터",
+ "soopId": "yunhee1222",
+ "remark": "수니게임즈 멤버",
  "broadCast": "2020-11-05",
- "birthday": "1999-12-22",
+ "sooniName": "깅예솔",
+ "activeFlag": "Y",
+ "medal": "best",
+ "blood": "A",
+ "createDate": "2024-11-08 09:09:01",
+ "weight": "44",
  "status": "Y",
+ "birthday": "1999-12-22",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -842,6 +842,28 @@
      "Members": "류하,강민아,뮤링,조이온,깅예솔",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
      "youtube": "https://youtu.be/NmWhtG7SwUg?si=H9xD8hoEakERwayk"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "엔터",
+     "teamName": "그레이",
+     "SongName": "첫 사랑니",
+     "SingerName": "에스파",
+     "stageKind": "댄스",
+     "Members": "강민아,설유은,깅예솔,조이온",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=20557",
+     "youtube": "https://youtu.be/D-VKcElUFsQ?si=q77d7CH2Ok8ETd3Z"
     }
    ]
   }

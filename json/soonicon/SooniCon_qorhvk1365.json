@@ -1,31 +1,31 @@
 {
- "grade": "실버",
- "blood": "AB",
- "broadCast": null,
  "tall": "160",
- "position": "팀장",
- "team": "블랙",
  "status": "Y",
- "updateDate": "2025-03-15 00:22:29",
- "sooniName": "펭채은",
- "namu": null,
- "instargram": "aisaka_taiga_____",
- "soopName": "펭채은",
- "sex": "W",
- "sooniEngName": null,
- "activeFlag": "Y",
- "youtube": null,
- "company": "수니엔터",
  "createDate": "2024-10-31 12:26:26",
+ "blood": "AB",
  "soopId": "qorhvk1365",
+ "sex": "W",
  "medal": "best",
+ "birthday": "1999-09-29",
+ "soopName": "펭채은",
+ "manager": "",
+ "youtube": null,
+ "broadCast": null,
  "mbti": null,
  "sooniCompany": "수니그룹",
- "manager": "",
- "weight": "53",
+ "updateDate": "2025-03-23 13:47:36",
+ "position": "",
+ "grade": "브론즈",
  "personName": null,
+ "instargram": "aisaka_taiga_____",
+ "namu": null,
+ "weight": "53",
+ "sooniEngName": null,
+ "activeFlag": "Y",
+ "sooniName": "펭채은",
  "remark": null,
- "birthday": "1999-09-29",
+ "company": "수니엔터",
+ "team": "블랙",
  "stages": [
   {
    "date": "2024년 08월 10일",
@@ -322,6 +322,38 @@
      "Members": "민서율,펭채은,아띠",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
      "youtube": "https://youtu.be/MVP2efvGUzU?si=nmyCiUvDY3OqK9Ds"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "BODY",
+     "SingerName": "미야오",
+     "stageKind": "댄스",
+     "Members": "펭채은,아띠,노두식",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=14462"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "SIREN",
+     "SingerName": "라이즈",
+     "stageKind": "댄스",
+     "Members": "아띠,노두식,펭채은",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=17570"
     }
    ]
   }

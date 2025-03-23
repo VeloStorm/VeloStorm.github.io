@@ -1,35 +1,35 @@
 {
- "company": "수니뮤직",
- "status": "Y",
  "soopId": "indy1028",
- "sex": "W",
- "blood": "O",
- "remark": "슈퍼스타K4, 프로듀스 101",
- "grade": "실버",
  "weight": "47",
+ "position": "",
+ "medal": "partner",
+ "soopName": "안예슬띠",
+ "updateDate": "2025-03-23 13:44:02",
  "manager": "",
+ "status": "Y",
+ "sex": "W",
+ "tall": "161",
+ "activaFlag": null,
  "sooniName": "안예슬",
+ "instargram": "indy1028",
+ "company": "수니뮤직",
+ "blood": "O",
  "activeFlag": "Y",
  "youtube": "@An_Yeseul_Ddi",
+ "sooniEngName": "AnYeSeul",
+ "sooniCompany": "수니그룹",
+ "remark": "슈퍼스타K4, 프로듀스 101",
+ "birthday": "1995-10-28",
  "team": "엔소울",
+ "grade": "실버",
+ "namu": "안예슬",
+ "createDate": "2024-10-31 12:26:26",
  "mbti": [
   "INTJ",
   "ISTJ"
  ],
- "birthday": "1995-10-28",
- "sooniEngName": "AnYeSeul",
- "sooniCompany": "수니그룹",
- "namu": "안예슬",
- "soopName": "안예슬띠",
  "broadCast": "2021-03-07",
- "updateDate": "2025-03-01 16:56:00",
- "position": "팀장",
- "instargram": "indy1028",
  "personName": "안예슬",
- "createDate": "2024-10-31 12:26:26",
- "medal": "partner",
- "activaFlag": null,
- "tall": "161",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -1415,6 +1415,38 @@
      "Guests": "",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761",
      "youtube": "https://youtu.be/EzxtvJ2st0M?si=746rwVERAzJwWjR4"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "이유",
+     "SingerName": "신용재",
+     "stageKind": "노래",
+     "Members": "안예슬,빡다혜,배그나",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=16690"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "그대가 분다",
+     "SingerName": "M.C the Max",
+     "stageKind": "노래",
+     "Members": "안예슬,배그나,빡다혜",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=19838"
     }
    ]
   }

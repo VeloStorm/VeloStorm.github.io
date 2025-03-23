@@ -1,33 +1,33 @@
 {
- "namu": "아띠",
- "manager": "사장",
- "tall": "162",
+ "sex": "W",
+ "updateDate": "2025-03-23 13:47:36",
+ "weight": "47",
+ "soopId": "jha0331",
+ "blood": "O",
+ "broadCast": "2020-07-05",
+ "grade": "실버",
+ "soopName": "아띠",
  "remark": null,
- "sooniEngName": "Atti",
+ "manager": "",
+ "createDate": "2024-10-31 12:26:26",
  "mbti": [
   "ENFP"
  ],
- "sex": "W",
- "createDate": "2024-10-31 12:26:26",
+ "tall": "162",
  "birthday": "1997-03-31",
- "soopName": "아띠",
- "grade": "골드",
- "company": "수니엔터",
- "soopId": "jha0331",
- "updateDate": "2025-03-05 22:15:05",
- "youtube": "@_atti.",
- "status": "Y",
- "blood": "O",
- "team": "블랙",
- "sooniCompany": "수니그룹",
- "sooniName": "아띠",
- "weight": "47",
- "activeFlag": "Y",
- "medal": "best",
- "position": "",
- "personName": "정현아",
- "broadCast": "2020-07-05",
  "instargram": "hyunah_._._",
+ "position": "팀장",
+ "status": "Y",
+ "company": "수니엔터",
+ "activeFlag": "Y",
+ "personName": "정현아",
+ "sooniCompany": "수니그룹",
+ "youtube": "@_atti.",
+ "sooniEngName": "Atti",
+ "team": "블랙",
+ "sooniName": "아띠",
+ "namu": "아띠",
+ "medal": "best",
  "stages": [
   {
    "date": "2023년 05월 15일",
@@ -1088,6 +1088,38 @@
      "Members": "민서율,펭채은,아띠",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
      "youtube": "https://youtu.be/MVP2efvGUzU?si=nmyCiUvDY3OqK9Ds"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "BODY",
+     "SingerName": "미야오",
+     "stageKind": "댄스",
+     "Members": "펭채은,아띠,노두식",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=14462"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "SIREN",
+     "SingerName": "라이즈",
+     "stageKind": "댄스",
+     "Members": "아띠,노두식,펭채은",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=17570"
     }
    ]
   }

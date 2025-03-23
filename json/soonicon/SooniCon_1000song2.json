@@ -1,33 +1,33 @@
 {
- "soopName": "강민아",
- "weight": "51",
- "personName": "",
- "soopId": "1000song2",
+ "sooniName": "강민아",
  "birthday": "1998-12-16",
- "sex": "W",
+ "updateDate": "2025-03-23 13:35:34",
+ "activeFlag": "Y",
+ "instargram": "xxminxx_a",
  "broadCast": "2020-07-14",
- "position": "",
+ "company": "수니엔터",
+ "weight": "51",
+ "soopName": "강민아",
  "team": "그레이",
- "updateDate": "2025-03-14 15:43:15",
  "sooniEngName": "KangMinA",
+ "soopId": "1000song2",
+ "createDate": "2024-10-31 12:26:26",
+ "remark": null,
+ "tall": "166",
+ "sooniCompany": "수니그룹",
+ "grade": "골드",
+ "blood": "O",
+ "personName": "",
+ "sex": "W",
+ "medal": "best",
  "mbti": [
   "ENTJ"
  ],
- "sooniCompany": "수니그룹",
- "company": "수니엔터",
- "remark": null,
- "blood": "O",
- "createDate": "2024-10-31 12:26:26",
- "activeFlag": "Y",
- "manager": null,
- "medal": "best",
- "namu": "강민아(인터넷 방송인)",
- "grade": "골드",
- "instargram": "xxminxx_a",
- "sooniName": "강민아",
- "tall": "166",
  "status": "Y",
+ "position": "",
+ "manager": "사장",
  "youtube": null,
+ "namu": "강민아(인터넷 방송인)",
  "stages": [
   {
    "date": "2023년 03월 09일",
@@ -956,6 +956,28 @@
      "Members": "류하,강민아,뮤링,조이온,깅예솔",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
      "youtube": "https://youtu.be/NmWhtG7SwUg?si=H9xD8hoEakERwayk"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "엔터",
+     "teamName": "그레이",
+     "SongName": "첫 사랑니",
+     "SingerName": "에스파",
+     "stageKind": "댄스",
+     "Members": "강민아,설유은,깅예솔,조이온",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=20557",
+     "youtube": "https://youtu.be/D-VKcElUFsQ?si=q77d7CH2Ok8ETd3Z"
     }
    ]
   }

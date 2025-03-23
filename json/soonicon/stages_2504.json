@@ -1,0 +1,115 @@
+[
+ {
+  "isUse": "Y",
+  "teamName": "스페셜",
+  "SongName": "멋진헛간",
+  "SingerName": "오대천왕(정형돈,혁오)",
+  "stageKind": "노래",
+  "Members": "이승빈,덕이형",
+  "Guests": "상득",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=13594",
+  "youtube": "https://youtu.be/6JhXziObg7s?si=9VXlQ159HtHofHVw"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 1,
+  "company": "엔터",
+  "teamName": "블랙",
+  "SongName": "BODY",
+  "SingerName": "미야오",
+  "stageKind": "댄스",
+  "Members": "펭채은,아띠,노두식",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=14462"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 2,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "SongName": "만개화",
+  "SingerName": "안예은",
+  "stageKind": "노래",
+  "Members": "디어리,미캣",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=15191",
+  "youtube": "https://youtu.be/YH4zjLjWNeE?si=S7IhrCrmp4vBj5JZ"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 3,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "SongName": "MANIAC",
+  "SingerName": "비비지",
+  "stageKind": "댄스",
+  "Members": "뮤링,유즈,류하",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=15964",
+  "youtube": "https://youtu.be/7V1UvrLWZEU?si=z8C0r7wGqiviPmYI"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 4,
+  "company": "뮤직",
+  "teamName": "엔소울",
+  "SongName": "이유",
+  "SingerName": "신용재",
+  "stageKind": "노래",
+  "Members": "안예슬,빡다혜,배그나",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=16690"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 5,
+  "company": "엔터",
+  "teamName": "블랙",
+  "SongName": "SIREN",
+  "SingerName": "라이즈",
+  "stageKind": "댄스",
+  "Members": "아띠,노두식,펭채은",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=17570"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 6,
+  "company": "엔터",
+  "teamName": "수니힐",
+  "SongName": "슬픈인연",
+  "SingerName": "장혜진",
+  "stageKind": "노래",
+  "Members": "웃찌이,미캣",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=18351"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 7,
+  "company": "뮤직",
+  "teamName": "화이트",
+  "SongName": "LATATA",
+  "SingerName": "(여자)아이들",
+  "stageKind": "댄스",
+  "Members": "뮤링,류하,유즈",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=19120"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 8,
+  "company": "뮤직",
+  "teamName": "엔소울",
+  "SongName": "그대가 분다",
+  "SingerName": "M.C the Max",
+  "stageKind": "노래",
+  "Members": "안예슬,배그나,빡다혜",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=19838"
+ },
+ {
+  "isUse": "Y",
+  "stageNo": 9,
+  "company": "엔터",
+  "teamName": "그레이",
+  "SongName": "첫 사랑니",
+  "SingerName": "에스파",
+  "stageKind": "댄스",
+  "Members": "강민아,설유은,깅예솔,조이온",
+  "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=20557",
+  "youtube": "https://youtu.be/D-VKcElUFsQ?si=q77d7CH2Ok8ETd3Z"
+ }
+]

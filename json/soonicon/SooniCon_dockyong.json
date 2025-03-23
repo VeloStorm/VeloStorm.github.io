@@ -1,33 +1,33 @@
 {
- "sex": "M",
- "namu": "덕이튜브",
- "birthday": "1985-08-02",
- "soopId": "dockyong",
- "company": "수니뮤직",
- "activeFlag": "Y",
- "position": "",
- "blood": "B",
- "team": "엔소울",
- "soopName": "덕이형",
- "remark": null,
- "youtube": "@DEOKTUBE",
- "sooniEngName": null,
- "updateDate": "2025-03-04 19:36:32",
  "sooniName": "덕이형",
+ "namu": "덕이튜브",
+ "manager": null,
+ "remark": null,
+ "soopName": "덕이형",
  "tall": "177",
- "instargram": "ok_deok",
- "createDate": "2024-11-22 16:02:43",
- "weight": null,
  "broadCast": null,
+ "sooniCompany": "수니그룹",
+ "company": "수니뮤직",
+ "soopId": "dockyong",
+ "createDate": "2024-11-22 16:02:43",
+ "blood": "B",
+ "instargram": "ok_deok",
+ "sex": "M",
+ "personName": "김용덕",
+ "position": "",
+ "status": "Y",
+ "sooniEngName": null,
+ "activeFlag": "Y",
+ "weight": null,
+ "birthday": "1985-08-02",
+ "grade": "브론즈",
+ "updateDate": "2025-03-04 19:36:32",
+ "team": "엔소울",
  "medal": "best",
  "mbti": [
   "ISTP"
  ],
- "grade": "브론즈",
- "personName": "김용덕",
- "status": "Y",
- "sooniCompany": "수니그룹",
- "manager": null,
+ "youtube": "@DEOKTUBE",
  "stages": [
   {
    "date": "2023년 11월 05일",
@@ -279,6 +279,27 @@
      "Members": "디어리,덕이형",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
      "youtube": "https://youtu.be/DKfoPH2GPgA?si=OmSIHTiwCvFplG3-"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "teamName": "스페셜",
+     "SongName": "멋진헛간",
+     "SingerName": "오대천왕(정형돈,혁오)",
+     "stageKind": "노래",
+     "Members": "이승빈,덕이형",
+     "Guests": "상득",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=13594",
+     "youtube": "https://youtu.be/6JhXziObg7s?si=9VXlQ159HtHofHVw"
     }
    ]
   }

@@ -1,33 +1,33 @@
 {
- "weight": "48",
- "activeFlag": "Y",
- "sooniCompany": "수니그룹",
- "createDate": "2025-01-22 10:48:24",
- "status": "Y",
  "blood": null,
- "broadCast": null,
- "remark": null,
- "soopName": "조이온",
- "sex": "W",
- "soopId": "juju0081",
- "birthday": "2000-08-01",
- "updateDate": "2025-03-14 15:53:14",
- "medal": "best",
- "tall": "158",
- "position": "",
- "personName": "조유주",
- "company": "수니엔터",
- "team": "그레이",
- "sooniEngName": "Joy_.on",
- "youtube": "@Joy_on",
- "instargram": "joy_.on",
  "manager": null,
+ "activeFlag": "Y",
+ "instargram": "joy_.on",
+ "createDate": "2025-01-22 10:48:24",
+ "grade": "브론즈",
+ "tall": "158",
+ "birthday": "2000-08-01",
+ "company": "수니엔터",
  "namu": "조이온",
+ "position": "",
+ "updateDate": "2025-03-23 13:32:34",
+ "team": "그레이",
+ "medal": "best",
+ "broadCast": null,
+ "sooniName": "조이온",
+ "sooniEngName": "Joy_.on",
+ "sooniCompany": "수니그룹",
+ "personName": "조유주",
+ "soopId": "juju0081",
  "mbti": [
   "ENTP"
  ],
- "grade": "실버",
- "sooniName": "조이온",
+ "youtube": "@Joy_on",
+ "soopName": "조이온",
+ "remark": null,
+ "weight": "48",
+ "sex": "W",
+ "status": "Y",
  "stages": [
   {
    "date": "2025년 02월 07일",
@@ -81,6 +81,28 @@
      "Members": "류하,강민아,뮤링,조이온,깅예솔",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=20224",
      "youtube": "https://youtu.be/NmWhtG7SwUg?si=H9xD8hoEakERwayk"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 9,
+     "company": "엔터",
+     "teamName": "그레이",
+     "SongName": "첫 사랑니",
+     "SingerName": "에스파",
+     "stageKind": "댄스",
+     "Members": "강민아,설유은,깅예솔,조이온",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=20557",
+     "youtube": "https://youtu.be/D-VKcElUFsQ?si=q77d7CH2Ok8ETd3Z"
     }
    ]
   }

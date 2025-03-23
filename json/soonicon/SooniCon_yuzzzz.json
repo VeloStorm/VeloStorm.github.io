@@ -1,33 +1,33 @@
 {
- "namu": null,
- "sooniCompany": "수니그룹",
- "sooniEngName": null,
- "soopId": "yuzzzz",
- "team": "화이트",
- "sex": "W",
- "position": "",
  "grade": "브론즈",
- "createDate": "2025-01-22 10:48:24",
- "instargram": null,
- "activeFlag": "Y",
- "tall": "168",
- "weight": "50",
- "blood": "A",
- "company": "수니뮤직",
- "updateDate": "2025-03-01 16:57:12",
- "broadCast": "2025-01-22",
- "birthday": "2002-01-01",
- "manager": null,
- "status": "Y",
- "youtube": null,
- "remark": null,
- "soopName": "유즈",
  "medal": "basic",
- "personName": "정유진",
+ "activeFlag": "Y",
+ "team": "화이트",
+ "updateDate": "2025-03-23 13:44:39",
+ "blood": "A",
+ "birthday": "2002-01-01",
+ "soopName": "유즈",
+ "company": "수니뮤직",
  "mbti": [
   "ENTJ"
  ],
+ "soopId": "yuzzzz",
+ "tall": "168",
+ "sooniCompany": "수니그룹",
+ "sex": "W",
+ "createDate": "2025-01-22 10:48:24",
+ "namu": null,
+ "status": "Y",
+ "youtube": null,
+ "personName": "정유진",
+ "broadCast": "2025-01-22",
  "sooniName": "유즈",
+ "remark": null,
+ "instargram": null,
+ "weight": "50",
+ "manager": null,
+ "sooniEngName": null,
+ "position": "팀장",
  "stages": [
   {
    "date": "2025년 02월 28일",
@@ -48,6 +48,39 @@
      "Members": "류하,강민아,뮤링,조이온,유즈,설유은",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=17615",
      "youtube": "https://youtu.be/Ly-Y0jv0jzo?si=D0WS4XM5Hy1jrm4t"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "MANIAC",
+     "SingerName": "비비지",
+     "stageKind": "댄스",
+     "Members": "뮤링,유즈,류하",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=15964",
+     "youtube": "https://youtu.be/7V1UvrLWZEU?si=z8C0r7wGqiviPmYI"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 7,
+     "company": "뮤직",
+     "teamName": "화이트",
+     "SongName": "LATATA",
+     "SingerName": "(여자)아이들",
+     "stageKind": "댄스",
+     "Members": "뮤링,류하,유즈",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=19120"
     }
    ]
   }

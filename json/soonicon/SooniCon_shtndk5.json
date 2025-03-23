@@ -1,33 +1,33 @@
 {
- "sooniEngName": null,
- "youtube": null,
- "medal": "basic",
- "manager": null,
- "status": "Y",
- "company": "수니엔터",
- "sex": "W",
- "sooniName": "노두식",
- "remark": null,
- "namu": null,
  "birthday": "2000-01-01",
- "broadCast": "2025-02-15",
- "activeFlag": "Y",
- "grade": "브론즈",
- "instargram": "no_su_a",
- "personName": "노수아",
  "mbti": [
   "ESTJ"
  ],
+ "broadCast": "2025-02-15",
+ "updateDate": "2025-03-23 13:32:34",
  "blood": null,
- "sooniCompany": "수니그룹",
- "team": "블랙",
- "position": "",
- "weight": "53",
- "tall": "164",
  "createDate": "2025-02-15 00:28:15",
- "updateDate": "2025-03-14 15:53:38",
  "soopName": "노두식",
+ "sooniName": "노두식",
+ "personName": "노수아",
+ "sooniEngName": null,
+ "sooniCompany": "수니그룹",
+ "sex": "W",
+ "tall": "164",
+ "position": "",
+ "grade": "실버",
+ "weight": "53",
+ "medal": "basic",
  "soopId": "shtndk5",
+ "youtube": null,
+ "activeFlag": "Y",
+ "manager": null,
+ "team": "블랙",
+ "instargram": "no_su_a",
+ "remark": null,
+ "status": "Y",
+ "company": "수니엔터",
+ "namu": null,
  "stages": [
   {
    "date": "2025년 02월 28일",
@@ -48,6 +48,38 @@
      "Members": "민서율,펭채은,아띠,노두식",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16012",
      "youtube": "https://youtu.be/UjMHrraT85I?si=URCO8suACaWXxuyg"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "BODY",
+     "SingerName": "미야오",
+     "stageKind": "댄스",
+     "Members": "펭채은,아띠,노두식",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=14462"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 5,
+     "company": "엔터",
+     "teamName": "블랙",
+     "SongName": "SIREN",
+     "SingerName": "라이즈",
+     "stageKind": "댄스",
+     "Members": "아띠,노두식,펭채은",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=17570"
     }
    ]
   }

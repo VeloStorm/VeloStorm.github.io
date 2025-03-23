@@ -1,33 +1,33 @@
 {
- "updateDate": "2025-03-04 19:38:06",
- "weight": "49",
- "team": "엔소울",
- "sooniCompany": "수니그룹",
- "sooniName": "배그나",
- "broadCast": "2019-06-19",
- "soopName": "배그나",
- "grade": "골드",
+ "manager": "",
  "birthday": "1991-06-01",
- "soopId": "goodb99",
- "youtube": "Baegna",
- "medal": "best",
- "status": "Y",
+ "soopName": "배그나",
+ "company": "수니뮤직",
+ "activeFlag": "Y",
+ "updateDate": "2025-03-23 13:44:02",
+ "grade": "골드",
  "sex": "W",
  "createDate": "2024-10-31 12:26:26",
+ "tall": "157",
+ "position": "팀장",
+ "soopId": "goodb99",
+ "status": "Y",
+ "blood": "O",
+ "sooniName": "배그나",
+ "youtube": "Baegna",
+ "broadCast": "2019-06-19",
+ "namu": "배그나",
  "mbti": [
   "ISFP"
  ],
- "manager": "사장",
- "namu": "배그나",
- "blood": "O",
- "activeFlag": "Y",
- "position": null,
- "company": "수니뮤직",
+ "team": "엔소울",
  "sooniEngName": "Baegna",
  "instargram": "baegnazz",
  "personName": "박은화",
  "remark": null,
- "tall": "157",
+ "medal": "best",
+ "sooniCompany": "수니그룹",
+ "weight": "49",
  "stages": [
   {
    "date": "2022년 12월 15일",
@@ -1090,6 +1090,38 @@
      "Guests": "",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761",
      "youtube": "https://youtu.be/EzxtvJ2st0M?si=746rwVERAzJwWjR4"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 4,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "이유",
+     "SingerName": "신용재",
+     "stageKind": "노래",
+     "Members": "안예슬,빡다혜,배그나",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=16690"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 8,
+     "company": "뮤직",
+     "teamName": "엔소울",
+     "SongName": "그대가 분다",
+     "SingerName": "M.C the Max",
+     "stageKind": "노래",
+     "Members": "안예슬,배그나,빡다혜",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=19838"
     }
    ]
   }

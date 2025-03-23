@@ -1,34 +1,34 @@
 {
- "soopId": "jieujieun11",
- "team": "수니힐",
- "activaFlag": null,
- "status": "Y",
- "manager": "총무",
- "instargram": "micatxx",
- "position": "팀장",
- "namu": "미캣",
- "sooniEngName": "MiCat",
- "weight": "58",
- "sooniName": "미캣",
- "tall": "168",
- "youtube": "@user-qg5fp8bo1w",
- "grade": "골드",
- "activeFlag": "Y",
- "remark": null,
  "birthday": "1989-05-10",
- "blood": "O",
- "company": "수니엔터",
+ "position": "팀장",
+ "tall": "168",
+ "instargram": "micatxx",
+ "soopName": "미캣",
+ "activeFlag": "Y",
+ "activaFlag": null,
+ "remark": null,
+ "sooniEngName": "MiCat",
+ "grade": "골드",
+ "updateDate": "2025-03-23 13:32:34",
+ "team": "수니힐",
  "personName": "김지은",
+ "broadCast": "2017-05-09",
+ "youtube": "@user-qg5fp8bo1w",
+ "sooniCompany": "수니그룹",
+ "medal": "best",
+ "blood": "O",
+ "weight": "58",
  "mbti": [
   "ENFJ"
  ],
- "sooniCompany": "수니그룹",
- "medal": "best",
- "updateDate": "2025-03-04 19:29:38",
+ "namu": "미캣",
+ "sooniName": "미캣",
+ "manager": "총무",
+ "company": "수니엔터",
  "sex": "W",
+ "soopId": "jieujieun11",
  "createDate": "2024-10-31 12:26:26",
- "soopName": "미캣",
- "broadCast": "2017-05-09",
+ "status": "Y",
  "stages": [
   {
    "date": "2023년 03월 30일",
@@ -1023,6 +1023,39 @@
      "Guests": "",
      "youtube": "",
      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=15062"
+    }
+   ]
+  },
+  {
+   "date": "2025년 03월 22일",
+   "date2": "2025-03-22",
+   "nYear": "2025",
+   "nRound": "04",
+   "round": "25년 4회",
+   "mission": "SIGNATURE",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 2,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "만개화",
+     "SingerName": "안예은",
+     "stageKind": "노래",
+     "Members": "디어리,미캣",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=15191",
+     "youtube": "https://youtu.be/YH4zjLjWNeE?si=S7IhrCrmp4vBj5JZ"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "슬픈인연",
+     "SingerName": "장혜진",
+     "stageKind": "노래",
+     "Members": "웃찌이,미캣",
+     "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=18351"
     }
    ]
   }
