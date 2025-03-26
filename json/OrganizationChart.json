@@ -1,5 +1,5 @@
 {
- "time": "2025-03-23 14:10:29",
+ "time": "2025-03-26 19:55:29",
  "manager": [
   {
    "position": "회장",
@@ -190,11 +190,10 @@
        "company": "수니엔터"
       },
       {
-       "position": "인턴",
        "soopId": "geeworld333",
        "sooniName": "웃찌이",
        "sex": "W",
-       "grade": "언랭",
+       "grade": "브론즈",
        "medal": "best",
        "team": "수니힐",
        "company": "수니엔터"

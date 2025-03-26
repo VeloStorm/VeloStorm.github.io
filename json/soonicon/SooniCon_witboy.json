@@ -1,0 +1,295 @@
+{
+ "position": "",
+ "tall": null,
+ "birthday": "1993-12-23",
+ "grade": "브론즈",
+ "soopId": "witboy",
+ "sex": "M",
+ "medal": "best",
+ "company": "수니엔터",
+ "youtube": "@hbklee",
+ "namu": "이지승(유튜버)",
+ "weight": null,
+ "broadCast": null,
+ "sooniEngName": null,
+ "sooniName": "슝슝이",
+ "sooniCompany": "수니그룹",
+ "mbti": null,
+ "instargram": "hbkjiseung",
+ "updateDate": "2025-03-01 16:39:33",
+ "blood": null,
+ "remark": null,
+ "createDate": "2024-11-22 16:02:43",
+ "activeFlag": "Y",
+ "soopName": "슝슝이",
+ "personName": "이지승",
+ "status": "Y",
+ "team": "수니힐",
+ "manager": "",
+ "stages": [
+  {
+   "date": "2023년 04월 24일",
+   "date2": "2023-04-24",
+   "nYear": "2023",
+   "nRound": "06",
+   "round": "23년 6회",
+   "mission": "트렌드",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 13,
+     "teamName": "엔소울",
+     "SongName": "봄여름가을겨울",
+     "SingerName": "빅뱅",
+     "Members": "배그나,빡다혜,오연하",
+     "Guests": "슝슝이",
+     "youtube": "https://www.youtube.com/watch?v=cMKWKwmVPDc&t=448s",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2023년 10월 15일",
+   "date2": "2023-10-15",
+   "nYear": "2023",
+   "nRound": "14",
+   "round": "23년 14회",
+   "mission": "D-DAY",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "teamName": "감찰",
+     "SongName": "순세계 : 비열한 사욕 EP.1",
+     "SingerName": "영상",
+     "Members": "김학수,날박,최깨비,슝슝이",
+     "youtube": "https://youtu.be/yGxz98aMaRg?si=Dt7dBwVkapTWSrD0",
+     "stageKind": "연기"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "teamName": "감찰",
+     "SongName": "순세계 : 비열한 사욕 EP.2",
+     "SingerName": "영상",
+     "Members": "김학수,날박,최깨비,슝슝이",
+     "youtube": "https://youtu.be/WJw5YDu_CD4?si=s51AE4hy8QBY7hrT",
+     "stageKind": "연기"
+    }
+   ]
+  },
+  {
+   "date": "2023년 11월 05일",
+   "date2": "2023-11-05",
+   "nYear": "2023",
+   "nRound": "15",
+   "round": "23년 15회",
+   "mission": "Birth Year",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 15,
+     "teamName": "감찰",
+     "SongName": "가족사진",
+     "SingerName": "김진호",
+     "Members": "날박,슝슝이,덕이형,지비",
+     "youtube": "https://youtu.be/WYdsV-R-xBk?si=RWungofVjmDeWZHo",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2023년 11월 26일",
+   "date2": "2023-11-26",
+   "nYear": "2023",
+   "nRound": "16",
+   "round": "23년 16회",
+   "mission": "Reset",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 11,
+     "teamName": "감찰",
+     "SongName": "박하사탕 (2001)",
+     "SingerName": "윤도현",
+     "Members": "덕이형,슝슝이",
+     "Guests": "슬로우비타",
+     "youtube": "https://youtu.be/uF8D8cO2WTc?si=Se5FoPfqP5rvi3pg",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2023년 12월 17일",
+   "date2": "2023-12-17",
+   "nYear": "2023",
+   "nRound": "17",
+   "round": "23년 17회",
+   "mission": "Adieu 2023",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "teamName": "감찰",
+     "SongName": "광해 - 왕이 된 남자(21세기)",
+     "SingerName": "영상",
+     "Members": "류하,빵훈,날박,슝슝이,덕이형,최깨비",
+     "soopVod": "https://vod.sooplive.co.kr/player/111071287?change_second=8302",
+     "stageKind": "연기",
+     "youtube": "https://youtu.be/ZIYlky6ilR8?si=8Siv8mbQAULizfZf"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "teamName": "감찰",
+     "SongName": "사랑해 그리고 기억해",
+     "SingerName": "먼데이 키즈",
+     "Members": "덕이형,슝슝이,빵훈,날박",
+     "soopVod": "https://vod.sooplive.co.kr/player/111071287?change_second=16446",
+     "stageKind": "노래",
+     "youtube": "https://youtu.be/FAtjp5UQEy0?si=bpzssAYWH-MNCWWr"
+    }
+   ]
+  },
+  {
+   "date": "2024년 01월 13일",
+   "date2": "2024-01-13",
+   "nYear": "2024",
+   "nRound": "01",
+   "round": "24년 1회",
+   "mission": "MusicBank",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "teamName": "감찰",
+     "SongName": "나의 와이프 EP.1",
+     "SingerName": "영상",
+     "Members": "진솔,빵훈,최깨비,슝슝이,오연하,날박,덕이형",
+     "youtube": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/113413681?change_second=13667",
+     "stageKind": "연기"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "teamName": "감찰",
+     "SongName": "나의 와이프 EP.2",
+     "SingerName": "영상",
+     "Members": "진솔,빵훈,최깨비,슝슝이,오연하,날박,덕이형",
+     "soopVod": "https://vod.sooplive.co.kr/player/113413681?change_second=23050",
+     "stageKind": "연기"
+    }
+   ]
+  },
+  {
+   "date": "2024년 08월 31일",
+   "date2": "2024-08-31",
+   "nYear": "2024",
+   "nRound": "12",
+   "round": "24년 12회",
+   "mission": "First Love",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 11,
+     "company": "기획",
+     "SongName": "내 입술 따듯한 커피처럼",
+     "SingerName": "샵",
+     "Members": "미캣,퀸다미,김학수",
+     "Guests": "슝슝이",
+     "soopVod": "https://vod.sooplive.co.kr/player/134952725?change_second=32360",
+     "stageKind": "노래"
+    }
+   ]
+  },
+  {
+   "date": "2025년 01월 05일",
+   "date2": "2025-01-05",
+   "nYear": "2025",
+   "nRound": "01",
+   "round": "25년 1회",
+   "mission": "오징어 게임",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "teamName": "가오와곤조",
+     "SongName": "See You Again",
+     "SingerName": "Wiz Khalifa",
+     "stageKind": "노래",
+     "Members": "안예슬,슝슝이",
+     "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=23943"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 07일",
+   "date2": "2025-02-07",
+   "nYear": "2025",
+   "nRound": "02",
+   "round": "25년 2회",
+   "mission": "TOP100",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": 1,
+     "company": "",
+     "teamName": "",
+     "SongName": "트로트",
+     "SingerName": "에픽하이",
+     "stageKind": "노래",
+     "Members": "혁찌니,덕이형,슝슝이,이승빈",
+     "youtube": "https://youtu.be/Z4qvUzPGz4Y?feature=shared"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 6,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "SPOT",
+     "SingerName": "지코",
+     "stageKind": "노래",
+     "Members": "슝슝이,백다연",
+     "Guests": "콧시",
+     "soopVod": "https://vod.sooplive.co.kr/player/150627467?change_second=27088"
+    }
+   ]
+  },
+  {
+   "date": "2025년 02월 28일",
+   "date2": "2025-02-28",
+   "nYear": "2025",
+   "nRound": "03",
+   "round": "25년 3회",
+   "mission": "ChatGPT",
+   "stage": [
+    {
+     "isUse": "Y",
+     "stageNo": "",
+     "company": "",
+     "teamName": "특별",
+     "SongName": "Must be the money",
+     "SingerName": "딘딘",
+     "stageKind": "노래",
+     "Members": "덕이형,혁찌니,슝슝이,이승빈",
+     "youtube": "https://youtu.be/HHH-XV5zMb0?si=KPky6KI1W2AK-EeC",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=14223"
+    },
+    {
+     "isUse": "Y",
+     "stageNo": 3,
+     "company": "엔터",
+     "teamName": "수니힐",
+     "SongName": "And july (Feat. DEAN)",
+     "SingerName": "헤이즈",
+     "stageKind": "노래",
+     "Members": "백다연,슝슝이,김미타",
+     "Guests": "",
+     "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=16772",
+     "youtube": "https://youtu.be/2sm3ogQW7LI?si=6YAYD3VRwSLliQBD"
+    }
+   ]
+  }
+ ]
+}
