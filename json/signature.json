@@ -10,6 +10,11 @@
     "imgId": "Atmosphere_10000"
   },
   {
+    "sigName": "Atmosphere",
+    "sigValue": "12486",
+    "imgId": "Atmosphere_12486"
+  },
+  {
     "sigName": "Attack Gun",
     "sigValue": "2200",
     "imgId": "AttackGun_2200"
@@ -28,6 +33,11 @@
     "sigName": "Booyt Bounce",
     "sigValue": "2486",
     "imgId": "BooytBounce_2486"
+  },
+  {
+    "sigName": "Colors",
+    "sigValue": "9999",
+    "imgId": "Colors_9999"
   },
   {
     "sigName": "Colors",
@@ -63,6 +73,11 @@
     "sigName": "DICE",
     "sigValue": "1620",
     "imgId": "Dice_1620"
+  },
+  {
+    "sigName": "DICE",
+    "sigValue": "1760",
+    "imgId": "Dice_1760"
   },
   {
     "sigName": "Discopled",
@@ -205,6 +220,11 @@
     "imgId": "Martini_1000"
   },
   {
+    "sigName": "Martini",
+    "sigValue": "2540",
+    "imgId": "Martini_2540"
+  },
+  {
     "sigName": "MEOW",
     "sigValue": "1650",
     "imgId": "MEOW_1650"
@@ -278,6 +298,11 @@
     "sigName": "Rich",
     "sigValue": "2727",
     "imgId": "Rich_2727"
+  },
+  {
+    "sigName": "Rich",
+    "sigValue": "3200",
+    "imgId": "Rich_3200"
   },
   {
     "sigName": "Rich",
@@ -380,9 +405,19 @@
     "imgId": "WaDaDa_1420"
   },
   {
+    "sigName": "WA DA DA",
+    "sigValue": "1560",
+    "imgId": "WaDaDa_1560"
+  },
+  {
     "sigName": "WE GO",
     "sigValue": "1520",
     "imgId": "WeGo_1520"
+  },
+  {
+    "sigName": "WE GO",
+    "sigValue": "1670",
+    "imgId": "WeGo_1670"
   },
   {
     "sigName": "WE'RE BACK",
@@ -483,6 +518,11 @@
     "sigName": "나르코",
     "sigValue": "5000",
     "imgId": "Narco_5000"
+  },
+  {
+    "sigName": "나르코",
+    "sigValue": "5050",
+    "imgId": "Narco_5050"
   },
   {
     "sigName": "남순로겐",
@@ -680,6 +720,11 @@
     "imgId": "BowChi_2900"
   },
   {
+    "sigName": "바우치",
+    "sigValue": "3000",
+    "imgId": "BowChi_3000"
+  },
+  {
     "sigName": "밤양갱갱갱",
     "sigValue": "1234",
     "imgId": "BamYangGang_1234"
@@ -723,6 +768,11 @@
     "sigName": "보라빛밤",
     "sigValue": "10000",
     "imgId": "PurpleNight_10000"
+  },
+  {
+    "sigName": "보라빛밤",
+    "sigValue": "10000",
+    "imgId": "PurpleNight_10000_2"
   },
   {
     "sigName": "붐붐베이스",
@@ -985,6 +1035,11 @@
     "imgId": "LooksCheck_2979"
   },
   {
+    "sigName": "외모췍",
+    "sigValue": "3000",
+    "imgId": "LooksCheck_3000"
+  },
+  {
     "sigName": "우유",
     "sigValue": "1360",
     "imgId": "Milk_1360"
@@ -1033,6 +1088,11 @@
     "sigName": "지그재그",
     "sigValue": "2000",
     "imgId": "ZigZag_2000"
+  },
+  {
+    "sigName": "지그재그",
+    "sigValue": "2300",
+    "imgId": "ZigZag_2300"
   },
   {
     "sigName": "첫.계.않",
@@ -1093,6 +1153,11 @@
     "sigName": "클락션",
     "sigValue": "2143",
     "imgId": "Clarksion_2143"
+  },
+  {
+    "sigName": "클락션",
+    "sigValue": "2000",
+    "imgId": "Clarksion_2000"
   },
   {
     "sigName": "클락션",
@@ -1168,6 +1233,11 @@
     "sigName": "판타스틱베이비",
     "sigValue": "2784",
     "imgId": "FantasticBaby_2784"
+  },
+  {
+    "sigName": "판타스틱베이비",
+    "sigValue": "3300",
+    "imgId": "FantasticBaby_3300"
   },
   {
     "sigName": "팝핑팝핑",
@@ -1293,5 +1363,95 @@
     "sigName": "홈스윗홈",
     "sigValue": "8888",
     "imgId": "HomeSweetHome_8888"
+  },
+  {
+    "sigName": "아브라카다브라",
+    "sigValue": "1990",
+    "imgId": "Abracadabra_1990"
+  },
+  {
+    "sigName": "Bazaar",
+    "sigValue": "5000",
+    "imgId": "Bazaar_5000"
+  },
+  {
+    "sigName": "BODY",
+    "sigValue": "1620",
+    "imgId": "BODY_1620"
+  },
+  {
+    "sigName": "EDM",
+    "sigValue": "2450",
+    "imgId": "EDM_2450"
+  },
+  {
+    "sigName": "GASOLINA",
+    "sigValue": "3500",
+    "imgId": "GASOLINA_3500"
+  },
+  {
+    "sigName": "GUAP",
+    "sigValue": "1000",
+    "imgId": "GUAP_1000"
+  },
+  {
+    "sigName": "LATATA",
+    "sigValue": "1720",
+    "imgId": "LATATA_1720"
+  },
+  {
+    "sigName": "Like JENNIE",
+    "sigValue": "1940",
+    "imgId": "LikeJENNIE_1940"
+  },
+  {
+    "sigName": "MANIAC",
+    "sigValue": "1520",
+    "imgId": "MANIAC_1520"
+  },
+  {
+    "sigName": "날라리",
+    "sigValue": "1200",
+    "imgId": "PartyAnimal_1200"
+  },
+  {
+    "sigName": "첫 사랑니",
+    "sigValue": "1420",
+    "imgId": "RumPum_1420"
+  },
+  {
+    "sigName": "비밀정원",
+    "sigValue": "1444",
+    "imgId": "SecretGarden_1444"
+  },
+  {
+    "sigName": "사이렌",
+    "sigValue": "1820",
+    "imgId": "Siren_1820"
+  },
+  {
+    "sigName": "체온",
+    "sigValue": "1470",
+    "imgId": "Temperature_1470"
+  },
+  {
+    "sigName": "그날의 너",
+    "sigValue": "1550",
+    "imgId": "ThatDay_1550"
+  },
+  {
+    "sigName": "TOO BAD",
+    "sigValue": "1430",
+    "imgId": "TooBad_1430"
+  },
+  {
+    "sigName": "Wave Way",
+    "sigValue": "1350",
+    "imgId": "WaveWay_1350"
+  },
+  {
+    "sigName": "이상해",
+    "sigValue": "1780",
+    "imgId": "Weird_1780"
   }
 ]
