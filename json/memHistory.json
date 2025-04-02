@@ -292,7 +292,7 @@
   "status": "Y"
  },
  {
-  "sooniName": "안예슬띠",
+  "sooniName": "안예슬",
   "outDate": null,
   "enterDate": "2022-12-04",
   "soopId": "indy1028",
@@ -496,12 +496,13 @@
  {
   "sooniName": "혁찌니",
   "enterDate": "2024-11-21",
-  "outDate": null,
+  "outDate": "2025-03-14",
   "soopId": "rhwk518",
-  "remark": null,
+  "remark": "방송적 케미 부족",
   "kind": "수니그룹",
   "id": "50",
-  "status": "Y"
+  "status": "N",
+  "outKind": "퇴출"
  },
  {
   "soopId": "rkdtnwls0718",
@@ -662,17 +663,19 @@
   "soopId": "witboy",
   "kind": "수니그룹",
   "id": "66",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
-  "remark": null,
-  "outDate": null,
+  "remark": "방송적 케미 부족",
+  "outDate": "2025-03-14",
   "sooniName": "슝슝이",
   "enterDate": "2024-11-21",
   "soopId": "witboy",
   "kind": "수니그룹",
   "id": "67",
-  "status": "Y"
+  "status": "N",
+  "outKind": "퇴출"
  },
  {
   "sooniName": "남순",
@@ -807,5 +810,33 @@
   "enterDate": "2025-03-12",
   "status": "Y",
   "remark": "25.03.12 개별면접"
+ },
+ {
+  "soopId": "sia0617",
+  "sooniName": "추단비",
+  "kind": "수니그룹",
+  "enterDate": "2025-04-02",
+  "status": "Y",
+  "id": "1elst5A"
+ },
+ {
+  "soopId": "flwjdtls",
+  "sooniName": "수빙",
+  "kind": "수니그룹",
+  "enterDate": "2025-04-02",
+  "outDate": "",
+  "status": "Y",
+  "outKind": "",
+  "id": "x6EXZXv"
+ },
+ {
+  "soopId": "zyunnyang",
+  "sooniName": "쥬니",
+  "kind": "수니그룹",
+  "enterDate": "2025-04-02",
+  "status": "Y",
+  "outKind": "",
+  "remark": "25.04.02 개별면접",
+  "id": "_8V9CL3"
  }
 ]

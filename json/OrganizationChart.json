@@ -1,5 +1,5 @@
 {
- "time": "2025-03-26 19:55:29",
+ "time": "2025-04-03 00:01:48",
  "manager": [
   {
    "position": "회장",
@@ -148,6 +148,15 @@
        "company": "수니엔터"
       },
       {
+       "soopId": "b24ip7",
+       "sooniName": "민서율",
+       "sex": "W",
+       "grade": "실버",
+       "medal": "best",
+       "team": "블랙",
+       "company": "수니엔터"
+      },
+      {
        "soopId": "shtndk5",
        "sooniName": "노두식",
        "sex": "W",
@@ -244,22 +253,8 @@
  "offers": [
   {
    "position": "휴직",
-   "soopId": "b24ip7",
-   "sooniName": "민서율",
-   "sex": "W",
-   "medal": "best"
-  },
-  {
-   "position": "휴직",
    "soopId": "ekdus0830",
    "sooniName": "백다연",
-   "sex": "W",
-   "medal": "best"
-  },
-  {
-   "position": "휴직",
-   "soopId": "tpqhrdl",
-   "sooniName": "권도연",
    "sex": "W",
    "medal": "best"
   }
