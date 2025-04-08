@@ -321,6 +321,11 @@
   },
   {
     "sigName": "Say yes",
+    "sigValue": "3001",
+    "imgId": "Sayyes_3001"
+  },
+  {
+    "sigName": "Say yes",
     "sigValue": "3050",
     "imgId": "Sayyes_3050"
   },
@@ -527,12 +532,12 @@
   {
     "sigName": "남순로겐",
     "sigValue": "12486",
-    "imgId": "NSLogen_12486"
+    "imgId": "NSLogen_12486_2"
   },
   {
     "sigName": "남순로겐",
     "sigValue": "12486",
-    "imgId": "NSLogen_12486_2"
+    "imgId": "NSLogen_12486"
   },
   {
     "sigName": "남순로겐",
@@ -647,12 +652,12 @@
   {
     "sigName": "런투더스카이",
     "sigValue": "30000",
-    "imgId": "RunToTheSky_1"
+    "imgId": "RunToTheSky_2"
   },
   {
     "sigName": "런투더스카이",
     "sigValue": "30000",
-    "imgId": "RunToTheSky_2"
+    "imgId": "RunToTheSky_1"
   },
   {
     "sigName": "레디올낫",
