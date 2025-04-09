@@ -166,7 +166,7 @@
   "sooniName": "뮤링",
   "remark": "25.01.22 통합오디션",
   "soopId": "dmswjd326",
-  "enterDate": "2025-01-21",
+  "enterDate": "2025-01-22",
   "kind": "수니그룹",
   "id": "17",
   "status": "Y"
@@ -292,7 +292,7 @@
   "status": "Y"
  },
  {
-  "sooniName": "안예슬",
+  "sooniName": "안예슬띠",
   "outDate": null,
   "enterDate": "2022-12-04",
   "soopId": "indy1028",
@@ -357,7 +357,7 @@
   "remark": "25.01.22 통합오디션",
   "soopId": "juju0081",
   "sooniName": "조이온",
-  "enterDate": "2025-01-21",
+  "enterDate": "2025-01-22",
   "kind": "수니그룹",
   "id": "36",
   "status": "Y"
@@ -501,7 +501,7 @@
   "remark": "방송적 케미 부족",
   "kind": "수니그룹",
   "id": "50",
-  "status": "N",
+  "status": "Y",
   "outKind": "퇴출"
  },
  {
@@ -663,8 +663,7 @@
   "soopId": "witboy",
   "kind": "수니그룹",
   "id": "66",
-  "outKind": "퇴출",
-  "status": "N"
+  "outKind": "퇴출"
  },
  {
   "remark": "방송적 케미 부족",
@@ -674,7 +673,7 @@
   "soopId": "witboy",
   "kind": "수니그룹",
   "id": "67",
-  "status": "N",
+  "status": "Y",
   "outKind": "퇴출"
  },
  {
@@ -738,7 +737,7 @@
   "outKind": "조직변경"
  },
  {
-  "enterDate": "2025-01-21",
+  "enterDate": "2025-01-22",
   "soopId": "yuzzzz",
   "outDate": null,
   "sooniName": "유즈",
@@ -838,5 +837,27 @@
   "outKind": "",
   "remark": "25.04.02 개별면접",
   "id": "_8V9CL3"
+ },
+ {
+  "id": "8239",
+  "soopId": "sia0617",
+  "sooniName": "추단비",
+  "kind": "수니그룹",
+  "enterDate": "2023-07-27",
+  "outDate": "2023-12-13",
+  "status": "N",
+  "outKind": "자진퇴사",
+  "remark": "건강이슈"
+ },
+ {
+  "id": "8aec",
+  "soopId": "flwjdtls",
+  "sooniName": "수빙",
+  "kind": "수니그룹",
+  "enterDate": "2023-05-29",
+  "outDate": "2023-08-18",
+  "status": "N",
+  "outKind": "자진퇴사",
+  "remark": "건강이슈"
  }
 ]

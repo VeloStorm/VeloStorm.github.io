@@ -1533,7 +1533,7 @@
   "soopId": "tnwl9630",
   "soopName": "쑤지",
   "sooniName": "쑤지",
-  "medal": "basic"
+  "medal": "best"
  },
  {
   "soopId": "bonojhg",
@@ -7179,7 +7179,7 @@
   "soopId": "slayer",
   "soopName": "갱지빈",
   "sooniName": "갱지빈",
-  "medal": "basic"
+  "medal": "best"
  },
  {
   "soopId": "enzon3028",
@@ -8031,6 +8031,42 @@
   "soopId": "zyunnyang",
   "soopName": "쥬니!",
   "sooniName": "쥬니",
+  "medal": "basic"
+ },
+ {
+  "soopId": "mocamu2",
+  "soopName": "쿠로카와모카",
+  "sooniName": "쿠로카와모카",
+  "medal": "basic"
+ },
+ {
+  "soopId": "nanaringhi",
+  "soopName": "♥벨라♥",
+  "sooniName": "♥벨라♥",
+  "medal": "best"
+ },
+ {
+  "soopId": "tls0308973",
+  "soopName": "아롱:♥",
+  "sooniName": "아롱:♥",
+  "medal": "best"
+ },
+ {
+  "soopId": "85138513",
+  "soopName": "갓미소",
+  "sooniName": "갓미소",
+  "medal": "best"
+ },
+ {
+  "soopId": "2059865",
+  "soopName": "꿀빵지",
+  "sooniName": "꿀빵지",
+  "medal": "best"
+ },
+ {
+  "soopId": "0jjerry0",
+  "soopName": "졔리_",
+  "sooniName": "졔리_",
   "medal": "basic"
  }
 ]
