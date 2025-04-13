@@ -507,7 +507,7 @@
   "soopId": "hwt1014",
   "soopName": "가습기",
   "sooniName": "가습기",
-  "medal": "best"
+  "medal": "partner"
  },
  {
   "soopId": "collet11",
@@ -1389,7 +1389,7 @@
   "soopId": "kalmian",
   "soopName": "토스봇",
   "sooniName": "토스봇",
-  "medal": "best"
+  "medal": "basic"
  },
  {
   "soopId": "kumamyong",
@@ -3597,7 +3597,7 @@
   "soopId": "bibitrue",
   "soopName": "비쥬_",
   "sooniName": "비쥬_",
-  "medal": "best"
+  "medal": "basic"
  },
  {
   "soopId": "wkdghks99",
@@ -3717,7 +3717,7 @@
   "soopId": "akikxxo",
   "soopName": "코유♡",
   "sooniName": "코유♡",
-  "medal": "best"
+  "medal": "basic"
  },
  {
   "soopId": "moolchoco",
@@ -3801,7 +3801,7 @@
   "soopId": "choice0213",
   "soopName": "송초희",
   "sooniName": "송초희",
-  "medal": "best"
+  "medal": "basic"
  },
  {
   "soopId": "ddzz77ad",
@@ -8068,5 +8068,41 @@
   "soopName": "졔리_",
   "sooniName": "졔리_",
   "medal": "basic"
+ },
+ {
+  "soopId": "babobabo1004",
+  "soopName": "청희♥",
+  "sooniName": "청희♥",
+  "medal": "best"
+ },
+ {
+  "soopId": "kcm826",
+  "soopName": "김찌리",
+  "sooniName": "김찌리",
+  "medal": "best"
+ },
+ {
+  "soopId": "nsolee1110",
+  "soopName": "냥샹츄",
+  "sooniName": "냥샹츄",
+  "medal": "basic"
+ },
+ {
+  "soopId": "sraeze",
+  "soopName": "쪼리보",
+  "sooniName": "쪼리보",
+  "medal": "best"
+ },
+ {
+  "soopId": "chamingcha",
+  "soopName": "차밍챠",
+  "sooniName": "차밍챠",
+  "medal": "best"
+ },
+ {
+  "soopId": "spica21",
+  "soopName": "서피카",
+  "sooniName": "서피카",
+  "medal": "best"
  }
 ]
