@@ -214,14 +214,15 @@
   "outKind": "졸업"
  },
  {
-  "remark": null,
+  "remark": "수술+회복 기간이 길어짐",
   "sooniName": "백다연",
-  "outDate": null,
+  "outDate": "2025-04-14",
   "soopId": "ekdus0830",
   "enterDate": "2024-02-17",
   "kind": "수니그룹",
   "id": "22",
-  "status": "Y"
+  "status": "Y",
+  "outKind": "졸업"
  },
  {
   "enterDate": "2025-01-21",
