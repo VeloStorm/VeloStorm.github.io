@@ -7,7 +7,7 @@
    "id": "X",
    "isNew": true,
    "isFever": "오프닝",
-   "sigCount": ""
+   "sigCount": 167
   },
   {
    "sigName": "UP",
@@ -16,7 +16,7 @@
    "id": "X",
    "isNew": false,
    "isFever": "피버",
-   "sigCount": ""
+   "sigCount": 105
   },
   {
    "sigName": "HOLD UP",
@@ -24,7 +24,7 @@
    "imgId": "HoldUP_1100",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 6
   },
   {
    "sigName": "Emergency",
@@ -32,7 +32,7 @@
    "imgId": "Emergency_1111",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 13
   },
   {
    "sigName": "Discopled",
@@ -40,7 +40,7 @@
    "imgId": "Discopled_1150",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "날라리",
@@ -48,7 +48,7 @@
    "imgId": "PartyAnimal_1200",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 9
   },
   {
    "sigName": "괜찮아 딩딩딩",
@@ -56,7 +56,7 @@
    "imgId": "DingDingDing_1230",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 12
   },
   {
    "sigName": "GUAP",
@@ -64,7 +64,7 @@
    "imgId": "GUAP_1250",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "POSE",
@@ -72,7 +72,7 @@
    "imgId": "POSE_1300",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 18
   },
   {
    "sigName": "Wave Way",
@@ -80,7 +80,7 @@
    "imgId": "WaveWay_1350",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "호흡곤란",
@@ -88,7 +88,7 @@
    "imgId": "ShortBreath_1380",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "구미베어",
@@ -96,7 +96,7 @@
    "imgId": "GummyBear_1400",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "DUMBDUMB",
@@ -105,7 +105,7 @@
    "id": "X",
    "isNew": true,
    "isFever": "피버",
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "TOO BAD",
@@ -113,7 +113,7 @@
    "imgId": "TooBad_1430",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 21
   },
   {
    "sigName": "교통정리",
@@ -121,7 +121,7 @@
    "imgId": "TrafficControl_1432",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "비밀정원",
@@ -129,7 +129,7 @@
    "imgId": "SecretGarden_1444",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 7
   },
   {
    "sigName": "오늘만 알러뷰",
@@ -137,7 +137,7 @@
    "imgId": "Iloveyou_1450",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 6
   },
   {
    "sigName": "체온",
@@ -145,7 +145,7 @@
    "imgId": "Temperature_1470",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 7
   },
   {
    "sigName": "Earth Quake",
@@ -153,7 +153,7 @@
    "imgId": "EarthQuake_1480",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "공주들은 원래 그래",
@@ -161,7 +161,7 @@
    "imgId": "Princesses_1500",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 17
   },
   {
    "sigName": "MANIAC",
@@ -169,7 +169,7 @@
    "imgId": "MANIAC_1520",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 10
   },
   {
    "sigName": "디지는거야",
@@ -177,7 +177,7 @@
    "imgId": "YouDying_1530",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 6
   },
   {
    "sigName": "그날의 너",
@@ -185,7 +185,7 @@
    "imgId": "ThatDay_1550",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "WA DA DA",
@@ -193,7 +193,7 @@
    "imgId": "WaDaDa_1560",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 6
   },
   {
    "sigName": "키티켓",
@@ -201,7 +201,7 @@
    "imgId": "KitTicket_1570",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "룩앳미",
@@ -209,7 +209,7 @@
    "imgId": "LookAtMe_1580",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "이글루",
@@ -217,7 +217,7 @@
    "imgId": "Igloo_1599",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "왜요왜요",
@@ -225,7 +225,7 @@
    "imgId": "WhyWhy_1600",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 42
   },
   {
    "sigName": "만트라",
@@ -234,7 +234,7 @@
    "id": "X",
    "isNew": true,
    "isFever": "피버",
-   "sigCount": ""
+   "sigCount": 6
   },
   {
    "sigName": "붐붐베이스 Remix",
@@ -242,7 +242,7 @@
    "imgId": "BoomBaseRemix_1640",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "슈퍼내추럴",
@@ -250,7 +250,7 @@
    "imgId": "Supernatural_1650",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 7
   },
   {
    "sigName": "청바지",
@@ -258,7 +258,7 @@
    "imgId": "Jeans_1660",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 4
   },
   {
    "sigName": "WE GO",
@@ -266,7 +266,7 @@
    "imgId": "WeGo_1670",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "역도",
@@ -274,7 +274,7 @@
    "imgId": "Weightlifting_1680",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "DRIP",
@@ -282,7 +282,7 @@
    "imgId": "Drip_1700",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "카리나 UP",
@@ -291,7 +291,7 @@
    "id": "X",
    "isNew": true,
    "isFever": "피버",
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "너와의 모든 지금",
@@ -299,7 +299,7 @@
    "imgId": "AllWithYou_1750",
    "id": "X",
    "isNew": false,
-   "sigCount": ""
+   "sigCount": 7
   },
   {
    "sigName": "LALISA",
@@ -307,7 +307,7 @@
    "imgId": "LALISA_1760",
    "isNew": true,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "나루토",
@@ -315,7 +315,7 @@
    "imgId": "Naruto_1777",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "이상해",
@@ -323,7 +323,7 @@
    "imgId": "Weird_1780",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "Teeth",
@@ -331,7 +331,7 @@
    "imgId": "Teeth_1800",
    "isNew": true,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "BTBT",
@@ -339,7 +339,7 @@
    "imgId": "BTBT_1818",
    "isNew": true,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 4
   },
   {
    "sigName": "사이렌",
@@ -347,7 +347,7 @@
    "imgId": "Siren_1820",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "쌔끈빠끈",
@@ -355,7 +355,7 @@
    "imgId": "HotSpicy_1850",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "앙카",
@@ -363,7 +363,7 @@
    "imgId": "Anka_1888",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "네모네모",
@@ -371,7 +371,7 @@
    "imgId": "Nemo_1900",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "Like JENNIE",
@@ -380,7 +380,7 @@
    "isNew": false,
    "id": "X",
    "isFever": "피버",
-   "sigCount": ""
+   "sigCount": 10
   },
   {
    "sigName": "하지마라",
@@ -388,7 +388,7 @@
    "imgId": "DontDoit_1950",
    "isNew": true,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "헨타이",
@@ -396,7 +396,7 @@
    "imgId": "Hentai_1980",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 6
   },
   {
    "sigName": "아브라카다브라",
@@ -404,7 +404,7 @@
    "imgId": "Abracadabra_1990",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "클락션",
@@ -412,7 +412,7 @@
    "imgId": "Clarksion_2000",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 27
   },
   {
    "sigName": "핑크레이디",
@@ -420,7 +420,7 @@
    "imgId": "PinkLady_2050",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "SEXY BOMB",
@@ -428,7 +428,7 @@
    "imgId": "SexyBomb_2100",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "레디올낫",
@@ -436,7 +436,7 @@
    "imgId": "ReadyOrNot_2121",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 4
   },
   {
    "sigName": "Attack Gun",
@@ -444,7 +444,7 @@
    "imgId": "AttackGun_2200",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "홈스윗홈",
@@ -452,7 +452,7 @@
    "imgId": "HomeSweetHome_2222",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "지그재그",
@@ -460,7 +460,7 @@
    "imgId": "ZigZag_2300",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "XXX",
@@ -468,7 +468,7 @@
    "imgId": "XXX_2345",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "Whiplash",
@@ -476,7 +476,7 @@
    "imgId": "Whiplash_2400",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 7
   },
   {
    "sigName": "EDM",
@@ -484,7 +484,7 @@
    "imgId": "EDM_2450",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "Booyt Bounce",
@@ -492,7 +492,7 @@
    "imgId": "BooytBounce_2486",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 7
   },
   {
    "sigName": "W.T.F",
@@ -500,7 +500,7 @@
    "imgId": "WTF_2500",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "Martini",
@@ -508,7 +508,7 @@
    "imgId": "Martini_2525",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "코카인",
@@ -516,7 +516,7 @@
    "imgId": "Cocaine_2555",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "L.S.D",
@@ -524,7 +524,7 @@
    "imgId": "LSD_2590",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "터미널",
@@ -532,7 +532,7 @@
    "imgId": "Terminal_2600",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "오렌지디스코",
@@ -540,7 +540,7 @@
    "imgId": "OrangeDisco_2700",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "우치다",
@@ -548,7 +548,7 @@
    "imgId": "Uchida_2750",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "Pocket Locket",
@@ -556,7 +556,7 @@
    "imgId": "PocketLocket_2828",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "외모췍",
@@ -565,7 +565,7 @@
    "isNew": false,
    "id": "X",
    "isFever": "오프닝",
-   "sigCount": ""
+   "sigCount": 26
   },
   {
    "sigName": "바우치",
@@ -574,7 +574,7 @@
    "isNew": false,
    "id": "X",
    "isFever": "피버",
-   "sigCount": ""
+   "sigCount": 39
   },
   {
    "sigName": "Say yes",
@@ -582,7 +582,7 @@
    "imgId": "Sayyes_3050",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "Rich",
@@ -590,7 +590,7 @@
    "imgId": "Rich_3200",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "판타스틱베이비",
@@ -598,7 +598,7 @@
    "imgId": "FantasticBaby_3300",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 6
   },
   {
    "sigName": "간바레",
@@ -606,7 +606,7 @@
    "imgId": "GanBaRe_3333",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "GASOLINA",
@@ -614,7 +614,7 @@
    "imgId": "GASOLINA_3500",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "파티락킹",
@@ -622,7 +622,7 @@
    "imgId": "PartyLocking_4000",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "아헤가오",
@@ -630,7 +630,7 @@
    "imgId": "Ahegao_4444",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": -1
   },
   {
    "sigName": "Bazaar",
@@ -638,7 +638,7 @@
    "imgId": "Bazaar_5000",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 66
   },
   {
    "sigName": "나르코",
@@ -646,7 +646,7 @@
    "imgId": "Narco_5050",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 17
   },
   {
    "sigName": "코코로",
@@ -654,7 +654,7 @@
    "imgId": "Cocoro_6000",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 5
   },
   {
    "sigName": "샤카붐",
@@ -662,7 +662,7 @@
    "imgId": "ShakaBoom_7000",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "Lonisolar",
@@ -670,7 +670,7 @@
    "imgId": "Lonisolar_7777",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "SPECTER",
@@ -678,7 +678,7 @@
    "imgId": "Specter_8000",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 3
   },
   {
    "sigName": "만개화",
@@ -686,7 +686,7 @@
    "imgId": "PlumBlossom_8888",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 8
   },
   {
    "sigName": "Colors",
@@ -694,7 +694,7 @@
    "imgId": "Colors_9000",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 1
   },
   {
    "sigName": "보라빛밤",
@@ -702,7 +702,7 @@
    "imgId": "PurpleNight_9999",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 11
   },
   {
    "sigName": "크레이지왓러브캔두",
@@ -710,7 +710,7 @@
    "id": "X",
    "isNew": true,
    "imgId": "CrazyWLCD_10000",
-   "sigCount": ""
+   "sigCount": 79
   },
   {
    "sigName": "Atmosphere",
@@ -718,7 +718,7 @@
    "imgId": "Atmosphere_12486",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 6
   },
   {
    "sigName": "남순로겐",
@@ -726,7 +726,7 @@
    "imgId": "NSLogen_14320",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 4
   },
   {
    "sigName": "마지막재회",
@@ -734,7 +734,7 @@
    "imgId": "LastReunion_20000",
    "isNew": true,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 16
   },
   {
    "sigName": "Everytime We Touch",
@@ -742,7 +742,7 @@
    "imgId": "EverytimeWeTouch_23456",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 2
   },
   {
    "sigName": "런투더스카이",
@@ -750,7 +750,7 @@
    "imgId": "RunToTheSky_2",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 12
   },
   {
    "sigName": "VIP",
@@ -758,7 +758,7 @@
    "imgId": "VIP_10001",
    "isNew": false,
    "id": "X",
-   "sigCount": ""
+   "sigCount": 12
   }
  ]
 }
