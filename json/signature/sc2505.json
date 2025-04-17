@@ -4,7 +4,44 @@
    "sigName": "Kimbap",
    "sigValue": 1000,
    "imgId": "Kimbap_1000",
-   "id": "X",
+   "id": [
+    {
+     "name": "강민아",
+     "id": "157057795"
+    },
+    {
+     "name": "류하",
+     "id": "157057829"
+    },
+    {
+     "name": "민서율",
+     "id": "157058449"
+    },
+    {
+     "name": "아띠",
+     "id": "157057865"
+    },
+    {
+     "name": "깅예솔",
+     "id": "157057939"
+    },
+    {
+     "name": "남순",
+     "id": "157058527"
+    },
+    {
+     "name": "노두식",
+     "id": "157058223"
+    },
+    {
+     "name": "뮤링",
+     "id": "157058805"
+    },
+    {
+     "name": "권도연",
+     "id": "157010681"
+    }
+   ],
    "isNew": true,
    "isFever": "오프닝",
    "sigCount": 167
@@ -13,7 +50,24 @@
    "sigName": "UP",
    "sigValue": 1000,
    "imgId": "UP_1000",
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157036175"
+    },
+    {
+     "name": "조이온",
+     "id": "157038963"
+    },
+    {
+     "name": "깅예솔",
+     "id": "157039829"
+    },
+    {
+     "name": "아띠",
+     "id": "157041941"
+    }
+   ],
    "isNew": false,
    "isFever": "피버",
    "sigCount": 105
@@ -22,7 +76,12 @@
    "sigName": "HOLD UP",
    "sigValue": 1100,
    "imgId": "HoldUP_1100",
-   "id": "X",
+   "id": [
+    {
+     "name": "미캣",
+     "id": "157058051"
+    }
+   ],
    "isNew": false,
    "sigCount": 6
   },
@@ -30,7 +89,16 @@
    "sigName": "Emergency",
    "sigValue": 1111,
    "imgId": "Emergency_1111",
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157044903"
+    },
+    {
+     "name": "남순",
+     "id": "157040439"
+    }
+   ],
    "isNew": false,
    "sigCount": 13
   },
@@ -38,7 +106,12 @@
    "sigName": "Discopled",
    "sigValue": 1150,
    "imgId": "Discopled_1150",
-   "id": "X",
+   "id": [
+    {
+     "name": "미캣",
+     "id": "157058775"
+    }
+   ],
    "isNew": false,
    "sigCount": 1
   },
@@ -46,7 +119,16 @@
    "sigName": "날라리",
    "sigValue": 1200,
    "imgId": "PartyAnimal_1200",
-   "id": "X",
+   "id": [
+    {
+     "name": "강민아",
+     "id": "157051013"
+    },
+    {
+     "name": "아띠",
+     "id": "157048047"
+    }
+   ],
    "isNew": false,
    "sigCount": 9
   },
@@ -54,7 +136,20 @@
    "sigName": "괜찮아 딩딩딩",
    "sigValue": 1230,
    "imgId": "DingDingDing_1230",
-   "id": "X",
+   "id": [
+    {
+     "name": "덕이형",
+     "id": "157010863"
+    },
+    {
+     "name": "태은짱",
+     "id": "157037547"
+    },
+    {
+     "name": "남순",
+     "id": "157040391"
+    }
+   ],
    "isNew": false,
    "sigCount": 12
   },
@@ -70,7 +165,16 @@
    "sigName": "POSE",
    "sigValue": 1300,
    "imgId": "POSE_1300",
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157042943"
+    },
+    {
+     "name": "태은짱",
+     "id": "157053621"
+    }
+   ],
    "isNew": false,
    "sigCount": 18
   },
@@ -86,7 +190,12 @@
    "sigName": "호흡곤란",
    "sigValue": 1380,
    "imgId": "ShortBreath_1380",
-   "id": "X",
+   "id": [
+    {
+     "name": "웃찌이",
+     "id": "157051737"
+    }
+   ],
    "isNew": false,
    "sigCount": 3
   },
@@ -94,7 +203,12 @@
    "sigName": "구미베어",
    "sigValue": 1400,
    "imgId": "GummyBear_1400",
-   "id": "X",
+   "id": [
+    {
+     "name": "디어리",
+     "id": "157050179"
+    }
+   ],
    "isNew": false,
    "sigCount": 1
   },
@@ -102,7 +216,12 @@
    "sigName": "DUMBDUMB",
    "sigValue": 1420,
    "imgId": "DUMBDUMB_1420",
-   "id": "X",
+   "id": [
+    {
+     "name": "깅예솔",
+     "id": "157038551"
+    }
+   ],
    "isNew": true,
    "isFever": "피버",
    "sigCount": 1
@@ -111,7 +230,16 @@
    "sigName": "TOO BAD",
    "sigValue": 1430,
    "imgId": "TooBad_1430",
-   "id": "X",
+   "id": [
+    {
+     "name": "펭채은",
+     "id": "157040915"
+    },
+    {
+     "name": "쥬니",
+     "id": "157045759"
+    }
+   ],
    "isNew": false,
    "sigCount": 21
   },
@@ -119,7 +247,12 @@
    "sigName": "교통정리",
    "sigValue": 1432,
    "imgId": "TrafficControl_1432",
-   "id": "X",
+   "id": [
+    {
+     "name": "빡다혜",
+     "id": "157059359"
+    }
+   ],
    "isNew": false,
    "sigCount": 1
   },
@@ -127,7 +260,16 @@
    "sigName": "비밀정원",
    "sigValue": 1444,
    "imgId": "SecretGarden_1444",
-   "id": "X",
+   "id": [
+    {
+     "name": "빡다혜",
+     "id": "157039425"
+    },
+    {
+     "name": "류하",
+     "id": "157041599"
+    }
+   ],
    "isNew": false,
    "sigCount": 7
   },
@@ -135,7 +277,16 @@
    "sigName": "오늘만 알러뷰",
    "sigValue": 1450,
    "imgId": "Iloveyou_1450",
-   "id": "X",
+   "id": [
+    {
+     "name": "펭채은",
+     "id": "157009599"
+    },
+    {
+     "name": "류하",
+     "id": "157042291"
+    }
+   ],
    "isNew": false,
    "sigCount": 6
   },
@@ -143,7 +294,20 @@
    "sigName": "체온",
    "sigValue": 1470,
    "imgId": "Temperature_1470",
-   "id": "X",
+   "id": [
+    {
+     "name": "민서율",
+     "id": "157040735"
+    },
+    {
+     "name": "아띠",
+     "id": "157058631"
+    },
+    {
+     "name": "웃찌이",
+     "id": "157058417"
+    }
+   ],
    "isNew": false,
    "sigCount": 7
   },
@@ -159,7 +323,16 @@
    "sigName": "공주들은 원래 그래",
    "sigValue": 1500,
    "imgId": "Princesses_1500",
-   "id": "X",
+   "id": [
+    {
+     "name": "태은짱",
+     "id": "157035969"
+    },
+    {
+     "name": "유즈",
+     "id": "157037079"
+    }
+   ],
    "isNew": false,
    "sigCount": 17
   },
@@ -167,7 +340,20 @@
    "sigName": "MANIAC",
    "sigValue": 1520,
    "imgId": "MANIAC_1520",
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157049253"
+    },
+    {
+     "name": "빡다혜",
+     "id": "157042431"
+    },
+    {
+     "name": "유즈",
+     "id": "157049279"
+    }
+   ],
    "isNew": false,
    "sigCount": 10
   },
@@ -175,7 +361,16 @@
    "sigName": "디지는거야",
    "sigValue": 1530,
    "imgId": "YouDying_1530",
-   "id": "X",
+   "id": [
+    {
+     "name": "김미타",
+     "id": "157037943"
+    },
+    {
+     "name": "남순",
+     "id": "157040603"
+    }
+   ],
    "isNew": false,
    "sigCount": 6
   },
@@ -191,7 +386,16 @@
    "sigName": "WA DA DA",
    "sigValue": 1560,
    "imgId": "WaDaDa_1560",
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157042329"
+    },
+    {
+     "name": "조이온",
+     "id": "157047471"
+    }
+   ],
    "isNew": false,
    "sigCount": 6
   },
@@ -215,7 +419,12 @@
    "sigName": "이글루",
    "sigValue": 1599,
    "imgId": "Igloo_1599",
-   "id": "X",
+   "id": [
+    {
+     "name": "쥬니",
+     "id": "157043089"
+    }
+   ],
    "isNew": false,
    "sigCount": 3
   },
@@ -223,7 +432,20 @@
    "sigName": "왜요왜요",
    "sigValue": 1600,
    "imgId": "WhyWhy_1600",
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157040031"
+    },
+    {
+     "name": "태은짱",
+     "id": "157058675"
+    },
+    {
+     "name": "남순",
+     "id": "157040303"
+    }
+   ],
    "isNew": false,
    "sigCount": 42
   },
@@ -231,7 +453,20 @@
    "sigName": "만트라",
    "sigValue": 1620,
    "imgId": "Mantra_1620",
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157036229"
+    },
+    {
+     "name": "수빙",
+     "id": "157038191"
+    },
+    {
+     "name": "민서율",
+     "id": "157186995"
+    }
+   ],
    "isNew": true,
    "isFever": "피버",
    "sigCount": 6
@@ -240,7 +475,12 @@
    "sigName": "붐붐베이스 Remix",
    "sigValue": 1640,
    "imgId": "BoomBaseRemix_1640",
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157036323"
+    }
+   ],
    "isNew": false,
    "sigCount": 2
   },
@@ -248,7 +488,12 @@
    "sigName": "슈퍼내추럴",
    "sigValue": 1650,
    "imgId": "Supernatural_1650",
-   "id": "X",
+   "id": [
+    {
+     "name": "남순",
+     "id": "157040229"
+    }
+   ],
    "isNew": false,
    "sigCount": 7
   },
@@ -256,7 +501,16 @@
    "sigName": "청바지",
    "sigValue": 1660,
    "imgId": "Jeans_1660",
-   "id": "X",
+   "id": [
+    {
+     "name": "수빙",
+     "id": "157186071"
+    },
+    {
+     "name": "아띠",
+     "id": "157058639"
+    }
+   ],
    "isNew": false,
    "sigCount": 4
   },
@@ -280,7 +534,12 @@
    "sigName": "DRIP",
    "sigValue": 1700,
    "imgId": "Drip_1700",
-   "id": "X",
+   "id": [
+    {
+     "name": "아띠",
+     "id": "157058689"
+    }
+   ],
    "isNew": false,
    "sigCount": 3
   },
@@ -288,7 +547,12 @@
    "sigName": "카리나 UP",
    "sigValue": 1720,
    "imgId": "KarinaUP_1720",
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157036435"
+    }
+   ],
    "isNew": true,
    "isFever": "피버",
    "sigCount": 1
@@ -297,7 +561,20 @@
    "sigName": "너와의 모든 지금",
    "sigValue": 1750,
    "imgId": "AllWithYou_1750",
-   "id": "X",
+   "id": [
+    {
+     "name": "펭채은",
+     "id": "157009855"
+    },
+    {
+     "name": "류하",
+     "id": "157041675"
+    },
+    {
+     "name": "수빙",
+     "id": "157036567"
+    }
+   ],
    "isNew": false,
    "sigCount": 7
   },
@@ -306,7 +583,12 @@
    "sigValue": 1760,
    "imgId": "LALISA_1760",
    "isNew": true,
-   "id": "X",
+   "id": [
+    {
+     "name": "태은짱",
+     "id": "157035815"
+    }
+   ],
    "sigCount": 2
   },
   {
@@ -314,7 +596,12 @@
    "sigValue": 1777,
    "imgId": "Naruto_1777",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157044135"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -322,7 +609,12 @@
    "sigValue": 1780,
    "imgId": "Weird_1780",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157059075"
+    }
+   ],
    "sigCount": 2
   },
   {
@@ -338,7 +630,16 @@
    "sigValue": 1818,
    "imgId": "BTBT_1818",
    "isNew": true,
-   "id": "X",
+   "id": [
+    {
+     "name": "펭채은",
+     "id": "157035885"
+    },
+    {
+     "name": "노두식",
+     "id": "157042761"
+    }
+   ],
    "sigCount": 4
   },
   {
@@ -346,7 +647,16 @@
    "sigValue": 1820,
    "imgId": "Siren_1820",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "황크리스탈",
+     "id": "157041067"
+    },
+    {
+     "name": "펭채은",
+     "id": "157045509"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -354,7 +664,12 @@
    "sigValue": 1850,
    "imgId": "HotSpicy_1850",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157036745"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -370,7 +685,12 @@
    "sigValue": 1900,
    "imgId": "Nemo_1900",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "수빙",
+     "id": "157059313"
+    }
+   ],
    "sigCount": 1
   },
   {
@@ -378,7 +698,24 @@
    "sigValue": 1940,
    "imgId": "LikeJENNIE_1940",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157039719"
+    },
+    {
+     "name": "민서율",
+     "id": "157040807"
+    },
+    {
+     "name": "노두식",
+     "id": "157042797"
+    },
+    {
+     "name": "펭채은",
+     "id": "157043927"
+    }
+   ],
    "isFever": "피버",
    "sigCount": 10
   },
@@ -387,7 +724,12 @@
    "sigValue": 1950,
    "imgId": "DontDoit_1950",
    "isNew": true,
-   "id": "X",
+   "id": [
+    {
+     "name": "노두식",
+     "id": "157058301"
+    }
+   ],
    "sigCount": 1
   },
   {
@@ -395,7 +737,20 @@
    "sigValue": 1980,
    "imgId": "Hentai_1980",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "태은짱",
+     "id": "157037603"
+    },
+    {
+     "name": "민서율",
+     "id": "157041199"
+    },
+    {
+     "name": "아띠",
+     "id": "157058715"
+    }
+   ],
    "sigCount": 6
   },
   {
@@ -411,7 +766,20 @@
    "sigValue": 2000,
    "imgId": "Clarksion_2000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "깅예솔",
+     "id": "157048465"
+    },
+    {
+     "name": "배그나",
+     "id": "157048413"
+    },
+    {
+     "name": "남순",
+     "id": "157040521"
+    }
+   ],
    "sigCount": 27
   },
   {
@@ -419,7 +787,12 @@
    "sigValue": 2050,
    "imgId": "PinkLady_2050",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "수빙",
+     "id": "157045371"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -427,7 +800,12 @@
    "sigValue": 2100,
    "imgId": "SexyBomb_2100",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "민서율",
+     "id": "157186661"
+    }
+   ],
    "sigCount": 2
   },
   {
@@ -435,7 +813,16 @@
    "sigValue": 2121,
    "imgId": "ReadyOrNot_2121",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157010469"
+    },
+    {
+     "name": "수빙",
+     "id": "157049177"
+    }
+   ],
    "sigCount": 4
   },
   {
@@ -443,7 +830,12 @@
    "sigValue": 2200,
    "imgId": "AttackGun_2200",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "아띠",
+     "id": "157042521"
+    }
+   ],
    "sigCount": 1
   },
   {
@@ -451,7 +843,16 @@
    "sigValue": 2222,
    "imgId": "HomeSweetHome_2222",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "수빙",
+     "id": "157036661"
+    },
+    {
+     "name": "아띠",
+     "id": "157039879"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -475,7 +876,16 @@
    "sigValue": 2400,
    "imgId": "Whiplash_2400",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "배그나",
+     "id": "157034575"
+    },
+    {
+     "name": "수빙",
+     "id": "157036825"
+    }
+   ],
    "sigCount": 7
   },
   {
@@ -491,7 +901,20 @@
    "sigValue": 2486,
    "imgId": "BooytBounce_2486",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "강민아",
+     "id": "157008999"
+    },
+    {
+     "name": "태은짱",
+     "id": "157058739"
+    },
+    {
+     "name": "노두식",
+     "id": "157058613"
+    }
+   ],
    "sigCount": 7
   },
   {
@@ -499,7 +922,12 @@
    "sigValue": 2500,
    "imgId": "WTF_2500",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "설유은",
+     "id": "157059043"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -507,7 +935,12 @@
    "sigValue": 2525,
    "imgId": "Martini_2525",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "수빙",
+     "id": "157185765"
+    }
+   ],
    "sigCount": 1
   },
   {
@@ -523,7 +956,16 @@
    "sigValue": 2590,
    "imgId": "LSD_2590",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "태은짱",
+     "id": "157039329"
+    },
+    {
+     "name": "노두식",
+     "id": "157043801"
+    }
+   ],
    "sigCount": 2
   },
   {
@@ -531,7 +973,12 @@
    "sigValue": 2600,
    "imgId": "Terminal_2600",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "배그나",
+     "id": "157185371"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -539,7 +986,12 @@
    "sigValue": 2700,
    "imgId": "OrangeDisco_2700",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "배그나",
+     "id": "157045667"
+    }
+   ],
    "sigCount": 1
   },
   {
@@ -547,7 +999,12 @@
    "sigValue": 2750,
    "imgId": "Uchida_2750",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "수빙",
+     "id": "157036891"
+    }
+   ],
    "sigCount": 2
   },
   {
@@ -563,7 +1020,28 @@
    "sigValue": 3000,
    "imgId": "LooksCheck_3000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157009451"
+    },
+    {
+     "name": "류하",
+     "id": "157010939"
+    },
+    {
+     "name": "김미타",
+     "id": "157011153"
+    },
+    {
+     "name": "깅예솔",
+     "id": "157057969"
+    },
+    {
+     "name": "추단비",
+     "id": "157058271"
+    }
+   ],
    "isFever": "오프닝",
    "sigCount": 26
   },
@@ -572,7 +1050,32 @@
    "sigValue": 3000,
    "imgId": "BowChi_3000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "뮤링",
+     "id": "157036965"
+    },
+    {
+     "name": "아띠",
+     "id": "157039755"
+    },
+    {
+     "name": "민서율",
+     "id": "157044733"
+    },
+    {
+     "name": "태은짱",
+     "id": "157186301"
+    },
+    {
+     "name": "노두식",
+     "id": "157044937"
+    },
+    {
+     "name": "류하",
+     "id": "157047295"
+    }
+   ],
    "isFever": "피버",
    "sigCount": 39
   },
@@ -597,7 +1100,12 @@
    "sigValue": 3300,
    "imgId": "FantasticBaby_3300",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "덕이형",
+     "id": "157037287"
+    }
+   ],
    "sigCount": 6
   },
   {
@@ -605,7 +1113,20 @@
    "sigValue": 3333,
    "imgId": "GanBaRe_3333",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "노두식",
+     "id": "157043735"
+    },
+    {
+     "name": "아띠",
+     "id": "157058753"
+    },
+    {
+     "name": "배그나",
+     "id": "157049905"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -613,7 +1134,16 @@
    "sigValue": 3500,
    "imgId": "GASOLINA_3500",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157041415"
+    },
+    {
+     "name": "깅예솔",
+     "id": "157186479"
+    }
+   ],
    "sigCount": 2
   },
   {
@@ -621,7 +1151,12 @@
    "sigValue": 4000,
    "imgId": "PartyLocking_4000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "설유은",
+     "id": "157058889"
+    }
+   ],
    "sigCount": 2
   },
   {
@@ -637,7 +1172,24 @@
    "sigValue": 5000,
    "imgId": "Bazaar_5000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "민서율",
+     "id": "157011461"
+    },
+    {
+     "name": "안예슬",
+     "id": "157034707"
+    },
+    {
+     "name": "강민아",
+     "id": "157038451"
+    },
+    {
+     "name": "수빙",
+     "id": "157047835"
+    }
+   ],
    "sigCount": 66
   },
   {
@@ -645,7 +1197,16 @@
    "sigValue": 5050,
    "imgId": "Narco_5050",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "민서율",
+     "id": "157037215"
+    },
+    {
+     "name": "류하",
+     "id": "157043843"
+    }
+   ],
    "sigCount": 17
   },
   {
@@ -653,7 +1214,16 @@
    "sigValue": 6000,
    "imgId": "Cocoro_6000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157037761"
+    },
+    {
+     "name": "아띠",
+     "id": "157040683"
+    }
+   ],
    "sigCount": 5
   },
   {
@@ -661,7 +1231,16 @@
    "sigValue": 7000,
    "imgId": "ShakaBoom_7000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157053241"
+    },
+    {
+     "name": "강민아",
+     "id": "157050399"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -669,7 +1248,20 @@
    "sigValue": 7777,
    "imgId": "Lonisolar_7777",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "수빙",
+     "id": "157058925"
+    },
+    {
+     "name": "황크리스탈",
+     "id": "157010285"
+    },
+    {
+     "name": "김미타",
+     "id": "157048955"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -677,7 +1269,16 @@
    "sigValue": 8000,
    "imgId": "Specter_8000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "설유은",
+     "id": "157058985"
+    },
+    {
+     "name": "황크리스탈",
+     "id": "157010345"
+    }
+   ],
    "sigCount": 3
   },
   {
@@ -685,7 +1286,20 @@
    "sigValue": 8888,
    "imgId": "PlumBlossom_8888",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "깅예솔",
+     "id": "157058943"
+    },
+    {
+     "name": "노두식",
+     "id": "157058913"
+    },
+    {
+     "name": "김미타",
+     "id": "157039989"
+    }
+   ],
    "sigCount": 8
   },
   {
@@ -693,7 +1307,12 @@
    "sigValue": 9000,
    "imgId": "Colors_9000",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "황크리스탈",
+     "id": "157050289"
+    }
+   ],
    "sigCount": 1
   },
   {
@@ -701,23 +1320,83 @@
    "sigValue": 9999,
    "imgId": "PurpleNight_9999",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "배그나",
+     "id": "157041733"
+    },
+    {
+     "name": "안예슬",
+     "id": "157042259"
+    }
+   ],
    "sigCount": 11
   },
   {
    "sigName": "크레이지왓러브캔두",
    "sigValue": 10000,
-   "id": "X",
+   "id": [
+    {
+     "name": "민서율",
+     "id": "157011303"
+    },
+    {
+     "name": "안예슬",
+     "id": "157035187"
+    },
+    {
+     "name": "뮤링",
+     "id": "157058835"
+    },
+    {
+     "name": "남순",
+     "id": "157035377"
+    },
+    {
+     "name": "태은짱",
+     "id": "157041861"
+    },
+    {
+     "name": "깅예솔",
+     "id": "157043011"
+    }
+   ],
    "isNew": true,
    "imgId": "CrazyWLCD_10000",
    "sigCount": 79
+  },
+  {
+   "sigName": "VIP",
+   "sigValue": 10001,
+   "imgId": "VIP_10001",
+   "isNew": false,
+   "id": [
+    {
+     "name": "배그나",
+     "id": "157039079"
+    },
+    {
+     "name": "강민아",
+     "id": "157058587"
+    }
+   ],
+   "sigCount": 12
   },
   {
    "sigName": "Atmosphere",
    "sigValue": 12486,
    "imgId": "Atmosphere_12486",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157047373"
+    },
+    {
+     "name": "덕이형",
+     "id": "157058565"
+    }
+   ],
    "sigCount": 6
   },
   {
@@ -725,7 +1404,12 @@
    "sigValue": 14320,
    "imgId": "NSLogen_14320",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "아띠",
+     "id": "157047441"
+    }
+   ],
    "sigCount": 4
   },
   {
@@ -733,7 +1417,36 @@
    "sigValue": 20000,
    "imgId": "LastReunion_20000",
    "isNew": true,
-   "id": "X",
+   "id": [
+    {
+     "name": "류하",
+     "id": "157044791"
+    },
+    {
+     "name": "민서율",
+     "id": "157059115"
+    },
+    {
+     "name": "깅예솔",
+     "id": "157058853"
+    },
+    {
+     "name": "남순",
+     "id": "157034919"
+    },
+    {
+     "name": "수빙",
+     "id": "157036913"
+    },
+    {
+     "name": "노두식",
+     "id": "157042705"
+    },
+    {
+     "name": "태은짱",
+     "id": "157185013"
+    }
+   ],
    "sigCount": 16
   },
   {
@@ -741,7 +1454,16 @@
    "sigValue": 23456,
    "imgId": "EverytimeWeTouch_23456",
    "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "안예슬",
+     "id": "157041009"
+    },
+    {
+     "name": "웃찌이",
+     "id": "157041329"
+    }
+   ],
    "sigCount": 2
   },
   {
@@ -749,15 +1471,12 @@
    "sigValue": 30000,
    "imgId": "RunToTheSky_2",
    "isNew": false,
-   "id": "X",
-   "sigCount": 12
-  },
-  {
-   "sigName": "VIP",
-   "sigValue": 10001,
-   "imgId": "VIP_10001",
-   "isNew": false,
-   "id": "X",
+   "id": [
+    {
+     "name": "남순",
+     "id": "157035013"
+    }
+   ],
    "sigCount": 12
   }
  ]
