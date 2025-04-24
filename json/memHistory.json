@@ -863,5 +863,33 @@
   "status": "N",
   "outKind": "자진퇴사",
   "remark": "건강이슈"
+ },
+ {
+  "soopId": "tempid",
+  "sooniName": "밍젤링",
+  "kind": "수니그룹",
+  "enterDate": "2025-04-24",
+  "status": "Y",
+  "remark": "25.04.23 개별면접",
+  "id": "QLC7qmC"
+ },
+ {
+  "soopId": "rlaxofyd96",
+  "sooniName": "김태룡",
+  "kind": "수니그룹",
+  "enterDate": "2025-04-24",
+  "status": "Y",
+  "remark": "25.04.23 개별면접",
+  "id": "f1I2DOE"
+ },
+ {
+  "soopId": "wspa789",
+  "sooniName": "정예준",
+  "kind": "수니그룹",
+  "enterDate": "2025-04-24",
+  "status": "Y",
+  "outKind": "",
+  "remark": "25.04.23 개별면접",
+  "id": "820urKF"
  }
 ]
