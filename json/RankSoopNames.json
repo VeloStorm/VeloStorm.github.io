@@ -291,7 +291,9 @@
   "soopId": "120510",
   "soopName": "범프리카",
   "sooniName": "범프리카",
-  "medal": "partner"
+  "medal": "partner",
+  "status": "휴먼",
+  "message": "2025-04-25 채널이 존재하지 않음"
  },
  {
   "soopId": "tjaudtn123",
@@ -1389,7 +1391,8 @@
   "soopId": "kalmian",
   "soopName": "토스봇",
   "sooniName": "토스봇",
-  "medal": "basic"
+  "medal": "best",
+  "status": "완료"
  },
  {
   "soopId": "kumamyong",
@@ -1587,7 +1590,9 @@
   "soopId": "325959",
   "soopName": "민서먕",
   "sooniName": "민서먕",
-  "medal": "best"
+  "medal": "best",
+  "status": "휴먼",
+  "message": "2025-04-25 채널이 존재하지 않음"
  },
  {
   "soopId": "tkxkd9187",
@@ -1761,7 +1766,9 @@
   "soopId": "suyeun0312",
   "soopName": "양연두",
   "sooniName": "양연두",
-  "medal": "best"
+  "medal": "best",
+  "status": "휴먼",
+  "message": "2025-04-25 채널이 존재하지 않음"
  },
  {
   "soopId": "hm05082",
@@ -2283,7 +2290,8 @@
   "soopId": "udkn",
   "soopName": "케인8",
   "sooniName": "케인8",
-  "medal": "best"
+  "medal": "best",
+  "status": "완료"
  },
  {
   "soopId": "namyeonhee",
@@ -2781,19 +2789,22 @@
   "soopId": "gkgus9944",
   "soopName": "김하콩",
   "sooniName": "김하콩",
-  "medal": "best"
+  "medal": "best",
+  "status": "완료"
  },
  {
   "soopId": "jujuing",
   "soopName": "쥬쥬쥬세요",
   "sooniName": "쥬쥬쥬세요",
-  "medal": "best"
+  "medal": "best",
+  "status": "완료"
  },
  {
   "soopId": "ghd0530",
   "soopName": "홍딩굴",
   "sooniName": "홍딩굴",
-  "medal": "best"
+  "medal": "best",
+  "status": "완료"
  },
  {
   "soopId": "babyrimi",
@@ -3597,7 +3608,8 @@
   "soopId": "bibitrue",
   "soopName": "비쥬_",
   "sooniName": "비쥬_",
-  "medal": "basic"
+  "medal": "best",
+  "status": "완료"
  },
  {
   "soopId": "wkdghks99",
@@ -3639,7 +3651,9 @@
   "soopId": "hotdoc1",
   "soopName": "BJ쫑지",
   "sooniName": "BJ쫑지",
-  "medal": "basic"
+  "medal": "basic",
+  "status": "정지",
+  "message": "3일 : [미풍양속 위배(보편적인 사회 질서를 해치거나 도의적으로 허용 되지 않는 행위)]"
  },
  {
   "soopId": "nclavis06",
@@ -3717,7 +3731,8 @@
   "soopId": "akikxxo",
   "soopName": "코유♡",
   "sooniName": "코유♡",
-  "medal": "basic"
+  "medal": "best",
+  "status": "완료"
  },
  {
   "soopId": "moolchoco",
@@ -3801,7 +3816,8 @@
   "soopId": "choice0213",
   "soopName": "송초희",
   "sooniName": "송초희",
-  "medal": "basic"
+  "medal": "best",
+  "status": "완료"
  },
  {
   "soopId": "ddzz77ad",
@@ -8001,7 +8017,9 @@
   "soopId": "cho1315",
   "soopName": "냐미냥",
   "sooniName": "냐미냥",
-  "medal": "basic"
+  "medal": "basic",
+  "status": "삭제",
+  "message": "2025-04-25 채널이 존재하지 않음"
  },
  {
   "soopId": "flwjdtls",
@@ -8013,13 +8031,17 @@
   "soopId": "danbibebe",
   "soopName": "bj아름이",
   "sooniName": "bj아름이",
-  "medal": "basic"
+  "medal": "basic",
+  "status": "삭제",
+  "message": "2025-04-25 채널이 존재하지 않음"
  },
  {
   "soopId": "orijiho21",
   "soopName": "오리지호",
   "sooniName": "오리지호",
-  "medal": "basic"
+  "medal": "basic",
+  "status": "삭제",
+  "message": "2025-04-25 채널이 존재하지 않음"
  },
  {
   "soopId": "chokyunga",
@@ -8104,5 +8126,125 @@
   "soopName": "서피카",
   "sooniName": "서피카",
   "medal": "best"
+ },
+ {
+  "soopId": "cevin8000",
+  "soopName": "DJ가이_★",
+  "sooniName": "DJ가이_★",
+  "medal": "best",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "hachi97",
+  "soopName": "하치_HACHI",
+  "sooniName": "하치_HACHI",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "ywg0527",
+  "soopName": "[KN]그니스나",
+  "sooniName": "[KN]그니스나",
+  "medal": "best",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "lovelove7777",
+  "soopName": "토스걸서지수",
+  "sooniName": "토스걸서지수",
+  "medal": "best",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "hch0922",
+  "soopName": "디나이05",
+  "sooniName": "디나이05",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "fbwlsdn054",
+  "soopName": "류창이",
+  "sooniName": "류창이",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "dbzala",
+  "soopName": "채시안♡",
+  "sooniName": "채시안♡",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "dackda",
+  "soopName": "(안겨)",
+  "sooniName": "(안겨)",
+  "medal": "partner",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "yoona103",
+  "soopName": "밍맹뭉♥",
+  "sooniName": "밍맹뭉♥",
+  "medal": "best",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "znfn123",
+  "soopName": "바다윤",
+  "sooniName": "바다윤",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "ahdtkdrkrkda",
+  "soopName": "소대수캐스터",
+  "sooniName": "소대수캐스터",
+  "medal": "partner",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "seriya0312",
+  "soopName": "세리아-",
+  "sooniName": "세리아-",
+  "medal": "best",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "godnjs8482",
+  "soopName": "박해원:)",
+  "sooniName": "박해원:)",
+  "medal": "best",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "pi0314",
+  "soopName": "♥파이♥",
+  "sooniName": "♥파이♥",
+  "medal": "partner",
+  "status": "완료",
+  "message": "2025-04-25"
+ },
+ {
+  "soopId": "asas28",
+  "soopName": "보람이♥",
+  "sooniName": "보람이♥",
+  "medal": "best",
+  "status": "완료",
+  "message": "2025-04-25"
  }
 ]
