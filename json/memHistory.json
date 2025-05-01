@@ -50,7 +50,8 @@
   "remark": "부상+멘탈이슈",
   "kind": "수니그룹",
   "id": "5",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "sooniName": "오쭈",
@@ -60,7 +61,8 @@
   "enterDate": "2024-05-29",
   "kind": "수니그룹",
   "id": "6",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "remark": "부상+멘탈이슈",
@@ -70,7 +72,8 @@
   "soopId": "b24ip7",
   "kind": "수니그룹",
   "id": "7",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "remark": "멘탈이슈",
@@ -80,7 +83,8 @@
   "enterDate": "2023-08-21",
   "kind": "수니그룹",
   "id": "8",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2024-04-26",
@@ -100,7 +104,8 @@
   "remark": "단두대",
   "kind": "수니그룹",
   "id": "10",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "soopId": "churros05",
@@ -110,7 +115,8 @@
   "remark": "멘탈이슈",
   "kind": "수니그룹",
   "id": "11",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2022-11-30",
@@ -120,7 +126,8 @@
   "remark": "질환",
   "kind": "수니그룹",
   "id": "12",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2024-09-19",
@@ -130,7 +137,8 @@
   "outDate": "2024-12-03",
   "kind": "수니그룹",
   "id": "13",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "enterDate": "2024-04-29",
@@ -140,7 +148,8 @@
   "outDate": "2024-06-09",
   "kind": "수니그룹",
   "id": "14",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "sooniName": "빡다혜",
@@ -150,7 +159,8 @@
   "outDate": "2024-05-21",
   "kind": "수니그룹",
   "id": "15",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "sooniName": "빡다혜",
@@ -180,7 +190,8 @@
   "enterDate": "2023-11-08",
   "kind": "수니그룹",
   "id": "18",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "soopId": "dockyong",
@@ -200,7 +211,8 @@
   "outDate": "2024-12-18",
   "kind": "수니그룹",
   "id": "20",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2024-11-05",
@@ -232,7 +244,8 @@
   "sooniName": "홍쥬",
   "kind": "수니그룹",
   "id": "23",
-  "outKind": "정직원실패"
+  "outKind": "정직원실패",
+  "status": "N"
  },
  {
   "remark": "멘탈이슈",
@@ -242,7 +255,8 @@
   "soopId": "goodb99",
   "kind": "수니그룹",
   "id": "24",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "soopId": "goodb99",
@@ -262,7 +276,8 @@
   "enterDate": "2024-04-08",
   "kind": "수니그룹",
   "id": "26",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "soopId": "hjchu5871",
@@ -272,7 +287,8 @@
   "sooniName": "박아진",
   "kind": "수니그룹",
   "id": "27",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "outDate": "2025-04-14",
@@ -313,7 +329,8 @@
   "sooniName": "이아린",
   "kind": "수니게임즈",
   "id": "31",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "remark": null,
@@ -374,7 +391,8 @@
   "sooniName": "로링",
   "kind": "수니그룹",
   "id": "37",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "soopId": "kimzero",
@@ -384,7 +402,8 @@
   "outDate": "2024-12-03",
   "kind": "수니그룹",
   "id": "38",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "sooniName": "이디유",
@@ -394,7 +413,8 @@
   "soopId": "leejiyuu",
   "kind": "수니그룹",
   "id": "39",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "sooniName": "이승빈",
@@ -404,7 +424,8 @@
   "outDate": "2024-07-01",
   "kind": "수니그룹",
   "id": "40",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "soopId": "leesb98",
@@ -435,7 +456,8 @@
   "remark": "개인사유",
   "kind": "수니그룹",
   "id": "43",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "sooniName": "진솔",
@@ -445,7 +467,8 @@
   "enterDate": "2023-04-27",
   "kind": "수니그룹",
   "id": "44",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "soopId": "ooo9330",
@@ -455,7 +478,8 @@
   "outDate": "2024-08-15",
   "kind": "수니그룹",
   "id": "45",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2023-09-19",
@@ -465,7 +489,8 @@
   "outDate": "2024-06-15",
   "kind": "수니그룹",
   "id": "46",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "enterDate": "2024-09-06",
@@ -475,7 +500,8 @@
   "sooniName": "날박",
   "kind": "수니그룹",
   "id": "47",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "remark": "25.01.22 통합오디션",
@@ -485,7 +511,8 @@
   "enterDate": "2025-01-21",
   "kind": "수니그룹",
   "id": "48",
-  "outKind": "정직원실패"
+  "outKind": "정직원실패",
+  "status": "N"
  },
  {
   "enterDate": "2024-07-31",
@@ -516,7 +543,8 @@
   "outDate": "2022-11-30",
   "kind": "수니그룹",
   "id": "51",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "remark": null,
@@ -546,7 +574,8 @@
   "enterDate": "2022-11-30",
   "kind": "수니그룹",
   "id": "54",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "remark": "멘탈이슈",
@@ -556,7 +585,8 @@
   "soopId": "sunwo2534",
   "kind": "수니그룹",
   "id": "55",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2024-02-17",
@@ -566,7 +596,8 @@
   "soopId": "taeri0806",
   "kind": "수니그룹",
   "id": "56",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "enterDate": "2024-04-23",
@@ -586,7 +617,8 @@
   "soopId": "thwl9386",
   "kind": "수니그룹",
   "id": "58",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "soopId": "thwl9386",
@@ -607,7 +639,8 @@
   "outDate": "2023-03-09",
   "kind": "수니그룹",
   "id": "60",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2023-08-11",
@@ -617,7 +650,8 @@
   "sooniName": "져리",
   "kind": "수니그룹",
   "id": "61",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "sooniName": "권도연",
@@ -637,7 +671,8 @@
   "soopId": "tus7475",
   "kind": "수니그룹",
   "id": "63",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2023-11-18",
@@ -647,7 +682,8 @@
   "soopId": "vlfvlf789",
   "kind": "수니그룹",
   "id": "64",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "soopId": "wendysul",
@@ -657,7 +693,8 @@
   "remark": "개인사유 (방송 자립)",
   "kind": "수니그룹",
   "id": "65",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "remark": "방송태도 주주투표",
@@ -667,7 +704,8 @@
   "soopId": "witboy",
   "kind": "수니그룹",
   "id": "66",
-  "outKind": "퇴출"
+  "outKind": "퇴출",
+  "status": "N"
  },
  {
   "remark": "방송적 케미 부족",
@@ -718,7 +756,8 @@
   "enterDate": "2024-05-29",
   "kind": "수니그룹",
   "id": "71",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "enterDate": "2022-11-30",
@@ -728,7 +767,8 @@
   "remark": "부상+멘탈이슈",
   "kind": "수니그룹",
   "id": "72",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "outDate": "2025-02-20",
@@ -738,7 +778,8 @@
   "soopId": "yunhee1222",
   "kind": "수니게임즈",
   "id": "73",
-  "outKind": "조직변경"
+  "outKind": "조직변경",
+  "status": "N"
  },
  {
   "enterDate": "2025-01-21",
@@ -776,7 +817,8 @@
   "remark": "25.02.14 개별면접",
   "id": "81",
   "outDate": "2025-02-20",
-  "outKind": "자진퇴사"
+  "outKind": "자진퇴사",
+  "status": "N"
  },
  {
   "soopId": "yunhee1222",
