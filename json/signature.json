@@ -301,6 +301,11 @@
   },
   {
     "sigName": "POSE",
+    "sigValue": "1050",
+    "imgId": "POSE_1050"
+  },
+  {
+    "sigName": "POSE",
     "sigValue": "1160",
     "imgId": "POSE_1160"
   },
@@ -398,6 +403,11 @@
     "sigName": "Touch",
     "sigValue": "1460",
     "imgId": "Touch_1460"
+  },
+  {
+    "sigName": "UP",
+    "sigValue": "1300",
+    "imgId": "UP_1300"
   },
   {
     "sigName": "UP",
@@ -1131,6 +1141,11 @@
   },
   {
     "sigName": "이글루",
+    "sigValue": "1590",
+    "imgId": "Igloo_1590"
+  },
+  {
+    "sigName": "이글루",
     "sigValue": "1599",
     "imgId": "Igloo_1599"
   },
@@ -1178,6 +1193,11 @@
     "sigName": "코카인",
     "sigValue": "2519",
     "imgId": "Cocaine_2519"
+  },
+  {
+    "sigName": "코카인",
+    "sigValue": "2550",
+    "imgId": "Cocaine_2550"
   },
   {
     "sigName": "코카인",
@@ -1440,6 +1460,11 @@
     "imgId": "Bazaar_5000"
   },
   {
+    "sigName": "Bazaar",
+    "sigValue": "5555",
+    "imgId": "Bazaar_5555"
+  },
+  {
     "sigName": "BODY",
     "sigValue": "1620",
     "imgId": "BODY_1620"
@@ -1538,5 +1563,75 @@
     "sigName": "이상해",
     "sigValue": "1780",
     "imgId": "Weird_1780"
+  },
+  {
+    "sigName": "Atomic",
+    "sigValue": "1000",
+    "imgId": "Atomic_1000"
+  },
+  {
+    "sigName": "복고댄스",
+    "sigValue": "1220",
+    "imgId": "Bokko_1220"
+  },
+  {
+    "sigName": "SIGN",
+    "sigValue": "1420",
+    "imgId": "SIGN_1420"
+  },
+  {
+    "sigName": "라타타신드롬",
+    "sigValue": "1340",
+    "imgId": "LatataSyndrome_1340"
+  },
+  {
+    "sigName": "UH-OH",
+    "sigValue": "1690",
+    "imgId": "UhOh_1690"
+  },
+  {
+    "sigName": "마이디스터치",
+    "sigValue": "1720",
+    "imgId": "MydasTouch_1720"
+  },
+  {
+    "sigName": "LOVE DIVE",
+    "sigValue": "1740",
+    "imgId": "LoveDive_1740"
+  },
+  {
+    "sigName": "돈노왓투두",
+    "sigValue": "1760",
+    "imgId": "DKWTD_1760"
+  },
+  {
+    "sigName": "숨",
+    "sigValue": "1770",
+    "imgId": "SoomBad_1770"
+  },
+  {
+    "sigName": "Levitating",
+    "sigValue": "5000",
+    "imgId": "Levitating_5000"
+  },
+  {
+    "sigName": "Optimist",
+    "sigValue": "6666",
+    "imgId": "Optimist_6666"
+  },
+  {
+    "sigName": "Temperature",
+    "sigValue": "17777",
+    "imgId": "Temperature_17777"
+  },
+  {
+    "sigName": "VVIP",
+    "sigValue": "100000",
+    "imgId": "VVIP_100000"
+  },
+  {
+    "sigName": "어오챌린지",
+    "sigValue": "1540",
+    "imgId": "AoOhChallenge_1540"
   }
 ]
