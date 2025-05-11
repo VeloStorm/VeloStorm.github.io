@@ -961,5 +961,16 @@
   "status": "Y",
   "remark": "보라부로 영입",
   "id": "A7EV2yZ"
+ },
+ {
+  "soopId": "rosilyrose",
+  "sooniName": "로즐리",
+  "kind": "수니그룹",
+  "enterDate": "2025-05-10",
+  "outDate": "",
+  "status": "Y",
+  "outKind": "",
+  "remark": "개별면접 (욘서)",
+  "id": "NsKQvTW"
  }
 ]
