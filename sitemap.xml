@@ -5,12 +5,33 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://velostorm.github.io/</loc>
-  <lastmod>2025-05-11T11:17:39+00:00</lastmod>
+  <lastmod>2025-05-11</lastmod>
 </url>
-
+<url>
+  <loc>https://velostorm.github.io/SooniGroup/Introduction</loc>
+  <lastmod>2025-05-11</lastmod>
+</url>
+<url>
+  <loc>https://velostorm.github.io/SooniCon/jobChart</loc>
+  <lastmod>2025-05-11</lastmod>
+</url>
+<url>
+  <loc>https://velostorm.github.io/SooniGroup/MemberList</loc>
+  <lastmod>2025-05-11</lastmod>
+</url>
+<url>
+  <loc>https://velostorm.github.io/SooniCon/Stages</loc>
+  <lastmod>2025-05-11</lastmod>
+</url>
+<url>
+  <loc>https://velostorm.github.io/ViewerShip</loc>
+  <lastmod>2025-05-11</lastmod>
+</url>
+<url>
+  <loc>https://velostorm.github.io/SooniGroup/Signature</loc>
+  <lastmod>2025-05-11</lastmod>
+</url>
 
 </urlset>
