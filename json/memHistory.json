@@ -22,14 +22,15 @@
   "status": "N"
  },
  {
-  "remark": null,
+  "remark": "부상 (목디스크)",
   "sooniName": "강민아",
   "enterDate": "2023-02-25",
-  "outDate": null,
+  "outDate": "2025-05-14",
   "soopId": "1000song2",
   "kind": "수니그룹",
   "id": "3",
-  "status": "Y"
+  "status": "N",
+  "outKind": "자진퇴사"
  },
  {
   "remark": "25.04.15 졸업",
@@ -911,9 +912,11 @@
   "sooniName": "젤링",
   "kind": "수니그룹",
   "enterDate": "2025-04-24",
-  "status": "Y",
-  "remark": "25.04.23 개별면접",
-  "id": "QLC7qmC"
+  "status": "N",
+  "remark": "25.04.23 개별면접 (개인사)",
+  "id": "QLC7qmC",
+  "outDate": "2025-05-14",
+  "outKind": "정직원실패"
  },
  {
   "soopId": "rlaxofyd96",
