@@ -486,9 +486,9 @@
   "medal": "partner",
   "status": "휴먼",
   "message": "2025-05-23 채널이 존재하지 않음",
-  "joinDate": "",
-  "broadTime": 0,
-  "poongTime": 2346085,
+  "joinDate": "2012-05-10",
+  "broadTime": 132459033,
+  "poongTime": 2356172,
   "newbie": "N"
  },
  {
@@ -888,7 +888,7 @@
   "medal": "basic",
   "joinDate": "2011-08-18",
   "broadTime": 3094490,
-  "poongTime": 549751,
+  "poongTime": 573079,
   "newbie": "Y"
  },
  {
@@ -1009,7 +1009,7 @@
   "joinDate": "2014-11-08",
   "broadTime": 3741357,
   "newbie": "Y",
-  "poongTime": 2580292
+  "poongTime": 2634978
  },
  {
   "soopId": "nangnan",
@@ -1019,7 +1019,7 @@
   "joinDate": "2023-08-08",
   "broadTime": 4684530,
   "newbie": "Y",
-  "poongTime": 4498339
+  "poongTime": 4651820
  },
  {
   "soopId": "horidda",
@@ -1239,7 +1239,7 @@
   "medal": "basic",
   "joinDate": "2015-02-21",
   "broadTime": 2437113,
-  "poongTime": 518370,
+  "poongTime": 543430,
   "newbie": "Y"
  },
  {
@@ -1250,7 +1250,7 @@
   "joinDate": "2020-10-22",
   "broadTime": 6507499,
   "newbie": "Y",
-  "poongTime": 3490954
+  "poongTime": 3594895
  },
  {
   "soopId": "wnddnjs3124",
@@ -1279,7 +1279,7 @@
   "medal": "basic",
   "joinDate": "2015-06-27",
   "broadTime": 3545351,
-  "poongTime": 729048,
+  "poongTime": 760795,
   "newbie": "Y"
  },
  {
@@ -1390,7 +1390,7 @@
   "joinDate": "2024-10-19",
   "broadTime": 3202063,
   "newbie": "Y",
-  "poongTime": 2613871
+  "poongTime": 2718581
  },
  {
   "soopId": "9ambler",
@@ -1650,7 +1650,7 @@
   "joinDate": "2023-03-22",
   "broadTime": 1018365,
   "newbie": "Y",
-  "poongTime": 954118
+  "poongTime": 992785
  },
  {
   "soopId": "dasl8121",
@@ -1830,7 +1830,7 @@
   "joinDate": "2021-07-02",
   "broadTime": 4403124,
   "newbie": "Y",
-  "poongTime": 2220463
+  "poongTime": 2267762
  },
  {
   "soopId": "zalalz",
@@ -2142,7 +2142,7 @@
   "joinDate": "2024-07-31",
   "broadTime": 5404017,
   "newbie": "Y",
-  "poongTime": 3802470
+  "poongTime": 3946547
  },
  {
   "soopId": "jeehyeonlee",
@@ -2171,7 +2171,7 @@
   "medal": "basic",
   "joinDate": "2017-02-03",
   "broadTime": 3077076,
-  "poongTime": 545642,
+  "poongTime": 569623,
   "newbie": "Y"
  },
  {
@@ -2503,7 +2503,7 @@
   "joinDate": "2020-12-15",
   "broadTime": 3419285,
   "newbie": "Y",
-  "poongTime": 1913054
+  "poongTime": 2082511
  },
  {
   "soopId": "rhakdncjs90",
@@ -2775,7 +2775,7 @@
   "joinDate": "2024-09-07",
   "broadTime": 4458317,
   "newbie": "Y",
-  "poongTime": 2872094
+  "poongTime": 2945472
  },
  {
   "soopId": "asozico",
@@ -2795,7 +2795,7 @@
   "joinDate": "2023-12-06",
   "broadTime": 5170994,
   "newbie": "Y",
-  "poongTime": 2912916
+  "poongTime": 2959810
  },
  {
   "soopId": "tjtjtj",
@@ -2835,7 +2835,7 @@
   "joinDate": "2016-03-25",
   "broadTime": 471352,
   "newbie": "Y",
-  "poongTime": 648161
+  "poongTime": 670879
  },
  {
   "soopId": "qlxkals1528",
@@ -2943,7 +2943,7 @@
   "sooniName": "양연두",
   "medal": "best",
   "status": "휴먼",
-  "message": "2025-05-23 채널이 존재하지 않음",
+  "message": "2025-05-27 채널이 존재하지 않음",
   "joinDate": "",
   "broadTime": 0,
   "poongTime": 1348376,
@@ -3127,7 +3127,7 @@
   "joinDate": "2019-09-08",
   "broadTime": 2353155,
   "newbie": "Y",
-  "poongTime": 1034543
+  "poongTime": 1070175
  },
  {
   "soopId": "hubegung",
@@ -3227,7 +3227,7 @@
   "joinDate": "2024-05-10",
   "broadTime": 5396035,
   "newbie": "Y",
-  "poongTime": 2491865
+  "poongTime": 2587708
  },
  {
   "soopId": "doormomo",
@@ -3297,7 +3297,7 @@
   "joinDate": "2024-09-25",
   "broadTime": 2561859,
   "newbie": "Y",
-  "poongTime": 1626678
+  "poongTime": 1658965
  },
  {
   "soopId": "vgloldv",
@@ -3357,7 +3357,7 @@
   "joinDate": "2013-01-24",
   "broadTime": 3446632,
   "newbie": "Y",
-  "poongTime": 2673050
+  "poongTime": 2735917
  },
  {
   "soopId": "larothy",
@@ -3567,7 +3567,7 @@
   "joinDate": "2022-08-12",
   "broadTime": 8414194,
   "newbie": "Y",
-  "poongTime": 7738712
+  "poongTime": 7875548
  },
  {
   "soopId": "yunheehoho",
@@ -3637,7 +3637,7 @@
   "joinDate": "2023-12-14",
   "broadTime": 5283395,
   "newbie": "Y",
-  "poongTime": 2212755
+  "poongTime": 2276714
  },
  {
   "soopId": "lcg0935",
@@ -3707,7 +3707,7 @@
   "joinDate": "2024-08-07",
   "broadTime": 3841777,
   "newbie": "Y",
-  "poongTime": 2578172
+  "poongTime": 2718518
  },
  {
   "soopId": "kkkku96",
@@ -3807,7 +3807,7 @@
   "joinDate": "2022-12-05",
   "broadTime": 5508395,
   "newbie": "Y",
-  "poongTime": 4014009
+  "poongTime": 4092898
  },
  {
   "soopId": "udkn",
@@ -3988,7 +3988,7 @@
   "joinDate": "2023-04-22",
   "broadTime": 3631644,
   "newbie": "Y",
-  "poongTime": 822956
+  "poongTime": 840370
  },
  {
   "soopId": "umeedayo",
@@ -3998,7 +3998,7 @@
   "joinDate": "2024-03-27",
   "broadTime": 2420662,
   "newbie": "Y",
-  "poongTime": 2386386,
+  "poongTime": 2456098,
   "status": "완료"
  },
  {
@@ -4009,7 +4009,7 @@
   "joinDate": "2017-07-15",
   "broadTime": 4804264,
   "newbie": "Y",
-  "poongTime": 2913054
+  "poongTime": 2955997
  },
  {
   "soopId": "lyl9095",
@@ -4320,7 +4320,7 @@
   "joinDate": "2024-09-07",
   "broadTime": 3935924,
   "newbie": "Y",
-  "poongTime": 3389148
+  "poongTime": 3539233
  },
  {
   "soopId": "seungju6544",
@@ -4380,7 +4380,7 @@
   "joinDate": "2024-08-16",
   "broadTime": 2771775,
   "newbie": "Y",
-  "poongTime": 1315716,
+  "poongTime": 1386539,
   "status": "완료"
  },
  {
@@ -4510,7 +4510,7 @@
   "medal": "basic",
   "joinDate": "2015-08-13",
   "broadTime": 3657346,
-  "poongTime": 512937,
+  "poongTime": 527439,
   "newbie": "Y"
  },
  {
@@ -4561,7 +4561,7 @@
   "joinDate": "2018-10-16",
   "broadTime": 5631321,
   "newbie": "Y",
-  "poongTime": 2635391
+  "poongTime": 2698261
  },
  {
   "soopId": "simbi0914",
@@ -4904,7 +4904,7 @@
   "joinDate": "2024-09-01",
   "broadTime": 4401305,
   "newbie": "Y",
-  "poongTime": 2197370
+  "poongTime": 2209643
  },
  {
   "soopId": "wjddlsxo12",
@@ -5104,7 +5104,7 @@
   "joinDate": "2023-12-12",
   "broadTime": 3813994,
   "newbie": "Y",
-  "poongTime": 1455027
+  "poongTime": 1469235
  },
  {
   "soopId": "wellro314",
@@ -5124,7 +5124,7 @@
   "joinDate": "2024-11-27",
   "broadTime": 1854748,
   "newbie": "Y",
-  "poongTime": 1712875
+  "poongTime": 1738833
  },
  {
   "soopId": "pporumi",
@@ -5184,7 +5184,7 @@
   "joinDate": "2024-02-16",
   "broadTime": 3804017,
   "newbie": "Y",
-  "poongTime": 1140804
+  "poongTime": 1187159
  },
  {
   "soopId": "jwjz1234",
@@ -5274,7 +5274,7 @@
   "joinDate": "2024-01-07",
   "broadTime": 1165726,
   "newbie": "Y",
-  "poongTime": 133810
+  "poongTime": 135727
  },
  {
   "soopId": "jkmjkm1236",
@@ -5374,7 +5374,7 @@
   "joinDate": "2024-09-01",
   "broadTime": 297161,
   "newbie": "Y",
-  "poongTime": 278019
+  "poongTime": 377877
  },
  {
   "soopId": "yhm777",
@@ -5414,7 +5414,7 @@
   "joinDate": "2024-01-11",
   "broadTime": 581888,
   "newbie": "Y",
-  "poongTime": 144065
+  "poongTime": 153125
  },
  {
   "soopId": "firebathero",
@@ -5464,7 +5464,7 @@
   "joinDate": "2024-10-31",
   "broadTime": 2589081,
   "newbie": "Y",
-  "poongTime": 2562716
+  "poongTime": 2622112
  },
  {
   "soopId": "gkfn11",
@@ -5474,7 +5474,7 @@
   "joinDate": "2024-07-10",
   "broadTime": 6432283,
   "newbie": "Y",
-  "poongTime": 3937812
+  "poongTime": 3998143
  },
  {
   "soopId": "sunstar1994",
@@ -5644,7 +5644,7 @@
   "joinDate": "2024-09-11",
   "broadTime": 4685276,
   "newbie": "Y",
-  "poongTime": 3329141
+  "poongTime": 3377944
  },
  {
   "soopId": "cheto1206",
@@ -5846,7 +5846,7 @@
   "joinDate": "2024-08-18",
   "broadTime": 4276048,
   "newbie": "Y",
-  "poongTime": 1874841
+  "poongTime": 1971252
  },
  {
   "soopId": "wlsrl2566",
@@ -6139,7 +6139,7 @@
   "joinDate": "2024-12-12",
   "broadTime": 9362090,
   "newbie": "Y",
-  "poongTime": 4492924
+  "poongTime": 4780744
  },
  {
   "soopId": "ekdus0830",
@@ -6280,7 +6280,7 @@
   "joinDate": "2024-10-02",
   "broadTime": 2873730,
   "newbie": "Y",
-  "poongTime": 2321139
+  "poongTime": 2377016
  },
  {
   "soopId": "palko1",
@@ -6371,7 +6371,7 @@
   "joinDate": "2024-09-19",
   "broadTime": 2643632,
   "newbie": "Y",
-  "poongTime": 1469859
+  "poongTime": 1514688
  },
  {
   "soopId": "kangjikk",
@@ -6401,7 +6401,7 @@
   "joinDate": "2024-10-28",
   "broadTime": 3793765,
   "newbie": "Y",
-  "poongTime": 2767021
+  "poongTime": 2871851
  },
  {
   "soopId": "axiaxi",
@@ -6431,7 +6431,7 @@
   "joinDate": "2019-08-12",
   "broadTime": 5254844,
   "newbie": "Y",
-  "poongTime": 2002234
+  "poongTime": 2026257
  },
  {
   "soopId": "oh5623",
@@ -6441,7 +6441,7 @@
   "joinDate": "2016-09-17",
   "broadTime": 3860962,
   "newbie": "Y",
-  "poongTime": 1818898
+  "poongTime": 1874255
  },
  {
   "soopId": "so0oj",
@@ -6561,7 +6561,7 @@
   "joinDate": "2019-02-20",
   "broadTime": 4216029,
   "newbie": "Y",
-  "poongTime": 1709142
+  "poongTime": 1760552
  },
  {
   "soopId": "linlin13",
@@ -6601,7 +6601,7 @@
   "joinDate": "2024-10-14",
   "broadTime": 4436812,
   "newbie": "Y",
-  "poongTime": 2508772
+  "poongTime": 2560602
  },
  {
   "soopId": "dbdms139",
@@ -6852,7 +6852,7 @@
   "joinDate": "2021-08-23",
   "broadTime": 3718637,
   "newbie": "Y",
-  "poongTime": 1681269,
+  "poongTime": 1696294,
   "status": "완료"
  },
  {
@@ -6953,7 +6953,7 @@
   "joinDate": "2024-01-08",
   "broadTime": 4687819,
   "newbie": "Y",
-  "poongTime": 2161145
+  "poongTime": 2215023
  },
  {
   "soopId": "xxllx009",
@@ -7023,7 +7023,7 @@
   "joinDate": "2008-04-12",
   "broadTime": 1750250,
   "newbie": "Y",
-  "poongTime": 117166
+  "poongTime": 120823
  },
  {
   "soopId": "amaiyk0105",
@@ -7033,7 +7033,7 @@
   "joinDate": "2024-10-16",
   "broadTime": 4708131,
   "newbie": "Y",
-  "poongTime": 3904038
+  "poongTime": 3970309
  },
  {
   "soopId": "lina0108",
@@ -7193,7 +7193,7 @@
   "joinDate": "2024-02-27",
   "broadTime": 4449792,
   "newbie": "Y",
-  "poongTime": 1619148
+  "poongTime": 1736405
  },
  {
   "soopId": "0929kelly",
@@ -7203,7 +7203,7 @@
   "joinDate": "2022-01-18",
   "broadTime": 6358889,
   "newbie": "Y",
-  "poongTime": 4060212
+  "poongTime": 4148330
  },
  {
   "soopId": "ghkdud1617",
@@ -7233,7 +7233,7 @@
   "joinDate": "2024-07-19",
   "broadTime": 3547415,
   "newbie": "Y",
-  "poongTime": 1384383
+  "poongTime": 1400231
  },
  {
   "soopId": "napunzzell",
@@ -7373,7 +7373,7 @@
   "joinDate": "2024-01-07",
   "broadTime": 1041260,
   "newbie": "Y",
-  "poongTime": 125886
+  "poongTime": 131216
  },
  {
   "soopId": "tjfxkd7698",
@@ -7432,7 +7432,7 @@
   "medal": "best",
   "joinDate": "2023-12-10",
   "broadTime": 5558509,
-  "poongTime": 2177537,
+  "poongTime": 2211569,
   "newbie": "Y"
  },
  {
@@ -7443,7 +7443,7 @@
   "joinDate": "2016-02-19",
   "broadTime": 3799075,
   "newbie": "Y",
-  "poongTime": 2036572
+  "poongTime": 2094814
  },
  {
   "soopId": "yejin6503",
@@ -7613,7 +7613,7 @@
   "joinDate": "2015-08-04",
   "broadTime": 2886053,
   "newbie": "Y",
-  "poongTime": 663763
+  "poongTime": 701640
  },
  {
   "soopId": "ho1godme",
@@ -7763,7 +7763,7 @@
   "joinDate": "2024-03-13",
   "broadTime": 1696194,
   "newbie": "Y",
-  "poongTime": 1444754
+  "poongTime": 1470743
  },
  {
   "soopId": "kgod678",
@@ -7822,7 +7822,7 @@
   "medal": "basic",
   "joinDate": "2023-12-04",
   "broadTime": 1428166,
-  "poongTime": 504146,
+  "poongTime": 518600,
   "newbie": "Y"
  },
  {
@@ -7903,7 +7903,7 @@
   "joinDate": "2024-08-02",
   "broadTime": 2400565,
   "newbie": "Y",
-  "poongTime": 2627558
+  "poongTime": 2746235
  },
  {
   "soopId": "rancho0o",
@@ -7943,7 +7943,7 @@
   "joinDate": "2024-03-26",
   "broadTime": 5334346,
   "newbie": "Y",
-  "poongTime": 2250374
+  "poongTime": 2280114
  },
  {
   "soopId": "wjsqudtn9",
@@ -8063,7 +8063,7 @@
   "joinDate": "2024-06-30",
   "broadTime": 5151921,
   "newbie": "Y",
-  "poongTime": 2672661
+  "poongTime": 2742827
  },
  {
   "soopId": "zzey33",
@@ -8133,7 +8133,7 @@
   "joinDate": "2016-04-21",
   "broadTime": 2154722,
   "newbie": "Y",
-  "poongTime": 789838
+  "poongTime": 791531
  },
  {
   "soopId": "in0074",
@@ -8273,7 +8273,7 @@
   "joinDate": "2004-10-12",
   "broadTime": 3508489,
   "newbie": "Y",
-  "poongTime": 933935
+  "poongTime": 1001983
  },
  {
   "soopId": "yukie1010",
@@ -8483,7 +8483,7 @@
   "joinDate": "2023-12-14",
   "broadTime": 1999539,
   "newbie": "Y",
-  "poongTime": 194508
+  "poongTime": 203596
  },
  {
   "soopId": "damin0714",
@@ -8513,7 +8513,7 @@
   "joinDate": "2021-05-25",
   "broadTime": 7140028,
   "newbie": "Y",
-  "poongTime": 4331419
+  "poongTime": 4507019
  },
  {
   "soopId": "asroma23",
@@ -8563,7 +8563,7 @@
   "joinDate": "2024-12-16",
   "broadTime": 1618821,
   "newbie": "Y",
-  "poongTime": 1786572
+  "poongTime": 1875803
  },
  {
   "soopId": "khj4300",
@@ -8623,7 +8623,7 @@
   "joinDate": "2024-09-26",
   "broadTime": 3702647,
   "newbie": "Y",
-  "poongTime": 2031233
+  "poongTime": 2052909
  },
  {
   "soopId": "raming01",
@@ -8633,7 +8633,7 @@
   "joinDate": "2024-06-04",
   "broadTime": 3388332,
   "newbie": "Y",
-  "poongTime": 2222970
+  "poongTime": 2263081
  },
  {
   "soopId": "fkdlthsu",
@@ -8773,7 +8773,7 @@
   "joinDate": "2013-08-25",
   "broadTime": 2324153,
   "newbie": "Y",
-  "poongTime": 2448216,
+  "poongTime": 2562279,
   "status": "완료"
  },
  {
@@ -8984,7 +8984,7 @@
   "joinDate": "2021-07-24",
   "broadTime": 7014246,
   "newbie": "Y",
-  "poongTime": 6000767
+  "poongTime": 6173831
  },
  {
   "soopId": "chj6974",
@@ -9164,7 +9164,7 @@
   "joinDate": "2020-01-17",
   "broadTime": 1581359,
   "newbie": "Y",
-  "poongTime": 1483091
+  "poongTime": 1545789
  },
  {
   "soopId": "kingblue1",
@@ -9184,7 +9184,7 @@
   "joinDate": "2021-07-26",
   "broadTime": 4208892,
   "newbie": "Y",
-  "poongTime": 2099681
+  "poongTime": 2137701
  },
  {
   "soopId": "lin409409",
@@ -9194,7 +9194,7 @@
   "joinDate": "2019-10-02",
   "broadTime": 5834053,
   "newbie": "Y",
-  "poongTime": 3125930
+  "poongTime": 3183864
  },
  {
   "soopId": "rkdalstnld",
@@ -9484,7 +9484,7 @@
   "joinDate": "2024-09-03",
   "broadTime": 4502068,
   "newbie": "Y",
-  "poongTime": 1970058
+  "poongTime": 2023054
  },
  {
   "soopId": "famouskys",
@@ -10104,7 +10104,7 @@
   "joinDate": "2024-08-09",
   "broadTime": 4029024,
   "newbie": "Y",
-  "poongTime": 2379893
+  "poongTime": 2502277
  },
  {
   "soopId": "dywjdthsu2",
@@ -10284,7 +10284,7 @@
   "joinDate": "2024-04-13",
   "broadTime": 1866738,
   "newbie": "Y",
-  "poongTime": 1640620
+  "poongTime": 1689461
  },
  {
   "soopId": "infamous1129",
@@ -10354,7 +10354,7 @@
   "joinDate": "2016-02-26",
   "broadTime": 3178822,
   "newbie": "Y",
-  "poongTime": 1039553
+  "poongTime": 1063105
  },
  {
   "soopId": "chohee110",
@@ -10513,7 +10513,7 @@
   "medal": "basic",
   "joinDate": "2024-12-05",
   "broadTime": 809493,
-  "poongTime": 790190,
+  "poongTime": 851118,
   "newbie": "Y"
  },
  {
@@ -10524,7 +10524,7 @@
   "joinDate": "2024-01-08",
   "broadTime": 6004282,
   "newbie": "Y",
-  "poongTime": 3315928
+  "poongTime": 3431636
  },
  {
   "soopId": "secretx",
@@ -10614,7 +10614,7 @@
   "joinDate": "2024-12-04",
   "broadTime": 3083413,
   "newbie": "Y",
-  "poongTime": 3093554
+  "poongTime": 3141086
  },
  {
   "soopId": "zxcv9598",
@@ -10666,7 +10666,7 @@
   "joinDate": "2023-08-24",
   "broadTime": 6808453,
   "newbie": "Y",
-  "poongTime": 3915927
+  "poongTime": 4002711
  },
  {
   "soopId": "ximong",
@@ -10686,7 +10686,7 @@
   "joinDate": "2023-12-23",
   "broadTime": 5931716,
   "newbie": "Y",
-  "poongTime": 4920932
+  "poongTime": 5114264
  },
  {
   "soopId": "melodingding",
@@ -10786,7 +10786,7 @@
   "joinDate": "2025-01-16",
   "broadTime": 100770,
   "newbie": "Y",
-  "poongTime": 169528
+  "poongTime": 176607
  },
  {
   "soopId": "xex3",
@@ -10816,7 +10816,7 @@
   "joinDate": "2012-01-12",
   "broadTime": 2913715,
   "newbie": "Y",
-  "poongTime": 3589598,
+  "poongTime": 3675605,
   "status": "완료"
  },
  {
@@ -10867,7 +10867,7 @@
   "joinDate": "2024-12-30",
   "broadTime": 2057431,
   "newbie": "Y",
-  "poongTime": 2127150,
+  "poongTime": 2180970,
   "status": "완료"
  },
  {
@@ -10898,7 +10898,7 @@
   "joinDate": "2017-09-09",
   "broadTime": 5485464,
   "newbie": "Y",
-  "poongTime": 3294202
+  "poongTime": 3384453
  },
  {
   "soopId": "ss2o718",
@@ -10918,7 +10918,7 @@
   "joinDate": "2023-12-26",
   "broadTime": 4199356,
   "newbie": "Y",
-  "poongTime": 3249140,
+  "poongTime": 3304721,
   "status": "완료"
  },
  {
@@ -10939,7 +10939,7 @@
   "joinDate": "2016-08-06",
   "broadTime": 4510533,
   "newbie": "Y",
-  "poongTime": 2804093
+  "poongTime": 2875194
  },
  {
   "soopId": "sie4yu",
@@ -10949,7 +10949,7 @@
   "joinDate": "2024-12-11",
   "broadTime": 4116336,
   "newbie": "Y",
-  "poongTime": 4601867
+  "poongTime": 4693216
  },
  {
   "soopId": "lymcall",
@@ -10969,7 +10969,7 @@
   "joinDate": "2024-09-24",
   "broadTime": 2423365,
   "newbie": "Y",
-  "poongTime": 2079039
+  "poongTime": 2121713
  },
  {
   "soopId": "imtiti",
@@ -11039,7 +11039,7 @@
   "joinDate": "2024-04-27",
   "broadTime": 3269750,
   "newbie": "Y",
-  "poongTime": 2119847
+  "poongTime": 2163608
  },
  {
   "soopId": "koo2202",
@@ -11089,7 +11089,7 @@
   "joinDate": "2024-12-13",
   "broadTime": 2571778,
   "newbie": "Y",
-  "poongTime": 1941808
+  "poongTime": 2023902
  },
  {
   "soopId": "dmng50",
@@ -11119,7 +11119,7 @@
   "joinDate": "2016-02-05",
   "broadTime": 3871156,
   "newbie": "Y",
-  "poongTime": 1706476
+  "poongTime": 1760801
  },
  {
   "soopId": "h78ert",
@@ -11169,7 +11169,7 @@
   "joinDate": "2024-09-02",
   "broadTime": 4244220,
   "newbie": "Y",
-  "poongTime": 2693128
+  "poongTime": 2744222
  },
  {
   "soopId": "imhanbily",
@@ -11179,7 +11179,7 @@
   "joinDate": "2024-12-10",
   "broadTime": 4033462,
   "newbie": "Y",
-  "poongTime": 4281107
+  "poongTime": 4418305
  },
  {
   "soopId": "daphnerin",
@@ -11259,7 +11259,7 @@
   "joinDate": "2024-04-08",
   "broadTime": 3968896,
   "newbie": "Y",
-  "poongTime": 2235900
+  "poongTime": 2272540
  },
  {
   "soopId": "dakumazenki",
@@ -11409,7 +11409,7 @@
   "joinDate": "2024-08-06",
   "broadTime": 6985202,
   "newbie": "Y",
-  "poongTime": 4186721
+  "poongTime": 4251273
  },
  {
   "soopId": "zealot0846",
@@ -11449,7 +11449,7 @@
   "joinDate": "2024-01-29",
   "broadTime": 4432490,
   "newbie": "Y",
-  "poongTime": 1699669
+  "poongTime": 1789107
  },
  {
   "soopId": "chiyo75",
@@ -11619,7 +11619,7 @@
   "joinDate": "2025-01-21",
   "broadTime": 891007,
   "newbie": "Y",
-  "poongTime": 1210897
+  "poongTime": 1250973
  },
  {
   "soopId": "naian0109",
@@ -11629,7 +11629,7 @@
   "joinDate": "2024-01-15",
   "broadTime": 376107,
   "newbie": "Y",
-  "poongTime": 478788
+  "poongTime": 507651
  },
  {
   "soopId": "townboy",
@@ -11801,7 +11801,7 @@
   "joinDate": "2023-05-08",
   "broadTime": 4950631,
   "newbie": "Y",
-  "poongTime": 2647414
+  "poongTime": 2653099
  },
  {
   "soopId": "015234",
@@ -11921,7 +11921,7 @@
   "joinDate": "2022-11-06",
   "broadTime": 3615877,
   "newbie": "Y",
-  "poongTime": 1542327
+  "poongTime": 1600301
  },
  {
   "soopId": "askl021",
@@ -11951,7 +11951,7 @@
   "joinDate": "2024-07-17",
   "broadTime": 3692003,
   "newbie": "Y",
-  "poongTime": 2464199
+  "poongTime": 2510287
  },
  {
   "soopId": "eunnn0",
@@ -11961,7 +11961,7 @@
   "joinDate": "2024-10-27",
   "broadTime": 1649041,
   "newbie": "Y",
-  "poongTime": 1316594
+  "poongTime": 1344836
  },
  {
   "soopId": "naebd101",
@@ -11971,7 +11971,7 @@
   "joinDate": "2024-11-18",
   "broadTime": 1375759,
   "newbie": "Y",
-  "poongTime": 1688429
+  "poongTime": 1730651
  },
  {
   "soopId": "leej3151",
@@ -11991,7 +11991,7 @@
   "joinDate": "2023-12-26",
   "broadTime": 4851722,
   "newbie": "Y",
-  "poongTime": 2098858,
+  "poongTime": 2181521,
   "status": "완료"
  },
  {
@@ -12062,7 +12062,7 @@
   "joinDate": "2024-08-21",
   "broadTime": 106201,
   "newbie": "Y",
-  "poongTime": 118029
+  "poongTime": 128755
  },
  {
   "soopId": "kmjj0077",
@@ -12112,7 +12112,7 @@
   "joinDate": "2018-02-01",
   "broadTime": 969894,
   "newbie": "Y",
-  "poongTime": 236491
+  "poongTime": 254280
  },
  {
   "soopId": "rubyruby0626",
@@ -12233,7 +12233,7 @@
   "joinDate": "2015-07-09",
   "broadTime": 1885961,
   "newbie": "Y",
-  "poongTime": 1619244
+  "poongTime": 1661284
  },
  {
   "soopId": "shtndk5",
@@ -12243,7 +12243,7 @@
   "joinDate": "2024-10-19",
   "broadTime": 1379701,
   "newbie": "Y",
-  "poongTime": 1985974
+  "poongTime": 2046889
  },
  {
   "soopId": "nhxoxo17",
@@ -12273,7 +12273,7 @@
   "joinDate": "2025-02-15",
   "broadTime": 1529106,
   "newbie": "Y",
-  "poongTime": 1940427
+  "poongTime": 2015349
  },
  {
   "soopId": "wlswn6565",
@@ -12303,7 +12303,7 @@
   "joinDate": "2024-09-10",
   "broadTime": 2233724,
   "newbie": "Y",
-  "poongTime": 2208616,
+  "poongTime": 2276785,
   "status": "완료"
  },
  {
@@ -12314,7 +12314,7 @@
   "joinDate": "2024-02-20",
   "broadTime": 5802946,
   "newbie": "Y",
-  "poongTime": 3474533
+  "poongTime": 3539441
  },
  {
   "soopId": "papcon0206",
@@ -12334,7 +12334,7 @@
   "joinDate": "2023-07-02",
   "broadTime": 2380769,
   "newbie": "Y",
-  "poongTime": 2182735
+  "poongTime": 2212691
  },
  {
   "soopId": "qkrgkdms01",
@@ -12396,7 +12396,7 @@
   "joinDate": "2023-04-16",
   "broadTime": 3235037,
   "newbie": "Y",
-  "poongTime": 1568488
+  "poongTime": 1632333
  },
  {
   "soopId": "10042724",
@@ -12566,7 +12566,7 @@
   "joinDate": "2024-02-08",
   "broadTime": 3370594,
   "newbie": "Y",
-  "poongTime": 2493145
+  "poongTime": 2547918
  },
  {
   "soopId": "ollivia04",
@@ -12756,7 +12756,7 @@
   "joinDate": "2023-12-06",
   "broadTime": 1710315,
   "newbie": "Y",
-  "poongTime": 1026960
+  "poongTime": 1136262
  },
  {
   "soopId": "afbaseball1",
@@ -12816,7 +12816,7 @@
   "joinDate": "2022-10-19",
   "broadTime": 5352611,
   "newbie": "Y",
-  "poongTime": 2417123
+  "poongTime": 2471820
  },
  {
   "soopId": "rlaxordyd",
@@ -12865,7 +12865,7 @@
   "medal": "basic",
   "joinDate": "2022-06-10",
   "broadTime": 177318,
-  "poongTime": 290864,
+  "poongTime": 323060,
   "newbie": "Y"
  },
  {
@@ -12906,7 +12906,7 @@
   "joinDate": "2024-09-11",
   "broadTime": 2424703,
   "newbie": "Y",
-  "poongTime": 2341864,
+  "poongTime": 2358290,
   "status": "완료"
  },
  {
@@ -12917,7 +12917,7 @@
   "joinDate": "2022-10-02",
   "broadTime": 3747190,
   "newbie": "Y",
-  "poongTime": 1656278
+  "poongTime": 1853970
  },
  {
   "soopId": "bolidam",
@@ -12947,7 +12947,7 @@
   "joinDate": "2025-02-05",
   "broadTime": 860480,
   "newbie": "Y",
-  "poongTime": 1180633
+  "poongTime": 1243731
  },
  {
   "soopId": "minhyuk0904",
@@ -12987,7 +12987,7 @@
   "joinDate": "2016-10-26",
   "broadTime": 4453250,
   "newbie": "Y",
-  "poongTime": 2312757,
+  "poongTime": 2352688,
   "status": "완료"
  },
  {
@@ -13018,7 +13018,7 @@
   "joinDate": "2018-06-21",
   "broadTime": 1014554,
   "newbie": "Y",
-  "poongTime": 264246
+  "poongTime": 288064
  },
  {
   "soopId": "dks336",
@@ -13038,7 +13038,7 @@
   "joinDate": "2023-01-28",
   "broadTime": 377254,
   "newbie": "Y",
-  "poongTime": 481510
+  "poongTime": 500056
  },
  {
   "soopId": "tpgns8829",
@@ -13148,7 +13148,7 @@
   "joinDate": "2024-08-26",
   "broadTime": 3533795,
   "newbie": "Y",
-  "poongTime": 2238488
+  "poongTime": 2262097
  },
  {
   "soopId": "toggi001",
@@ -13298,7 +13298,7 @@
   "joinDate": "2024-11-08",
   "broadTime": 4943810,
   "newbie": "Y",
-  "poongTime": 4802092
+  "poongTime": 4872481
  },
  {
   "soopId": "asy1218",
@@ -13338,7 +13338,7 @@
   "joinDate": "2024-09-15",
   "broadTime": 3120187,
   "newbie": "Y",
-  "poongTime": 1052376
+  "poongTime": 1074712
  },
  {
   "soopId": "nooree",
@@ -13376,7 +13376,7 @@
   "sooniName": "냐미냥",
   "medal": "basic",
   "status": "삭제",
-  "message": "2025-05-23 채널이 존재하지 않음",
+  "message": "2025-05-27 채널이 존재하지 않음",
   "joinDate": "",
   "broadTime": 0,
   "poongTime": 123967,
@@ -13398,7 +13398,7 @@
   "sooniName": "bj아름이",
   "medal": "basic",
   "status": "삭제",
-  "message": "2025-05-23 채널이 존재하지 않음",
+  "message": "2025-05-27 채널이 존재하지 않음",
   "joinDate": "",
   "broadTime": 0,
   "poongTime": 74494,
@@ -13410,7 +13410,7 @@
   "sooniName": "오리지호",
   "medal": "basic",
   "status": "삭제",
-  "message": "2025-05-23 채널이 존재하지 않음",
+  "message": "2025-05-27 채널이 존재하지 않음",
   "joinDate": "",
   "broadTime": 0,
   "poongTime": 105503,
@@ -13424,7 +13424,7 @@
   "joinDate": "2025-03-13",
   "broadTime": 271187,
   "newbie": "Y",
-  "poongTime": 512648
+  "poongTime": 552643
  },
  {
   "soopId": "zyunnyang",
@@ -13434,7 +13434,7 @@
   "joinDate": "2023-12-06",
   "broadTime": 240949,
   "newbie": "Y",
-  "poongTime": 810831
+  "poongTime": 840026
  },
  {
   "soopId": "mocamu2",
@@ -13444,7 +13444,7 @@
   "joinDate": "2024-02-12",
   "broadTime": 4719803,
   "newbie": "Y",
-  "poongTime": 2200028,
+  "poongTime": 2263019,
   "status": "완료"
  },
  {
@@ -13525,7 +13525,7 @@
   "joinDate": "2025-03-24",
   "broadTime": 408859,
   "newbie": "Y",
-  "poongTime": 457337
+  "poongTime": 463937
  },
  {
   "soopId": "sraeze",
@@ -13579,7 +13579,7 @@
   "joinDate": "2024-11-04",
   "broadTime": 564594,
   "newbie": "Y",
-  "poongTime": 1301410
+  "poongTime": 1399471
  },
  {
   "soopId": "ywg0527",
@@ -13615,7 +13615,7 @@
   "joinDate": "2020-12-18",
   "broadTime": 3511777,
   "newbie": "Y",
-  "poongTime": 4155232
+  "poongTime": 4282544
  },
  {
   "soopId": "fbwlsdn054",
@@ -13639,7 +13639,7 @@
   "joinDate": "2019-09-07",
   "broadTime": 817516,
   "newbie": "Y",
-  "poongTime": 1091374
+  "poongTime": 1108324
  },
  {
   "soopId": "dackda",
@@ -13675,7 +13675,7 @@
   "joinDate": "2025-03-25",
   "broadTime": 814424,
   "newbie": "Y",
-  "poongTime": 1194624
+  "poongTime": 1262773
  },
  {
   "soopId": "ahdtkdrkrkda",
@@ -13747,7 +13747,7 @@
   "joinDate": "2015-12-27",
   "broadTime": 3620975,
   "newbie": "Y",
-  "poongTime": 2408477
+  "poongTime": 2468604
  },
  {
   "soopId": "seh0305",
@@ -13795,7 +13795,7 @@
   "joinDate": "2015-10-19",
   "broadTime": 2860388,
   "newbie": "Y",
-  "poongTime": 1286673
+  "poongTime": 1399601
  },
  {
   "soopId": "rlaxofyd96",
@@ -13854,7 +13854,7 @@
   "message": "2025-05-02",
   "joinDate": "2024-12-20",
   "broadTime": 1479371,
-  "poongTime": 1623424,
+  "poongTime": 1678003,
   "newbie": "Y"
  },
  {
@@ -13878,7 +13878,7 @@
   "message": "2025-05-08",
   "joinDate": "2018-01-29",
   "broadTime": 1873830,
-  "poongTime": 884274,
+  "poongTime": 933163,
   "newbie": "Y"
  },
  {
@@ -13902,7 +13902,7 @@
   "message": "2025-05-08",
   "joinDate": "2024-12-03",
   "broadTime": 2298704,
-  "poongTime": 2307555,
+  "poongTime": 2324978,
   "newbie": "Y"
  },
  {
@@ -13914,7 +13914,7 @@
   "message": "2025-05-08",
   "joinDate": "2024-12-17",
   "broadTime": 1974166,
-  "poongTime": 2012184,
+  "poongTime": 2046538,
   "newbie": "Y"
  },
  {
@@ -13938,7 +13938,7 @@
   "message": "2025-05-08",
   "joinDate": "2023-12-14",
   "broadTime": 4953754,
-  "poongTime": 1783694,
+  "poongTime": 1803166,
   "newbie": "Y"
  },
  {
@@ -13950,7 +13950,7 @@
   "message": "2025-05-08",
   "joinDate": "2016-02-18",
   "broadTime": 37322,
-  "poongTime": 194966,
+  "poongTime": 241114,
   "newbie": "Y"
  },
  {
@@ -13974,7 +13974,7 @@
   "message": "2025-05-11",
   "joinDate": "2022-08-13",
   "broadTime": 2517965,
-  "poongTime": 2008334,
+  "poongTime": 2094620,
   "newbie": "Y"
  },
  {
@@ -14022,7 +14022,7 @@
   "message": "2025-05-14",
   "joinDate": "2025-02-04",
   "broadTime": 1337039,
-  "poongTime": 1569181,
+  "poongTime": 1704028,
   "newbie": "Y"
  },
  {
@@ -14046,7 +14046,7 @@
   "message": "2025-05-14",
   "joinDate": "2025-03-26",
   "broadTime": 522600,
-  "poongTime": 687099,
+  "poongTime": 763133,
   "newbie": "Y"
  },
  {
@@ -14070,7 +14070,7 @@
   "message": "2025-05-14",
   "joinDate": "2025-05-10",
   "broadTime": 34085,
-  "poongTime": 100072,
+  "poongTime": 134921,
   "newbie": "Y"
  },
  {
@@ -14142,6 +14142,40 @@
   "message": "2025-05-23",
   "joinDate": "2023-11-15",
   "broadTime": 18952338,
-  "poongTime": 4688473
+  "poongTime": 4688473,
+  "newbie": "N"
+ },
+ {
+  "soopId": "momo130",
+  "soopName": "effort김정우",
+  "sooniName": "effort김정우",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-05-27",
+  "joinDate": "2013-10-09",
+  "broadTime": 64771205,
+  "poongTime": 259710
+ },
+ {
+  "soopId": "afbilliards1",
+  "soopName": "billiards1",
+  "sooniName": "billiards1",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-05-27",
+  "joinDate": "2018-05-10",
+  "broadTime": 24641860,
+  "poongTime": 579914
+ },
+ {
+  "soopId": "afgame04",
+  "soopName": "서든어택공식",
+  "sooniName": "서든어택공식",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-05-27",
+  "joinDate": "2012-11-07",
+  "broadTime": 2102728,
+  "poongTime": 85688
  }
 ]

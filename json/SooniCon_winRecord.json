@@ -617,7 +617,19 @@
       "소희",
       "권도연",
       "디어리"
-    ]
+    ],
+    "bestStageData": {
+      "stageNo": 9,
+      "company": "수니기획",
+      "teamName": "수니힐",
+      "stageKind": "노래",
+      "singerName": "노라조",
+      "songName": "형",
+      "members": "소희,디어리,권도연",
+      "youtube": "https://youtu.be/96rNNqGbt64?si=0FUMZE2GlyfXzpUW",
+      "isUse": "Y",
+      "vote": "87"
+    }
   },
   {
     "id": "202415",
@@ -644,7 +656,19 @@
     ],
     "team": "그레이",
     "company": "수니아트",
-    "bestTeam": "엔소울"
+    "bestTeam": "엔소울",
+    "bestStageData": {
+      "stageNo": 8,
+      "company": "수니엔터",
+      "teamName": "엔소울",
+      "stageKind": "노래",
+      "singerName": "V.O.S",
+      "songName": "잘 살고 있다",
+      "members": "안예슬,배그나,권도연",
+      "youtube": "https://youtu.be/cidZu9DOoF4?si=X_3j_I5m6v-CxUkp",
+      "isUse": "Y",
+      "vote": "92"
+    }
   },
   {
     "id": "202416",
@@ -673,7 +697,24 @@
     ],
     "team": "엔뮤즈",
     "company": "수니아트",
-    "bestTeam": "엔뮤즈"
+    "bestTeam": "엔뮤즈",
+    "bestStageData": {
+      "stageNo": 3,
+      "teamName": "엔뮤즈",
+      "stageKind": "노래",
+      "isUse": "Y",
+      "singerName": "노을",
+      "songName": "하지 못한 말",
+      "members": [
+        "배그나",
+        "안예슬"
+      ],
+      "guests": "져리,다니,하진",
+      "youtube": "https://youtu.be/8cvUjWM4EOM?si=DXXcklLffPfwJr1D",
+      "soopVod": "https://vod.sooplive.co.kr/player/143156821?change_second=21903",
+      "company": "수니아트",
+      "vote": "93.7"
+    }
   },
   {
     "id": "202417",
@@ -701,7 +742,20 @@
     ],
     "team": "화이트",
     "company": "수니뮤직",
-    "bestTeam": "엔뮤즈"
+    "bestTeam": "엔뮤즈",
+    "bestStageData": {
+      "stageNo": 6,
+      "teamName": "엔뮤즈",
+      "stageKind": "노래",
+      "isUse": "Y",
+      "singerName": "바이브",
+      "songName": "다시 와주라",
+      "members": "배그나,디어리,권도연",
+      "youtube": "https://youtu.be/GnQe3vExkWw?si=aAitQnTaFF7nHkEW",
+      "soopVod": "https://vod.sooplive.co.kr/player/145190781?change_second=26413",
+      "company": "수니아트",
+      "vote": "86.4"
+    }
   },
   {
     "id": "202501",
@@ -715,7 +769,21 @@
     "bestStage": [
       "배그나",
       "백다연"
-    ]
+    ],
+    "bestStageData": {
+      "stageNo": 3,
+      "teamName": "메기밥",
+      "stageKind": "노래",
+      "isUse": "Y",
+      "singerName": "알리",
+      "songName": "가시연꽃 (정년이OST)",
+      "members": "배그나,백다연",
+      "guests": "",
+      "soopVod": "https://vod.sooplive.co.kr/player/147336419?change_second=21604",
+      "youtube": "https://youtu.be/SKa2XX3Lx2M?feature=shared",
+      "vote": "90.4",
+      "remark": "김윤경(가야금)"
+    }
   },
   {
     "id": "202502",
@@ -748,7 +816,19 @@
       "민서율",
       "펭채은",
       "아띠"
-    ]
+    ],
+    "bestStageData": {
+      "stageNo": 9,
+      "company": "수니엔터",
+      "teamName": "블랙",
+      "stageKind": "댄스",
+      "singerName": "지드래곤",
+      "songName": "Home Sweet Home",
+      "members": "펭채은,민서율,아띠",
+      "youtube": "https://youtu.be/XjO5VMD0LkU?feature=shared",
+      "isUse": "Y",
+      "vote": "92.2"
+    }
   },
   {
     "id": "202503",
@@ -782,7 +862,21 @@
       "배그나",
       "빡다혜",
       "안예슬"
-    ]
+    ],
+    "bestStageData": {
+      "stageNo": 11,
+      "teamName": "엔소울",
+      "stageKind": "노래",
+      "isUse": "Y",
+      "singerName": "허각",
+      "songName": "나를 사랑했던 사람아",
+      "members": "배그나,안예슬,빡다혜",
+      "guests": "",
+      "youtube": "https://youtu.be/EzxtvJ2st0M?si=746rwVERAzJwWjR4",
+      "soopVod": "https://vod.sooplive.co.kr/player/152766313?change_second=22761",
+      "company": "수니뮤직",
+      "vote": "90.3"
+    }
   },
   {
     "id": "202504",
@@ -811,7 +905,19 @@
     ],
     "team": "그레이",
     "company": "수니엔터",
-    "bestTeam": "엔소울"
+    "bestTeam": "엔소울",
+    "bestStageData": {
+      "stageNo": 9,
+      "teamName": "엔소울",
+      "stageKind": "노래",
+      "isUse": "Y",
+      "singerName": "M.C the Max",
+      "songName": "그대가 분다",
+      "members": "안예슬,배그나,빡다혜",
+      "soopVod": "https://vod.sooplive.co.kr/player/154983109?change_second=19838",
+      "company": "수니뮤직",
+      "vote": "93"
+    }
   },
   {
     "id": "202505",
@@ -841,7 +947,20 @@
     ],
     "team": "화이트",
     "company": "수니뮤직",
-    "bestTeam": "블랙"
+    "bestTeam": "블랙",
+    "bestStageData": {
+      "isUse": "Y",
+      "stageNo": 10,
+      "company": "수니엔터",
+      "teamName": "블랙",
+      "stageKind": "댄스",
+      "songName": "LIKE JENNIE",
+      "singerName": "제니",
+      "members": "민서율,아띠,노두식",
+      "soopVod": "https://vod.sooplive.co.kr/player/157056311?change_second=27043",
+      "vote": "88.1",
+      "youtube": "https://youtu.be/pjkhDUj9M8Q?si=YTHE1yNaRiFG4Ihj&t=0"
+    }
   },
   {
     "id": "202506",
@@ -871,7 +990,20 @@
       "안예슬",
       "배그나",
       "빡다혜"
-    ]
+    ],
+    "bestStageData": {
+      "isUse": "Y",
+      "stageNo": 10,
+      "company": "수니뮤직",
+      "teamName": "엔소울",
+      "stageKind": "노래",
+      "songName": "가슴 시린 날",
+      "singerName": "먼데이 키즈",
+      "members": "안예슬,배그나,빡다혜",
+      "vote": "95.6",
+      "youtube": "https://youtu.be/CZUT6guHq9c?si=CybcTClDC0QHIJIb&t=0",
+      "soopVod": "https://vod.sooplive.co.kr/player/159080157?change_second=21190"
+    }
   },
   {
     "id": "202507",
@@ -897,6 +1029,19 @@
     ],
     "team": "엔소울",
     "company": "수니뮤직",
-    "bestTeam": "엔소울"
+    "bestTeam": "엔소울",
+    "bestStageData": {
+      "isUse": "Y",
+      "stageNo": "5",
+      "company": "수니뮤직",
+      "teamName": "엔소울",
+      "stageKind": "노래",
+      "songName": "지나오다",
+      "singerName": "닐로",
+      "members": "안예슬,빡다혜",
+      "guests": "주희유,이승빈",
+      "vote": "88.5",
+      "soopVod": "https://vod.sooplive.co.kr/player/161125359?change_second=20985"
+    }
   }
 ]
