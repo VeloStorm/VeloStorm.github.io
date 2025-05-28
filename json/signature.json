@@ -786,6 +786,11 @@
   },
   {
     "sigName": "바우치",
+    "sigValue": "2800",
+    "imgId": "BowChi_2800"
+  },
+  {
+    "sigName": "바우치",
     "sigValue": "2900",
     "imgId": "BowChi_2900"
   },
@@ -923,6 +928,11 @@
     "sigName": "색소폰매직",
     "sigValue": "1930",
     "imgId": "SaxophoneMagic_1930"
+  },
+  {
+    "sigName": "샤카붐",
+    "sigValue": "3100",
+    "imgId": "ShakaBoom_3100"
   },
   {
     "sigName": "샤카붐",
@@ -1106,6 +1116,11 @@
   },
   {
     "sigName": "외모췍",
+    "sigValue": "2000",
+    "imgId": "LooksCheck_2000"
+  },
+  {
+    "sigName": "외모췍",
     "sigValue": "2979",
     "imgId": "LooksCheck_2979"
   },
@@ -1236,6 +1251,11 @@
   },
   {
     "sigName": "클락션",
+    "sigValue": "1920",
+    "imgId": "Clarksion_1920"
+  },
+  {
+    "sigName": "클락션",
     "sigValue": "2143",
     "imgId": "Clarksion_2143"
   },
@@ -1293,6 +1313,11 @@
     "sigName": "파이팅해야지",
     "sigValue": "1660",
     "imgId": "Fighting_1660"
+  },
+  {
+    "sigName": "파티락킹",
+    "sigValue": "3400",
+    "imgId": "PartyLocking_3400"
   },
   {
     "sigName": "파티락킹",
@@ -1570,6 +1595,11 @@
     "imgId": "Atomic_1000"
   },
   {
+    "sigName": "Atomic",
+    "sigValue": "1480",
+    "imgId": "Atomic_1480"
+  },
+  {
     "sigName": "복고댄스",
     "sigValue": "1220",
     "imgId": "Bokko_1220"
@@ -1578,6 +1608,11 @@
     "sigName": "SIGN",
     "sigValue": "1420",
     "imgId": "SIGN_1420"
+  },
+  {
+    "sigName": "SIGN",
+    "sigValue": "1840",
+    "imgId": "SIGN_1840"
   },
   {
     "sigName": "라타타신드롬",
@@ -1615,6 +1650,11 @@
     "imgId": "Levitating_5000"
   },
   {
+    "sigName": "Levitating",
+    "sigValue": "5500",
+    "imgId": "Levitating_5500"
+  },
+  {
     "sigName": "Optimist",
     "sigValue": "6666",
     "imgId": "Optimist_6666"
@@ -1633,5 +1673,80 @@
     "sigName": "어오챌린지",
     "sigValue": "1540",
     "imgId": "AoOhChallenge_1540"
+  },
+  {
+    "sigName": "KAMASE",
+    "sigValue": "1480",
+    "imgId": "Kamase_1480"
+  },
+  {
+    "sigName": "KAMASE",
+    "sigValue": "1000",
+    "imgId": "Kamase_1000"
+  },
+  {
+    "sigName": "치킨",
+    "sigValue": "1420",
+    "imgId": "Chicken_1420"
+  },
+  {
+    "sigName": "니코니코니",
+    "sigValue": "1440",
+    "imgId": "NicoNicoNi_1440"
+  },
+  {
+    "sigName": "킵고잉",
+    "sigValue": "1460",
+    "imgId": "KeepGoing_1460"
+  },
+  {
+    "sigName": "인더뮤직",
+    "sigValue": "1630",
+    "imgId": "IntheMusic_1630"
+  },
+  {
+    "sigName": "마지막처럼",
+    "sigValue": "1830",
+    "imgId": "LastTime_1830"
+  },
+  {
+    "sigName": "HOT",
+    "sigValue": "1860",
+    "imgId": "HOT_1860"
+  },
+  {
+    "sigName": "SHEESH",
+    "sigValue": "1870",
+    "imgId": "Sheesh_1870"
+  },
+  {
+    "sigName": "가라사대",
+    "sigValue": "1880",
+    "imgId": "Gottasadae_1880"
+  },
+  {
+    "sigName": "개포동의 눈물",
+    "sigValue": "3000",
+    "imgId": "GaepoDongTears_3000"
+  },
+  {
+    "sigName": "깅다운",
+    "sigValue": "4000",
+    "imgId": "GingDown_4000"
+  },
+  {
+    "sigName": "호텔파티",
+    "sigValue": "5000",
+    "imgId": "HotelParty_5000"
+  },
+  {
+    "sigName": "Will You",
+    "sigValue": "7000",
+    "imgId": "WillYou_7000"
+  },
+  {
+    "sigName": "Wonder Land",
+    "sigValue": "15000",
+    "imgId": "WonderLand_15000"
   }
 ]
