@@ -1,0 +1,74 @@
+[
+  {
+    "sigId": "S0001",
+    "name": "Kimbap",
+    "Tag": "Kimbap",
+    "file": "S0001.jpg",
+    "kind": true,
+    "points": "center,0,2"
+  },
+  {
+    "sigId": "S0002",
+    "name": "POSE",
+    "Tag": "POSE,포즈",
+    "file": "S0002.jpg",
+    "kind": true,
+    "points": "center,0,2"
+  },
+  {
+    "kind": true,
+    "sigId": "S0003",
+    "name": "HOLD UP",
+    "Tag": "HOLD UP,홀덥,홀드업",
+    "file": "S0003.jpg",
+    "points": "right,0,0"
+  },
+  {
+    "kind": true,
+    "sigId": "S0004",
+    "name": "Emergency",
+    "Tag": "Emergency,비상,이머전시",
+    "file": "S0004.jpg",
+    "points": "center,0,2"
+  },
+  {
+    "kind": true,
+    "sigId": "S0005",
+    "name": "Discopled",
+    "Tag": "Discopled",
+    "file": "S0005.jpg",
+    "points": "center,0,2"
+  },
+  {
+    "kind": true,
+    "points": "left,10,2",
+    "sigId": "S0006",
+    "name": "날라리",
+    "Tag": "날라리",
+    "file": "S0006.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0007",
+    "name": "복고댄스",
+    "Tag": "복고댄스,Bokko Dance",
+    "file": "S0007.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0008",
+    "name": "괜찮아 딩딩딩",
+    "Tag": "괜찮아 딩딩딩",
+    "file": "S0008.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,1",
+    "sigId": "S0009",
+    "name": "호영레이블 UP",
+    "Tag": "호영레이블 UP",
+    "file": "S0009.jpg"
+  }
+]
