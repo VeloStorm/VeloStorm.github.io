@@ -29,13 +29,15 @@
      "id": "152703177"
     }
    ],
-   "imgId": "Martini_1000",
+   "imgId": "S0080.jpg",
    "isFever": "오프닝",
    "isNew": true,
-   "sigCount": "84"
+   "sigCount": "84",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
-   "sigName": "UP",
+   "sigName": "호영레이블 UP",
    "sigValue": 1000,
    "id": [
     {
@@ -55,10 +57,12 @@
      "id": "152831615"
     }
    ],
-   "imgId": "UP_1000",
+   "imgId": "S0009.jpg",
    "isFever": "피버",
    "isNew": false,
-   "sigCount": "231"
+   "sigCount": "231",
+   "sigKind": "common",
+   "points": "center,0,1"
   },
   {
    "sigName": "HOLD UP",
@@ -77,9 +81,11 @@
      "id": "152831795"
     }
    ],
-   "imgId": "HoldUP_1100",
+   "imgId": "S0003.jpg",
    "isNew": false,
-   "sigCount": "26"
+   "sigCount": "26",
+   "sigKind": "common",
+   "points": "right,0,0"
   },
   {
    "sigName": "Emergency",
@@ -90,9 +96,11 @@
      "id": "152835799"
     }
    ],
-   "imgId": "Emergency_1111",
+   "imgId": "S0004.jpg",
    "isNew": false,
-   "sigCount": "20"
+   "sigCount": "20",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "Discopled",
@@ -103,9 +111,11 @@
      "id": "152774965"
     }
    ],
-   "imgId": "Discopled_1150",
+   "imgId": "S0005.jpg",
    "isNew": true,
-   "sigCount": "1"
+   "sigCount": "1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "옴브리뉴",
@@ -116,9 +126,11 @@
      "id": "152780729"
     }
    ],
-   "imgId": "Ombrinho_1200",
+   "imgId": "S0147.jpg",
    "isNew": false,
-   "sigCount": "11"
+   "sigCount": "11",
+   "sigKind": "common",
+   "points": "right,1,2"
   },
   {
    "sigName": "마그네틱",
@@ -137,9 +149,11 @@
      "id": "152835971"
     }
    ],
-   "imgId": "Magnetic_1220",
+   "imgId": "S0176.jpg",
    "isNew": false,
-   "sigCount": "7"
+   "sigCount": "7",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "괜찮아 딩딩딩",
@@ -150,17 +164,21 @@
      "id": "152832147"
     }
    ],
-   "imgId": "DingDingDing_1234",
+   "imgId": "S0008.jpg",
    "isNew": false,
-   "sigCount": "13"
+   "sigCount": "13",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "Gun Check",
    "sigValue": 1250,
    "id": "X",
-   "imgId": "GunCheck_1250",
+   "imgId": "S0222.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "POSE",
@@ -183,17 +201,21 @@
      "id": "152839067"
     }
    ],
-   "imgId": "POSE_1300",
+   "imgId": "S0002.jpg",
    "isNew": false,
-   "sigCount": "24"
+   "sigCount": "24",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "NS Way",
    "sigValue": 1330,
    "id": "X",
-   "imgId": "NSWay_1330",
+   "imgId": "S0223.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "킥드럼베이스",
@@ -208,9 +230,11 @@
      "id": "152835179"
     }
    ],
-   "imgId": "KickDrumBase_1350",
+   "imgId": "S0179.jpg",
    "isNew": false,
-   "sigCount": "4"
+   "sigCount": "4",
+   "sigKind": "common",
+   "points": "left,0,0"
   },
   {
    "sigName": "호흡곤란",
@@ -225,9 +249,11 @@
      "id": "152839567"
     }
    ],
-   "imgId": "ShortBreath_1380",
+   "imgId": "S0012.jpg",
    "isNew": true,
-   "sigCount": "6"
+   "sigCount": "6",
+   "sigKind": "common",
+   "points": "left,4,2"
   },
   {
    "sigName": "구미베어",
@@ -246,9 +272,11 @@
      "id": "152835623"
     }
    ],
-   "imgId": "GummyBear_1400",
+   "imgId": "S0122.jpg",
    "isNew": false,
-   "sigCount": "11"
+   "sigCount": "11",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "WA DA DA",
@@ -263,9 +291,11 @@
      "id": "152837983"
     }
    ],
-   "imgId": "WaDaDa_1420",
+   "imgId": "S0029.jpg",
    "isNew": true,
-   "sigCount": "12"
+   "sigCount": "12",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "교통정리",
@@ -276,9 +306,11 @@
      "id": "152781783"
     }
    ],
-   "imgId": "TrafficControl_1430",
+   "imgId": "S0016.jpg",
    "isNew": false,
-   "sigCount": "3"
+   "sigCount": "3",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "빵빵챌린지",
@@ -289,12 +321,14 @@
      "id": "152835391"
     }
    ],
-   "imgId": "BbangBbang_1444",
+   "imgId": "S0232.jpg",
    "isNew": false,
-   "sigCount": "2"
+   "sigCount": "2",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
-   "sigName": "오늘만 알러뷰",
+   "sigName": "오늘만알러뷰",
    "sigValue": 1450,
    "id": [
     {
@@ -306,9 +340,11 @@
      "id": "152840031"
     }
    ],
-   "imgId": "Iloveyou_1450",
+   "imgId": "S0019.jpg",
    "isNew": true,
-   "sigCount": "11"
+   "sigCount": "11",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "자중해",
@@ -319,9 +355,11 @@
      "id": "152782053"
     }
    ],
-   "imgId": "BeCautious_1470",
+   "imgId": "S0224.jpg",
    "isNew": false,
-   "sigCount": "1"
+   "sigCount": "1",
+   "sigKind": "common",
+   "points": "left,4,2"
   },
   {
    "sigName": "Earth Quake",
@@ -332,12 +370,14 @@
      "id": "152775057"
     }
    ],
-   "imgId": "EarthQuake_1480",
+   "imgId": "S0130.jpg",
    "isNew": true,
-   "sigCount": "1"
+   "sigCount": "1",
+   "sigKind": "common",
+   "points": "right,2,2"
   },
   {
-   "sigName": "공주들은 원래 그래",
+   "sigName": "공주들은 원래그래",
    "sigValue": 1500,
    "id": [
     {
@@ -373,9 +413,11 @@
      "id": "152775081"
     }
    ],
-   "imgId": "Princesses_1500",
+   "imgId": "S0023.jpg",
    "isNew": false,
-   "sigCount": "32"
+   "sigCount": "32",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "WE GO",
@@ -394,10 +436,12 @@
      "id": "152835693"
     }
    ],
-   "imgId": "WeGo_1520",
+   "imgId": "S0040.jpg",
    "isFever": "피버",
    "isNew": true,
-   "sigCount": "8"
+   "sigCount": "8",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "디지는거야",
@@ -412,41 +456,51 @@
      "id": "152836217"
     }
    ],
-   "imgId": "YouDying_1530",
+   "imgId": "S0026.jpg",
    "isNew": false,
-   "sigCount": "7"
+   "sigCount": "7",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "T.K.T",
    "sigValue": 1555,
    "id": "X",
-   "imgId": "TKT_1555",
+   "imgId": "S0233.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
-   "sigName": "키티켓",
+   "sigName": "키티캣",
    "sigValue": 1570,
    "id": "X",
-   "imgId": "KitTicket_1570",
+   "imgId": "S0030.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "right,0,2"
   },
   {
    "sigName": "룩앳미",
    "sigValue": 1580,
    "id": "X",
-   "imgId": "LookAtMe_1580",
+   "imgId": "S0031.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "이글루",
    "sigValue": 1599,
    "id": "X",
-   "imgId": "Igloo_1599",
+   "imgId": "S0032.jpg",
    "isNew": true,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "왜요왜요",
@@ -461,9 +515,11 @@
      "id": "152832869"
     }
    ],
-   "imgId": "WhyWhy_1600",
+   "imgId": "S0124.jpg",
    "isNew": false,
-   "sigCount": "16"
+   "sigCount": "16",
+   "sigKind": "common",
+   "points": "right,4,2"
   },
   {
    "sigName": "DICE",
@@ -478,10 +534,12 @@
      "id": "152833621"
     }
    ],
-   "imgId": "Dice_1620",
+   "imgId": "S0236.jpg",
    "isFever": "피버",
    "isNew": true,
-   "sigCount": "7"
+   "sigCount": "7",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "붐붐베이스 Remix",
@@ -492,9 +550,11 @@
      "id": "152838295"
     }
    ],
-   "imgId": "BoomBaseRemix_1640",
+   "imgId": "S0037.jpg",
    "isNew": true,
-   "sigCount": "2"
+   "sigCount": "2",
+   "sigKind": "common",
+   "points": "right,2,0"
   },
   {
    "sigName": "슈퍼내추럴",
@@ -513,9 +573,11 @@
      "id": "152740973"
     }
    ],
-   "imgId": "Supernatural_1650",
+   "imgId": "S0038.jpg",
    "isNew": false,
-   "sigCount": "5"
+   "sigCount": "5",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "청바지",
@@ -534,9 +596,11 @@
      "id": "152841311"
     }
    ],
-   "imgId": "Jeans_1660",
+   "imgId": "S0039.jpg",
    "isNew": false,
-   "sigCount": "4"
+   "sigCount": "4",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "역도",
@@ -547,9 +611,11 @@
      "id": "152780299"
     }
    ],
-   "imgId": "Weightlifting_1680",
+   "imgId": "S0041.jpg",
    "isNew": false,
-   "sigCount": "6"
+   "sigCount": "6",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "DRIP",
@@ -560,9 +626,11 @@
      "id": "152782135"
     }
    ],
-   "imgId": "Drip_1700",
+   "imgId": "S0043.jpg",
    "isNew": true,
-   "sigCount": "8"
+   "sigCount": "8",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "HIT",
@@ -577,10 +645,12 @@
      "id": "152834269"
     }
    ],
-   "imgId": "HIT_1720",
+   "imgId": "S0235.jpg",
    "isFever": "피버",
    "isNew": true,
-   "sigCount": "10"
+   "sigCount": "10",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "너와의 모든 지금",
@@ -599,41 +669,51 @@
      "id": "152838679"
     }
    ],
-   "imgId": "AllWithYou_1750",
+   "imgId": "S0047.jpg",
    "isNew": false,
-   "sigCount": "5"
+   "sigCount": "5",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "나루토",
    "sigValue": 1777,
    "id": "X",
-   "imgId": "Naruto_1777",
+   "imgId": "S0050.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "푱푱",
    "sigValue": 1800,
    "id": "X",
-   "imgId": "ShootingLove_1800",
+   "imgId": "S0164.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "right,4,2"
   },
   {
    "sigName": "WE'RE BACK",
    "sigValue": 1818,
    "id": "X",
-   "imgId": "WeAreBack_1818",
+   "imgId": "S0234.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "폼폼푸린",
    "sigValue": 1850,
    "id": "X",
-   "imgId": "Purrine_1850",
+   "imgId": "S0226.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "앙카",
@@ -644,17 +724,21 @@
      "id": "152837733"
     }
    ],
-   "imgId": "Anka_1888",
+   "imgId": "S0062.jpg",
    "isNew": false,
-   "sigCount": "1"
+   "sigCount": "1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "네모네모",
    "sigValue": 1900,
    "id": "X",
-   "imgId": "Nemo_1900",
+   "imgId": "S0013.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "right,3,2",
+   "sigKind": "common"
   },
   {
    "sigName": "새끈빠끈",
@@ -665,9 +749,11 @@
      "id": "152831425"
     }
    ],
-   "imgId": "HotSpicy_1950",
+   "imgId": "S0058.jpg",
    "isNew": false,
-   "sigCount": "4"
+   "sigCount": "4",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "헨타이",
@@ -686,9 +772,11 @@
      "id": "152838529"
     }
    ],
-   "imgId": "Hentai_1980",
+   "imgId": "S0067.jpg",
    "isNew": false,
-   "sigCount": "8"
+   "sigCount": "8",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "지그재그",
@@ -699,17 +787,40 @@
      "id": "152779715"
     }
    ],
-   "imgId": "ZigZag_2000",
+   "imgId": "S0074.jpg",
    "isNew": false,
-   "sigCount": "40"
+   "sigCount": "40",
+   "points": "center,0,2",
+   "sigKind": "common"
+  },
+  {
+   "sigName": "클락션",
+   "sigValue": 2000,
+   "imgId": "S0064.jpg",
+   "isNew": false,
+   "sigCount": "2",
+   "id": [
+    {
+     "name": "류하",
+     "id": "152831075"
+    },
+    {
+     "name": "펭채은",
+     "id": "152831851"
+    }
+   ],
+   "points": "left,4,2",
+   "sigKind": "common"
   },
   {
    "sigName": "핑크레이디",
    "sigValue": 2050,
    "id": "X",
-   "imgId": "PinkLady_2050",
+   "imgId": "S0069.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "SEXY BOMB",
@@ -720,9 +831,11 @@
      "id": "152838621"
     }
    ],
-   "imgId": "SexyBomb_2100",
+   "imgId": "S0070.jpg",
    "isNew": false,
-   "sigCount": "1"
+   "sigCount": "1",
+   "points": "left,10,2",
+   "sigKind": "common"
   },
   {
    "sigName": "레디올낫",
@@ -733,9 +846,11 @@
      "id": "152781805"
     }
    ],
-   "imgId": "ReadyOrNot_2121",
+   "imgId": "S0071.jpg",
    "isNew": false,
-   "sigCount": "3"
+   "sigCount": "3",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "Attack Gun",
@@ -750,9 +865,11 @@
      "id": "152781981"
     }
    ],
-   "imgId": "AttackGun_2200",
+   "imgId": "S0072.jpg",
    "isNew": false,
-   "sigCount": "2"
+   "sigCount": "2",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "홈스윗홈",
@@ -767,34 +884,21 @@
      "id": "152840199"
     }
    ],
-   "imgId": "HomeSweetHome_2222",
+   "imgId": "S0073.jpg",
    "isNew": false,
-   "sigCount": "10"
-  },
-  {
-   "sigName": "클락션",
-   "sigValue": 2222,
-   "imgId": "Clarksion_2222",
-   "isNew": false,
-   "sigCount": "2",
-   "id": [
-    {
-     "name": "류하",
-     "id": "152831075"
-    },
-    {
-     "name": "펭채은",
-     "id": "152831851"
-    }
-   ]
+   "sigCount": "10",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "XXX",
    "sigValue": 2345,
    "id": "X",
-   "imgId": "XXX_2345",
+   "imgId": "S0075.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "Whiplash",
@@ -809,9 +913,11 @@
      "id": "152782165"
     }
    ],
-   "imgId": "Whiplash_2400",
+   "imgId": "S0076.jpg",
    "isNew": false,
-   "sigCount": "5"
+   "sigCount": "5",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "Booyt Bounce",
@@ -842,9 +948,11 @@
      "id": "152781671"
     }
    ],
-   "imgId": "BooytBounce_2486",
+   "imgId": "S0078.jpg",
    "isNew": true,
-   "sigCount": "25"
+   "sigCount": "25",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "W.T.F",
@@ -859,17 +967,21 @@
      "id": "152839877"
     }
    ],
-   "imgId": "WTF_2500",
+   "imgId": "S0079.jpg",
    "isNew": false,
-   "sigCount": "6"
+   "sigCount": "6",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "코카인",
    "sigValue": 2555,
    "id": "X",
-   "imgId": "Cocaine_2555",
+   "imgId": "S0081.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "L.S.D",
@@ -880,9 +992,11 @@
      "id": "152838361"
     }
    ],
-   "imgId": "LSD_2590",
+   "imgId": "S0082.jpg",
    "isNew": false,
-   "sigCount": "1"
+   "sigCount": "1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "터미널",
@@ -909,9 +1023,11 @@
      "id": "152841075"
     }
    ],
-   "imgId": "Terminal_2600",
+   "imgId": "S0083.jpg",
    "isNew": false,
-   "sigCount": "10"
+   "sigCount": "10",
+   "points": "left,10,2",
+   "sigKind": "common"
   },
   {
    "sigName": "오렌지디스코",
@@ -922,9 +1038,11 @@
      "id": "152835541"
     }
    ],
-   "imgId": "OrangeDisco_2700",
+   "imgId": "S0042.jpg",
    "isNew": false,
-   "sigCount": "1"
+   "sigCount": "1",
+   "points": "right,6,2",
+   "sigKind": "common"
   },
   {
    "sigName": "우치다",
@@ -935,9 +1053,11 @@
      "id": "152781471"
     }
    ],
-   "imgId": "Uchida_2750",
+   "imgId": "S0085.jpg",
    "isNew": false,
-   "sigCount": "1"
+   "sigCount": "1",
+   "points": "right,5,1",
+   "sigKind": "common"
   },
   {
    "sigName": "Pocket Locket",
@@ -948,35 +1068,39 @@
      "id": "152839295"
     }
    ],
-   "imgId": "PocketLocket_2828",
+   "imgId": "S0087.jpg",
    "isNew": true,
-   "sigCount": "2"
+   "sigCount": "2",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
-   "sigName": "바우치",
-   "sigValue": 2900,
-   "imgId": "BowChi_2900",
-   "isNew": false,
-   "sigCount": "3",
+   "sigName": "판타스틱베이비",
+   "sigValue": 3000,
    "id": [
     {
-     "name": "강민아",
-     "id": "152831721"
+     "name": "조이온",
+     "id": "152775289"
+    },
+    {
+     "name": "배그나",
+     "id": "152779861"
     },
     {
      "name": "민서율",
-     "id": "152839387"
-    },
-    {
-     "name": "혁찌니",
-     "id": "152769505"
+     "id": "152780767"
     }
-   ]
+   ],
+   "imgId": "S0091.jpg",
+   "isNew": false,
+   "sigCount": "87",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "외모췍",
-   "sigValue": 2979,
-   "imgId": "LooksCheck_2979",
+   "sigValue": 3000,
+   "imgId": "S0170.jpg",
    "isNew": false,
    "sigCount": "9",
    "id": [
@@ -1016,36 +1140,19 @@
      "name": "아띠",
      "id": "152841255"
     }
-   ]
-  },
-  {
-   "sigName": "판타스틱베이비",
-   "sigValue": 3000,
-   "id": [
-    {
-     "name": "조이온",
-     "id": "152775289"
-    },
-    {
-     "name": "배그나",
-     "id": "152779861"
-    },
-    {
-     "name": "민서율",
-     "id": "152780767"
-    }
    ],
-   "imgId": "FantasticBaby_3000",
-   "isNew": false,
-   "sigCount": "87"
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
-   "sigName": "Say yes",
+   "sigName": "Say Yes",
    "sigValue": 3050,
    "id": "X",
-   "imgId": "Sayyes_3050",
+   "imgId": "S0131.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "sigKind": "common",
+   "points": "center,0,2"
   },
   {
    "sigName": "간바레",
@@ -1060,33 +1167,41 @@
      "id": "152781843"
     }
    ],
-   "imgId": "GanBaRe_3333",
+   "imgId": "S0092.jpg",
    "isNew": false,
-   "sigCount": "7"
+   "sigCount": "7",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "Rich",
    "sigValue": 3500,
    "id": "X",
-   "imgId": "Rich_3500",
+   "imgId": "S0090.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "파티락킹",
    "sigValue": 4000,
    "id": "X",
-   "imgId": "PartyLocking_4000",
+   "imgId": "S0128.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "center,0,1",
+   "sigKind": "common"
   },
   {
    "sigName": "아헤가오",
    "sigValue": 4444,
    "id": "X",
-   "imgId": "Ahegao_4444",
+   "imgId": "S0084.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "나르코",
@@ -1101,9 +1216,34 @@
      "id": "152779759"
     }
    ],
-   "imgId": "Narco_5000",
+   "imgId": "S0098.jpg",
    "isNew": false,
-   "sigCount": "60"
+   "sigCount": "60",
+   "points": "center,0,2",
+   "sigKind": "common"
+  },
+  {
+   "sigName": "바우치",
+   "sigValue": 5000,
+   "imgId": "S0169.jpg",
+   "isNew": false,
+   "sigCount": "3",
+   "id": [
+    {
+     "name": "강민아",
+     "id": "152831721"
+    },
+    {
+     "name": "민서율",
+     "id": "152839387"
+    },
+    {
+     "name": "혁찌니",
+     "id": "152769505"
+    }
+   ],
+   "points": "right,15,2",
+   "sigKind": "common"
   },
   {
    "sigName": "코코로",
@@ -1122,17 +1262,21 @@
      "id": "152840383"
     }
    ],
-   "imgId": "Cocoro_6000",
+   "imgId": "S0101.jpg",
    "isNew": false,
-   "sigCount": "6"
+   "sigCount": "6",
+   "points": "center,0,0",
+   "sigKind": "common"
   },
   {
    "sigName": "샤카붐",
    "sigValue": 7000,
    "id": "X",
-   "imgId": "ShakaBoom_7000",
+   "imgId": "S0129.jpg",
    "isNew": false,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "right,6,2",
+   "sigKind": "common"
   },
   {
    "sigName": "Lonisolar",
@@ -1147,9 +1291,11 @@
      "id": "152842271"
     }
    ],
-   "imgId": "Lonisolar_7777",
+   "imgId": "S0104.jpg",
    "isNew": true,
-   "sigCount": "2"
+   "sigCount": "2",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "DERP",
@@ -1160,9 +1306,11 @@
      "id": "152840275"
     }
    ],
-   "imgId": "Derp_8000",
+   "imgId": "S0171.jpg",
    "isNew": false,
-   "sigCount": "1"
+   "sigCount": "1",
+   "points": "right,6,2",
+   "sigKind": "common"
   },
   {
    "sigName": "만개화",
@@ -1177,9 +1325,11 @@
      "id": "152841485"
     }
    ],
-   "imgId": "PlumBlossom_8888",
+   "imgId": "S0106.jpg",
    "isNew": true,
-   "sigCount": "2"
+   "sigCount": "2",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "SPECTER",
@@ -1190,9 +1340,11 @@
      "id": "152842543"
     }
    ],
-   "imgId": "Specter_9000",
+   "imgId": "S0105.jpg",
    "isNew": false,
-   "sigCount": "1"
+   "sigCount": "1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "보라빛밤",
@@ -1207,9 +1359,11 @@
      "id": "152835303"
     }
    ],
-   "imgId": "PurpleNight_9999",
+   "imgId": "S0108.jpg",
    "isNew": false,
-   "sigCount": "4"
+   "sigCount": "4",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "Atmosphere",
@@ -1228,26 +1382,12 @@
      "id": "152705215"
     }
    ],
-   "imgId": "Atmosphere_10000",
+   "imgId": "S0110.jpg",
    "isNew": false,
-   "sigCount": "67"
-  },
-  {
-   "sigName": "VIP",
-   "sigValue": 10001,
-   "id": [
-    {
-     "name": "강민아",
-     "id": "152834433"
-    },
-    {
-     "name": "아띠",
-     "id": "152842449"
-    }
-   ],
-   "imgId": "VIP_10001",
-   "isNew": false,
-   "sigCount": "3"
+   "sigCount": "67",
+   "points": "center,0,2",
+   "sigKind": "common",
+   "type": "type2"
   },
   {
    "sigName": "Colors",
@@ -1258,9 +1398,11 @@
      "id": "152840681"
     }
    ],
-   "imgId": "Colors_12486",
+   "imgId": "S0107.jpg",
    "isNew": true,
-   "sigCount": "1"
+   "sigCount": "1",
+   "points": "center,0,2",
+   "sigKind": "common"
   },
   {
    "sigName": "남순로겐",
@@ -1283,12 +1425,15 @@
      "id": "152842049"
     }
    ],
-   "imgId": "NSLogen_14320",
+   "imgId": "S0111.jpg",
    "isNew": false,
-   "sigCount": "5"
+   "sigCount": "5",
+   "points": "center,0,2",
+   "sigKind": "common",
+   "type": "type3"
   },
   {
-   "sigName": "Get it",
+   "sigName": "Get It",
    "sigValue": 20000,
    "id": [
     {
@@ -1300,17 +1445,22 @@
      "id": "152780073"
     }
    ],
-   "imgId": "Getit2_20000",
+   "imgId": "S0230.jpg",
    "isNew": false,
-   "sigCount": "5"
+   "sigCount": "5",
+   "sigKind": "default",
+   "points": "center,0,2"
   },
   {
    "sigName": "Everytime We Touch",
    "sigValue": 23456,
    "id": "X",
-   "imgId": "EverytimeWeTouch_23456",
+   "imgId": "S0115.jpg",
    "isNew": true,
-   "sigCount": "-1"
+   "sigCount": "-1",
+   "points": "center,0,2",
+   "sigKind": "common",
+   "type": "type7"
   },
   {
    "sigName": "런투더스카이",
@@ -1325,9 +1475,31 @@
      "id": "152775233"
     }
    ],
-   "imgId": "RunToTheSky_2",
+   "imgId": "S0116.jpg",
    "isNew": false,
-   "sigCount": "8"
+   "sigCount": "8",
+   "points": "center,0,2",
+   "sigKind": "common",
+   "type": "type8"
+  },
+  {
+   "sigName": "VIP",
+   "sigValue": 10001,
+   "id": [
+    {
+     "name": "강민아",
+     "id": "152834433"
+    },
+    {
+     "name": "아띠",
+     "id": "152842449"
+    }
+   ],
+   "imgId": "S0117.jpg",
+   "isNew": false,
+   "sigCount": "3",
+   "points": "center,0,2",
+   "sigKind": "universal"
   }
  ]
 }
