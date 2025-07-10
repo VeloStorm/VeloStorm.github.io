@@ -1898,5 +1898,101 @@
     "name": "LATATA",
     "Tag": "LATATA",
     "file": "S0239.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0240",
+    "name": "Watch This",
+    "Tag": "Watch This,와치디스",
+    "file": "S0240.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0241",
+    "name": "Smart",
+    "Tag": "Smart,스마트",
+    "file": "S0241.jpg"
+  },
+  {
+    "kind": true,
+    "points": "right,2,2",
+    "sigId": "S0242",
+    "name": "아이스크림",
+    "Tag": "Ice cream,아이스크림",
+    "file": "S0242.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0243",
+    "name": "어때",
+    "Tag": "어때",
+    "file": "S0243.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0244",
+    "name": "언더워터",
+    "Tag": "언더워터,Under Water",
+    "file": "S0244.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0245",
+    "name": "POOKIE",
+    "Tag": "POOKIE,푸키",
+    "file": "S0245.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0246",
+    "name": "Ojo Gang",
+    "Tag": "Ojo Gang",
+    "file": "S0246.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0247",
+    "name": "할것",
+    "Tag": "할것",
+    "file": "S0247.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0248",
+    "name": "죽을만큼 아파서",
+    "Tag": "죽을만큼 아파서",
+    "file": "S0248.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0249",
+    "name": "사이버펑크",
+    "Tag": "사이버펑크,Cyber Punk",
+    "file": "S0249.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0250",
+    "name": "계엄령",
+    "Tag": "계엄령",
+    "file": "S0250.jpg"
+  },
+  {
+    "kind": false,
+    "points": "center,0,2",
+    "sigId": "S0251",
+    "name": "슈퍼그럼요",
+    "Tag": "슈퍼그럼요",
+    "file": "S0251.jpg"
   }
 ]
