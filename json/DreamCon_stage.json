@@ -1533,5 +1533,367 @@
       }
     ],
     "date2": "2025-06-25"
+  },
+  {
+    "id": "BS2408",
+    "date": "2024년 07월 27일",
+    "title": "24년 강릉 버스킹",
+    "round": "BS2408",
+    "vodIds": "https://vod.sooplive.co.kr/player/131594461?change_second=11725",
+    "stage": [
+      {
+        "isUse": "Y",
+        "stageNo": 1,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "빗속에서",
+        "singerName": "이문세",
+        "members": "",
+        "guests": "황인욱",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=12530"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 2,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "어쩌다 마주친 그대",
+        "singerName": "송골매",
+        "members": "",
+        "guests": "황인욱",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=12902"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 3,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "플러팅",
+        "singerName": "황인욱",
+        "members": "",
+        "guests": "황인욱",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=13120"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 4,
+        "teamName": "화이트",
+        "stageKind": "댄스",
+        "songName": "BAD VILLAIN",
+        "singerName": "베드빌런",
+        "members": "태리츄,아띠,도원",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=13343"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 5,
+        "stageKind": "노래",
+        "songName": "서쪽하늘 (2013)",
+        "singerName": "윤하",
+        "members": "미캣,권도연,져리",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=13752"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 6,
+        "stageKind": "노래",
+        "songName": "Just Like Fire",
+        "singerName": "Pink",
+        "members": "백다연",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=14158"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 7,
+        "stageKind": "노래",
+        "songName": "Lizzo",
+        "singerName": "Juice",
+        "members": "백다연",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=14459"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 8,
+        "teamName": "화이트",
+        "stageKind": "댄스",
+        "songName": "닥터필굿",
+        "singerName": "라니아",
+        "members": "태은짱,강민아,도원,태리츄",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=14760"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 9,
+        "stageKind": "노래",
+        "songName": "퇴근 버스",
+        "singerName": "전상근",
+        "members": "져리",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=15092"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 10,
+        "stageKind": "노래",
+        "songName": "보여줄게",
+        "singerName": "에일리",
+        "members": "권도연",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=15442"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 11,
+        "stageKind": "댄스",
+        "songName": "Not Shy",
+        "singerName": "있지",
+        "members": "도원,태리츄",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=15789"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 12,
+        "stageKind": "노래",
+        "songName": "2002",
+        "singerName": "Anne-Marie",
+        "members": "백다연",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=16108"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 13,
+        "stageKind": "노래",
+        "songName": "Dance Monkey",
+        "singerName": "톤즈 앤 아이",
+        "members": "백다연",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=16349"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 14,
+        "stageKind": "노래",
+        "songName": "길에서",
+        "singerName": "나비",
+        "members": "미캣",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=16708"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 15,
+        "teamName": "화이트",
+        "stageKind": "댄스",
+        "songName": "파노라마",
+        "singerName": "아이즈원",
+        "members": "도원,강민아,태리츄",
+        "soopVod": "https://vod.sooplive.co.kr/player/131594461?change_second=17076"
+      }
+    ],
+    "date2": "2024-07-27"
+  },
+  {
+    "id": "UN2301",
+    "date": "2023년 04월 13일",
+    "title": "23년 유닛대전 1",
+    "round": "UN2301",
+    "vodIds": "https://vod.sooplive.co.kr/player/100789736?change_second=4365",
+    "stage": [
+      {
+        "isUse": "Y",
+        "stageNo": 1,
+        "teamName": "미류해",
+        "stageKind": "노래",
+        "songName": "다시 와주라",
+        "singerName": "바이브",
+        "members": "빵훈,유은 (예선전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=6280"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 2,
+        "teamName": "겸트와깅트",
+        "stageKind": "노래",
+        "songName": "노래가 늘었어",
+        "singerName": "에일리",
+        "members": "겸둥이,깅예솔 (예선전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=7155"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 3,
+        "teamName": "맘모스대리운전",
+        "stageKind": "노래",
+        "songName": "다시 사랑할 수 있을까",
+        "singerName": "포맨",
+        "members": "채무,오연하 (예선전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=7703"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 4,
+        "teamName": "뿌랑이다",
+        "stageKind": "노래",
+        "songName": "TTL",
+        "singerName": "티아라,초신성",
+        "members": "퀸다미,추랑이 (예선전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=8347"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 5,
+        "teamName": "새우디",
+        "stageKind": "노래",
+        "songName": "첫눈처럼 너에게 가겠다",
+        "singerName": "에일리",
+        "members": "민서율,후디 (예선전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=8960"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 6,
+        "teamName": "피나미나",
+        "stageKind": "노래",
+        "songName": "마리아",
+        "singerName": "김아중",
+        "members": "핀아,민아 (예선전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=9516"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 7,
+        "teamName": "겸트와깅트",
+        "stageKind": "노래",
+        "songName": "비밀번호 486",
+        "singerName": "윤하",
+        "members": "겸둥이,깅예솔 (4강전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=10162"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 8,
+        "teamName": "뿌랑이다",
+        "stageKind": "노래",
+        "songName": "착해 빠졌어",
+        "singerName": "매드클라운,소유",
+        "members": "퀸다미,추랑이 (4강전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=10704"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 9,
+        "teamName": "텐텐이더블",
+        "stageKind": "노래",
+        "songName": "널 사랑하지 않아",
+        "singerName": "어반자카파",
+        "members": "김학수,류하 (4강전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=11302"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 10,
+        "teamName": "새우디",
+        "stageKind": "노래",
+        "songName": "Heaven",
+        "singerName": "에일리",
+        "members": "민서율,후디 (4강전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=11947"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 11,
+        "teamName": "미류해",
+        "stageKind": "노래",
+        "songName": "대낮에 한 이별",
+        "singerName": "임슬옹,선예",
+        "members": "빵훈,유은 (패자부활전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=12750"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 12,
+        "teamName": "맘모스대리운전",
+        "stageKind": "노래",
+        "songName": "사랑은 열린 문",
+        "singerName": "겨울왕국 OST",
+        "members": "채무,오연하 (패자부활전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=13315"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 13,
+        "teamName": "피나미나",
+        "stageKind": "노래",
+        "songName": "아로하",
+        "singerName": "조정석",
+        "members": "핀아,민아 (패자부활전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=14072"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 14,
+        "teamName": "뿌랑이다",
+        "stageKind": "노래",
+        "songName": "바람났어",
+        "singerName": "GG",
+        "members": "퀸다미,추랑이 (패자부활전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=14623"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 15,
+        "teamName": "새우디",
+        "stageKind": "노래",
+        "songName": "시든 꽃에 물을 주듯",
+        "singerName": "박혜원",
+        "members": "민서율,후디 (패자부활전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=15577"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 16,
+        "teamName": "텐텐이더블",
+        "stageKind": "노래",
+        "songName": "비몽",
+        "singerName": "코요태",
+        "members": "김학수,류하 (결승전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=16063"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 17,
+        "teamName": "겸트와깅트",
+        "stageKind": "노래",
+        "songName": "안녕이라고 말하지마",
+        "singerName": "다비치",
+        "members": "겸둥이,깅예솔 (결승전)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=16500"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 18,
+        "teamName": "겸트와깅트",
+        "stageKind": "노래",
+        "songName": "처음부터 너와 나",
+        "singerName": "볼빨간사춘기",
+        "members": "겸둥이,깅예솔 (앵콜)",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/100789736?change_second=17465"
+      }
+    ],
+    "date2": "2023-04-13"
   }
 ]
