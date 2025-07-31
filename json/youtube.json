@@ -9,19 +9,18 @@
     { "name":"이승빈", "id":"UC4q0PnqIHQDLJcSkwq5yGbQ", "brandImage": "010.jpg", "yId":"@이승빈", "isUse":"Y" },
     { "name":"빡다혜", "id":"UC9dFUbTR3tqQgnkFs_GUsAg", "brandImage": "021.jpg", "yId":"@oo_dahye_oo", "isUse":"Y" },
     { "name":"유진냥", "id":"UCGI0Kca0Cd5osW0EQKzqpNA", "brandImage": "017.jpg", "yId":"@yujinnyang", "isUse":"Y" },
-    { "name":"깅예솔", "id":"UCacM0GkbN1OoMLTdCJBiQZg", "brandImage": "016.jpg", "yId":"@깅예솔", "isUse":"Y" },
     { "name":"덕이형", "id":"UCjkevnaCbANXTNMt1vjJowQ", "brandImage": "011.jpg", "yId":"channel/UCjkevnaCbANXTNMt1vjJowQ", "isUse":"Y" },
     { "name":"안예슬", "id":"UCgsem8W_WF2jsMusxrUPLLQ", "brandImage": "008.jpg", "yId":"@An_Yeseul_DDi", "isUse":"Y" },
     { "name":"지붕위소희", "id":"UCSHVv9zo-Wcqv6v8xWMrPUQ", "brandImage": "015.jpg", "yId":"@지붕위소희", "isUse":"Y" },
     { "name":"아띠", "id":"UCq1ino5gwj-HqwJo6FuU8Yg", "brandImage": "009.jpg", "yId":"@_atti.", "isUse":"Y" },
     { "name":"서우연", "id":"UCHLcYxKakyGNdWHmaCvrZnA", "brandImage": "024.jpg", "yId":"@seowooyeon91", "isUse":"Y" },
-	{ "name":"솔이꾼", "id":"UCQoqxSk8dv8AqXjtqhKIAlQ", "brandImage": "022.jpg", "yId":"@kimsol_", "isUse":"Y" },
     { "name":"민서율", "id":"UCBnyEr_1I5D1WKRYoSsYjpw", "brandImage": "013.jpg", "yId":"@minseoyool", "isUse":"Y" },
     { "name":"개바비", "id":"UCujK4m4IZqy0zNEk-6qFWMg", "brandImage": "018.jpg", "yId":"@geemamdero.o", "isUse":"Y" },
     { "name":"설유은", "id":"UCB1lpqblZ5du3uRyXmjDsnw", "brandImage": "012.jpg", "yId":"@ueuni._.00", "isUse":"Y" },
     { "name":"송지안", "id":"UCct27R1Vwes4ChGZ-xOdzcw", "brandImage": "023.jpg", "yId":"@songjiann", "isUse":"Y" },
 
-    { "name":"져리", "id":"", "brandImage": "020.jpg", "yId":"@jyeorstar", "isUse":"N" },
+	{ "name":"솔이꾼", "id":"UCQoqxSk8dv8AqXjtqhKIAlQ", "brandImage": "022.jpg", "yId":"@kimsol_", "isUse":"N" },
+    { "name":"깅예솔", "id":"UCacM0GkbN1OoMLTdCJBiQZg", "brandImage": "016.jpg", "yId":"@깅예솔", "isUse":"N" },
     { "name":"권도연", "id":"UCaX7p70EwZgw_b6NHdxRhIA", "brandImage": "019.jpg", "yId":"@kwondoyeon50", "isUse":"N" },
     { "name":"정예준", "id":"UCc30OU7IUs-zPyWybrRZx9A", "brandImage": "014.jpg", "yId":"@정예준-b3x", "isUse":"N" }
 ]
