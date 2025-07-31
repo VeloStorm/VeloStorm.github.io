@@ -1,23 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf7264a4.css",
-    "main.js": "/static/js/main.ff777551.js",
+    "main.css": "/static/css/main.786dcebb.css",
+    "main.js": "/static/js/main.22d6a6b2.js",
     "static/js/206.589e53a2.chunk.js": "/static/js/206.589e53a2.chunk.js",
-    "static/media/NotoSansKR-Medium.ttf": "/static/media/NotoSansKR-Medium.b9d6e1b3e7a3d63546cc.ttf",
-    "static/media/NotoSansKR-ExtraBold.ttf": "/static/media/NotoSansKR-ExtraBold.a30f1f0b3b461fff07a7.ttf",
     "static/media/brand-icons.svg": "/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/static/media/icons.62d9dae4e0040e81c980.svg",
-    "static/media/NanumSquareNeoTTF-dEb.woff2": "/static/media/NanumSquareNeoTTF-dEb.8f5d88bdccdc1b03419d.woff2",
-    "static/media/NanumSquareNeoTTF-bRg.woff2": "/static/media/NanumSquareNeoTTF-bRg.8c19e413edbc38f2499a.woff2",
-    "static/media/NanumSquareNeoTTF-cBd.woff2": "/static/media/NanumSquareNeoTTF-cBd.79d2b7fd23d6a661eff0.woff2",
-    "static/media/NanumSquareNeoTTF-eHv.woff2": "/static/media/NanumSquareNeoTTF-eHv.94e1ff8cc8548100f79c.woff2",
-    "static/media/NanumSquareNeoTTF-aLt.woff2": "/static/media/NanumSquareNeoTTF-aLt.fbf1422cd5996eea15e1.woff2",
-    "static/media/nexolLv1-Bold.woff": "/static/media/nexolLv1-Bold.4fbccb58d78733089850.woff",
-    "static/media/nexolLv1-Regular.woff": "/static/media/nexolLv1-Regular.078a0a30d2d2627bca5a.woff",
-    "static/media/nexolLv1-Light.woff": "/static/media/nexolLv1-Light.a082be102936c0775317.woff",
-    "static/media/nexolLv1-Bold.eot": "/static/media/nexolLv1-Bold.d49f67e5ab1c03d60ef7.eot",
-    "static/media/nexolLv1-Regular.eot": "/static/media/nexolLv1-Regular.cd353afdc9c5fdb208d2.eot",
-    "static/media/nexolLv1-Light.eot": "/static/media/nexolLv1-Light.25d6ef2060108c034895.eot",
+    "static/media/NotoSans-Bold.woff2": "/static/media/NotoSans-Bold.a2b8ed27e25e7116ab30.woff2",
+    "static/media/NotoSans-Medium.woff2": "/static/media/NotoSans-Medium.43b5c29006f365a91ccd.woff2",
     "static/media/outline-icons.svg": "/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/static/media/icons.a01e3f2d6c83dc3aee17.eot",
     "static/media/icons.ttf": "/static/media/icons.c656b8caa454ed19b9a2.ttf",
@@ -35,7 +24,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.cf7264a4.css",
-    "static/js/main.ff777551.js"
+    "static/css/main.786dcebb.css",
+    "static/js/main.22d6a6b2.js"
   ]
 }
