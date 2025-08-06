@@ -2346,5 +2346,158 @@
       }
     ],
     "date2": "2023-05-29"
+  },
+  {
+    "id": "BS2501",
+    "date": "2025년 08월 04일",
+    "title": "청주 버스킹",
+    "round": "BS2501",
+    "vodIds": "https://vod.sooplive.co.kr/player/167933549?change_second=714",
+    "stage": [
+      {
+        "isUse": "Y",
+        "stageNo": 1,
+        "teamName": "",
+        "stageKind": "댄스",
+        "songName": "SMART",
+        "singerName": "르세라핌",
+        "members": "펭채은,아띠,민서율,쥬니",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=1336"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 2,
+        "stageKind": "노래",
+        "songName": "등대",
+        "singerName": "윤민수,이예준",
+        "members": "송지안,덕이형",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=1665"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 3,
+        "stageKind": "댄스",
+        "songName": "Girls Will Be Girls",
+        "singerName": "있지",
+        "members": "쑤,채수아,뮤링",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=2130"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 4,
+        "stageKind": "노래",
+        "songName": "사람 참",
+        "singerName": "홍자",
+        "members": "욘서,배그나",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=2575"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 5,
+        "stageKind": "댄스",
+        "songName": "Dirty Work",
+        "singerName": "에스파",
+        "members": "설유은,민서율,류하,유진냥",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=2948"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 6,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "My Love",
+        "singerName": "전건호",
+        "guests": "전건호",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=3843"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 7,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "된장찌개를 좋아해 (맛보기)",
+        "singerName": "전건호,이예은",
+        "members": "",
+        "guests": "전건호",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=4245"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 8,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "다정히 내 이름을 부르면",
+        "singerName": "전건호",
+        "guests": "전건호",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=4445"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 9,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "사실 나는 / 부디 / Forever (3곡 메들리)",
+        "singerName": "전건호",
+        "members": "",
+        "guests": "전건호",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=4815"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 10,
+        "stageKind": "노래",
+        "songName": "상사화",
+        "singerName": "안예은",
+        "members": "욘서,개바비",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=5425"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 11,
+        "stageKind": "댄스",
+        "songName": "SODA POP",
+        "singerName": "Saja Boys",
+        "members": "수빙,펭채은,쥬니,아띠",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=5883"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 12,
+        "stageKind": "노래",
+        "songName": "하모니",
+        "singerName": "이영현,제아",
+        "members": "빡다헤,배그나,소희,안예슬",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=6114"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 13,
+        "stageKind": "댄스",
+        "songName": "Golden",
+        "singerName": "HUNTR/X",
+        "members": "류하,유진냥,민서율",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=6532"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 14,
+        "stageKind": "노래",
+        "songName": "나를 사랑했던 사람아",
+        "singerName": "수니그룹",
+        "members": "빡다혜,배그나,안예슬",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=6710"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 15,
+        "stageKind": "노래",
+        "songName": "Golden (1절)",
+        "singerName": "HUNTR/X",
+        "members": "빡다혜,배그나",
+        "soopVod": "https://vod.sooplive.co.kr/player/167933549?change_second=7035"
+      }
+    ],
+    "date2": "2025-08-04"
   }
 ]
