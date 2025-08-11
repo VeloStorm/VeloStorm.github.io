@@ -1,7 +1,8 @@
 [
   {
     "id": "VIEWER_SHIP",
-    "excludes": [
+    "name": "누적 순위 제외 목록",
+    "values": [
       {
         "id": "kagoai",
         "soopName": "뉴스",
@@ -110,22 +111,8 @@
     ]
   },
   {
-    "id": "CURR_ROUND",
-    "year": 2025,
-    "round": 10,
-    "manager": 11,
-    "signature": 10
-  },
-  {
-    "2022": 1,
-    "2023": 17,
-    "2024": 17,
-    "2025": 10,
-    "id": "SOONICON_MAX_ROUND"
-  },
-  {
     "id": "JOB_TIME",
-    "jobTime": "2025-08-08 19:42:20"
+    "jobTime": "2025-08-11 20:26:32"
   },
   {
     "id": "VIEW_PRIZE",
@@ -222,11 +209,11 @@
           2226282,
           2660645,
           3160303,
-          3247839,
-          3247839,
-          3247839,
-          3247839,
-          3247839
+          3370400,
+          3370400,
+          3370400,
+          3370400,
+          3370400
         ],
         "sports": [
           216559,
@@ -236,523 +223,33 @@
           1561432,
           1615659,
           2146593,
-          2236115,
-          2236115,
-          2236115,
-          2236115,
-          2236115
+          2261730,
+          2261730,
+          2261730,
+          2261730,
+          2261730
         ]
       }
     ]
   },
   {
-    "id": "SOONICON_LOV",
+    "id": "SG_OPTION",
+    "name": "수니콘 Manager Lov",
     "values": [
       {
-        "year": "2022",
-        "round": "01",
-        "key": "k01",
-        "text": "01회",
-        "value": "01",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
+        "id": "USER",
+        "startRound": "202201",
+        "endRound": "202510"
       },
       {
-        "year": "2023",
-        "round": "01",
-        "key": "k01",
-        "text": "01회",
-        "value": "01",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
+        "id": "ADMIN",
+        "startRound": "202201",
+        "endRound": "202511"
       },
       {
-        "year": "2023",
-        "round": "02",
-        "key": "k02",
-        "text": "02회",
-        "value": "02",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "03",
-        "key": "k03",
-        "text": "03회",
-        "value": "03",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "04",
-        "key": "k04",
-        "text": "04회",
-        "value": "04",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "05",
-        "key": "k05",
-        "text": "05회",
-        "value": "05",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "06",
-        "key": "k06",
-        "text": "06회",
-        "value": "06",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "07",
-        "key": "k07",
-        "text": "07회",
-        "value": "07",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "08",
-        "key": "k08",
-        "text": "08회",
-        "value": "08",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "09",
-        "key": "k09",
-        "text": "09회",
-        "value": "09",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "10",
-        "key": "k10",
-        "text": "10회",
-        "value": "10",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "11",
-        "key": "k11",
-        "text": "11회",
-        "value": "11",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "12",
-        "key": "k12",
-        "text": "12회",
-        "value": "12",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "13",
-        "key": "k13",
-        "text": "13회",
-        "value": "13",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "14",
-        "key": "k14",
-        "text": "14회",
-        "value": "14",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "15",
-        "key": "k15",
-        "text": "15회",
-        "value": "15",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "16",
-        "key": "k16",
-        "text": "16회",
-        "value": "16",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2023",
-        "round": "17",
-        "key": "k17",
-        "text": "17회",
-        "value": "17",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "01",
-        "key": "k01",
-        "text": "01회",
-        "value": "01",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "02",
-        "key": "k02",
-        "text": "02회",
-        "value": "02",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "03",
-        "key": "k03",
-        "text": "03회",
-        "value": "03",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "04",
-        "key": "k04",
-        "text": "04회",
-        "value": "04",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "05",
-        "key": "k05",
-        "text": "05회",
-        "value": "05",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "06",
-        "key": "k06",
-        "text": "06회",
-        "value": "06",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "07",
-        "key": "k07",
-        "text": "07회",
-        "value": "07",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "08",
-        "key": "k08",
-        "text": "08회",
-        "value": "08",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "09",
-        "key": "k09",
-        "text": "09회",
-        "value": "09",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "10",
-        "key": "k10",
-        "text": "10회",
-        "value": "10",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "11",
-        "key": "k11",
-        "text": "11회",
-        "value": "11",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "12",
-        "key": "k12",
-        "text": "12회",
-        "value": "12",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "13",
-        "key": "k13",
-        "text": "13회",
-        "value": "13",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "14",
-        "key": "k14",
-        "text": "14회",
-        "value": "14",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "15",
-        "key": "k15",
-        "text": "15회",
-        "value": "15",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "16",
-        "key": "k16",
-        "text": "16회",
-        "value": "16",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2024",
-        "round": "17",
-        "key": "k17",
-        "text": "17회",
-        "value": "17",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "01",
-        "key": "k01",
-        "text": "01회",
-        "value": "01",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "02",
-        "key": "k02",
-        "text": "02회",
-        "value": "02",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "03",
-        "key": "k03",
-        "text": "03회",
-        "value": "03",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "04",
-        "key": "k04",
-        "text": "04회",
-        "value": "04",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "05",
-        "key": "k05",
-        "text": "05회",
-        "value": "05",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "06",
-        "key": "k06",
-        "text": "06회",
-        "value": "06",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "07",
-        "key": "k07",
-        "text": "07회",
-        "value": "07",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "08",
-        "key": "k08",
-        "text": "08회",
-        "value": "08",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "09",
-        "key": "k09",
-        "text": "09회",
-        "value": "09",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "Y",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "10",
-        "key": "k10",
-        "text": "10회",
-        "value": "10",
-        "use": "Y",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
-      },
-      {
-        "year": "2025",
-        "round": "11",
-        "key": "k11",
-        "text": "11회",
-        "value": "11",
-        "use": "N",
-        "manager": "Y",
-        "sig": "N",
-        "state": "Y"
+        "id": "SIGNATURE",
+        "startRound": "202414",
+        "endRound": "202510"
       }
     ]
   }
