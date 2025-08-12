@@ -138,10 +138,16 @@
         "order":2
       },
       {
+        "url":"/Manager/Audition",
+        "text":"오디션관리",
+        "auth":"admin",
+        "order":3
+      },
+      {
         "url":"/Manager/Master",
         "text":"MASTER",
         "auth":"admin",
-        "order":3
+        "order":4
       }
     ]
   },
