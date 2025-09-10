@@ -2203,7 +2203,8 @@
     "name": "호텔파티",
     "Tag": "호텔파티,Hotel Party",
     "file": "S0277.jpg",
-    "type": "type1"
+    "type": "type1",
+    "value": "11111"
   },
   {
     "kind": true,
@@ -2220,5 +2221,45 @@
     "name": "오프더레코드",
     "Tag": "오프더레코드,Off the record",
     "file": "S0279.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0280",
+    "name": "LALALILALA",
+    "Tag": "LALALILALA,라라리라라",
+    "file": "S0280.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0281",
+    "name": "Step Back",
+    "Tag": "Step Back, 스텝백",
+    "file": "S0281.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0282",
+    "name": "Dark Arts",
+    "Tag": "Dark Arts,다크아츠",
+    "file": "S0282.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0283",
+    "name": "Friday Night",
+    "Tag": "Friday Night,금요일저녁,프라이데이 나이트",
+    "file": "S0283.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0284",
+    "name": "그래비티",
+    "Tag": "그래비티,Gravity",
+    "file": "S0284.jpg"
   }
 ]
