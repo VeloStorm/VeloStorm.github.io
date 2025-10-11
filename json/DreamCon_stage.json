@@ -2499,5 +2499,124 @@
       }
     ],
     "date2": "2025-08-04"
+  },
+  {
+    "id": "BS2508",
+    "date": "2025년 10월 11일",
+    "title": "광주 유스퀘어 버스킹",
+    "round": "BS2508",
+    "vodIds": "https://vod.sooplive.co.kr/player/174558377?change_second=8727",
+    "stage": [
+      {
+        "isUse": "Y",
+        "stageNo": 1,
+        "teamName": "",
+        "stageKind": "댄스",
+        "songName": "TKO",
+        "singerName": "아이브",
+        "members": "펭채은,쑤,수빙,유즈",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=9095"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 2,
+        "stageKind": "노래",
+        "songName": "추억의 책장을 넘기면",
+        "singerName": "이선희",
+        "members": "욘서,바비",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=9496"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 3,
+        "stageKind": "댄스",
+        "songName": "XOXZ",
+        "singerName": "아이브",
+        "members": "류하,민서율,유진냥,채수아",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=10076"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 4,
+        "stageKind": "노래",
+        "songName": "모르시나요",
+        "singerName": "다비치",
+        "members": "안예슬,배그나",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=10590"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 5,
+        "stageKind": "노래",
+        "songName": "화개장터",
+        "singerName": "조영남",
+        "members": "이승빈",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=11291"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 6,
+        "stageKind": "댄스",
+        "songName": "AFTER LIKE",
+        "singerName": "아이브",
+        "members": "쥬니,설유은,뮤링,남민아,도욤,영베리",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=11635"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 7,
+        "stageKind": "노래",
+        "songName": "기다린 만큼 더",
+        "singerName": "카더가든",
+        "members": "덕이형",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=12376"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 8,
+        "stageKind": "노래",
+        "songName": "그녀와의 이별",
+        "singerName": "배그나",
+        "members": "배그나,류하",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=12974"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 9,
+        "stageKind": "댄스",
+        "songName": "DIRTY WORK",
+        "singerName": "에스파",
+        "members": "민서율,류하,유진냥,설유은",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=13389"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 10,
+        "stageKind": "노래",
+        "songName": "DROWNING",
+        "singerName": "WOODZ",
+        "members": "슬로우비타",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=14230"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 11,
+        "stageKind": "노래",
+        "songName": "행복해",
+        "singerName": "송하예",
+        "members": "안예슬,송지안",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=14569"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 12,
+        "stageKind": "노래",
+        "songName": "가슴아 그만해",
+        "singerName": "M.C the MAX",
+        "members": "남순,덕이형",
+        "soopVod": "https://vod.sooplive.co.kr/player/174558377?change_second=15167"
+      }
+    ],
+    "date2": "2025-10-11"
   }
 ]
