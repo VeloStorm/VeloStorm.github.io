@@ -2327,5 +2327,72 @@
     "file": "S0292.jpg",
     "value": "20000",
     "type": "type12"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0293",
+    "name": "See봐 레쓰고",
+    "Tag": "See봐 레쓰고",
+    "file": "S0293.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0294",
+    "name": "바디",
+    "Tag": "Body,바디",
+    "file": "S0294.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0295",
+    "name": "리치맨",
+    "Tag": "리치맨,RichMan",
+    "file": "S0295.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0296",
+    "name": "Power",
+    "Tag": "Power,힘",
+    "file": "S0296.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0297",
+    "name": "Got It",
+    "Tag": "Got It",
+    "file": "S0297.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0298",
+    "name": "픽미",
+    "Tag": "픽미,PICK ME",
+    "file": "S0298.jpg",
+    "type": "type13"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0299",
+    "name": "홍련화",
+    "Tag": "홍련화",
+    "file": "S0299.jpg",
+    "type": "type14"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0300",
+    "name": "오케스트라",
+    "Tag": "오케스트라",
+    "file": "S0300.jpg",
+    "type": "type15"
   }
 ]
