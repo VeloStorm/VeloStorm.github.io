@@ -2394,5 +2394,61 @@
     "Tag": "오케스트라",
     "file": "S0300.jpg",
     "type": "type15"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0301",
+    "name": "RODEO",
+    "Tag": "RODEO",
+    "file": "S0301.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0302",
+    "name": "TAKE DOWN",
+    "Tag": "TAKE DOWN",
+    "file": "S0302.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0303",
+    "name": "B.B.B",
+    "Tag": "B.B.B.",
+    "file": "S0303.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0304",
+    "name": "BOSS",
+    "Tag": "BOSS",
+    "file": "S0304.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0305",
+    "name": "Killer",
+    "Tag": "Killer,킬러",
+    "file": "S0305.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0306",
+    "name": "Needed You",
+    "Tag": "Needed You",
+    "file": "S0306.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0307",
+    "name": "These Tears",
+    "Tag": "These Tears",
+    "file": "S0307.jpg"
   }
 ]
