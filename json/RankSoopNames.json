@@ -15707,7 +15707,8 @@
   "message": "2025-11-19",
   "joinDate": "2023-12-06",
   "broadTime": 16729076,
-  "poongTime": 9737733
+  "poongTime": 9737733,
+  "newbie": "N"
  },
  {
   "soopId": "facet0p",
@@ -15718,7 +15719,8 @@
   "message": "7일 : [명예훼손(타인을 비하, 비방, 멸시하며 모욕하는 행위)]",
   "joinDate": "",
   "broadTime": 0,
-  "poongTime": 4072559
+  "poongTime": 4072559,
+  "newbie": "N"
  },
  {
   "soopId": "jisoo9709134",
@@ -15729,7 +15731,8 @@
   "message": "2025-11-19",
   "joinDate": "2024-04-22",
   "broadTime": 15516050,
-  "poongTime": 9769247
+  "poongTime": 9769247,
+  "newbie": "N"
  },
  {
   "soopId": "dau5888",
@@ -15740,7 +15743,8 @@
   "message": "2025-11-19",
   "joinDate": "2023-04-09",
   "broadTime": 2873887,
-  "poongTime": 2664612
+  "poongTime": 2664612,
+  "newbie": "Y"
  },
  {
   "soopId": "imganzino",
@@ -15751,7 +15755,8 @@
   "message": "2025-11-19",
   "joinDate": "2024-06-24",
   "broadTime": 9150803,
-  "poongTime": 8843228
+  "poongTime": 8843228,
+  "newbie": "Y"
  },
  {
   "soopId": "big541",
@@ -15762,7 +15767,8 @@
   "message": "2025-11-19",
   "joinDate": "2022-09-29",
   "broadTime": 12305205,
-  "poongTime": 2522445
+  "poongTime": 2522445,
+  "newbie": "N"
  },
  {
   "soopId": "haroha",
@@ -15773,7 +15779,8 @@
   "message": "2025-11-19",
   "joinDate": "2024-08-21",
   "broadTime": 5924944,
-  "poongTime": 4562480
+  "poongTime": 4562480,
+  "newbie": "Y"
  },
  {
   "soopId": "woo191404",
@@ -15784,6 +15791,55 @@
   "message": "2025-11-19",
   "joinDate": "2017-07-27",
   "broadTime": 4683504,
-  "poongTime": 4612154
+  "poongTime": 4612154,
+  "newbie": "Y"
+ },
+ {
+  "soopId": "ehdgkr6283",
+  "soopName": "우레",
+  "sooniName": "우레",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-11-21"
+ },
+ {
+  "soopId": "rofvmtm",
+  "soopName": "짜미♡",
+  "sooniName": "짜미♡",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-11-21"
+ },
+ {
+  "soopId": "hn3627",
+  "soopName": "졍비지",
+  "sooniName": "졍비지",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-11-21"
+ },
+ {
+  "soopId": "yoobee22",
+  "soopName": "지효$",
+  "sooniName": "지효",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-11-21"
+ },
+ {
+  "soopId": "tndkekdy",
+  "soopName": "하윤_",
+  "sooniName": "하윤",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-11-21"
+ },
+ {
+  "soopId": "min7949",
+  "soopName": "푸샤♥",
+  "sooniName": "푸샤",
+  "medal": "basic",
+  "status": "신규",
+  "message": "2025-11-21"
  }
 ]
