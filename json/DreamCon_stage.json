@@ -2618,5 +2618,189 @@
       }
     ],
     "date2": "2025-10-11"
+  },
+  {
+    "id": "DC0006",
+    "date": "2025년 11월 22일",
+    "title": "드림콘서트 6",
+    "round": "DC0006",
+    "vodIds": "https://vod.sooplive.co.kr/player/178642729?change_second=3529",
+    "stage": [
+      {
+        "isUse": "Y",
+        "stageNo": 1,
+        "teamName": "NSONE",
+        "stageKind": "댄스",
+        "songName": "GNARLY",
+        "singerName": "KATSEYE",
+        "members": "류하,채수아,민서율,펭채은",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=4377"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 2,
+        "teamName": "SOONIONE",
+        "stageKind": "노래",
+        "songName": "어떻게 사랑이 그래요",
+        "singerName": "김나영",
+        "members": "송지안,벨비",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=4648"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 3,
+        "teamName": "NSONE",
+        "stageKind": "댄스",
+        "songName": "RICH MAN",
+        "singerName": "에스파",
+        "members": "영베리,뮤링,남민아,도욤",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=5287"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 4,
+        "teamName": "SOONIONE",
+        "stageKind": "노래",
+        "songName": "비행기",
+        "singerName": "거북이",
+        "members": "욘서,김푸,바비",
+        "guests": "김푸",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=5751"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 5,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "이 노래를 들어줘",
+        "singerName": "송하예",
+        "members": "",
+        "guests": "송하예",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=6715"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 6,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "니 소식",
+        "singerName": "송하예",
+        "guests": "송하예",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=6927"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 7,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "다시 만나면 안될까",
+        "singerName": "송하예",
+        "guests": "송하예",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=7315"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 8,
+        "teamName": "NSONE",
+        "stageKind": "댄스",
+        "songName": "Takedown",
+        "singerName": "HUNTR/X",
+        "members": "쥬니,설유은,유즈",
+        "guests": "",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=7663"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 9,
+        "teamName": "SOONIONE",
+        "stageKind": "노래",
+        "songName": "기다린 만큼, 더",
+        "singerName": "검정치마",
+        "members": "덕이형",
+        "guests": "주희유(바이올린)",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=8021"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 10,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "서툰 이별을 하려해",
+        "singerName": "전상근",
+        "guests": "전상근",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=8697"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 11,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "너를 사랑했던 시절",
+        "singerName": "전상근",
+        "guests": "전상근",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=9015"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 12,
+        "teamName": "스페셜",
+        "stageKind": "노래",
+        "songName": "나였으면",
+        "singerName": "전상근",
+        "guests": "전상근",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=9423"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 13,
+        "teamName": "NSONE",
+        "stageKind": "댄스",
+        "songName": "B.B.B",
+        "singerName": "A20 MAY",
+        "members": "비니,킴아연,쑤,뮤링,도욤",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=9883"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 14,
+        "teamName": "NSONE",
+        "stageKind": "댄스",
+        "songName": "Boss",
+        "singerName": "A20 MAY",
+        "members": "채수아,유진냥,민서율,설유은,쥬니",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=11418"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 15,
+        "teamName": "SOONIONE",
+        "stageKind": "노래",
+        "songName": "FINE",
+        "singerName": "소찬희",
+        "members": "벨비",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=11894"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 16,
+        "teamName": "SOONIONE",
+        "stageKind": "노래",
+        "songName": "너 없는 시간들",
+        "singerName": "다비치",
+        "members": "배그나,안예슬",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=12175"
+      },
+      {
+        "isUse": "Y",
+        "stageNo": 17,
+        "teamName": "SOONIONE",
+        "stageKind": "노래",
+        "songName": "나를 사랑했던 사람아",
+        "singerName": "수니그룹",
+        "members": "배그나,안예슬",
+        "soopVod": "https://vod.sooplive.co.kr/player/178642729?change_second=12769"
+      }
+    ],
+    "date2": "2025-11-22"
   }
 ]
