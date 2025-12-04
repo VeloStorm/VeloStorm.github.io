@@ -2450,5 +2450,69 @@
     "name": "These Tears",
     "Tag": "These Tears",
     "file": "S0307.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0308",
+    "name": "FOCUS",
+    "Tag": "FOCUS",
+    "file": "S0308.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0309",
+    "name": "SPAGHETTI",
+    "Tag": "SPAGHETTI,스파게티",
+    "file": "S0309.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0310",
+    "name": "PINK HOODIE",
+    "Tag": "PINK HOODIE,핑크 후디",
+    "file": "S0310.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0311",
+    "name": "Bag Bad Back",
+    "Tag": "B.B.B, Bag Bad Back",
+    "file": "S0311.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0312",
+    "name": "홈런",
+    "Tag": "홈런,Home Run",
+    "file": "S0312.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0313",
+    "name": "매끈매끈한",
+    "Tag": "매끈매끈한",
+    "file": "S0313.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0314",
+    "name": "Rewrite The Stars",
+    "Tag": "Rewrite The Stars",
+    "file": "S0314.jpg"
+  },
+  {
+    "kind": true,
+    "points": "center,0,2",
+    "sigId": "S0315",
+    "name": "We are legends",
+    "Tag": "We are legends",
+    "file": "S0315.jpg"
   }
 ]
