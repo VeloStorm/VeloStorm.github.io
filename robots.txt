@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# 관리자/인증 전용 페이지 크롤링 차단
+Disallow: /admin/
+Disallow: /manager/
+Disallow: /login
+Disallow: /register
+Disallow: /verify-email
+Disallow: /unauthorized
+
+Sitemap: https://www.soonigroup.o-r.kr/sitemap.xml

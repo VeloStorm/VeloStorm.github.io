@@ -1,0 +1,266 @@
+{
+  "main": [
+    {
+      "id": "M001",
+      "text": "유튜브",
+      "icon": "dashboard",
+      "path": "/youtube",
+      "permissions": ["VIEW_YOUTUBE"]
+    },
+    {
+      "id": "M002",
+      "text": "소개글",
+      "icon": "wpforms",
+      "path": "/introduction",
+      "permissions": ["VIEW_INTRODUCTION"]
+    },
+    {
+      "id": "M003",
+      "text": "멤버정보",
+      "icon": "users",
+      "path": "#",
+      "permissions": ["VIEW_MEMBERS"],
+      "children": [
+        {
+          "id": "M004",
+          "text": "조직도",
+          "path": "users/chart",
+          "permissions": ["VIEW_MEMBERS"]
+        },
+        {
+          "id": "M005",
+          "text": "프로필",
+          "path": "users/infolist",
+          "permissions": ["VIEW_MEMBERS"]
+        },
+        {
+          "id": "M006",
+          "text": "통계정보",
+          "path": "users/record",
+          "permissions": ["ADMIN"]
+        }
+      ]
+    },
+    {
+      "id": "M007",
+      "text": "수니콘",
+      "icon": "sitemap",
+      "path": "#",
+      "permissions": ["VIEW_SOONICON"],
+      "children": [
+        {
+          "id": "M007-1",
+          "text": "조직도 이력",
+          "path": "soonicon/chart",
+          "permissions": ["VIEW_SOONICON"]
+        },
+        {
+          "id": "M007-3",
+          "text": "스테이지",
+          "path": "soonicon/stages",
+          "permissions": ["VIEW_SOONICON"]
+        },
+        {
+          "id": "M007-4",
+          "text": "통계",
+          "path": "soonicon/statics",
+          "permissions": ["VIEW_SOONICON"]
+        }
+      ]
+    },
+    {
+      "id": "M011",
+      "text": "라이브방송",
+      "icon": "podcast",
+      "path": "/broadcast",
+      "permissions": ["VIEW_BROADCAST"]
+    },
+    {
+      "id": "M012",
+      "text": "누적통계",
+      "icon": "star",
+      "path": "/viewership",
+      "permissions": ["VIEW_VIEWERSHIP"]
+    },
+    {
+      "id": "M013",
+      "text": "시그정보",
+      "icon": "signing",
+      "path": "/signature",
+      "permissions": ["VIEW_SIGNATURE"]
+    }
+  ],
+  "admin": [
+    {
+      "id": "M014",
+      "text": "관리자메뉴",
+      "icon": "user secret",
+      "path": "#",
+      "permissions": ["ADMIN"],
+      "children": [
+        {
+          "id": "M015",
+          "text": "코드관리",
+          "path": "/manager/master",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M016",
+          "text": "메뉴관리",
+          "path": "/manager/menus",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M016-1",
+          "text": "공지사항",
+          "path": "/manager/notices",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M035",
+          "text": "유튜브관리",
+          "path": "/manager/youtube",
+          "permissions": ["ADMIN"]
+        }
+      ]
+    },
+    {
+      "id": "M017",
+      "text": "멤버정보",
+      "icon": "user secret",
+      "path": "#",
+      "permissions": ["ADMIN"],
+      "children": [
+        {
+          "id": "M018",
+          "text": "프로필",
+          "path": "/manager/profile",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M019",
+          "text": "입사관리",
+          "path": "/manager/history",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M020",
+          "text": "오디션관리",
+          "path": "/manager/audition",
+          "permissions": ["ADMIN"]
+        }
+      ]
+    },
+    {
+      "id": "M021",
+      "text": "수니콘관리",
+      "icon": "user secret",
+      "path": "#",
+      "permissions": ["ADMIN"],
+      "children": [
+        {
+          "id": "M022",
+          "text": "조직도",
+          "path": "/admin/soonicon/ballon",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M023",
+          "text": "무대정보",
+          "path": "/admin/soonicon/base",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M024",
+          "text": "통계정보",
+          "path": "/admin/soonicon/stages",
+          "permissions": ["ADMIN"]
+        }
+      ]
+    },
+    {
+      "id": "M025",
+      "text": "시그관리",
+      "icon": "user secret",
+      "path": "#",
+      "permissions": ["ADMIN"],
+      "children": [
+        {
+          "id": "M026",
+          "text": "기본데이터",
+          "path": "/manager/signature/base",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M027",
+          "text": "시그관리",
+          "path": "/manager/signature/soonicon",
+          "permissions": ["ADMIN"]
+        }
+      ]
+    },
+    {
+      "id": "M030",
+      "text": "풍투관리",
+      "icon": "user secret",
+      "path": "#",
+      "permissions": ["ADMIN"],
+      "children": [
+        {
+          "id": "M031",
+          "text": "카테고리관리",
+          "path": "/manager/poongtoday/category",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M032",
+          "text": "스트리머",
+          "path": "/manager/poongtoday/streamer",
+          "permissions": ["ADMIN"]
+        }
+      ]
+    },
+    {
+      "id": "M039",
+      "text": "서버관리",
+      "icon": "server",
+      "path": "#",
+      "permissions": ["ADMIN"],
+      "children": [
+        {
+          "id": "M039-1",
+          "text": "캐시관리",
+          "path": "/manager/server/cache",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M039-2",
+          "text": "서버모니터링",
+          "path": "/manager/server/monitor",
+          "permissions": ["ADMIN"]
+        }
+      ]
+    },
+    {
+      "id": "M040",
+      "text": "소켓관리",
+      "icon": "user secret",
+      "path": "#",
+      "permissions": ["ADMIN"],
+      "children": [
+        {
+          "id": "M041",
+          "text": "실시간이벤트",
+          "path": "/manager/socket/test",
+          "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M042",
+          "text": "이벤트설정",
+          "path": "/manager/socket/config",
+          "permissions": ["ADMIN"]
+        }
+      ]
+    }
+  ]
+}
