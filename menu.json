@@ -55,6 +55,12 @@
           "permissions": ["VIEW_SOONICON"]
         },
         {
+          "id": "M007-5",
+          "text": "Best of the Best",
+          "path": "soonicon/bestofbest",
+          "permissions": ["VIEW_SOONICON"]
+        },
+        {
           "id": "M007-3",
           "text": "스테이지",
           "path": "soonicon/stages",
