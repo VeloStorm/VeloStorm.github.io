@@ -244,6 +244,12 @@
           "text": "서버모니터링",
           "path": "/manager/server/monitor",
           "permissions": ["ADMIN"]
+        },
+        {
+          "id": "M039-3",
+          "text": "채팅 명령어",
+          "path": "/admin/chat-command",
+          "permissions": ["ROLE_OWNER"]
         }
       ]
     },
